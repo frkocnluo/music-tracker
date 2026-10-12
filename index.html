@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SONIC RADAR · 跨时区与全语境音乐挖掘雷达</title>
+  <meta name="description" content="摆脱算法规训与传播延迟：实时聚合 Pitchfork、StreetVoice 街声、Bandcamp、The Wire、The Quietus、Freshmusic 等权威与独立源头的最新音乐作品。">
+  
+  <!-- Open Graph / Meta -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="SONIC RADAR · 音乐挖掘雷达">
+  <meta property="og:description" content="全域独立与前卫音乐一手雷达，覆盖华语独立、全球地下与权威乐评共识。">
+  <meta property="og:site_name" content="Sonic Radar">
+
+  <!-- 预加载核心样式 -->
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220%22%3E<text y=%2226%22 font-size=%2224%22>💽</text></svg>">
+</head>
+<body>
+
+  <!-- 顶部导航 -->
+  <header class="site-header">
+    <div class="header-container">
+      <div class="brand-wrapper">
+        <div class="brand-logo-disc"></div>
+        <div>
+          <div class="brand-title">
+            SONIC RADAR <span class="brand-tag">LIVE v1.0</span>
+          </div>
+          <div class="brand-subtitle">音轨挖掘雷达 · Global Avant-Garde &amp; Sinophone Indie</div>
+        </div>
+      </div>
+
+      <div class="sources-ticker">
+        <span class="pulse-dot"></span>
+        <span>LIVE RADAR: 6 CHANNELS ONLINE</span>
+      </div>
+
+      <a href="https://github.com/frkocnluo/music-tracker" target="_blank" rel="noopener" class="github-badge-link">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+        </svg>
+        GitHub 源码
+      </a>
+    </div>
+  </header>
+
+  <!-- 主体内容 -->
+  <main class="main-container">
+
+    <!-- 宣言 Banner -->
+    <section class="hero-banner">
+      <div class="hero-text">
+        <h1>摆脱算法规训，重返一手声音。</h1>
+        <p>
+          拒绝被动接受社交媒体与商业算法的次级分发。这里持续聚合两岸三地独立先锋（街声 / FMA / Bandcamp地下）、全球前卫声音（The Wire / Boomkat / Quietus）与核心乐评共识（Pitchfork / Fantano）。
+        </p>
+      </div>
+      <div class="hero-meta-stats">
+        <div class="stat-box">
+          <div class="stat-value">10</div>
+          <div class="stat-label">深度精选唱片</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value">6+</div>
+          <div class="stat-label">实时直连信源</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 交互面板 -->
+    <section class="control-panel">
+      <!-- 视角切换 -->
+      <div class="view-tabs">
+        <button class="tab-btn active" data-category="all" type="button">
+          全部挖掘 <span class="tab-count">10</span>
+        </button>
+        <button class="tab-btn" data-category="sinophone" type="button">
+          华语独立前线 (StreetVoice / FMA / 地下厂牌) <span class="tab-count">4</span>
+        </button>
+        <button class="tab-btn" data-category="global" type="button">
+          全球先锋地下 (The Wire / Boomkat / Bandcamp) <span class="tab-count">3</span>
+        </button>
+        <button class="tab-btn" data-category="critical" type="button">
+          权威乐评共识 (Pitchfork / Fantano / RYM) <span class="tab-count">3</span>
+        </button>
+      </div>
+
+      <!-- 搜索与风格过滤 -->
+      <div class="filter-row">
+        <div class="genre-pills">
+          <button class="pill-btn active" data-genre="all" type="button">全部流派</button>
+          <button class="pill-btn" data-genre="Club" type="button">Club / 电子解构</button>
+          <button class="pill-btn" data-genre="Post-Punk" type="button">后朋克 / 噪响</button>
+          <button class="pill-btn" data-genre="Pop" type="button">独立流行 / 卧室</button>
+          <button class="pill-btn" data-genre="Neo-Soul" type="button">新灵魂乐 / 爵士</button>
+          <button class="pill-btn" data-genre="Ambient" type="button">环境 / 氛围 Drone</button>
+          <button class="pill-btn" data-genre="Noise" type="button">前卫极端声音</button>
+        </div>
+
+        <div class="search-box">
+          <span class="search-icon">🔍</span>
+          <input type="text" class="search-input" placeholder="检索专辑、音乐人、厂牌、关键词...">
+        </div>
+      </div>
+    </section>
+
+    <!-- 核心网格布局 -->
+    <div class="layout-columns">
+      <!-- 唱片盒 Crate -->
+      <section class="release-grid" id="release-grid">
+        
+      <article class="release-card highlight" 
+               data-category="sinophone" 
+               data-genres="Deconstructed Club,Experimental Electronic,Footwork"
+               data-search="Shadow Movement 33EMYBW SVBKVLT (上海) Deconstructed Club Experimental Electronic Footwork 上海先锋音乐人 33EMYBW 在 SVBKVLT 推出的全新声响雕塑，融合西南少数民族泛音节奏与机械解构节拍。"
+               data-title="Shadow Movement"
+               data-artist="33EMYBW"
+               data-preview="https://cdn.freesound.org/previews/612/612610_5674468-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;https://svbkvlt.bandcamp.com&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/33EMYBW&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=33EMYBW&quot;,&quot;original&quot;:&quot;https://svbkvlt.bandcamp.com&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #09203f 0%, #537895 100%);">
+              <span class="sleeve-initials">SM</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="Shadow Movement">Shadow Movement</h3>
+            <div class="card-artist">33EMYBW</div>
+            <div class="card-meta-line">
+              <span>SVBKVLT (上海)</span>
+              <span>•</span>
+              <span>2024-09-20</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge svbkvlt" title="上海先锋俱乐部首发">SVBKVLT: LABEL DROP</span><span class="source-badge thewire" title="“东亚步法声响与肢体解构的巅峰形态”">The Wire: CRITICAL HIGHLIGHT</span><span class="source-badge pitchfork" title="Resident Advisor / Pitchfork 联合特写">Pitchfork: EXPERIMENTAL RADAR</span>
+        </div>
+
+        <p class="card-summary">上海先锋音乐人 33EMYBW 在 SVBKVLT 推出的全新声响雕塑，融合西南少数民族泛音节奏与机械解构节拍。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Deconstructed Club</span><span class="genre-tag">Experimental Electronic</span><span class="genre-tag">Footwork</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      <a href="https://svbkvlt.bandcamp.com" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>
+      
+      <a href="https://open.spotify.com/search/33EMYBW" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=33EMYBW" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card " 
+               data-category="sinophone" 
+               data-genres="Indie Pop,Lo-Fi,Bedroom Dream"
+               data-search="雾中行走 (Demo) 温室杂草 (Easy Weeds) StreetVoice 独立自发行 Indie Pop Lo-Fi Bedroom Dream 街声首发的原汁原味 Demo，未经商业录音棚打磨的松弛毛刺感，堪称华语卧室流行今年度最惊艳的一曲。"
+               data-title="雾中行走 (Demo)"
+               data-artist="温室杂草 (Easy Weeds)"
+               data-preview="https://cdn.freesound.org/previews/415/415804_5121236-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;&quot;,&quot;streetvoice&quot;:&quot;https://streetvoice.com&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/%E6%B8%A9%E5%AE%A4%E6%9D%82%E8%8D%89&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=%E6%B8%A9%E5%AE%A4%E6%9D%82%E8%8D%89&quot;,&quot;original&quot;:&quot;https://streetvoice.com&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%);">
+              <span class="sleeve-initials">雾(</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="雾中行走 (Demo)">雾中行走 (Demo)</h3>
+            <div class="card-artist">温室杂草 (Easy Weeds)</div>
+            <div class="card-meta-line">
+              <span>StreetVoice 独立自发行</span>
+              <span>•</span>
+              <span>2024-10-04</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge streetvoice" title="街声编辑推荐 · 即时榜 TOP 3">StreetVoice: SONG OF THE DAY</span><span class="source-badge freshmusic" title="“纯粹的卧室吉他回响，击中都市年轻人的钝感情绪”">Freshmusic: 季度潜力荐听</span>
+        </div>
+
+        <p class="card-summary">街声首发的原汁原味 Demo，未经商业录音棚打磨的松弛毛刺感，堪称华语卧室流行今年度最惊艳的一曲。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Indie Pop</span><span class="genre-tag">Lo-Fi</span><span class="genre-tag">Bedroom Dream</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      
+      <a href="https://streetvoice.com" target="_blank" rel="noopener" class="ext-link">街声 ↗</a>
+      <a href="https://open.spotify.com/search/%E6%B8%A9%E5%AE%A4%E6%9D%82%E8%8D%89" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=%E6%B8%A9%E5%AE%A4%E6%9D%82%E8%8D%89" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card " 
+               data-category="sinophone" 
+               data-genres="Neo-Soul,Jazz-Hop,City Alternative"
+               data-search="夜巡夜行 (Night Patrol) 喜辰晨 (Voision Xi) & 宜听群星 Eating Music 宜听音乐 (上海) Neo-Soul Jazz-Hop City Alternative 独立爵士名厂 Eating Music 精心打磨的都市爵士灵歌作品，器乐编排克制通透，不落俗套。"
+               data-title="夜巡夜行 (Night Patrol)"
+               data-artist="喜辰晨 (Voision Xi) & 宜听群星"
+               data-preview="https://cdn.freesound.org/previews/557/557815_11861866-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;https://eatingmusic.bandcamp.com&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/Eating%20Music&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=Eating%20Music&quot;,&quot;original&quot;:&quot;https://eatingmusic.bandcamp.com&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #f12711 0%, #f5af19 100%);">
+              <span class="sleeve-initials">夜(</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="夜巡夜行 (Night Patrol)">夜巡夜行 (Night Patrol)</h3>
+            <div class="card-artist">喜辰晨 (Voision Xi) & 宜听群星</div>
+            <div class="card-meta-line">
+              <span>Eating Music 宜听音乐 (上海)</span>
+              <span>•</span>
+              <span>2024-09-12</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge eatingmusic" title="限量彩胶与数位首发">Eating Music: BANDCAMP DROP</span><span class="source-badge freshmusic" title="“华语乐坛罕见的细腻律动控制与都市夜景氛围”">Freshmusic: FMA 季选推荐</span>
+        </div>
+
+        <p class="card-summary">独立爵士名厂 Eating Music 精心打磨的都市爵士灵歌作品，器乐编排克制通透，不落俗套。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Neo-Soul</span><span class="genre-tag">Jazz-Hop</span><span class="genre-tag">City Alternative</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      <a href="https://eatingmusic.bandcamp.com" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>
+      
+      <a href="https://open.spotify.com/search/Eating%20Music" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=Eating%20Music" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card " 
+               data-category="sinophone" 
+               data-genres="Post-Punk,Noise Pop,Cassette Culture"
+               data-search="南国雨季回信 海妖与野火 琪琪曲艺 (广州 DIY) Post-Punk Noise Pop Cassette Culture 广州独立地下厂牌琪琪曲艺发行的噪响后朋克，全真模拟磁带录制，低频脏重且充斥着生猛的现场能量。"
+               data-title="南国雨季回信"
+               data-artist="海妖与野火"
+               data-preview="https://cdn.freesound.org/previews/400/400584_5121236-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;https://qiqirecords.bandcamp.com&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;&quot;,&quot;netease&quot;:&quot;https://music.163.com&quot;,&quot;original&quot;:&quot;https://qiqirecords.bandcamp.com&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #1f1c2c 0%, #928dab 100%);">
+              <span class="sleeve-initials">南国</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="南国雨季回信">南国雨季回信</h3>
+            <div class="card-artist">海妖与野火</div>
+            <div class="card-meta-line">
+              <span>琪琪曲艺 (广州 DIY)</span>
+              <span>•</span>
+              <span>2024-10-01</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge " title="限量 150 盘手工分装磁带">琪琪曲艺: CASSETTE DROP</span><span class="source-badge bie" title="“潮湿南方的吉他失真墙与少年心气”">BIE别的: 地下声音观察</span>
+        </div>
+
+        <p class="card-summary">广州独立地下厂牌琪琪曲艺发行的噪响后朋克，全真模拟磁带录制，低频脏重且充斥着生猛的现场能量。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Post-Punk</span><span class="genre-tag">Noise Pop</span><span class="genre-tag">Cassette Culture</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      <a href="https://qiqirecords.bandcamp.com" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>
+      
+      
+      <a href="https://music.163.com" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card highlight" 
+               data-category="global" 
+               data-genres="Avant-Folk,Chamber Pop,Experimental Vocal"
+               data-search="World of Work Clarissa Connelly Warp Records (UK) Avant-Folk Chamber Pop Experimental Vocal 哥本哈根音乐人在 Warp 旗下的惊艳首发，结合丹麦中世纪古调、管风琴与前卫室内乐。"
+               data-title="World of Work"
+               data-artist="Clarissa Connelly"
+               data-preview="https://cdn.freesound.org/previews/518/518218_6142149-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;https://clarissaconnelly.bandcamp.com&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/Clarissa%20Connelly&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=Clarissa%20Connelly&quot;,&quot;original&quot;:&quot;https://boomkat.com&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%);">
+              <span class="sleeve-initials">WO</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="World of Work">World of Work</h3>
+            <div class="card-artist">Clarissa Connelly</div>
+            <div class="card-meta-line">
+              <span>Warp Records (UK)</span>
+              <span>•</span>
+              <span>2024-04-12</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge boomkat" title="提前一周被 Boomkat 评为本周核心专辑">Boomkat: STAFF PICK</span><span class="source-badge thequietus" title="古北欧神话调式与当代合成器重生的奇迹">The Quietus: ALBUM OF THE WEEK</span><span class="source-badge thewire" title="“在中世纪复调与前卫电子之间搭建的桥梁”">The Wire: ISSUE REVIEW</span>
+        </div>
+
+        <p class="card-summary">哥本哈根音乐人在 Warp 旗下的惊艳首发，结合丹麦中世纪古调、管风琴与前卫室内乐。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Avant-Folk</span><span class="genre-tag">Chamber Pop</span><span class="genre-tag">Experimental Vocal</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      <a href="https://clarissaconnelly.bandcamp.com" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>
+      
+      <a href="https://open.spotify.com/search/Clarissa%20Connelly" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=Clarissa%20Connelly" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card " 
+               data-category="global" 
+               data-genres="Ambient,Drone,Modern Classical"
+               data-search="Parallel Inquiries Rafael Anton Irisarri Black Knoll Editions (US) Ambient Drone Modern Classical 现代环境音乐宗师在自家厂牌推出的最新长篇声景，如同一场缓缓覆盖地平线的暴风雨。"
+               data-title="Parallel Inquiries"
+               data-artist="Rafael Anton Irisarri"
+               data-preview="https://cdn.freesound.org/previews/467/467268_2694903-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;https://irisarri.bandcamp.com&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/Rafael%20Anton%20Irisarri&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=Rafael%20Anton%20Irisarri&quot;,&quot;original&quot;:&quot;https://daily.bandcamp.com&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #141e30 0%, #243b55 100%);">
+              <span class="sleeve-initials">PI</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="Parallel Inquiries">Parallel Inquiries</h3>
+            <div class="card-artist">Rafael Anton Irisarri</div>
+            <div class="card-meta-line">
+              <span>Black Knoll Editions (US)</span>
+              <span>•</span>
+              <span>2024-08-30</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge bandcampdaily" title="九月前沿环境音乐专题首推">Bandcamp Daily: BEST AMBIENT PICK</span><span class="source-badge thequietus" title="巨浪般的磁带衰减与极低频共振">The Quietus: QUIETUS RECOMMENDS</span>
+        </div>
+
+        <p class="card-summary">现代环境音乐宗师在自家厂牌推出的最新长篇声景，如同一场缓缓覆盖地平线的暴风雨。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Ambient</span><span class="genre-tag">Drone</span><span class="genre-tag">Modern Classical</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      <a href="https://irisarri.bandcamp.com" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>
+      
+      <a href="https://open.spotify.com/search/Rafael%20Anton%20Irisarri" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=Rafael%20Anton%20Irisarri" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card " 
+               data-category="global" 
+               data-genres="Death Industrial,Harsh Noise Wall,Gothic Avant-Garde"
+               data-search="Dispersal & Dissolution Uboa The Flenser (US) Death Industrial Harsh Noise Wall Gothic Avant-Garde 澳大利亚极端声学艺术家 Xandra Metcalfe 在另类名厂 The Flenser 的巨制，绝望又极度崇高的声音艺术。"
+               data-title="Dispersal & Dissolution"
+               data-artist="Uboa"
+               data-preview="https://cdn.freesound.org/previews/563/563503_9497060-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;https://uboa.bandcamp.com&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/Uboa&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=Uboa&quot;,&quot;original&quot;:&quot;https://www.thewire.co.uk&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #434343 0%, #000000 100%);">
+              <span class="sleeve-initials">D&</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="Dispersal & Dissolution">Dispersal & Dissolution</h3>
+            <div class="card-artist">Uboa</div>
+            <div class="card-meta-line">
+              <span>The Flenser (US)</span>
+              <span>•</span>
+              <span>2024-02-28</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge thewire" title="极端工业噪音与女性内心创伤的声波解剖">The Wire: SOUND PROPULSION</span><span class="source-badge boomkat" title="极度压迫感同时具有崇高美感的噪音奇迹">Boomkat: BOOMKAT PICK</span>
+        </div>
+
+        <p class="card-summary">澳大利亚极端声学艺术家 Xandra Metcalfe 在另类名厂 The Flenser 的巨制，绝望又极度崇高的声音艺术。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Death Industrial</span><span class="genre-tag">Harsh Noise Wall</span><span class="genre-tag">Gothic Avant-Garde</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      <a href="https://uboa.bandcamp.com" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>
+      
+      <a href="https://open.spotify.com/search/Uboa" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=Uboa" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card highlight" 
+               data-category="critical" 
+               data-genres="Synthpop,Neo-Psychedelia,Progressive Pop"
+               data-search="Imaginal Disk Magdalena Bay Mom+Pop Music Synthpop Neo-Psychedelia Progressive Pop 今年全球乐评界最罕见的“超高共识神作”，兼具无敌悦耳的旋律与庞大深奥的科幻概念结构。"
+               data-title="Imaginal Disk"
+               data-artist="Magdalena Bay"
+               data-preview="https://cdn.freesound.org/previews/415/415804_5121236-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;https://magdalenabay.bandcamp.com&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/Magdalena%20Bay&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=Magdalena%20Bay&quot;,&quot;youtube&quot;:&quot;https://www.youtube.com/watch?v=0k5G5hRkS5U&quot;,&quot;original&quot;:&quot;https://pitchfork.com/reviews/albums/magdalena-bay-imaginal-disk/&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #3a1c71 0%, #d76d77 50%, #ffaf7b 100%);">
+              <span class="sleeve-initials">ID</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="Imaginal Disk">Imaginal Disk</h3>
+            <div class="card-artist">Magdalena Bay</div>
+            <div class="card-meta-line">
+              <span>Mom+Pop Music</span>
+              <span>•</span>
+              <span>2024-08-23</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge pitchfork" title="Best New Music · 年度最佳概念合成器流行">Pitchfork: BNM 8.5</span><span class="source-badge fantano" title="The Needle Drop 给出 9 分极高赞誉">Fantano: SCORE: 9/10 (LOVED)</span><span class="source-badge rym" title="RateYourMusic 2024 年度总榜位列第一梯队">RYM: CHART #1 (3.92)</span>
+        </div>
+
+        <p class="card-summary">今年全球乐评界最罕见的“超高共识神作”，兼具无敌悦耳的旋律与庞大深奥的科幻概念结构。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Synthpop</span><span class="genre-tag">Neo-Psychedelia</span><span class="genre-tag">Progressive Pop</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      <a href="https://magdalenabay.bandcamp.com" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>
+      
+      <a href="https://open.spotify.com/search/Magdalena%20Bay" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=Magdalena%20Bay" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card highlight" 
+               data-category="critical" 
+               data-genres="Hypnagogic Pop,Girl Group Nostalgia,Lo-Fi Psychedelia"
+               data-search="Diamond Jubilee Cindy Lee Realistik Studios (Self-Released / GeoCities) Hypnagogic Pop Girl Group Nostalgia Lo-Fi Psychedelia Patrick Flegel 耗时数年的双张巨制，拒绝登录任何主流流媒体，仅以自建网页网盘与 YouTube 传播，横扫全球顶级乐评。"
+               data-title="Diamond Jubilee"
+               data-artist="Cindy Lee"
+               data-preview="https://cdn.freesound.org/previews/557/557815_11861866-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;&quot;,&quot;netease&quot;:&quot;&quot;,&quot;youtube&quot;:&quot;https://www.youtube.com/watch?v=kYI6k2b8UfE&quot;,&quot;original&quot;:&quot;https://pitchfork.com/reviews/albums/cindy-lee-diamond-jubilee/&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #232526 0%, #414345 100%);">
+              <span class="sleeve-initials">DJ</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="Diamond Jubilee">Diamond Jubilee</h3>
+            <div class="card-artist">Cindy Lee</div>
+            <div class="card-meta-line">
+              <span>Realistik Studios (Self-Released / GeoCities)</span>
+              <span>•</span>
+              <span>2024-03-29</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge pitchfork" title="近五年最高分专辑之一">Pitchfork: BNM 9.1 (HISTORIC)</span><span class="source-badge fantano" title="不发流媒体、仅靠 YouTube 与网盘传播的纯粹传奇">Fantano: SCORE: 9/10</span><span class="source-badge thewire" title="对抗流媒体资本异化的独立奇迹">The Wire: LONG ESSAY</span>
+        </div>
+
+        <p class="card-summary">Patrick Flegel 耗时数年的双张巨制，拒绝登录任何主流流媒体，仅以自建网页网盘与 YouTube 传播，横扫全球顶级乐评。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Hypnagogic Pop</span><span class="genre-tag">Girl Group Nostalgia</span><span class="genre-tag">Lo-Fi Psychedelia</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      
+      
+      
+      
+    
+          </div>
+        </div>
+      </article>
+    
+
+      <article class="release-card " 
+               data-category="critical" 
+               data-genres="Hyperpop,Electropop,Club Bangers"
+               data-search="Brat Charli xcx Atlantic Records Hyperpop Electropop Club Bangers 不仅是现象级文化风暴，更是千禧电音与地下俱乐部舞曲在主流语境下的最硬核入侵。"
+               data-title="Brat"
+               data-artist="Charli xcx"
+               data-preview="https://cdn.freesound.org/previews/400/400584_5121236-lq.mp3"
+               data-links="{&quot;bandcamp&quot;:&quot;&quot;,&quot;streetvoice&quot;:&quot;&quot;,&quot;spotify&quot;:&quot;https://open.spotify.com/search/Charli%20xcx%20Brat&quot;,&quot;netease&quot;:&quot;https://music.163.com/#/search/m/?s=Charli%20xcx%20Brat&quot;,&quot;original&quot;:&quot;https://pitchfork.com/reviews/albums/charli-xcx-brat/&quot;}">
+        <div class="card-top">
+          <div class="cover-sleeve" title="点击试听">
+            <div class="sleeve-jacket" style="background: linear-gradient(135deg, #8ace00 0%, #70a700 100%);">
+              <span class="sleeve-initials">BR</span>
+            </div>
+            <div class="vinyl-disc">
+              <div class="vinyl-center-label"></div>
+            </div>
+          </div>
+          <div class="card-info">
+            <h3 class="card-title" title="Brat">Brat</h3>
+            <div class="card-artist">Charli xcx</div>
+            <div class="card-meta-line">
+              <span>Atlantic Records</span>
+              <span>•</span>
+              <span>2024-06-07</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="source-badges">
+          <span class="source-badge pitchfork" title="定义了今年夏天的 club 文化文化图腾">Pitchfork: BNM 8.6</span><span class="source-badge fantano" title="极少数获得满分认证的流行电子杰作">Fantano: SCORE: 10/10 (CLASSIC)</span>
+        </div>
+
+        <p class="card-summary">不仅是现象级文化风暴，更是千禧电音与地下俱乐部舞曲在主流语境下的最硬核入侵。</p>
+
+        <div class="genre-tags">
+          <span class="genre-tag">Hyperpop</span><span class="genre-tag">Electropop</span><span class="genre-tag">Club Bangers</span>
+        </div>
+
+        <div class="card-actions">
+          <button class="play-preview-btn" type="button">
+            <span>▶</span> 快速试听
+          </button>
+          <div class="platform-links">
+            
+      
+      
+      <a href="https://open.spotify.com/search/Charli%20xcx%20Brat" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>
+      <a href="https://music.163.com/#/search/m/?s=Charli%20xcx%20Brat" target="_blank" rel="noopener" class="ext-link">网易云 ↗</a>
+    
+          </div>
+        </div>
+      </article>
+    
+      </section>
+
+      <!-- 右侧实时电波流 -->
+      <aside class="live-stream-panel">
+        <div class="stream-header">
+          <div class="stream-title">
+            <span>📡</span> 实时电波流 (RSS LIVE)
+          </div>
+          <span style="font-size: 0.7rem; color: var(--text-muted); font-family: var(--font-mono);">
+            AUTO SYNC
+          </span>
+        </div>
+        <div class="stream-list">
+          
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #ff4d4f">STREETVOICE</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://blow.streetvoice.com/90884/" target="_blank" rel="noopener" class="stream-link">
+          2026「聲波薩滿」與瑞士Out in the Loop音樂祭聯名 11月中打造跨越9500公里雙舞台
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #ff4d4f">STREETVOICE</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://blow.streetvoice.com/90862/" target="_blank" rel="noopener" class="stream-link">
+          【吹專訪】THE SPELLBOUND × BOOM BOOM SATELLITES 就是「至今為止」以及「從今以後」的一切
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #ff4d4f">STREETVOICE</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://blow.streetvoice.com/90877/" target="_blank" rel="noopener" class="stream-link">
+          羅文裕攜手魏如萱推出新歌〈追星星的人〉致敬天文學家葉永烜
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #ff4d4f">STREETVOICE</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://blow.streetvoice.com/90868/" target="_blank" rel="noopener" class="stream-link">
+          「怪物新人」Andr首挑電影女主角 將出演傅天余導演恐怖片新作《濕身》
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #ff4d4f">STREETVOICE</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://blow.streetvoice.com/90857/" target="_blank" rel="noopener" class="stream-link">
+          許哲珮首次操刀影集《動物園》配樂 邀編曲家奧斯卡、許郁瑛等人參與
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #1890ff">BANDCAMP DAILY</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://daily.bandcamp.com/features/instant-self-titled-feature" target="_blank" rel="noopener" class="stream-link">
+          The French Prog Classic That Barely Escaped Oblivion
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #1890ff">BANDCAMP DAILY</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://daily.bandcamp.com/features/marc-ribots-book-of-guitar" target="_blank" rel="noopener" class="stream-link">
+          Marc Ribot’s Book of Guitar
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #1890ff">BANDCAMP DAILY</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://daily.bandcamp.com/album-of-the-day/karen-y-los-remedios-bestiaria-review" target="_blank" rel="noopener" class="stream-link">
+          Karen y los Remedios, “Bestiaria”
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #52c41a">THE QUIETUS</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://thequietus.com/interviews/rois-interview-mo-lean-domino-reissue/" target="_blank" rel="noopener" class="stream-link">
+          Life is Death: An Interview with Róis
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #52c41a">THE QUIETUS</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-2-review/" target="_blank" rel="noopener" class="stream-link">
+          Gnod – Chronicles of Gnowt Vol. 2
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #52c41a">THE QUIETUS</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://thequietus.com/quietus-reviews/steve-reich-the-ecm-recordings-review/" target="_blank" rel="noopener" class="stream-link">
+          Steve Reich – The ECM Recordings
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #f5222d">PITCHFORK</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/" target="_blank" rel="noopener" class="stream-link">
+          Dja Dja
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #f5222d">PITCHFORK</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/" target="_blank" rel="noopener" class="stream-link">
+          Do Not Dare to Dream
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #f5222d">PITCHFORK</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/" target="_blank" rel="noopener" class="stream-link">
+          RUIN: It’s Not Just Music
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #f5222d">PITCHFORK</span>
+          <span class="stream-date">2026-10-12</span>
+        </div>
+        <a href="https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/" target="_blank" rel="noopener" class="stream-link">
+          Club Imperiale
+        </a>
+      </div>
+    
+
+      <div class="stream-item">
+        <div class="stream-item-top">
+          <span class="stream-source-tag" style="color: #f5222d">PITCHFORK</span>
+          <span class="stream-date">2026-10-11</span>
+        </div>
+        <a href="https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/" target="_blank" rel="noopener" class="stream-link">
+          Taking the Long Way
+        </a>
+      </div>
+    
+        </div>
+      </aside>
+    </div>
+
+  </main>
+
+  <!-- 底部常驻试听播放器 Dock -->
+  <footer class="player-dock" id="player-dock" style="display: none;">
+    <div class="player-now-playing">
+      <div class="player-vinyl-thumb" id="player-thumb">
+        <div class="player-vinyl-center"></div>
+      </div>
+      <div class="player-text">
+        <div class="player-title" id="player-title">未选择曲目</div>
+        <div class="player-artist" id="player-artist">点击任意卡片试听</div>
+      </div>
+    </div>
+
+    <div class="player-controls">
+      <button class="dock-btn" id="play-toggle-btn" type="button" title="播放/暂停">▶</button>
+      <div class="waveform-bars">
+        <div class="wave-bar"></div>
+        <div class="wave-bar"></div>
+        <div class="wave-bar"></div>
+        <div class="wave-bar"></div>
+        <div class="wave-bar"></div>
+        <div class="wave-bar"></div>
+      </div>
+    </div>
+
+    <div class="player-outbound" id="player-links">
+      <!-- 动态填充外链 -->
+    </div>
+  </footer>
+
+  <!-- 客户端交互逻辑 -->
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

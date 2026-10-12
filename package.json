@@ -1,0 +1,23 @@
+{
+  "name": "music-tracker",
+  "version": "1.0.0",
+  "description": "Sonic Radar · 跨时区与全语境音乐挖掘雷达 (Global Avant-Garde & Sinophone Indie)",
+  "type": "module",
+  "scripts": {
+    "build": "node _build/build.mjs",
+    "fetch": "node _build/fetch.mjs",
+    "serve": "node _build/serve.mjs",
+    "dev": "node _build/build.mjs && node _build/serve.mjs"
+  },
+  "keywords": [
+    "music-digging",
+    "streetvoice",
+    "pitchfork",
+    "the-wire",
+    "bandcamp",
+    "crate-digging",
+    "indie-music"
+  ],
+  "author": "frkocnluo",
+  "license": "MIT"
+}

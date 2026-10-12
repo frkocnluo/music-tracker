@@ -1,0 +1,40 @@
+name: Sonic Radar Auto Fetch & Deploy
+
+on:
+  schedule:
+    # 每天 UTC 0点与12点 (北京时间 08:00 与 20:00) 自动抓取更新
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 支持手动一键触发
+  push:
+    branches: [ master, main ]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch Latest Feeds
+        run: node _build/fetch.mjs
+
+      - name: Build Static Site
+        run: node _build/build.mjs
+
+      - name: Commit and Push if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add _build/cache.json index.html
+          git commit -m "chore(sync): automated radar feeds sync [skip ci]" || echo "No changes to commit"
+          git push

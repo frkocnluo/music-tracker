@@ -44,14 +44,16 @@ export function renderPage({ entries, liveStreams, sources }) {
                data-title="${entry.title.replace(/"/g, '&quot;')}"
                data-artist="${entry.artist.replace(/"/g, '&quot;')}"
                data-preview="${entry.audioPreview || ''}"
+               data-cover="${entry.coverArt || ''}"
                data-links="${linksJson}">
         <div class="card-top">
           <div class="cover-sleeve" title="点击试听 / 查看">
             <div class="sleeve-jacket" style="background: ${bgStyle};">
+              ${entry.coverArt ? `<img src="${entry.coverArt}" alt="${entry.title.replace(/"/g, '&quot;')}" class="sleeve-cover-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">` : ''}
               <span class="sleeve-initials">${initials}</span>
             </div>
             <div class="vinyl-disc">
-              <div class="vinyl-center-label"></div>
+              <div class="vinyl-center-label" style="${entry.coverArt ? `background-image: url('${entry.coverArt}'); background-size: cover; background-position: center;` : ''}"></div>
             </div>
           </div>
           <div class="card-info">

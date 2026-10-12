@@ -133,10 +133,21 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // 6. 播放器逻辑
-  function playTrack(title, artist, audioSrc, links = {}) {
+  function playTrack(title, artist, audioSrc, links = {}, cover = '') {
     playerTitle.textContent = title;
     playerArtist.textContent = artist;
     playerDock.style.display = 'flex';
+
+    const vinylCenter = playerThumb.querySelector('.player-vinyl-center');
+    if (vinylCenter) {
+      if (cover) {
+        vinylCenter.style.backgroundImage = `url('${cover}')`;
+        vinylCenter.style.backgroundSize = 'cover';
+        vinylCenter.style.backgroundPosition = 'center';
+      } else {
+        vinylCenter.style.backgroundImage = 'none';
+      }
+    }
 
     // 更新跳转外链
     playerLinks.innerHTML = '';
@@ -213,9 +224,10 @@ document.addEventListener('DOMContentLoaded', () => {
       const title = card.dataset.title;
       const artist = card.dataset.artist;
       const preview = card.dataset.preview;
+      const cover = card.dataset.cover || '';
       const links = JSON.parse(card.dataset.links || '{}');
 
-      playTrack(title, artist, preview, links);
+      playTrack(title, artist, preview, links, cover);
     });
   });
 

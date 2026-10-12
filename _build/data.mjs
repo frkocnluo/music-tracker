@@ -146,6 +146,7 @@ export function getEntries() {
             genres: genres,
             label: source.sourceName,
             coverGradient: gradient,
+            coverArt: item.imageUrl || '',
             sources: [
               {
                 source: source.badge,

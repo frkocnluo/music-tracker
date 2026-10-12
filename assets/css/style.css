@@ -445,6 +445,21 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+.sleeve-cover-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 2;
+  border-radius: var(--radius-sm);
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.cover-sleeve:hover .sleeve-cover-img {
+  transform: scale(1.06);
+}
+
 .sleeve-initials {
   font-family: var(--font-mono);
   font-weight: 800;
@@ -452,6 +467,7 @@ body {
   color: rgba(255, 255, 255, 0.85);
   letter-spacing: 0.05em;
   text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  z-index: 1;
 }
 
 /* 黑胶碟片盘 */

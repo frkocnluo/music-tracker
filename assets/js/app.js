@@ -219,5 +219,15 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // 强制刷新实时流（绕过本地强缓存）
+  const forceRefreshBtn = document.getElementById('force-refresh-btn');
+  if (forceRefreshBtn) {
+    forceRefreshBtn.addEventListener('click', () => {
+      forceRefreshBtn.textContent = '⚡ 同步中...';
+      const cleanUrl = window.location.origin + window.location.pathname;
+      window.location.href = cleanUrl + '?refresh=' + Date.now();
+    });
+  }
+
   console.log('⚡ Sonic Radar initialized: All channels listening.');
 });

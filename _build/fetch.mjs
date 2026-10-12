@@ -78,7 +78,7 @@ export async function fetchAllFeeds() {
         badge: source.badge,
         category: source.region,
         color: source.color,
-        items: parsedItems.slice(0, 5)
+        items: parsedItems.slice(0, 25)
       });
     } catch (err) {
       console.warn(`⚠️ [TIMEOUT/SKIP] ${source.name}: ${err.message}`);

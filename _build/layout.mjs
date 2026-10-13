@@ -239,21 +239,21 @@ export function renderPage({ entries, liveStreams, sources }) {
       <div class="hero-text">
         <h1 data-i18n="hero_title">摆脱算法规训，重返一手声音。</h1>
         <p data-i18n="hero_desc">
-          直接打通 Pitchfork 评测、Bandcamp Daily 深度首发、The Quietus 前卫摇滚与 Stereogum 重点大碟，并严谨呈现 Pitchfork / TND / RYM / AOTY / 豆瓣 五维权威共识（绝无哈希虚构，真实呈现豆瓣暂无评分与未收录状态）。
+          实时追踪 Pitchfork、Bandcamp Daily、The Quietus、Stereogum 与 The Needle Drop 的一手挖掘信源，连接全球先锋实验与地下独立新声。
         </p>
       </div>
       <div class="hero-meta-stats">
         <div class="stat-box">
           <div class="stat-value">${entries.length}</div>
-          <div class="stat-label" data-i18n="stat_releases">活跃条目</div>
-        </div>
-        <div class="stat-box">
-          <div class="stat-value" style="color: #73d13d;">${doubanRatedCount}</div>
-          <div class="stat-label" data-i18n="stat_douban_rated">豆瓣官方评分</div>
+          <div class="stat-label" data-i18n="stat_releases">追踪条目</div>
         </div>
         <div class="stat-box">
           <div class="stat-value" style="color: var(--accent-orange);">${doubanUnratedCount}</div>
-          <div class="stat-label" data-i18n="stat_douban_digging">前沿待发掘</div>
+          <div class="stat-label" data-i18n="stat_douban_digging">前沿新声</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" style="color: #73d13d;">${doubanRatedCount}</div>
+          <div class="stat-label" data-i18n="stat_douban_rated">经典已评</div>
         </div>
         <div class="stat-box">
           <div class="stat-value">5+</div>
@@ -285,14 +285,14 @@ export function renderPage({ entries, liveStreams, sources }) {
         <button class="status-pill-btn active" data-status="all" type="button">
           <span data-i18n="status_all">全部条目</span> <span class="status-count">${entries.length}</span>
         </button>
-        <button class="status-pill-btn" data-status="douban-verified" type="button">
-          <span data-i18n="status_douban_verified">🟢 豆瓣已有评分</span> <span class="status-count">${doubanRatedCount}</span>
-        </button>
         <button class="status-pill-btn" data-status="douban-unrated" type="button">
-          <span data-i18n="status_douban_unrated">⚡ 豆瓣前沿挖掘 (暂无分)</span> <span class="status-count">${doubanUnratedCount}</span>
+          <span data-i18n="status_douban_unrated">⚡ 挖掘前线 (豆瓣暂无分)</span> <span class="status-count">${doubanUnratedCount}</span>
+        </button>
+        <button class="status-pill-btn" data-status="douban-verified" type="button">
+          <span data-i18n="status_douban_verified">🟢 经典重发 (已有评分)</span> <span class="status-count">${doubanRatedCount}</span>
         </button>
         <button class="status-pill-btn" data-status="editorial" type="button">
-          <span data-i18n="status_editorial">📰 深度专栏/专访</span> <span class="status-count">${editorialCount}</span>
+          <span data-i18n="status_editorial">📰 深度专栏 / 专访</span> <span class="status-count">${editorialCount}</span>
         </button>
       </div>
 

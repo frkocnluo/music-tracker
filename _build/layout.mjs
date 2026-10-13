@@ -28,42 +28,65 @@ export function renderPage({ entries, liveStreams, sources }) {
 
     const linksHtml = `
       ${entry.links?.original ? `<a href="${entry.links.original}" target="_blank" rel="noopener" class="ext-link">Original ↗</a>` : ''}
+      ${entry.links?.douban ? `<a href="${entry.links.douban}" target="_blank" rel="noopener" class="ext-link douban-link" title="在豆瓣音乐检索/查看条目">豆瓣 ↗</a>` : ''}
       ${entry.links?.bandcamp ? `<a href="${entry.links.bandcamp}" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>` : ''}
       ${entry.links?.spotify ? `<a href="${entry.links.spotify}" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>` : ''}
       ${entry.links?.youtube ? `<a href="${entry.links.youtube}" target="_blank" rel="noopener" class="ext-link">YouTube ↗</a>` : ''}
     `;
 
-    // 多平台评分卡片
-    const scores = entry.scores || {};
-    const scoresHtml = `
-      <div class="scores-bar" title="Consensus Scores / 多平台共识评分">
-        <div class="score-pill pitchfork ${scores.pitchfork?.bnm ? 'bnm' : ''}" title="Pitchfork Score">
-          <span class="score-label">P4K</span>
-          <span class="score-val">${scores.pitchfork?.score || '-'}</span>
-          ${scores.pitchfork?.bnm ? '<span class="score-extra">BNM</span>' : ''}
+    // 严谨多平台评分条 / 深度专栏标识
+    let scoresHtml = '';
+    if (entry.itemType !== 'release' || !entry.scores) {
+      scoresHtml = `
+        <div class="editorial-badge-bar">
+          <span class="editorial-type-pill ${entry.itemType}">${entry.itemTypeLabel || 'FEATURE'}</span>
+          <span class="editorial-note" data-i18n="editorial_note">${entry.itemTypeNote || '深度音乐专栏（不计单一专辑评分）'}</span>
         </div>
-        <div class="score-pill fantano" title="The Needle Drop (Fantano) Review Score">
-          <span class="score-label">TND</span>
-          <span class="score-val">${scores.fantano?.score || '-'}</span>
+      `;
+    } else {
+      const scores = entry.scores;
+      const doubanStatus = scores.douban?.status || 'unrated';
+      const doubanDisplay = scores.douban?.label || '暂无';
+      const doubanTitle = scores.douban?.tooltip || '豆瓣暂无评分 (少于10人评价或待收录)';
+      const doubanUrl = entry.links?.douban || `https://music.douban.com/subject_search?search_text=${encodeURIComponent(entry.artist + ' ' + entry.title)}`;
+
+      const p4kStatus = scores.pitchfork?.status || 'unrated';
+      const fantanoStatus = scores.fantano?.status || 'unrated';
+      const rymStatus = scores.rym?.status || 'unrated';
+      const aotyStatus = scores.aoty?.status || 'unrated';
+
+      scoresHtml = `
+        <div class="scores-bar" title="Consensus Scores / 多平台共识评分">
+          <div class="score-pill pitchfork ${p4kStatus} ${scores.pitchfork?.bnm ? 'bnm' : ''}" title="Pitchfork: ${scores.pitchfork?.label || '-'}">
+            <span class="score-label">P4K</span>
+            <span class="score-val">${scores.pitchfork?.label || '-'}</span>
+            ${scores.pitchfork?.bnm ? '<span class="score-extra">BNM</span>' : ''}
+          </div>
+          <div class="score-pill fantano ${fantanoStatus}" title="The Needle Drop (Fantano): ${scores.fantano?.label || '-'}">
+            <span class="score-label">TND</span>
+            <span class="score-val">${scores.fantano?.label || '-'}</span>
+          </div>
+          <div class="score-pill rym ${rymStatus}" title="RateYourMusic: ${scores.rym?.label || '-'}">
+            <span class="score-label">RYM</span>
+            <span class="score-val">${scores.rym?.label || '-'}</span>
+          </div>
+          <div class="score-pill aoty ${aotyStatus}" title="Album of the Year: ${scores.aoty?.label || '-'}">
+            <span class="score-label">AOTY</span>
+            <span class="score-val">${scores.aoty?.label || '-'}</span>
+          </div>
+          <a href="${doubanUrl}" target="_blank" rel="noopener" class="score-pill douban ${doubanStatus}" title="${doubanTitle}">
+            <span class="score-label">豆瓣</span>
+            <span class="score-val">${doubanDisplay}</span>
+          </a>
         </div>
-        <div class="score-pill rym" title="RateYourMusic Rating (0.0-5.0)">
-          <span class="score-label">RYM</span>
-          <span class="score-val">${scores.rym?.score || '-'}</span>
-        </div>
-        <div class="score-pill aoty" title="Album of the Year (0-100)">
-          <span class="score-label">AOTY</span>
-          <span class="score-val">${scores.aoty?.score || '-'}</span>
-        </div>
-        <div class="score-pill douban" title="豆瓣音乐评分 (0.0-10.0)">
-          <span class="score-label">豆瓣</span>
-          <span class="score-val">${scores.douban?.score || '-'}</span>
-        </div>
-      </div>
-    `;
+      `;
+    }
 
     return `
       <article class="release-card ${entry.isHighlight ? 'highlight' : ''}" 
                data-category="${entry.category}" 
+               data-item-type="${entry.itemType || 'release'}"
+               data-douban-status="${entry.scores?.douban?.status || 'none'}"
                data-genres="${(entry.genres || []).join(',')}"
                data-search="${searchString.replace(/"/g, '&quot;')}"
                data-title="${entry.title.replace(/"/g, '&quot;')}"
@@ -140,6 +163,11 @@ export function renderPage({ entries, liveStreams, sources }) {
   const avantGardeCount = entries.filter(e => e.category === 'avant-garde').length;
   const undergroundCount = entries.filter(e => e.category === 'underground').length;
   const criticalCount = entries.filter(e => e.category === 'critical').length;
+
+  const doubanRatedCount = entries.filter(e => e.scores?.douban?.status === 'verified').length;
+  const doubanUnratedCount = entries.filter(e => e.itemType === 'release' && e.scores?.douban?.status === 'unrated').length;
+  const editorialCount = entries.filter(e => e.itemType !== 'release').length;
+
   const timestamp = Date.now();
 
   return `<!DOCTYPE html>
@@ -211,13 +239,21 @@ export function renderPage({ entries, liveStreams, sources }) {
       <div class="hero-text">
         <h1 data-i18n="hero_title">摆脱算法规训，重返一手声音。</h1>
         <p data-i18n="hero_desc">
-          直接打通 Pitchfork 评测、Bandcamp Daily 深度首发、The Quietus 前卫摇滚与 Stereogum 重点大碟，并实时集成 Pitchfork / RYM / AOTY / 豆瓣 四大多维权威评分，彻底告别滞后的年终总结。
+          直接打通 Pitchfork 评测、Bandcamp Daily 深度首发、The Quietus 前卫摇滚与 Stereogum 重点大碟，并严谨呈现 Pitchfork / TND / RYM / AOTY / 豆瓣 五维权威共识（绝无哈希虚构，真实呈现豆瓣暂无评分与未收录状态）。
         </p>
       </div>
       <div class="hero-meta-stats">
         <div class="stat-box">
           <div class="stat-value">${entries.length}</div>
-          <div class="stat-label" data-i18n="stat_releases">活跃发行</div>
+          <div class="stat-label" data-i18n="stat_releases">活跃条目</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" style="color: #73d13d;">${doubanRatedCount}</div>
+          <div class="stat-label" data-i18n="stat_douban_rated">豆瓣官方评分</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-value" style="color: var(--accent-orange);">${doubanUnratedCount}</div>
+          <div class="stat-label" data-i18n="stat_douban_digging">前沿待发掘</div>
         </div>
         <div class="stat-box">
           <div class="stat-value">5+</div>
@@ -241,6 +277,22 @@ export function renderPage({ entries, liveStreams, sources }) {
         </button>
         <button class="tab-btn" data-category="critical" type="button">
           <span data-i18n="tab_critical">权威乐评 (Pitchfork / Stereogum / Fantano)</span> <span class="tab-count">${criticalCount}</span>
+        </button>
+      </div>
+
+      <!-- 豆瓣状态与条目类型快捷过滤条 -->
+      <div class="status-filter-row">
+        <button class="status-pill-btn active" data-status="all" type="button">
+          <span data-i18n="status_all">全部条目</span> <span class="status-count">${entries.length}</span>
+        </button>
+        <button class="status-pill-btn" data-status="douban-verified" type="button">
+          <span data-i18n="status_douban_verified">🟢 豆瓣已有评分</span> <span class="status-count">${doubanRatedCount}</span>
+        </button>
+        <button class="status-pill-btn" data-status="douban-unrated" type="button">
+          <span data-i18n="status_douban_unrated">⚡ 豆瓣前沿挖掘 (暂无分)</span> <span class="status-count">${doubanUnratedCount}</span>
+        </button>
+        <button class="status-pill-btn" data-status="editorial" type="button">
+          <span data-i18n="status_editorial">📰 深度专栏/专访</span> <span class="status-count">${editorialCount}</span>
         </button>
       </div>
 

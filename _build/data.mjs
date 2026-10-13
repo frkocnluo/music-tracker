@@ -64,56 +64,142 @@ function inferGenres(title, desc) {
   return tags;
 }
 
+const KNOWN_STEREOGUM_ARTISTS = [
+  'Cameron Winter', 'Greg Freeman', 'Gilla Band', 'Slow Pulp', 'This Is Lorelei',
+  'Lily Seabird', 'Maripool', 'Westside Cowboy', 'L\'Rain', 'Ceremony',
+  'Mallory Hawk', 'Nick Hakim', 'Quicksand', 'Kelela', 'Nixon Boyd',
+  'Tasha', 'Styrofoam Winos', 'Wiki', 'Slippers', 'ear', 'Lowertown',
+  'Touch Girl Apple Blossom', 'Aldous Harding', 'Lip Critic', 'Carla dal Forno'
+];
+
+function getP4kArtist(title, link) {
+  const slug = (link.match(/\/reviews\/albums\/([^/]+)\/?/) || [])[1] || '';
+  if (!slug) return 'Pitchfork Pick';
+  const cleanTitle = title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  let artistSlug = '';
+  if (cleanTitle && slug.endsWith('-' + cleanTitle)) {
+    artistSlug = slug.slice(0, -(cleanTitle.length + 1));
+  } else {
+    const titleWords = title.toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+    const slugParts = slug.split('-');
+    const firstWordIdx = slugParts.findIndex((part, idx) => idx > 0 && titleWords[0] === part);
+    if (firstWordIdx > 0) {
+      artistSlug = slugParts.slice(0, firstWordIdx).join('-');
+    } else {
+      artistSlug = slugParts.slice(0, Math.ceil(slugParts.length / 2)).join('-');
+    }
+  }
+  return artistSlug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+}
+
 /**
- * 从信源标题中清洗出 Artist 与 Title
+ * 从信源标题中清洗出 Artist、Title 与条目类型 (itemType)
  */
 function extractArtistAndTitle(rawTitle, link, sourceId) {
   let artist = 'Independent Artist';
-  let title = rawTitle;
+  let title = rawTitle.replace(/&#8217;/g, "'").replace(/&#8216;/g, "'").replace(/&amp;/g, '&');
+  let itemType = 'release';
+  let itemTypeLabel = 'ALBUM';
+  let itemTypeNote = '';
 
   if (sourceId === 'fantano') {
-    const cleaned = rawTitle.replace(/ALBUM REVIEW/gi, '').replace(/EP REVIEW/gi, '').trim();
-    if (cleaned.includes(' - ')) {
-      const parts = cleaned.split(' - ');
-      artist = parts[0].trim();
-      title = parts.slice(1).join(' - ').trim();
+    if (/ALBUM REVIEW|EP REVIEW/i.test(rawTitle)) {
+      itemType = 'release';
+      itemTypeLabel = 'ALBUM REVIEW';
+      const cleaned = rawTitle.replace(/ALBUM REVIEW/gi, '').replace(/EP REVIEW/gi, '').trim();
+      if (cleaned.includes(' - ')) {
+        const parts = cleaned.split(' - ');
+        artist = parts[0].trim();
+        title = parts.slice(1).join(' - ').trim();
+      } else {
+        title = cleaned;
+      }
+    } else {
+      itemType = 'roundup';
+      itemTypeLabel = 'ROUNDUP 视频盘点';
+      itemTypeNote = '视频综合盘点（非单一专辑评分）';
+      artist = 'Anthony Fantano';
+      title = rawTitle;
     }
-  } else if (sourceId === 'thequietus') {
-    if (rawTitle.includes(' – ')) {
-      const parts = rawTitle.split(' – ');
-      artist = parts[0].trim();
-      title = parts.slice(1).join(' – ').trim();
-    } else if (rawTitle.includes(' - ')) {
-      const parts = rawTitle.split(' - ');
-      artist = parts[0].trim();
-      title = parts.slice(1).join(' - ').trim();
+  } else if (sourceId === 'stereogum') {
+    itemType = 'release';
+    itemTypeLabel = 'ALBUM OF THE WEEK';
+    const cleaned = rawTitle.replace(/^Album Of The Week:\s*/i, '').replace(/&#8217;/g, "'").trim();
+    let found = false;
+    for (const a of KNOWN_STEREOGUM_ARTISTS) {
+      if (cleaned.toLowerCase().startsWith(a.toLowerCase())) {
+        artist = a;
+        title = cleaned.slice(a.length).trim();
+        found = true;
+        break;
+      }
     }
+    if (!found) {
+      const parts = cleaned.split(/\s+/);
+      artist = parts.slice(0, 2).join(' ');
+      title = parts.slice(2).join(' ') || cleaned;
+    }
+  } else if (sourceId === 'pitchfork_bnm') {
+    itemType = 'release';
+    itemTypeLabel = 'PITCHFORK REVIEW';
+    artist = getP4kArtist(rawTitle, link);
+    title = rawTitle;
   } else if (sourceId === 'bandcamp_daily') {
     const match = rawTitle.match(/^(.*?),\s*[“"'](.*?)[”"']/);
     if (match) {
+      itemType = 'release';
+      itemTypeLabel = 'BANDCAMP ESSENTIAL';
       artist = match[1].trim();
       title = match[2].trim();
-    }
-  } else if (sourceId === 'stereogum') {
-    const cleaned = rawTitle.replace(/^Album Of The Week:\s*/i, '').trim();
-    title = cleaned;
-    const parts = cleaned.split(/\s+/);
-    if (parts.length >= 2) {
-      artist = parts[0];
-    }
-  } else if (sourceId === 'pitchfork_bnm') {
-    const urlMatch = link.match(/\/reviews\/albums\/([^/]+)\/?$/);
-    if (urlMatch) {
-      const slug = urlMatch[1];
-      const parts = slug.split('-');
+    } else if (/The Best |Essential Releases|The Hotlist/i.test(rawTitle)) {
+      itemType = 'feature';
+      itemTypeLabel = 'FEATURE 深度专栏';
+      itemTypeNote = 'Bandcamp 专题策展（非单一专辑）';
+      artist = 'Bandcamp Daily';
       title = rawTitle;
-      if (parts.length >= 2) {
-        artist = parts.slice(0, Math.floor(parts.length / 2)).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-      }
+    } else {
+      itemType = 'feature';
+      itemTypeLabel = 'CURATED 深度特稿';
+      itemTypeNote = '深度音乐人特稿（非单一专辑）';
+      artist = 'Bandcamp Curated';
+      title = rawTitle;
+    }
+  } else if (sourceId === 'thequietus') {
+    if (/Interview/i.test(rawTitle)) {
+      itemType = 'interview';
+      itemTypeLabel = 'INTERVIEW 深度专访';
+      itemTypeNote = '前卫声音专访对话（非单一唱片评测）';
+      const m = rawTitle.match(/Interview with (.*)$/i) || rawTitle.match(/^(.*?): An Interview/i) || rawTitle.match(/^(.*?)\s+Interviewed/i);
+      artist = m ? m[1].trim() : 'The Quietus';
+      title = rawTitle;
+    } else if (/Podcast/i.test(rawTitle)) {
+      itemType = 'podcast';
+      itemTypeLabel = 'PODCAST 声音播客';
+      itemTypeNote = '长篇文化对谈播客（不计专辑评分）';
+      artist = 'The Quietus Podcast';
+      title = rawTitle;
+    } else if (rawTitle.includes(' – ') || rawTitle.includes(' - ')) {
+      itemType = 'release';
+      itemTypeLabel = 'QUIETUS REVIEW';
+      const parts = rawTitle.split(/ [–-] /);
+      artist = parts[0].trim();
+      title = parts.slice(1).join(' - ').trim();
+    } else if (/Shares Song|Reveals New|Unveils New|Plots New|Sentence for|Detail/i.test(rawTitle)) {
+      itemType = 'news';
+      itemTypeLabel = 'NEWS 行业动态';
+      itemTypeNote = '先锋音乐前沿速递（非专辑评测）';
+      artist = 'The Quietus Dispatch';
+      title = rawTitle;
+    } else {
+      itemType = 'feature';
+      itemTypeLabel = 'FEATURE 专栏报道';
+      itemTypeNote = '音乐文化深度观察（非单一唱片）';
+      artist = 'The Quietus Feature';
+      title = rawTitle;
     }
   }
 
-  return { artist, title };
+  return { artist, title, itemType, itemTypeLabel, itemTypeNote };
 }
 
 /**
@@ -131,10 +217,12 @@ export function getEntries() {
         const resolvedCategory = source.category || sourceDef?.category || 'critical';
 
         for (const item of (source.items || [])) {
-          const { artist, title } = extractArtistAndTitle(item.title, item.link, source.sourceId);
+          const { artist, title, itemType, itemTypeLabel, itemTypeNote } = extractArtistAndTitle(item.title, item.link, source.sourceId);
           const genres = inferGenres(item.title, item.description);
           const gradient = getGradientForString(item.title + artist);
-          const scores = getScoresForRelease(title, artist, source.sourceId, item.description);
+          const scores = getScoresForRelease(title, artist, source.sourceId, item.description, itemType);
+
+          const doubanSearchUrl = `https://music.douban.com/subject_search?search_text=${encodeURIComponent(artist + ' ' + title)}`;
 
           liveEntries.push({
             id: `live-${source.sourceId}-${Buffer.from(item.link).toString('base64url').slice(0, 12)}`,
@@ -143,14 +231,17 @@ export function getEntries() {
             releaseDate: item.pubDate,
             category: resolvedCategory, // 'avant-garde' | 'underground' | 'critical'
             genres: genres,
+            itemType: itemType,
+            itemTypeLabel: itemTypeLabel,
+            itemTypeNote: itemTypeNote,
             label: source.sourceName,
             coverGradient: gradient,
             coverArt: item.imageUrl || '',
-            scores: scores, // Pitchfork, RYM, AOTY, 豆瓣
+            scores: scores, // Pitchfork, Fantano, RYM, AOTY, 豆瓣 (无伪造分数)
             sources: [
               {
                 source: source.badge,
-                badge: 'LIVE DROP',
+                badge: itemType === 'release' ? 'LIVE DROP' : itemType.toUpperCase(),
                 date: item.pubDate,
                 note: item.title
               }
@@ -159,6 +250,7 @@ export function getEntries() {
             audioPreview: '',
             links: {
               original: item.link,
+              douban: doubanSearchUrl,
               spotify: `https://open.spotify.com/search/${encodeURIComponent(artist + ' ' + title)}`,
               bandcamp: source.sourceId.includes('bandcamp') ? item.link : `https://bandcamp.com/search?q=${encodeURIComponent(artist + ' ' + title)}`,
               youtube: source.sourceId === 'fantano' ? item.link : `https://www.youtube.com/results?search_query=${encodeURIComponent(artist + ' ' + title)}`

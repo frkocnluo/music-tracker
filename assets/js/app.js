@@ -16,13 +16,20 @@ const I18N = {
     sync_btn: "⚡ 刷新实时流",
     syncing_btn: "⚡ 同步中...",
     hero_title: "摆脱算法规训，重返一手声音。",
-    hero_desc: "直接打通 Pitchfork 评测、Bandcamp Daily 深度首发、The Quietus 前卫摇滚与 Stereogum 重点大碟，并实时集成 Pitchfork / TND / RYM / AOTY / 豆瓣 五大多维权威评分，彻底告别滞后的年终总结。",
-    stat_releases: "活跃发行",
+    hero_desc: "直接打通 Pitchfork 评测、Bandcamp Daily 深度首发、The Quietus 前卫摇滚与 Stereogum 重点大碟，并严谨呈现 Pitchfork / TND / RYM / AOTY / 豆瓣 五维权威共识（绝无哈希虚构，真实呈现豆瓣暂无评分与未收录状态）。",
+    stat_releases: "活跃条目",
+    stat_douban_rated: "豆瓣官方评分",
+    stat_douban_digging: "前沿待发掘",
     stat_channels: "直连信源",
     tab_all: "全部发行",
     tab_avantgarde: "先锋与实验 (The Quietus / The Wire)",
     tab_underground: "Bandcamp 深度发掘",
     tab_critical: "权威乐评 (Pitchfork / Stereogum / Fantano)",
+    status_all: "全部条目",
+    status_douban_verified: "🟢 豆瓣已有评分",
+    status_douban_unrated: "⚡ 豆瓣前沿挖掘 (暂无分)",
+    status_editorial: "📰 深度专栏/专访",
+    editorial_note: "深度音乐专栏（不计单一专辑评分）",
     genre_all: "全部流派",
     genre_club: "Club / 电子",
     genre_rock: "后朋 / 摇滚",
@@ -43,13 +50,20 @@ const I18N = {
     sync_btn: "⚡ Sync Feeds",
     syncing_btn: "⚡ Syncing...",
     hero_title: "Escape algorithmic feeds. Dig directly from the source.",
-    hero_desc: "Real-time syndicated music discovery tracking Pitchfork Reviews, Bandcamp Daily, The Quietus, Stereogum, and Anthony Fantano with live multi-platform scores (Pitchfork / TND / RYM / AOTY / Douban).",
-    stat_releases: "Active Releases",
+    hero_desc: "Real-time syndicated music discovery tracking Pitchfork Reviews, Bandcamp Daily, The Quietus, Stereogum, and Anthony Fantano with authentic multi-platform consensus (zero mock scores; honest Douban unrated states).",
+    stat_releases: "Active Items",
+    stat_douban_rated: "Douban Rated",
+    stat_douban_digging: "Digging Front",
     stat_channels: "Live Channels",
     tab_all: "All Drops",
     tab_avantgarde: "Avant-Garde & Experimental (The Quietus / The Wire)",
     tab_underground: "Bandcamp Daily Drops",
     tab_critical: "Critical Radar (Pitchfork / Stereogum / Fantano)",
+    status_all: "All Entries",
+    status_douban_verified: "🟢 Douban Rated",
+    status_douban_unrated: "⚡ Douban Digging (Unrated)",
+    status_editorial: "📰 Essays & Interviews",
+    editorial_note: "Editorial Feature (Unrated)",
     genre_all: "All Genres",
     genre_club: "Club / Electronic",
     genre_rock: "Post-Punk / Rock",
@@ -69,12 +83,14 @@ document.addEventListener('DOMContentLoaded', () => {
   // 状态变量
   let currentCategory = 'all';
   let currentGenre = 'all';
+  let currentStatus = 'all';
   let searchQuery = '';
   let currentLang = localStorage.getItem('sonic_radar_lang') || 'zh';
   
   // DOM 元素
   const cards = document.querySelectorAll('.release-card');
   const tabBtns = document.querySelectorAll('.tab-btn');
+  const statusBtns = document.querySelectorAll('.status-pill-btn');
   const pillBtns = document.querySelectorAll('.pill-btn');
   const searchInput = document.querySelector('.search-input');
   const langToggleBtn = document.getElementById('lang-toggle-btn');
@@ -147,12 +163,23 @@ document.addEventListener('DOMContentLoaded', () => {
       const category = card.dataset.category || '';
       const genres = (card.dataset.genres || '').toLowerCase();
       const searchableText = (card.dataset.search || '').toLowerCase();
+      const itemType = card.dataset.itemType || 'release';
+      const doubanStatus = card.dataset.doubanStatus || 'none';
 
       const matchCategory = (currentCategory === 'all' || category === currentCategory);
       const matchGenre = (currentGenre === 'all' || genres.includes(currentGenre.toLowerCase()));
       const matchSearch = (!searchQuery || searchableText.includes(searchQuery));
 
-      if (matchCategory && matchGenre && matchSearch) {
+      let matchStatus = true;
+      if (currentStatus === 'douban-verified') {
+        matchStatus = (doubanStatus === 'verified');
+      } else if (currentStatus === 'douban-unrated') {
+        matchStatus = (doubanStatus === 'unrated' && itemType === 'release');
+      } else if (currentStatus === 'editorial') {
+        matchStatus = (itemType !== 'release');
+      }
+
+      if (matchCategory && matchGenre && matchSearch && matchStatus) {
         card.style.display = 'flex';
         visibleCount++;
       } else {
@@ -167,6 +194,16 @@ document.addEventListener('DOMContentLoaded', () => {
       tabBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       currentCategory = btn.dataset.category;
+      filterCards();
+    });
+  });
+
+  // 3.1 豆瓣收录状态与条目类型过滤切换
+  statusBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      statusBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentStatus = btn.dataset.status;
       filterCards();
     });
   });

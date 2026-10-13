@@ -339,6 +339,48 @@ body {
   border-radius: 10px;
 }
 
+/* 豆瓣状态与内容类型快捷过滤 */
+.status-filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: -4px;
+}
+
+.status-pill-btn {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-dim);
+  color: var(--text-secondary);
+  border-radius: var(--radius-sm);
+  padding: 5px 12px;
+  font-size: 0.78rem;
+  font-family: var(--font-sans);
+  cursor: pointer;
+  transition: var(--transition-smooth);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.status-pill-btn:hover {
+  background: rgba(255, 255, 255, 0.07);
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.status-pill-btn.active {
+  background: rgba(0, 242, 254, 0.1);
+  border-color: var(--accent-cyan);
+  color: #fff;
+  font-weight: 600;
+}
+
+.status-count {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  opacity: 0.75;
+}
+
 .filter-row {
   display: flex;
   justify-content: space-between;
@@ -680,9 +722,100 @@ body {
 }
 
 .score-pill.douban {
-  border-color: rgba(56, 158, 13, 0.35);
-  background: rgba(56, 158, 13, 0.08);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.score-pill.douban.verified {
+  border-color: rgba(56, 158, 13, 0.5);
+  background: rgba(56, 158, 13, 0.14);
   color: #73d13d;
+  box-shadow: 0 0 8px rgba(56, 158, 13, 0.2);
+}
+
+.score-pill.douban.verified:hover {
+  background: rgba(56, 158, 13, 0.25);
+  border-color: #52c41a;
+  transform: translateY(-1px);
+}
+
+.score-pill.douban.unrated {
+  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.02);
+  color: var(--text-muted);
+}
+
+.score-pill.douban.unrated .score-val {
+  color: var(--text-muted);
+  font-weight: 500;
+  font-size: 0.62rem;
+}
+
+.score-pill.douban.unrated:hover {
+  border-color: rgba(115, 209, 61, 0.4);
+  color: #95de64;
+  background: rgba(115, 209, 61, 0.06);
+}
+
+.score-pill.unrated {
+  opacity: 0.45;
+}
+
+/* 深度专题 / 专栏 / 采访 Badge Bar */
+.editorial-badge-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: -2px;
+  margin-bottom: 2px;
+  flex-wrap: wrap;
+}
+
+.editorial-type-pill {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: var(--radius-sm);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.editorial-type-pill.interview {
+  background: rgba(114, 46, 209, 0.15);
+  border: 1px solid rgba(114, 46, 209, 0.4);
+  color: #d3adf7;
+}
+
+.editorial-type-pill.feature {
+  background: rgba(24, 144, 255, 0.15);
+  border: 1px solid rgba(24, 144, 255, 0.4);
+  color: #91d5ff;
+}
+
+.editorial-type-pill.news {
+  background: rgba(250, 140, 22, 0.15);
+  border: 1px solid rgba(250, 140, 22, 0.4);
+  color: #ffd591;
+}
+
+.editorial-type-pill.podcast {
+  background: rgba(235, 47, 150, 0.15);
+  border: 1px solid rgba(235, 47, 150, 0.4);
+  color: #ffadd2;
+}
+
+.editorial-type-pill.roundup {
+  background: rgba(250, 84, 28, 0.15);
+  border: 1px solid rgba(250, 84, 28, 0.4);
+  color: #ffbb96;
+}
+
+.editorial-note {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  font-family: var(--font-mono);
 }
 
 /* 专辑评述导言 */
@@ -764,6 +897,17 @@ body {
 .ext-link:hover {
   color: #fff;
   border-color: var(--border-bright);
+}
+
+.ext-link.douban-link {
+  color: #73d13d;
+  border-color: rgba(56, 158, 13, 0.35);
+}
+
+.ext-link.douban-link:hover {
+  background: rgba(56, 158, 13, 0.14);
+  border-color: #52c41a;
+  color: #95de64;
 }
 
 /* 右侧栏：实时 RSS 电波流 (Live Waveform Feed) */

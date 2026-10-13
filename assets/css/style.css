@@ -1150,3 +1150,147 @@ body {
     display: none;
   }
 }
+
+/* ==========================================================================
+   SONIC RADAR · 修复与新增样式 (debug pass)
+   ========================================================================== */
+
+/* [hidden] 必须能压过组件自身的 display —— 否则前端按 hidden 过滤卡片会失效 */
+.release-card[hidden],
+.player-dock[hidden],
+.no-result[hidden],
+.degrade-banner[hidden] {
+  display: none !important;
+}
+
+/* 唱片内圈标签：封面 URL 通过卡片上的 --cover 变量注入，
+   避免同一张封面在 img.src / data-cover / 内联 background 中重复三份 */
+.vinyl-center-label {
+  background-image: var(--cover, none);
+  background-size: cover;
+  background-position: center;
+}
+.cover-sleeve { --cover: none; }
+
+/* 录制音源状态：只有真正在播放时才跳动 */
+.waveform-bars.playing .wave-bar {
+  animation: waveBounce 0.8s ease-in-out infinite;
+}
+
+/* 推送时间戳 */
+.sync-stamp {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-dim);
+  border-radius: var(--radius-sm);
+  padding: 4px 10px;
+  white-space: nowrap;
+}
+.sync-stamp .muted { color: var(--text-muted); }
+
+/* 信源降级横幅 */
+.degrade-banner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: baseline;
+  background: rgba(255, 87, 34, 0.08);
+  border: 1px solid rgba(255, 87, 34, 0.35);
+  border-radius: var(--radius-md);
+  padding: 10px 14px;
+  margin-bottom: 18px;
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+}
+.degrade-banner strong { color: var(--accent-orange); font-size: 0.82rem; }
+
+/* 动态流派 pill 的计数 */
+.pill-count {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  color: var(--text-muted);
+  margin-left: 4px;
+}
+
+/* 信源健康度面板 */
+.stream-sub {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--text-muted);
+}
+.source-health { display: flex; flex-direction: column; gap: 6px; }
+.health-row {
+  display: grid;
+  grid-template-columns: 10px 1fr auto;
+  gap: 8px;
+  align-items: center;
+  font-size: 0.72rem;
+  padding: 5px 8px;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--border-dim);
+}
+.health-row[data-state='degraded'] { border-color: rgba(255, 87, 34, 0.35); }
+.health-dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--text-muted);
+}
+.health-row[data-state='ok'] .health-dot { background: #52c41a; box-shadow: 0 0 6px #52c41a; }
+.health-row[data-state='degraded'] .health-dot { background: var(--accent-orange); box-shadow: 0 0 6px var(--accent-orange); }
+.health-row[data-state='curated'] .health-dot { background: var(--accent-purple); }
+.health-name { color: var(--text-primary); }
+.health-detail {
+  font-family: var(--font-mono);
+  font-size: 0.64rem;
+  color: var(--text-muted);
+  text-align: right;
+}
+
+/* 低置信度艺人名（由标题推断，可能不准确） */
+.card-artist.low-confidence { color: var(--text-muted); font-style: italic; }
+
+/* 空摘要占位 */
+.card-summary.empty { color: var(--text-muted); font-style: italic; }
+
+/* 无匹配结果 */
+.no-result {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 48px 16px;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+/* 播放舞台：YouTube 内嵌 / 无音源提示 */
+.player-stage:empty { display: none; }
+.player-stage iframe {
+  width: 320px;
+  height: 180px;
+  border: 0;
+  border-radius: var(--radius-sm);
+  background: #000;
+}
+.player-note {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  max-width: 320px;
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+.player-note strong { color: var(--accent-orange); font-size: 0.78rem; }
+
+/* 排版修复：卡片底部按钮与平台链接被 flex 压缩后中文/英文换行错位 */
+.play-preview-btn { white-space: nowrap; flex: 0 0 auto; }
+.platform-links { flex-wrap: wrap; justify-content: flex-end; row-gap: 4px; }
+.ext-link, .douban-link { white-space: nowrap; }
+.card-actions { gap: 10px; flex-wrap: wrap; }
+
+/* 编辑类条目展示信源自己的类型说明，不再统一成「深度专栏」 */
+.editorial-note {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}

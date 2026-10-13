@@ -2,3 +2,11 @@ node_modules/
 .DS_Store
 Thumbs.db
 *.log
+
+# WorkBuddy 本地工作目录：记忆、临时文件、浏览器回归用的 Chrome profile。
+# 会迅速膨胀到上百 MB，绝不能进仓库。
+.workbuddy/
+
+# 构建/回归过程中的临时产物
+index.html.tmp
+_build/cache.json.tmp

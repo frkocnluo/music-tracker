@@ -1,847 +1,2272 @@
-[
-  {
-    "sourceId": "thequietus",
-    "sourceName": "The Quietus",
-    "badge": "THE QUIETUS",
-    "color": "#52c41a",
-    "items": [
-      {
-        "title": "Life is Death: An Interview with Róis",
-        "link": "https://thequietus.com/interviews/rois-interview-mo-lean-domino-reissue/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/ROIS-PC-Anthony-OConnor-crop-3-300-dpi-700x466.jpg",
-        "pubDate": "2026-10-12",
-        "description": "\nOn Mo Léan, Róis uses the ancient art of keening and otherworldly electronics to challenge the foundations of what we consider to be ‘proper’ when it"
-      },
-      {
-        "title": "Gnod – Chronicles of Gnowt Vol. 2",
-        "link": "https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-2-review/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/gnod-chronicles-2.avif",
-        "pubDate": "2026-10-12",
-        "description": "\nGnod\nChronicles of Gnowt Vol. 2\nA second volume from the same Spud Murphy-led session at Vol. 1 finds the Salford rockers at their most fierce\nChroni"
-      },
-      {
-        "title": "Steve Reich – The ECM Recordings",
-        "link": "https://thequietus.com/quietus-reviews/steve-reich-the-ecm-recordings-review/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/reich-ecm-recordings-700x700.webp",
-        "pubDate": "2026-10-12",
-        "description": "\nSteve Reich\nThe ECM Recordings\nA new box set marking the composer's 90th birthday gathers together three seminal albums released by ECM in the late 7"
-      },
-      {
-        "title": "Ryuichi Sakamoto&#8217;s &#8216;1996&#8217; Set for 30th Anniversary Reissue",
-        "link": "https://thequietus.com/news/ryuichi-sakamotos-1996-set-for-30th-anniversary-reissue/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-09-at-15.43.46-700x466.jpg",
-        "pubDate": "2026-10-09",
-        "description": "\nThe newly remastered release will mark the first time that the album has been made available on vinyl in the US\nPhoto by John Scarsberg\nRyuichi Sakam"
-      },
-      {
-        "title": "David Byrne Shares Song with Daniel Pemberton Made for Elon Musk Movie",
-        "link": "https://thequietus.com/news/david-byrne-shares-song-with-daniel-pemberton-made-for-elon-musk-movie/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/David-Byrne-Daniel-Pemberton-Let-Me-Sell-You-A-Dream-Lead-Press-Photo-credit-Tristan-Bejawn-left-Shervin-Lainez-right-700x466.jpg",
-        "pubDate": "2026-10-09",
-        "description": "\n'Let Me Sell You A Dream' was made using quotes from the controversial billionaire\nPhotos by  Tristan Bejawn and Shervin Lainez (L-R)\nDavid Byrne has"
-      },
-      {
-        "title": "Embrace the Black Box: Duet Emmo Interviewed",
-        "link": "https://thequietus.com/interviews/duet-emmo-interview-ica-live-show-or-so-it-seems/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/duet-emmo-433-700x466.jpg",
-        "pubDate": "2026-10-09",
-        "description": "\n43 years since their sole record Or So It Seems, Daniel Miller, Graham Lewis and Bruce Gilbert will be reforming Duet Emmo for the band's first ever "
-      },
-      {
-        "title": "Pet Shop Boys – A Man From the Future",
-        "link": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/A_Man_from_the_Future.jpg",
-        "pubDate": "2026-10-09",
-        "description": "\nPet Shop Boys\nA Man From the Future\nChris Lowe and Neil Tennant rework their 2014 BBC Proms performance about Alan Turing into a tighter, more album-"
-      },
-      {
-        "title": "Björk Details Live Orchestral Album, &#8216;Björk Orkestral With The Hamrahlíð Choir&#8217;",
-        "link": "https://thequietus.com/news/bjork-details-live-orchestral-album-bjork-orkestral-with-the-hamrahlid-choir/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Bjork-1-700x466.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nAvailable across vinyl, CD, DVD and Blu-ray, the live album was captured during one of her October 2021 performances at Reykjavík’s Harpa Concert Hal"
-      },
-      {
-        "title": "Loraine James, Puce Mary and More to Debut Orchestral Works at London&#8217;s Barbican",
-        "link": "https://thequietus.com/news/loraine-james-puce-mary-and-more-to-debut-orchestral-works-at-londons-barbican/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Loraine-James-700x466.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nThe six members of Warp Records' Providenza Ensemble will have their works performed by Sinfonietta Cracovia in a show presented by Unsound\nLoraine J"
-      },
-      {
-        "title": "µ-Ziq, Plaid and More to Play Edgelands 2026",
-        "link": "https://thequietus.com/news/%c2%b5-ziq-plaid-and-more-to-play-edgelands-2026/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Mike-Paradinas.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nThe experimental electronic music event takes over Colchester Arts Centre later this month\nMike Paradinas, AKA µ-Ziq \nUK festival Edgelands will host"
-      },
-      {
-        "title": "Jeff Mills Unveils New Album from Tomorrow Comes The Harvest Project",
-        "link": "https://thequietus.com/news/jeff-mills-unveils-new-album-from-tomorrow-comes-the-harvest-project/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Tomorrow-Comes-The-Harvest-Photo-by-Jacob-Khrist-1-700x466.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nThe Forbidden Planet will be released via Mills' own Axis Records next month\nPhoto by Jacob Khrist\nJeff Mills is releasing a new album from his Tomor"
-      },
-      {
-        "title": "Liz Harris Plots New Release of Soundtrack Work",
-        "link": "https://thequietus.com/news/liz-harris-plots-new-release-of-soundtrack-work/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-14.26.55-700x466.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nMusic For Two Films About Water takes in work that the artist otherwise known as Grouper made for films released in 2023 and 2024\nPhoto by Colin Smit"
-      },
-      {
-        "title": "The Skinny to Return After Scottish Arts Charity Provides Support",
-        "link": "https://thequietus.com/news/the-skinny-to-return-after-scottish-arts-charity-provides-support/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/The-Skinny-700x466.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nThe Scottish cultural magazine announced its closure last month, but will now continue thanks to an agreement struck with the organisation Outer Spac"
-      },
-      {
-        "title": "The Low Culture Podcast: Godzilla",
-        "link": "https://thequietus.com/subscriber-area/low-culture-podcast/the-low-culture-podcast-godzilla/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Godzilla_1954-700x466.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nIn this month’s edition of the pod, John Doran and Luke Turner face a terrifying beast of the atomic age\nBehold! A horrific-looking, lumbering beast "
-      },
-      {
-        "title": "Move Any Mountain: Ako Akas by 10LEC6",
-        "link": "https://thequietus.com/quietus-reviews/album-of-the-week/10lec6-ako-akas-review/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-17-700x466.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\nEight years after Bone Bame, the Paris collective return with a record named after a Cameroonian mountain that traps walkers in a dance they cannot q"
-      },
-      {
-        "title": "Marvin Tate – Controlled Burn",
-        "link": "https://thequietus.com/quietus-reviews/marvin-tate-controlled-burn-review/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/marvin-tate-controlled-burn.avif",
-        "pubDate": "2026-10-08",
-        "description": "\nMarvin Tate\nControlled Burn\nChicago slam poet teams up with Wilco’s LeRoy Bach for an album of avant-soul storytelling and hallucinatory instrumentat"
-      },
-      {
-        "title": "US Man Given Prison Sentence for Bot-Farming Music Streams",
-        "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-01.47.19-700x466.jpg",
-        "pubDate": "2026-10-07",
-        "description": "\nMichael Smith will serve 18 months in prison and give up $8 million in fraudulently earned royalties\nA North Carolina man has been sentenced to 18 mo"
-      },
-      {
-        "title": "Anna Meredith Reveals New Album, &#8216;DARLING&#8217;",
-        "link": "https://thequietus.com/news/anna-meredith-reveals-new-album-darling/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Press-shot-Anna-Meredith-credit-Martina-Lang-700x466.webp",
-        "pubDate": "2026-10-07",
-        "description": "\nThe Scottish artist describes the new record as \"a channelling of intensity, energy and euphoria\"\nPhoto by Martina Lang\nAnna Meredith has unveiled a "
-      },
-      {
-        "title": "Lorenzo Senni Returns to Warp Records for First Album in Six Years",
-        "link": "https://thequietus.com/news/lorenzo-senni-returns-to-warp-records-for-first-album-in-six-years/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/16_Lorenzo-Senni_All-Ages_Press-Pictures_Jim-C_Nedd_1400-700x466.jpg",
-        "pubDate": "2026-10-07",
-        "description": "\nAll Ages features contributions from Xiu Xiu's Jamie Stewart, and skateboarders Chad Muska and Jamie Thomas\nPhoto by Jim C Nedd\nLorenzo Senni has sha"
-      },
-      {
-        "title": "Further Details of TG50 Event at London&#8217;s ICA Emerge",
-        "link": "https://thequietus.com/news/further-details-of-tg50-event-at-londons-ica-emerge/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/ThrobbingGristle-700x466.jpg",
-        "pubDate": "2026-10-07",
-        "description": "\nThe free event will allow fans to gather to listen to the group's music, while extra tickets for Chris Carter and Cosey Fanni Tutti's talk with tQ's "
-      },
-      {
-        "title": "The Comet Is Coming Detail &#8216;Channel The Spirits&#8217; Reissue",
-        "link": "https://thequietus.com/news/the-comet-is-coming-detail-channel-the-spirits-reissue/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Comet-Coming-700x466.jpg",
-        "pubDate": "2026-10-07",
-        "description": "\nMarking the album's 10th anniversary, the new edition adds four previously unreleased recordings\nThe Comet Is Coming are marking the 10th anniversary"
-      },
-      {
-        "title": "Appreciation Loops: Tara Clerkin&#8217;s Favourite Albums",
-        "link": "https://thequietus.com/interviews/bakers-dozen/tara-clerkin-trio-interview-favourite-albums/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/09/image0-700x466.jpeg",
-        "pubDate": "2026-10-07",
-        "description": "\nFrom sing-along favourites old and new via jazz, ambient, dub and more, on the back of acclaimed new Trio album Somewhere Good and ahead of a UK tour"
-      },
-      {
-        "title": "Jam City – My World",
-        "link": "https://thequietus.com/quietus-reviews/jam-city-my-world-review/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/jam-city-my-world.avif",
-        "pubDate": "2026-10-07",
-        "description": "\nJam City\nMy World\nIn the second installment of a 'liminal' trilogy, Jack Louis Latham calls on vocal contributions from Aidan, Bawo, Ox Eye, Sølv, Ha"
-      },
-      {
-        "title": "Glenn Richards &#038; The Venus Lakes – The Great Behind",
-        "link": "https://thequietus.com/quietus-reviews/glenn-richards-the-venus-lakes-the-great-behind/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/PastedGraphic-1-700x700.jpg",
-        "pubDate": "2026-10-06",
-        "description": "\nGlenn Richards &amp; The Venus Lakes\nThe Great Behind\nThe Augie March auteur debuts an energising new ensemble \nDespite gracing the country with a qu"
-      },
-      {
-        "title": "Bloc Reveals First Acts and Venue for 20th Anniversary Event",
-        "link": "https://thequietus.com/news/bloc-reveals-first-acts-and-venue-for-20th-anniversary-event/",
-        "imageUrl": "https://thequietus.com/app/uploads/2026/10/Jeff-Mills-700x466.webp",
-        "pubDate": "2026-10-06",
-        "description": "\nThe event, previously famously held as a weekender at UK holiday parks, will return for a one-off party at The Cause in London next March\nBloc has re"
-      }
-    ]
+{
+  "meta": {
+    "version": 2,
+    "updatedAt": "2026-10-13T16:53:29.614Z",
+    "policy": {
+      "timeoutMs": 20000,
+      "retries": 3,
+      "backoffMs": 800,
+      "itemLimit": 40,
+      "maxStaleDays": 45,
+      "enrichLimit": 40,
+      "enrichConcurrency": 5
+    },
+    "okSources": 5,
+    "totalSources": 6
   },
-  {
-    "sourceId": "bandcamp_daily",
-    "sourceName": "Bandcamp Daily",
-    "badge": "BANDCAMP DAILY",
-    "color": "#1890ff",
-    "items": [
-      {
-        "title": "The Best Country Music on Bandcamp, September 2026",
-        "link": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-september-2026",
-        "imageUrl": "https://f4.bcbits.com/img/0047928486_10.jpg",
-        "pubDate": "2026-10-12",
-        "description": "\n\nOur guide to the month’s crucial country LPs.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "The French Prog Classic That Barely Escaped Oblivion",
-        "link": "https://daily.bandcamp.com/features/instant-self-titled-feature",
-        "imageUrl": "https://f4.bcbits.com/img/0047655551_10.jpg",
-        "pubDate": "2026-10-12",
-        "description": "\n\nInstant's eponymous debut is finally seeing the light of day after decades in limbo.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Marc Ribot’s Book of Guitar",
-        "link": "https://daily.bandcamp.com/features/marc-ribots-book-of-guitar",
-        "imageUrl": "https://f4.bcbits.com/img/0047856897_10.jpg",
-        "pubDate": "2026-10-12",
-        "description": "\n\nThe prolific guitarist's life is something of the story of guitar itself in modern music.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Karen y los Remedios, “Bestiaria”",
-        "link": "https://daily.bandcamp.com/album-of-the-day/karen-y-los-remedios-bestiaria-review",
-        "imageUrl": "https://f4.bcbits.com/img/0047829518_10.jpg",
-        "pubDate": "2026-10-12",
-        "description": "\n\nThe bewitching new LP from the Mexican trio moves from light into shadow.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "The Best Contemporary Classical Music on Bandcamp, September 2026",
-        "link": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-september-2026",
-        "imageUrl": "https://f4.bcbits.com/img/0047811933_10.jpg",
-        "pubDate": "2026-10-09",
-        "description": "\n\nOur guide to the month’s crucial contemporary classical releases.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Essential Releases, October 9, 2026",
-        "link": "https://daily.bandcamp.com/essential-releases/essential-releases-october-9-2026",
-        "imageUrl": "https://f4.bcbits.com/img/0047856632_10.jpg",
-        "pubDate": "2026-10-09",
-        "description": "\n\nExperimental electronic, pipe organ experiments, video game soundtracks, and more.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Margo Cilker, “Little White Cross”",
-        "link": "https://daily.bandcamp.com/album-of-the-day/margo-cilker-little-white-cross-review",
-        "imageUrl": "https://f4.bcbits.com/img/0047834502_10.jpg",
-        "pubDate": "2026-10-09",
-        "description": "\n\nThe folk artist's third record is strengthened by a focus on feeling and storytelling.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Particle Acceleration: Pitchblende Reclaim Their Legacy",
-        "link": "https://daily.bandcamp.com/features/pitchblende-feature",
-        "imageUrl": "https://f4.bcbits.com/img/0047827528_10.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\n\nThe D.C. quartet approached noise rock with a sense of sublime geekery.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Still Modern: Dave Holland at 80",
-        "link": "https://daily.bandcamp.com/features/dave-holland-interview",
-        "imageUrl": "https://f4.bcbits.com/img/0047670931_10.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\n\nThe legendary bassist reflects on Miles Davis, his great working bands, and decades of making music.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Various Artists, “Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986”",
-        "link": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review",
-        "imageUrl": "https://f4.bcbits.com/img/0047728487_10.jpg",
-        "pubDate": "2026-10-08",
-        "description": "\n\nA new comp from Soundway unearths the Caribbean’s psychedelic underground.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "wherethetimegoes and the Sound of Celtic Futurism",
-        "link": "https://daily.bandcamp.com/label-profile/wherethetimegoes-label-profile",
-        "imageUrl": "https://f4.bcbits.com/img/0047701619_10.jpg",
-        "pubDate": "2026-10-07",
-        "description": "\n\nThe Dublin label looks back on the records, relationships, and restless experimentation that shaped its first decade.\nRead full story on the Bandcam"
-      },
-      {
-        "title": "Underground Medicine #7: Region Rock, USA",
-        "link": "https://daily.bandcamp.com/underground-medicine/underground-medicine-7",
-        "imageUrl": "https://f4.bcbits.com/img/0047723252_10.jpg",
-        "pubDate": "2026-10-07",
-        "description": "\n\nMapping out punk scenes archives from around the United States, alive and well on Bandcamp.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Helen, “Linda’s Head”",
-        "link": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review",
-        "imageUrl": "https://f4.bcbits.com/img/0047696124_10.jpg",
-        "pubDate": "2026-10-07",
-        "description": "\n\nThe first new record from Liz Harris of Grouper's rock trio plays at being primitive while keeping one eye on the transcend.\nRead full story on the "
-      },
-      {
-        "title": "Chyna Baejing Contains Multitudes",
-        "link": "https://daily.bandcamp.com/features/chyna-baejing-interview",
-        "imageUrl": "https://f4.bcbits.com/img/0047671330_10.jpg",
-        "pubDate": "2026-10-06",
-        "description": "\n\nAssistant Principal by day, rapper by night, the Lynn artist weaves scholarship through everything she does.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "IVM Trio, “Explain Yourselves”",
-        "link": "https://daily.bandcamp.com/album-of-the-day/ivm-trio-explain-yourselves-review",
-        "imageUrl": "https://f4.bcbits.com/img/0047728320_10.jpg",
-        "pubDate": "2026-10-06",
-        "description": "\n\nPost-club music through the looking glass.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "M. Geddes Gengras Is Still Figuring It Out",
-        "link": "https://daily.bandcamp.com/lists/m-geddes-gengras-album-guide",
-        "imageUrl": "https://f4.bcbits.com/img/0047655330_10.jpg",
-        "pubDate": "2026-10-06",
-        "description": "\n\nFor the synth wizard, the journey is as important as the destination.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Spotlight on Hurdy-Gurdy",
-        "link": "https://daily.bandcamp.com/lists/hurdy-gurdy-album-guide",
-        "imageUrl": "https://f4.bcbits.com/img/0047791030_10.jpg",
-        "pubDate": "2026-10-05",
-        "description": "\n\nAn ancient instrument finds its place in all styles of contemporary music.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Behind The Iron Curtain, Maťkovia Staged A Post-Punk Revolution",
-        "link": "https://daily.bandcamp.com/features/matkovia-1982-1986-feature",
-        "imageUrl": "https://f4.bcbits.com/img/0047788412_10.jpg",
-        "pubDate": "2026-10-05",
-        "description": "\n\nThe Slovak band spent 40 years hiding from the censors; now, their music is finally seeing the light of day.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Head Phone Home: The Yummy Fur Rings Again",
-        "link": "https://daily.bandcamp.com/features/the-yummy-fur-everybody-talks-about-the-weather-feature",
-        "imageUrl": "https://f4.bcbits.com/img/0047788374_10.jpg",
-        "pubDate": "2026-10-05",
-        "description": "\n\nFixtures of the late '90s indie scene in Glasgow, the Yummy Fur return with a triumphant new record.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Yayoba, “Matkat”",
-        "link": "https://daily.bandcamp.com/album-of-the-day/yayoba-matkat-review",
-        "imageUrl": "https://f4.bcbits.com/img/0047727816_10.jpg",
-        "pubDate": "2026-10-05",
-        "description": "\n\nThree musical explorers chart strange terrain.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "The Best Electronic Music on Bandcamp, September 2026",
-        "link": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-september-2026",
-        "imageUrl": "https://f4.bcbits.com/img/0047718900_10.jpg",
-        "pubDate": "2026-10-02",
-        "description": "\n\nOur guide to the month’s crucial electronic releases.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "The Best Punk on Bandcamp, September 2026",
-        "link": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-september-2026",
-        "imageUrl": "https://f4.bcbits.com/img/0047698800_10.jpg",
-        "pubDate": "2026-10-02",
-        "description": "\n\nOur guide to the month’s crucial punk releases.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "The Hotlist, Fall 2026",
-        "link": "https://daily.bandcamp.com/hotlist/the-hotlist-fall-2026",
-        "imageUrl": "https://f4.bcbits.com/img/0047408066_10.jpg",
-        "pubDate": "2026-10-02",
-        "description": "\n\nThese are the upcoming albums that Bandcamp fans are excited about.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "Stef Chura, “Dancing Alone on the Concrete”",
-        "link": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review",
-        "imageUrl": "https://f4.bcbits.com/img/0047640190_10.jpg",
-        "pubDate": "2026-10-02",
-        "description": "\n\nThe Detroit artist puts the weight of experience into her torchy third full-length.\nRead full story on the Bandcamp Daily."
-      },
-      {
-        "title": "The Best Metal on Bandcamp, September 2026",
-        "link": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-september-2026",
-        "imageUrl": "https://f4.bcbits.com/img/0047577157_10.jpg",
-        "pubDate": "2026-10-01",
-        "description": "\n\nOur guide to the month’s crucial heavy LPs.\nRead full story on the Bandcamp Daily."
-      }
-    ]
-  },
-  {
-    "sourceId": "pitchfork_bnm",
-    "sourceName": "Pitchfork Reviews",
-    "badge": "PITCHFORK",
-    "color": "#f5222d",
-    "items": [
-      {
-        "title": "Dja Dja",
-        "link": "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/",
-        "imageUrl": "https://media.pitchfork.com/photos/6a452b81a7029f511eacd6da/master/pass/Marina-Herlop-Dja-Dja.jpeg",
-        "pubDate": "2026-10-12",
-        "description": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and mor"
-      },
-      {
-        "title": "Do Not Dare to Dream",
-        "link": "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac7ef5ad1e096c849ba8c71/master/pass/Teenage%20Fanclub%20Do%20Not%20Dare%20to%20Dream.jpg",
-        "pubDate": "2026-10-12",
-        "description": "The latest album from the Scottish band settles into pleasant but predictable folk-rock doldrums."
-      },
-      {
-        "title": "RUIN: It’s Not Just Music",
-        "link": "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/",
-        "imageUrl": "https://media.pitchfork.com/photos/6abbfb1687c6f137636455bb/master/pass/3663729437259_cover.jpg",
-        "pubDate": "2026-10-12",
-        "description": "The California musician has been moving away from new age and ambient for a while, but her latest album is still surprising: a headfirst leap into dru"
-      },
-      {
-        "title": "Club Imperiale",
-        "link": "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac7fa9c72e89ec54ce0557a/master/pass/Maxime%20Denuc-Club%20Imperiale.png",
-        "pubDate": "2026-10-12",
-        "description": "In an ode to the Mediterranean discotheques of yore, the French composer uses MIDI-controlled pipe organs to smear elements of trance and techno into "
-      },
-      {
-        "title": "Taking the Long Way",
-        "link": "https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac90149fc8a5752f3b0dc77/master/pass/The%20Chicks%20Taking%20the%20Long%20Way.jpg",
-        "pubDate": "2026-10-11",
-        "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit "
-      },
-      {
-        "title": "Songs in the Key of Life - The EP",
-        "link": "https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac7f4da26778676bec2e141/master/pass/Stevie%20Wonder%20Songs%20in%20the%20Key%20of%20Life%20The%20EP.jpg",
-        "pubDate": "2026-10-10",
-        "description": "A rare glimpse into the artist’s legendary and largely untapped vault of unreleased music presents four stunning outtakes from a hot streak that remai"
-      },
-      {
-        "title": "Live at Carnegie Hall",
-        "link": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/",
-        "imageUrl": "https://media.pitchfork.com/photos/6a8374d55eeaf65ef2de9c77/master/pass/Live%20at%20Carnegie%20Hall_1500X.jpg",
-        "pubDate": "2026-10-09",
-        "description": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of "
-      },
-      {
-        "title": "creole culture",
-        "link": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/",
-        "imageUrl": "https://media.pitchfork.com/photos/6a733ddef9a2e451bfdf19fe/master/pass/Dawn-Richard-Creole-Culture.jpeg",
-        "pubDate": "2026-10-09",
-        "description": "The third album in Richards’ trilogy dedicated to her hometown is a celebration of New Orleans’ dynamism: colorful, communal, triumphantly on the move"
-      },
-      {
-        "title": "Mud",
-        "link": "https://pitchfork.com/reviews/albums/remi-wolf-mud/",
-        "imageUrl": "https://media.pitchfork.com/photos/6a846e7bf8d0edf80c0400c1/master/pass/MUD-cover.jpg",
-        "pubDate": "2026-10-09",
-        "description": "The pop singer’s dynamic but uneven third record provides a portrait of semi-reformed adulthood, powered mostly by her sheer charisma and impressive v"
-      },
-      {
-        "title": "Cancel Me (I’m Tired)",
-        "link": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac5144f9c284e2dc1737eb7/master/pass/Fat%20Dog%20-%20Cancel%20Me%20(I%E2%80%99m%20Tired)%20album%20art.png",
-        "pubDate": "2026-10-09",
-        "description": "The London band wastes a great title on a second album of garish agit-rave punk that’s larded with references and desperately short on ideas."
-      },
-      {
-        "title": "Linda’s Head",
-        "link": "https://pitchfork.com/reviews/albums/helen-lindas-head/",
-        "imageUrl": "https://media.pitchfork.com/photos/6a720fc6315db0fbba4a3f47/master/pass/Helen-Lindas-Head.jpeg",
-        "pubDate": "2026-10-08",
-        "description": "Over a decade since its debut, the shoegaze trio fronted by Grouper’s Liz Harris returns for a brisk new album with its eyes trained on the sky."
-      },
-      {
-        "title": "BULLDOZER!!",
-        "link": "https://pitchfork.com/reviews/albums/mnek-bulldozer/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac51d09adf451e6bf74f1df/master/pass/MNEK-BULLDOZER!!.jpg",
-        "pubDate": "2026-10-08",
-        "description": "On their second album, the London-based producer and songwriter offers bold, hook-heavy club pop, but their lyrics about self-love and queer identity "
-      },
-      {
-        "title": "c",
-        "link": "https://pitchfork.com/reviews/albums/lucy-bedroque-c/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/master/pass/Lucy%20Bedroque%20-%20c.jpg",
-        "pubDate": "2026-10-08",
-        "description": "Like a cross between a fashionable rave and a final boss battle, the 20 year old’s latest album is both their sleekest and most overclocked, made more"
-      },
-      {
-        "title": "Bread & Butter",
-        "link": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac63e6a57d07363842bd3b1/master/pass/Your%20Old%20Droog-Bread%20&amp;%20Butter.jpg",
-        "pubDate": "2026-10-08",
-        "description": "The New York rapper carves out a middle ground between belligerence and introspection on his latest record, expressing gratitude for the little things"
-      },
-      {
-        "title": "QRÖMELIFE",
-        "link": "https://pitchfork.com/reviews/albums/quavo-qromelife/",
-        "imageUrl": "https://media.pitchfork.com/photos/6abbfadc061d1e7ca3ebec57/master/pass/26UM1IM02290.rgb.jpg",
-        "pubDate": "2026-10-07",
-        "description": "Quavo feels like an afterthought on his own new solo album, which suffers from phoned-in Pharrell beats, weak features, and exhausting levels of brand"
-      },
-      {
-        "title": "Frequency of Love",
-        "link": "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/",
-        "imageUrl": "https://media.pitchfork.com/photos/6a60ef3d26f57e7b7f1973bd/master/pass/VictoriaMonet_FOL_Cover_Digital_060326_01%20(1).jpg",
-        "pubDate": "2026-10-07",
-        "description": "The singer and songwriter’s sprawling, meticulously polished new album stretches out with swoony ballads, cinematic strings, and timeless quiet storm."
-      },
-      {
-        "title": "my own fairytale",
-        "link": "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/",
-        "imageUrl": "https://media.pitchfork.com/photos/6abaa7b3c7133574666efdd3/master/pass/klein%20my%20own%20fairy%20tale.jpg",
-        "pubDate": "2026-10-07",
-        "description": "The South London artist channels Disney soundtrack tropes into claustrophobic strings and drones, while a handful of vocal tracks hint darkly at real-"
-      },
-      {
-        "title": "I Don’t Wanna Say Goodbye",
-        "link": "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac529de6bd2ab7424d820ab/master/pass/Haywire%20I%20Don%E2%80%99t%20Wanna%20Say%20Goodbye.jpg",
-        "pubDate": "2026-10-07",
-        "description": "The Boston hardcore band aims at wider audiences on a sweetly melodic breakup album that burns as hot and fast as the ill-fated relationship it descri"
-      },
-      {
-        "title": "All Set the Bone",
-        "link": "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/",
-        "imageUrl": "https://media.pitchfork.com/photos/6a5f8c0b3c4dfb9fde52303b/master/pass/Greg%20Freeman%20-%20All%20Set%20The%20Bone%20_%20Album%20Art.jpg",
-        "pubDate": "2026-10-06",
-        "description": "The indie rock songwriter’s latest album is menacing and ambitious, overflowing with quotable lyrics and the feverish energy of something about to fal"
-      },
-      {
-        "title": "Hotel Usona",
-        "link": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ab1797ee1cdfe6681b364ad/master/pass/887828057160.png",
-        "pubDate": "2026-10-06",
-        "description": "You can check out but you’ll never leave the Detroit post-punks’ new concept album, which grimly parodies the United States’ ugliest realities as odio"
-      },
-      {
-        "title": "My World",
-        "link": "https://pitchfork.com/reviews/albums/jam-city-my-world/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac3a26925d8e15b70177a40/master/pass/Jam%20City%20-%20My%20World.jpg",
-        "pubDate": "2026-10-06",
-        "description": "The UK avant-dance producer has spent recent years wandering pop music’s hinterlands, but he sounds reenergized on his latest amalgam of ’80s-tinged c"
-      },
-      {
-        "title": "Not Normal",
-        "link": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ac3f2e12f03407037013c74/master/pass/Cara%20Delevingne%20-%20Not%20Normal%20album%20art.jpg",
-        "pubDate": "2026-10-06",
-        "description": "As it flashes from synth-pop experimentation to introspective balladry to heavy distortion, the model and actress’ debut LP is both intriguing and exh"
-      },
-      {
-        "title": "Cyano",
-        "link": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/",
-        "imageUrl": "https://media.pitchfork.com/photos/6abfbbb4b1d8689d3617249a/master/pass/Emily%20Sprague%20Cyano.jpg",
-        "pubDate": "2026-10-05",
-        "description": "The Florist musician’s latest ambient release blends her intuitive, associative songwriting with her increasingly immersive voice as a composer for mo"
-      },
-      {
-        "title": "B0YG1RL",
-        "link": "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ab584579bf6b62aec676cd6/master/pass/b0yg1rl%20rough%20trade.jpg",
-        "pubDate": "2026-10-05",
-        "description": "The Miami experimental dance duo’s new album pushes their capricious, explosive mix of bouyon, synth-pop, and electroclash to anxious extremes."
-      },
-      {
-        "title": "Decay",
-        "link": "https://pitchfork.com/reviews/albums/godflesh-decay/",
-        "imageUrl": "https://media.pitchfork.com/photos/6ab41594272200043ff4eb82/master/pass/Godflesh-%20Decay.jpg",
-        "pubDate": "2026-10-05",
-        "description": "For decades, industrial metal titan Justin K. Broadrick screamed so hard that it shredded his insides. He softens his attack on the band’s penultimate"
-      }
-    ]
-  },
-  {
-    "sourceId": "stereogum",
-    "sourceName": "Stereogum (Album of the Week)",
-    "badge": "STEREOGUM AOTW",
-    "color": "#13c2c2",
-    "items": [
-      {
-        "title": "Album Of The Week: Cameron Winter Live At Carnegie Hall",
-        "link": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/Cameron-Winter-Live-At-Carnegie-Hall.jpeg?w=564",
-        "pubDate": "2026-10-06",
-        "description": "The post Album Of The Week: Cameron Winter &lt;em&gt;Live At Carnegie Hall&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Greg Freeman All Set The Bone",
-        "link": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Greg-Freeman-All-Set-The-Bone.jpeg?w=564",
-        "pubDate": "2026-09-29",
-        "description": "The post Album Of The Week: Greg Freeman &lt;em&gt;All Set The Bone&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Gilla Band Pugnello",
-        "link": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/4000x4000_GillaBand_Pugnello_Packshot-1.jpg?w=564",
-        "pubDate": "2026-09-22",
-        "description": "The post Album Of The Week: Gilla Band &lt;em&gt;Pugnello&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Slow Pulp Melodie",
-        "link": "https://stereogum.com/2511446/album-of-the-week-slow-pulp-melodie/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Slow_Pulp_Melodie_3000.jpeg?w=564",
-        "pubDate": "2026-09-15",
-        "description": "The post Album Of The Week: Slow Pulp &lt;em&gt;Melodie&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: This Is Lorelei The Singer In My Band",
-        "link": "https://stereogum.com/2510281/album-of-the-week-this-is-lorelei-the-singer-in-my-band/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/This-Is-Lorelei-The-Singer-In-My-Band.jpg?w=564",
-        "pubDate": "2026-09-08",
-        "description": "The post Album Of The Week: This Is Lorelei &lt;em&gt;The Singer In My Band&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Lily Seabird Lightspheres On Their Way",
-        "link": "https://stereogum.com/2509424/album-of-the-week-lily-seabird-lightspheres-on-their-way/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/unnamed-2026-08-25T173205.318.jpg?w=564",
-        "pubDate": "2026-09-01",
-        "description": "The post Album Of The Week: Lily Seabird &lt;em&gt;Lightspheres On Their Way&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Maripool Rotten Luck",
-        "link": "https://stereogum.com/2509250/album-of-the-week-maripool-rotten-luck/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/image_3-1.jpeg?w=564",
-        "pubDate": "2026-08-25",
-        "description": "The post Album Of The Week: Maripool &lt;em&gt;Rotten Luck&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Westside Cowboy It Goes On",
-        "link": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/Westside-Cowboy-It-Goes-On.jpg?w=564",
-        "pubDate": "2026-08-18",
-        "description": "The post Album Of The Week: Westside Cowboy &lt;em&gt;It Goes On&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: L&#8217;Rain fata morgana",
-        "link": "https://stereogum.com/2507540/album-of-the-week-lrain-fata-morgana/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/a2180407821_10_f6c9f5.jpg?w=564",
-        "pubDate": "2026-08-11",
-        "description": "The post Album Of The Week: L&#8217;Rain &lt;em&gt;fata morgana&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Ceremony Tell Me Your Dream",
-        "link": "https://stereogum.com/2506867/album-of-the-week-ceremony-tell-me-your-dream/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Ceremony-Tell-Me-Your-Dream.jpg?w=564",
-        "pubDate": "2026-08-04",
-        "description": "The post Album Of The Week: Ceremony &lt;em&gt;Tell Me Your Dream&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Mallory Hawk Chinook",
-        "link": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Mallory-Hawk-Chinook-Cover-final-1-scaled-2.jpg?w=564",
-        "pubDate": "2026-07-28",
-        "description": "The post Album Of The Week: Mallory Hawk &lt;em&gt;Chinook&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Nick Hakim I Can See",
-        "link": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/unnamed-2026-07-15T163831.418.jpg?w=564",
-        "pubDate": "2026-07-21",
-        "description": "Theoretically, Nick Hakim makes soul music, but it’s more like visiting spirit music. The Queens-based polymath, a trusted collaborator for figures as"
-      },
-      {
-        "title": "Album Of The Week: Quicksand Bring On The Psychics",
-        "link": "https://stereogum.com/2504902/album-of-the-week-quicksand-bring-on-the-psychics/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Quicksand-Bring-On-The-Psychics.jpg?w=564",
-        "pubDate": "2026-07-14",
-        "description": "The post Album Of The Week: Quicksand &lt;em&gt;Bring On The Psychics&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Kelela new avatar",
-        "link": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/a1820018607_10.jpg?w=564",
-        "pubDate": "2026-07-07",
-        "description": "The post Album Of The Week: Kelela &lt;em&gt;new avatar&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Nixon Boyd Every Time We Turn A Corner",
-        "link": "https://stereogum.com/2503205/album-of-the-week-nixon-boyd-every-time-we-turn-a-corner/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/download-1.jpeg?w=564",
-        "pubDate": "2026-06-30",
-        "description": "The post Album Of The Week: Nixon Boyd &lt;em&gt;Every Time We Turn A Corner&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Tasha You Are Spring!",
-        "link": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/download-9.png?w=564",
-        "pubDate": "2026-06-23",
-        "description": "The post Album Of The Week: Tasha &lt;em&gt;You Are Spring!&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Styrofoam Winos Any River",
-        "link": "https://stereogum.com/2502000/album-of-the-week-styrofoam-winos-any-river/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1568021251_10-1.jpg?w=564",
-        "pubDate": "2026-06-16",
-        "description": "The post Album Of The Week: Styrofoam Winos &lt;em&gt;Any River&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Wiki Ancient History",
-        "link": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Wiki-Ancient-History.jpg?w=564",
-        "pubDate": "2026-06-09",
-        "description": "The post Album Of The Week: Wiki &lt;em&gt;Ancient History&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Slippers Slippers 08",
-        "link": "https://stereogum.com/2500983/album-of-the-week-slippers-slippers-08/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1243030580_10.jpg?w=564",
-        "pubDate": "2026-06-02",
-        "description": "The post Album Of The Week: Slippers &lt;em&gt;Slippers 08&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: ear Rumspringa",
-        "link": "https://stereogum.com/2500138/album-of-the-week-ear-rumspringa/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/ear-Rumspringa.jpg?w=564",
-        "pubDate": "2026-05-26",
-        "description": "The post Album Of The Week: ear &lt;em&gt;Rumspringa&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Lowertown Ugly Duckling Union",
-        "link": "https://stereogum.com/2499260/album-of-the-week-lowertown-ugly-duckling-union/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Lowertown-Album-Art-Ugly-Duckling-Union.jpg?w=564",
-        "pubDate": "2026-05-19",
-        "description": "The post Album Of The Week: Lowertown &lt;em&gt;Ugly Duckling Union&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Touch Girl Apple Blossom Graceful",
-        "link": "https://stereogum.com/2498695/album-of-the-week-touch-girl-apple-blossom-graceful/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/tgab.jpg?w=564",
-        "pubDate": "2026-05-12",
-        "description": "The post Album Of The Week: Touch Girl Apple Blossom &lt;em&gt;Graceful&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Aldous Harding Train On The Island",
-        "link": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/Train-On-The-Island.png?w=564",
-        "pubDate": "2026-05-05",
-        "description": "The post Album Of The Week: Aldous Harding &lt;em&gt;Train On The Island&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Lip Critic Theft World",
-        "link": "https://stereogum.com/2497108/album-of-the-week-lip-critic-theft-world/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Theft-World.jpg?w=564",
-        "pubDate": "2026-04-28",
-        "description": "The post Album Of The Week: Lip Critic &lt;em&gt;Theft World&lt;/em&gt; appeared first on Stereogum."
-      },
-      {
-        "title": "Album Of The Week: Carla dal Forno Confession",
-        "link": "https://stereogum.com/2496478/album-of-the-week-carla-dal-forno-confession/reviews/album-of-the-week/",
-        "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Carla-Dal-Forno-Confession.jpg?w=564",
-        "pubDate": "2026-04-21",
-        "description": "The post Album Of The Week: Carla dal Forno &lt;em&gt;Confession&lt;/em&gt; appeared first on Stereogum."
-      }
-    ]
-  },
-  {
-    "sourceId": "fantano",
-    "sourceName": "The Needle Drop (Fantano)",
-    "badge": "FANTANO REVIEW",
-    "color": "#fa541c",
-    "items": [
-      {
-        "title": "Swans - Newly Sentient Being ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=9xsmpDaz-7k",
-        "imageUrl": "https://i2.ytimg.com/vi/9xsmpDaz-7k/hqdefault.jpg",
-        "pubDate": "2026-10-11",
-        "description": ""
-      },
-      {
-        "title": "Quavo - QRÖMELIFE ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=vf_kJvlDO2E",
-        "imageUrl": "https://i3.ytimg.com/vi/vf_kJvlDO2E/hqdefault.jpg",
-        "pubDate": "2026-10-09",
-        "description": ""
-      },
-      {
-        "title": "Kyle Gordon - Kyle Gordon Is Everywhere ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=4SElICJfL2A",
-        "imageUrl": "https://i1.ytimg.com/vi/4SElICJfL2A/hqdefault.jpg",
-        "pubDate": "2026-10-08",
-        "description": ""
-      },
-      {
-        "title": "Quadeca - Life 1 ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=1X3rXmuTxs8",
-        "imageUrl": "https://i2.ytimg.com/vi/1X3rXmuTxs8/hqdefault.jpg",
-        "pubDate": "2026-10-08",
-        "description": ""
-      },
-      {
-        "title": "C.O.F.F.I.N - Out in Oslo ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=5o7CRuHlZ4Y",
-        "imageUrl": "https://i2.ytimg.com/vi/5o7CRuHlZ4Y/hqdefault.jpg",
-        "pubDate": "2026-10-07",
-        "description": ""
-      },
-      {
-        "title": "Gilla Band - Pugnello ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=Bww3HG12uHM",
-        "imageUrl": "https://i3.ytimg.com/vi/Bww3HG12uHM/hqdefault.jpg",
-        "pubDate": "2026-10-05",
-        "description": ""
-      },
-      {
-        "title": "Jane Remover, Olivia Rodrigo, Lil Nas X, Queens of the Stone Age | Weekly Track Roundup: 10/4/26",
-        "link": "https://www.youtube.com/watch?v=WB18IsgNbBw",
-        "imageUrl": "https://i4.ytimg.com/vi/WB18IsgNbBw/hqdefault.jpg",
-        "pubDate": "2026-10-05",
-        "description": ""
-      },
-      {
-        "title": "LOVE THESE ALBUMS 💛",
-        "link": "https://www.youtube.com/shorts/3FxDHBcANtg",
-        "imageUrl": "https://i4.ytimg.com/vi/3FxDHBcANtg/hqdefault.jpg",
-        "pubDate": "2026-10-04",
-        "description": ""
-      },
-      {
-        "title": "Carly Rae Jepsen - Day and Night ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=QmTEuVJVO9M",
-        "imageUrl": "https://i2.ytimg.com/vi/QmTEuVJVO9M/hqdefault.jpg",
-        "pubDate": "2026-10-02",
-        "description": ""
-      },
-      {
-        "title": "Pain of Truth - Self-Titled ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=pspQzibTedE",
-        "imageUrl": "https://i1.ytimg.com/vi/pspQzibTedE/hqdefault.jpg",
-        "pubDate": "2026-10-01",
-        "description": ""
-      },
-      {
-        "title": "THIS OR THAT: new albums ✅",
-        "link": "https://www.youtube.com/shorts/Lvhbk7KRTqA",
-        "imageUrl": "https://i1.ytimg.com/vi/Lvhbk7KRTqA/hqdefault.jpg",
-        "pubDate": "2026-10-01",
-        "description": ""
-      },
-      {
-        "title": "Tinashe - Popstar ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=ZYxjZiNfZQc",
-        "imageUrl": "https://i3.ytimg.com/vi/ZYxjZiNfZQc/hqdefault.jpg",
-        "pubDate": "2026-09-30",
-        "description": ""
-      },
-      {
-        "title": "Protomartyr - Hotel Usona ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=uIolbXfsg6Q",
-        "imageUrl": "https://i2.ytimg.com/vi/uIolbXfsg6Q/hqdefault.jpg",
-        "pubDate": "2026-09-29",
-        "description": ""
-      },
-      {
-        "title": "albums with beautiful voices 🎤✨",
-        "link": "https://www.youtube.com/shorts/sdFTe7sj1ho",
-        "imageUrl": "https://i4.ytimg.com/vi/sdFTe7sj1ho/hqdefault.jpg",
-        "pubDate": "2026-09-27",
-        "description": ""
-      },
-      {
-        "title": "beabadoobee - Pylon ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=-8ud5kRmS9g",
-        "imageUrl": "https://i2.ytimg.com/vi/-8ud5kRmS9g/hqdefault.jpg",
-        "pubDate": "2026-09-26",
-        "description": ""
-      }
-    ]
+  "sources": [
+    {
+      "sourceId": "thewire",
+      "sourceName": "The Wire",
+      "badge": "THE WIRE",
+      "category": "avant-garde",
+      "color": "#722ed1",
+      "tier": "1手源 · 先锋声音艺术",
+      "description": "Adventures in Modern Music，全球先锋实验与声音艺术最高殿堂",
+      "homeUrl": "https://www.thewire.co.uk",
+      "curatedOnly": false,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 2757,
+      "error": null,
+      "fetchedAt": "2026-10-13T16:53:29.614Z",
+      "lastOkAt": "2026-10-13T16:53:29.614Z",
+      "itemCount": 10,
+      "items": [
+        {
+          "title": "The Wire editorial vacancy",
+          "link": "https://www.thewire.co.uk/news/69859/the-wire-editorial-vacancy",
+          "imageUrl": "",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2023-11-09",
+          "description": "The Wire is looking to recruit a full time Commissioning Editor to work on both its monthly print magazine and website. The successful applicant will become a key member of the small but dedicated office staff that produces The Wire ’s magazine and website. A knowledge of, engagement with and empathy for the kind of underground, experimental and alternative global musics, cultures and scenes covered by The Wire is essential. The job will be full time, five days/week. It will be based at The Wire office in Somerset House in Central London. The job will allow for a degree of remote/hybrid working, but the successful applicant will be expected to work at least three days/week in The Wire office. The job itself will consist of the following main duties: • Commissioning and editing features, interviews and essays for the monthly print magazine and the website. • Liaising with the magazine’s two other commissioning editors, the online editor, the editor-in-chief and the publisher to generate ideas for all sections and aspects of the print magazine and website. • Liaising with the art director and photo editor to help facilitate the commissioning of photography for commissioned features. • Commissioning, editing and proof reading other sections of the print magazine and website as necessary or required. • Contributing writing to the print magazine and website as necessary. Among other things, the job will also require you to: • Attend regular editorial and staff meetings and contribute ideas vis all The Wire ’s various activities. • Communicate with and maintain good relations with freelance contributors. • Source and bring on new freelance contributors in a way that ensures the demographic of the contributor list best reflects the diversity of music featured in The Wire . • Maintain productive relationships with the advertising team in order to help facilitate advertising sales. • Maintain productive relationships with the publisher and subscriptions team in order to help facilitate sales. • Maintain productive relationships with artists, labels, festivals, venues, PRs, etc. The job requires both a high standard of editorial skills, eg copy editing, proof reading and writing headlines and standfirsts, and excellent administrative skills. Key online tools and software used in the job will include Google Drive, Sheets and Docs, InDesign, Photoshop, Word, Excel, and The Wire ’s customised CMS. The job pays £28,941 annually. You will be paid monthly. You will be entitled to 28 paid leave days annually inclusive of statutory public holidays. The Wire will contribute five per cent of your monthly pay towards a pension scheme of your choosing. The job will require you to work at weekends at least once a month. The job does not pay overtime; instead, you will take time off in lieu for any weekend work. You will be issued with a full employment contract. The Wire ’s employment contracts have been drawn up in consultation with its staff and their National Union of Journalists (NUJ) representative and have been endorsed and approved by the NUJ. You will find more information about The Wire here . To apply, send an email to the Publisher saying who you are and why you want to work for The Wire . Please also include a CV detailing any relevant experience, and include some examples of any written work. Closing date for applications: FRI 1 DECEMBER. Candidates who we wish to interview will be contacted by Fri 8 December. We will aim to conduct those interviews by Fri 15 December. Ideally, the successful candidate will take up the position in January 2024. The Wire actively welcomes applications from all individuals regardless of background, ethnicity, gender identity, sexual orientation or disability. No AI will be used in the assessment of any applications received. All applications will be treated in the strictest confidence.",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "The Wire : new format, new logo, new design, same magazine",
+          "link": "https://www.thewire.co.uk/news/67168/the-wire-new-format-new-logo-new-design-same-magazine",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/640/476/2023/02/01/The_Wire_March_2023_01.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2023-01-30",
+          "description": "Your favourite independent music magazine is launching into the new year with a whole new look With its forthcoming March issue The Wire will be switching to a new format, and debuting a new logo and design. Having celebrated its 40th anniversary in July 2022 with a month-long series of live events in London, Brighton, Bristol, Manchester, Glasgow and Chicago, The Wire is now looking to the future with a sleek new A4 format, and a brand new visual identity courtesy of its new art director Guillaume Chuard. It has become a tradition at The Wire that departing art directors recommend their successors. Guillaume was introduced to the magazine by Ben Weaver, who left the title at the end of 2022 after 14 years as its art director to take up the same position at Condé Nast’s World Of Interiors . Another tradition at The Wire is that all incoming art directors are given a brief to redesign the title. The decision to switch to A4 had already been taken by publisher Tony Herrington, who had concluded that after 30 years the magazine’s outsize format could do with a bit of a trim. For his part, Guillaume, whose Studio Ard has previously redesigned Tate Etc , was galvanised by the challenge of coming up with a new visual identity to fit the requirements of the A4 format, while also staying true to The Wire ’s commitment to covering independent, experimental and underground music in ways that are both uncompromising and accessible. Crucially, the content of the magazine, from features to reviews, will remain the same, even as the look of it all gets a crisp overhaul. There won't be any changes made to any of the magazine’s established regular sections, which continue to provide the best context for its coverage of the world of underground sound and music, nor to an editorial direction and philosophy that over the last four decades has made The Wire into \"the most essential music magazine of the contemporary era” ( Forced Exposure , US), or, if you prefer, “the most prestigious music magazine in the world” ( La Nacion , Argentina). Pages 2–3 of The Wire 469, including the redesigned Contents page. Pages 46–47 of The Wire 469, including the redesigned Charts and Reviews Index pages The March issue of The Wire will be on sale from 9 February.",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "How to buy the June issue of The Wire",
+          "link": "https://www.thewire.co.uk/news/58984/how-to-buy-the-june-2021-issue-of-the-wire-1",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/613/480/2021/05/24/howtobuyjune.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2021-05-24",
+          "description": "Here are some of the many ways you can get hold of a copy of the current issue of the magazine, both online and IRL, direct from us or from your local magazine emporium Buy direct from The Wire: thewire.co.uk/issues Take out a print + digital subscription: thewire.co.uk/ shop/subscriptions Take out a digital only subscription (including option of three months for £9.99): shop.exacteditions. com/the-wire Buy as an in-app purchase in The Wire app: download the app for free from the App Store or Google Play Or find it in these shops and via these distributors .",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "Robert Wyatt guests on new Mary Halvorson album",
+          "link": "https://www.thewire.co.uk/news/59155/robert-wyatt-guests-on-new-mary-halvorson-album",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/591/480/2020/09/04/MaryHalvorson_Portrait_PhotoCred_James_Wang_300dpi.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2020-09-04",
+          "description": "The UK artist appears on three tracks on the US guitarist’s second Code Girl release Guitarist Mary Halvorson has been a long time admirer of Robert Wyatt’s music. She opened her 2018 Wire playlist with his “Sea Song”, saying: “I’m starting with Robert Wyatt because his influence probably runs deepest. He is a true individual and innovator and I’ve spent years with many of his albums on repeat listen.” Now she has enticed the singer, who announced that he was stopping making music in 2014, out of retirement to sing on three tracks on Artlessly Falling , the second album by her Code Girl group. “Robert is one of my heroes,” says Halvorson. “It’s such a big deal to me that he was open to singing on this record, because his music has been an enormous influence on Code Girl, and just about everything else I’ve done. I wrote the three tracks he sings on specifically for him, and I was floored by the grace and brilliance with which he approached this music. It was a dream come true.” Since announcing his retirement, Wyatt has reappeared intermittently, playing cornet or trumpet on albums by David Gilmour and Paul Weller, while in 2018 he contributed vocals to Janek Schaefer’s Wyatt-inspired album What Light There Is Tells Us Nothing . But his appearance on Artlessly Falling represents his most significant return to music making, and coincides with the publication of the book Side By Side , a collaboration with his wife the visual artist Alfreda Benge , and the Domino label’s release of the 2004 compilation His Greatest Misses , which is being issued on vinyl for the first time. Artlessly Falling is released by the Firehouse 12 label on 16 October, and also features Halvorson’s regular Code Girl collaborators vocalist Amirtha Kidambi, bass player Michael Formanek and drummer Tomas Fujiwara, as well as trumpeter Adam O’Farrill and saxophonist María Grand.",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "Itaru Oki 1941–2020",
+          "link": "https://www.thewire.co.uk/news/59125/itaru-oki-1941-2020",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/613/480/2020/08/30/ItaruOki.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2020-08-30",
+          "description": "The Japanese free jazz trumpeter and instrument builder died on 25 August. Alan Cummings documents his journey from key player in Tokyo's free jazz scene to his entry into the world of European improv via Alan Silva The Japanese avant garde trumpeter Itaru Oki passed away on 25 August. He was one the key players in the development of a distinctively Japanese take on free jazz in the Tokyo scene of the late 1960s and early 70s, leading his own power trio and collaborating with other formative names like percussionist Masahiko Togashi and bassist Keiki Midorikawa. In 1974, Oki moved to France, where he remained until his death, an actively engaged and generous collaborator with European and US players including Alan Silva, Noah Howard, François Tusques, Linda Sharrock and Axel Dörner. The desire to push further out, further away from his starting point was a constant motivating force for Oki throughout his life. You can feel it in the roadmap of his life journey and hear it in his questing trumpet lines. You can see it too in visual form on the classic photo on the cover of his 1976 album Mirage . Boots and fur coat on, knitted cap pulled down over his forehead, trumpet slung over his shoulder and cigarette in hand, Oki leans pensively against a monumental metal lantern at a Japanese temple. A brief pause for reflection before he lights out for the territories. Like many other founders of Japanese free jazz (Masahiko Togashi, Sabu Toyozumi, Masahiko Satoh, Mototeru Takagi), Oki was a war baby. He was born in 1941 in Kobe, and by a very happy accident he lived across the street from the elder brother of Japan’s first jazz trumpeter of note, Fumio Nanri, who had cut his chops in Shanghai and San Francisco in the 1930s. Apparently Nanri gave Oki his first trumpet lessons, showing him how to hold the instrument and form his first embouchure. Oki moved to Tokyo in 1965 and progressed rapidly through Dixieland and bebop before finding a home amongst the new jazz experimentalists of the period. He was a member of one of the first Japanese free jazz units, ESSG, with Satoh and Togashi, and first toured Europe in 1969. Soon afterwards, he started his own trio with drummer Hozumi Tanaka and bassist and cellist Keiki Midorikawa. He released a series of LPs with the trio and later under his own name that were both formally inventive (one piece on his first album features a trumpet solo played into a bowl of water) and ambitiously restless. Oki was much taken by Togashi’s distinctive ‘speed and space’ approach to the rhythmic development of free jazz, and he deployed a similar oceanic pulse on early albums like Satsujin Kyoshitsu ( Classroom For Murderers ) and Genso Note ( Phantom Note ). Once settled in Europe, Oki’s entrée to the local jazz scene came through Alan Silva. Oki was one of the early teachers of the revolutionary musical pedagogy taught at Silva’s Institut Art Culture Perception (IACP), founded in Paris in 1976. He was a frequent and inspired player on Silva and IACP-related projects like The Texture Sextet and The Celestial Communication Orchestra. He performed on a wide array of horns and woodwind instruments, but he was also known as an accomplished trumpet builder, making instruments with the bell at bizarre angles or even with two bells. In spite of his long residence in France and his embeddedness in the European free improv scene, Oki maintained a close relationship with Japan. Every year he would return home in the autumn to tour extensively and record in a series of ad hoc units with some of the ageing giants of the scene as well as with a host of younger players. In an interview with the jazz critic Teruto Soejima for the sleevenotes for his first LP, Satsujin Kyoshitsu (1970), Oki commented prophetically: “I want to keep on moving forward, so that decades from now, even if I’ve gone bald, I still want to be playing new jazz.”",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "Elio Villafranca in residence on new platform hosted by The Showroom and film maker ​Reece Ewing​",
+          "link": "https://www.thewire.co.uk/news/59123/elio-villafranca-new-platform-the-showroom-london-filmmaker-reece-ewing",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/613/480/2020/08/28/Elio_Villafranca_Photo__Kasia_Idzkowska_Courtesy_of_the_artist_and_The_Showroom__London.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2020-08-27",
+          "description": "The ongoing multidisciplinary platform IN·​FLO·R​ES·C​ENCE presents compositions and conversations about sound and art to an online audience The Showroom, London ​ and film maker/producer ​Reece Ewing​ have launched IN·​FLO·R​ES·C​ENCE, a new interdisciplinary online platform for compositions and conversations that champion jazz and promote freedom, experimentation and improvisation. ​Ongoing until 3 October across Instagram, Vimeo and The Showroom website , participating musicians include ​JD Allen​,​ Bokani Dyer​, Sarathy Korwar​,​ Nduduzo Makhathini​,​ Siya Makuzeni​,​ Elaine Mitchener​,​ Corey Mwamba​, Thandi Ntuli​,​ Luis Carlos Pérez​ and ​Leyanis Vald​é​s Reyes​, who have each composed a one minute composition that responds to the changes to daily life brought on by the pandemic. Their contributions will also be interpreted and performed by the project’s artist-in-residence, the New York based Cuban pianist and composer Elio Villafranca. Also included is a selection of interviews conducted by Kevin Le Gendre, Kodwo Eshun, Vijay Iyer and Jason Moran. The project was conceived by Ewing​ and curated with assistant curator ​Katherine Finerty​, in collaboration with ​The Showroom, London​, directed by ​Elvira Dyangani Ose​.",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "Unsound responds to pandemic with words, music and sound works",
+          "link": "https://www.thewire.co.uk/news/59121/unsound-pandemic-book-album-intermission",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/613/480/2020/07/17/intermission_announcement.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2020-08-27",
+          "description": "Central to this year’s programme is the Intermission book and album featuring Dave Tompkins, Deforrest Brown Jr, Jennifer Lucy Allan, Moor Mother, and more As previously reported , this year’s longrunning Polish music festival will take place online between 1–11 October. Key to its programme is a new book and album featuring freshly commissioned texts, music and sound works that respond both to the current Covid-19 pandemic and the contradictions found in this year’s core theme: intermission. The book explores a range of subjects such as making music, protests, online intimacy and solidarity, ecology, mental health, audio-virology, machine listening, and more; and its contributors include Agata Pyzik, Ayesha Hameed, Dave Tompkins, Deforrest Brown Jr, Ewa Majewska, Gamall Awad, Jace Clayton, Jennifer Lucy Allan, Joel Stern & James Parker from Liquid Architecture, Moor Mother, Kristen Gallernaux and Steve Goodman. Artists on the companion album include 33EMYBW, Bastarda, Chris Watson, Deforrest Brown Jr & James Hoff, Jana Winderen, Jlin, Lutto Lento, Moor Mother & Geng, Sam Slater, Hildur Gu&eth;nadóttir & Kári Grisey, Slikback, Tim Hecker, Agata Harz & Katarzyna Smoluk and Vargtss (Varg X Vtss). Published on 16 November, the physical format edition includes a digital download of the album, which is also available to buy separately. The festival programme announced so far includes Deforrest Brown Jr & James Hoff presenting a new audiovisual project that examines a geographic history of race in America; Moor Mother working with DJ Haram as 700 Bliss to collaborate with Pussykrew; and Hubert Zemler & Miłosz Pękala performing live percussive interpretations of two compositions by Jlin. And Kode9 will be presenting an an audiovisual work based on his contribution to the book. In other news, Liquid Architecture have curated a Machine Listening curriculum; and an Unsound Patreon campaign has been launched.",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "Catherine Christer Hennix releases third archival recording",
+          "link": "https://www.thewire.co.uk/news/59120/catherine-christer-hennix-releases-third-archival-recording",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/613/480/2018/01/08/HENNIX_Catherine_Christer-crop.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2020-08-27",
+          "description": "Unbegrenzt is part of an ongoing series of unheard music by the Swedish composer co-released by Blank Forms Editions and Empty Editions Unbegrenzt was recorded by Catherine Christer Hennix (recitation, percussion and electronics) and Hans Isgren (bowed gong) in 1974 and is the Swedish artist's realisation of Karlheinz Stockhausen’s piece of the same name. The Stockhausen original was released by Shandar as part of Aus Den Sieben Tagen (1969), a collection of 15 text pieces written in Paris in May 1968 and which, without notated direction, offered poetic cues aligning with the concept of intuitive music, a form Eurocentric improvisation. Here the realisation expands on Hennix's work with infinitary compositions, a concept central to her work with the ensemble The Deontic Miracle. It follows Selected Early Keyboard Works and Selections From 100 Models Of Hegikan Roku , as well as a two volume collection of Hennix’s writings titled Po&euml;sy Matters and Other Matters . Unbegrenzt was restored and mastered by Stephan Mathieu. Including an essay by Bill Dietz, Unbegrenzt is released on 28 August by Blank Forms Editions and Empty Editions .",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "Tomaga's Tom Relleen has died",
+          "link": "https://www.thewire.co.uk/news/59104/tomaga-s-tom-relleen-has-died",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/613/480/2020/08/26/tom-relleen-crop-01.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2020-08-26",
+          "description": "London based electronicist and booking agent died aged 42 of stomach cancer Tomaga co-member Valentina Magaletti has confirmed the news that the London based duo’s Tom Relleen died of stomach cancer in London’s St Bartholomew's Hospital on 23 August. Founded in 2013, Tomaga released a number of albums through the Hands In The Dark and Meakusma labels. The duo also collaborated with Pierre Bastien on Nicolas Jaar's Other People label and released a split 7\" with Charles Hayward on God Unknown. According to The Quietus , Tomaga had scheduled another release for 2020. \"We rushed to master the album in his final days because the release was important to him,\" confirmed Magaletti. Outside Tomaga, Relleen collaborated with Demian Castellanos on two projects: The Oscillation and Autotelia. He was a founding member of Phonica Records and worked as a booking agent for Julie Tippex. In 2017 Tomaga put together an hour-long mix for The Wire, featuring artists Marc Barreca, Charles Hayward, Pancrace and others.",
+          "categories": [],
+          "author": ""
+        },
+        {
+          "title": "Major Mika Vainio retrospective",
+          "link": "https://www.thewire.co.uk/news/59042/major-mika-vainio-retrospective",
+          "imageUrl": "https://www.thewire.co.uk/img/contain/613/480/2020/08/19/MIKA_VAINIO_crop.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2020-08-19",
+          "description": "Helsinki Festival and Museum of Contemporary Art Kiasma’s exhibition showcases the electronic pioneer’s sound installations and music A major retrospective of Mika Vainio's work is running at the Museum of Contemporary Art Kiasma in Helsinki until 10 January 2021. Called Mika Vainio: 50 Hz, it’s the first comprehensive survey of Vainio’s sound installations in the late musician's native country. “The exhibition project has also served as an important and groundbreaking research into Vainio’s sound art,” says chief curator Kati Kivinen. Vainio’s first solo exhibition was curated by Hans Ulrich Obrist at the Musée d'Art Moderne de la Ville de Paris in 1997. Shortly after he died in 2017, Kiasma received a donation of a Vainio sound installation called x 540 kHz (2009). In Mika Vainio: 50 Hz, it features alongside his other works 3 x Wall Clocks (2001), 808 (2015), Onko (1996), Soundchamber Berlin (2004) and - 27 (1998). The show is co-produced with Helsinki Festival, which runs until 6 September. As part of the festival Kiasma Theatre are showing a series of films based on Vainio’s music. The exhibition catalogue includes articles by Pertti Grönholm, Tommi Grönlund, Kati Kivinen, Rikke Lundgreen, The Wire ’s Anne Hilde Neset and Mika Taanila, plus an artist interview by Ute Meta Bauer and foreword by Museum Director Leevi Haapala. Mika Vainio: 50 Hz runs at the Museum of Contemporary Art Kiasma on until 10 January 2021.",
+          "categories": [],
+          "author": ""
+        }
+      ]
+    },
+    {
+      "sourceId": "boomkat",
+      "sourceName": "Boomkat",
+      "badge": "BOOMKAT PICK",
+      "category": "avant-garde",
+      "color": "#2f54eb",
+      "tier": "0手源 · 先锋唱片店",
+      "description": "英国曼彻斯特先锋唱片店，Staff Picks 往往比传统乐评早数周",
+      "homeUrl": "https://boomkat.com",
+      "curatedOnly": true,
+      "ok": null,
+      "status": "curated",
+      "httpStatus": null,
+      "error": "Boomkat 无公开 RSS/Atom（products.atom 返回 403），仅作为人工策展位保留。",
+      "fetchedAt": null,
+      "lastOkAt": null,
+      "itemCount": 0,
+      "items": []
+    },
+    {
+      "sourceId": "thequietus",
+      "sourceName": "The Quietus",
+      "badge": "THE QUIETUS",
+      "category": "avant-garde",
+      "color": "#52c41a",
+      "tier": "1手源 · 激进独立媒体",
+      "description": "专注于激进前卫摇滚、怪异实验电子与非主流乐潮",
+      "homeUrl": "https://thequietus.com",
+      "curatedOnly": false,
+      "ok": false,
+      "status": "http-403",
+      "httpStatus": 403,
+      "attempts": 1,
+      "error": "HTTP 403（源站防护拦截 · cloudflare-js-challenge）",
+      "fetchedAt": null,
+      "lastOkAt": null,
+      "itemCount": 25,
+      "items": [
+        {
+          "title": "Life is Death: An Interview with Róis",
+          "link": "https://thequietus.com/interviews/rois-interview-mo-lean-domino-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/ROIS-PC-Anthony-OConnor-crop-3-300-dpi-700x466.jpg",
+          "pubDate": "2026-10-12",
+          "description": "\nOn Mo Léan, Róis uses the ancient art of keening and otherworldly electronics to challenge the foundations of what we consider to be ‘proper’ when it"
+        },
+        {
+          "title": "Gnod – Chronicles of Gnowt Vol. 2",
+          "link": "https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-2-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/gnod-chronicles-2.avif",
+          "pubDate": "2026-10-12",
+          "description": "\nGnod\nChronicles of Gnowt Vol. 2\nA second volume from the same Spud Murphy-led session at Vol. 1 finds the Salford rockers at their most fierce\nChroni"
+        },
+        {
+          "title": "Steve Reich – The ECM Recordings",
+          "link": "https://thequietus.com/quietus-reviews/steve-reich-the-ecm-recordings-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/reich-ecm-recordings-700x700.webp",
+          "pubDate": "2026-10-12",
+          "description": "\nSteve Reich\nThe ECM Recordings\nA new box set marking the composer's 90th birthday gathers together three seminal albums released by ECM in the late 7"
+        },
+        {
+          "title": "Ryuichi Sakamoto&#8217;s &#8216;1996&#8217; Set for 30th Anniversary Reissue",
+          "link": "https://thequietus.com/news/ryuichi-sakamotos-1996-set-for-30th-anniversary-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-09-at-15.43.46-700x466.jpg",
+          "pubDate": "2026-10-09",
+          "description": "\nThe newly remastered release will mark the first time that the album has been made available on vinyl in the US\nPhoto by John Scarsberg\nRyuichi Sakam"
+        },
+        {
+          "title": "David Byrne Shares Song with Daniel Pemberton Made for Elon Musk Movie",
+          "link": "https://thequietus.com/news/david-byrne-shares-song-with-daniel-pemberton-made-for-elon-musk-movie/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/David-Byrne-Daniel-Pemberton-Let-Me-Sell-You-A-Dream-Lead-Press-Photo-credit-Tristan-Bejawn-left-Shervin-Lainez-right-700x466.jpg",
+          "pubDate": "2026-10-09",
+          "description": "\n'Let Me Sell You A Dream' was made using quotes from the controversial billionaire\nPhotos by  Tristan Bejawn and Shervin Lainez (L-R)\nDavid Byrne has"
+        },
+        {
+          "title": "Embrace the Black Box: Duet Emmo Interviewed",
+          "link": "https://thequietus.com/interviews/duet-emmo-interview-ica-live-show-or-so-it-seems/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/duet-emmo-433-700x466.jpg",
+          "pubDate": "2026-10-09",
+          "description": "\n43 years since their sole record Or So It Seems, Daniel Miller, Graham Lewis and Bruce Gilbert will be reforming Duet Emmo for the band's first ever "
+        },
+        {
+          "title": "Pet Shop Boys – A Man From the Future",
+          "link": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/A_Man_from_the_Future.jpg",
+          "pubDate": "2026-10-09",
+          "description": "\nPet Shop Boys\nA Man From the Future\nChris Lowe and Neil Tennant rework their 2014 BBC Proms performance about Alan Turing into a tighter, more album-"
+        },
+        {
+          "title": "Björk Details Live Orchestral Album, &#8216;Björk Orkestral With The Hamrahlíð Choir&#8217;",
+          "link": "https://thequietus.com/news/bjork-details-live-orchestral-album-bjork-orkestral-with-the-hamrahlid-choir/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Bjork-1-700x466.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nAvailable across vinyl, CD, DVD and Blu-ray, the live album was captured during one of her October 2021 performances at Reykjavík’s Harpa Concert Hal"
+        },
+        {
+          "title": "Loraine James, Puce Mary and More to Debut Orchestral Works at London&#8217;s Barbican",
+          "link": "https://thequietus.com/news/loraine-james-puce-mary-and-more-to-debut-orchestral-works-at-londons-barbican/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Loraine-James-700x466.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nThe six members of Warp Records' Providenza Ensemble will have their works performed by Sinfonietta Cracovia in a show presented by Unsound\nLoraine J"
+        },
+        {
+          "title": "µ-Ziq, Plaid and More to Play Edgelands 2026",
+          "link": "https://thequietus.com/news/%c2%b5-ziq-plaid-and-more-to-play-edgelands-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Mike-Paradinas.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nThe experimental electronic music event takes over Colchester Arts Centre later this month\nMike Paradinas, AKA µ-Ziq \nUK festival Edgelands will host"
+        },
+        {
+          "title": "Jeff Mills Unveils New Album from Tomorrow Comes The Harvest Project",
+          "link": "https://thequietus.com/news/jeff-mills-unveils-new-album-from-tomorrow-comes-the-harvest-project/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Tomorrow-Comes-The-Harvest-Photo-by-Jacob-Khrist-1-700x466.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nThe Forbidden Planet will be released via Mills' own Axis Records next month\nPhoto by Jacob Khrist\nJeff Mills is releasing a new album from his Tomor"
+        },
+        {
+          "title": "Liz Harris Plots New Release of Soundtrack Work",
+          "link": "https://thequietus.com/news/liz-harris-plots-new-release-of-soundtrack-work/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-14.26.55-700x466.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nMusic For Two Films About Water takes in work that the artist otherwise known as Grouper made for films released in 2023 and 2024\nPhoto by Colin Smit"
+        },
+        {
+          "title": "The Skinny to Return After Scottish Arts Charity Provides Support",
+          "link": "https://thequietus.com/news/the-skinny-to-return-after-scottish-arts-charity-provides-support/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/The-Skinny-700x466.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nThe Scottish cultural magazine announced its closure last month, but will now continue thanks to an agreement struck with the organisation Outer Spac"
+        },
+        {
+          "title": "The Low Culture Podcast: Godzilla",
+          "link": "https://thequietus.com/subscriber-area/low-culture-podcast/the-low-culture-podcast-godzilla/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Godzilla_1954-700x466.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nIn this month’s edition of the pod, John Doran and Luke Turner face a terrifying beast of the atomic age\nBehold! A horrific-looking, lumbering beast "
+        },
+        {
+          "title": "Move Any Mountain: Ako Akas by 10LEC6",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/10lec6-ako-akas-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-17-700x466.jpg",
+          "pubDate": "2026-10-08",
+          "description": "\nEight years after Bone Bame, the Paris collective return with a record named after a Cameroonian mountain that traps walkers in a dance they cannot q"
+        },
+        {
+          "title": "Marvin Tate – Controlled Burn",
+          "link": "https://thequietus.com/quietus-reviews/marvin-tate-controlled-burn-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/marvin-tate-controlled-burn.avif",
+          "pubDate": "2026-10-08",
+          "description": "\nMarvin Tate\nControlled Burn\nChicago slam poet teams up with Wilco’s LeRoy Bach for an album of avant-soul storytelling and hallucinatory instrumentat"
+        },
+        {
+          "title": "US Man Given Prison Sentence for Bot-Farming Music Streams",
+          "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-01.47.19-700x466.jpg",
+          "pubDate": "2026-10-07",
+          "description": "\nMichael Smith will serve 18 months in prison and give up $8 million in fraudulently earned royalties\nA North Carolina man has been sentenced to 18 mo"
+        },
+        {
+          "title": "Anna Meredith Reveals New Album, &#8216;DARLING&#8217;",
+          "link": "https://thequietus.com/news/anna-meredith-reveals-new-album-darling/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Press-shot-Anna-Meredith-credit-Martina-Lang-700x466.webp",
+          "pubDate": "2026-10-07",
+          "description": "\nThe Scottish artist describes the new record as \"a channelling of intensity, energy and euphoria\"\nPhoto by Martina Lang\nAnna Meredith has unveiled a "
+        },
+        {
+          "title": "Lorenzo Senni Returns to Warp Records for First Album in Six Years",
+          "link": "https://thequietus.com/news/lorenzo-senni-returns-to-warp-records-for-first-album-in-six-years/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/16_Lorenzo-Senni_All-Ages_Press-Pictures_Jim-C_Nedd_1400-700x466.jpg",
+          "pubDate": "2026-10-07",
+          "description": "\nAll Ages features contributions from Xiu Xiu's Jamie Stewart, and skateboarders Chad Muska and Jamie Thomas\nPhoto by Jim C Nedd\nLorenzo Senni has sha"
+        },
+        {
+          "title": "Further Details of TG50 Event at London&#8217;s ICA Emerge",
+          "link": "https://thequietus.com/news/further-details-of-tg50-event-at-londons-ica-emerge/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/ThrobbingGristle-700x466.jpg",
+          "pubDate": "2026-10-07",
+          "description": "\nThe free event will allow fans to gather to listen to the group's music, while extra tickets for Chris Carter and Cosey Fanni Tutti's talk with tQ's "
+        },
+        {
+          "title": "The Comet Is Coming Detail &#8216;Channel The Spirits&#8217; Reissue",
+          "link": "https://thequietus.com/news/the-comet-is-coming-detail-channel-the-spirits-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Comet-Coming-700x466.jpg",
+          "pubDate": "2026-10-07",
+          "description": "\nMarking the album's 10th anniversary, the new edition adds four previously unreleased recordings\nThe Comet Is Coming are marking the 10th anniversary"
+        },
+        {
+          "title": "Appreciation Loops: Tara Clerkin&#8217;s Favourite Albums",
+          "link": "https://thequietus.com/interviews/bakers-dozen/tara-clerkin-trio-interview-favourite-albums/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/09/image0-700x466.jpeg",
+          "pubDate": "2026-10-07",
+          "description": "\nFrom sing-along favourites old and new via jazz, ambient, dub and more, on the back of acclaimed new Trio album Somewhere Good and ahead of a UK tour"
+        },
+        {
+          "title": "Jam City – My World",
+          "link": "https://thequietus.com/quietus-reviews/jam-city-my-world-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/jam-city-my-world.avif",
+          "pubDate": "2026-10-07",
+          "description": "\nJam City\nMy World\nIn the second installment of a 'liminal' trilogy, Jack Louis Latham calls on vocal contributions from Aidan, Bawo, Ox Eye, Sølv, Ha"
+        },
+        {
+          "title": "Glenn Richards &#038; The Venus Lakes – The Great Behind",
+          "link": "https://thequietus.com/quietus-reviews/glenn-richards-the-venus-lakes-the-great-behind/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/PastedGraphic-1-700x700.jpg",
+          "pubDate": "2026-10-06",
+          "description": "\nGlenn Richards &amp; The Venus Lakes\nThe Great Behind\nThe Augie March auteur debuts an energising new ensemble \nDespite gracing the country with a qu"
+        },
+        {
+          "title": "Bloc Reveals First Acts and Venue for 20th Anniversary Event",
+          "link": "https://thequietus.com/news/bloc-reveals-first-acts-and-venue-for-20th-anniversary-event/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Jeff-Mills-700x466.webp",
+          "pubDate": "2026-10-06",
+          "description": "\nThe event, previously famously held as a weekender at UK holiday parks, will return for a one-off party at The Cause in London next March\nBloc has re"
+        }
+      ]
+    },
+    {
+      "sourceId": "bandcamp_daily",
+      "sourceName": "Bandcamp Daily",
+      "badge": "BANDCAMP DAILY",
+      "category": "underground",
+      "color": "#1890ff",
+      "tier": "1手源 · 去中心化策展",
+      "description": "独立音乐最高频次深度挖掘专栏（Album of the Day / Essential Releases）",
+      "homeUrl": "https://daily.bandcamp.com",
+      "curatedOnly": false,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 2248,
+      "error": null,
+      "fetchedAt": "2026-10-13T16:53:29.614Z",
+      "lastOkAt": "2026-10-13T16:53:29.614Z",
+      "itemCount": 39,
+      "items": [
+        {
+          "title": "Boy Harsher Pick Their Bandcamp Favorites",
+          "link": "https://daily.bandcamp.com/big-ups/boy-harsher-big-ups",
+          "imageUrl": "https://f4.bcbits.com/img/0047808925_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "Here's what the darkwave duo is listening to on Bandcamp right now. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Big Ups"
+          ],
+          "author": "J. Bennett"
+        },
+        {
+          "title": "Marina Herlop, “Dja Dja”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/marina-herlop-dja-dja-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047877258_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "Herlop steps through the portal to enchanted world and invites us along for the ride. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "April Clare Welsh"
+        },
+        {
+          "title": "The Best Country Music on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-country/the-best-country-music-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047928486_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "Our guide to the month’s crucial country LPs. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Country"
+          ],
+          "author": "Ben Salmon"
+        },
+        {
+          "title": "The French Prog Classic That Barely Escaped Oblivion",
+          "link": "https://daily.bandcamp.com/features/instant-self-titled-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0047655551_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "Instant's eponymous debut is finally seeing the light of day after decades in limbo. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Jim Allen"
+        },
+        {
+          "title": "Marc Ribot’s Book of Guitar",
+          "link": "https://daily.bandcamp.com/features/marc-ribots-book-of-guitar",
+          "imageUrl": "https://f4.bcbits.com/img/0047856897_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "The prolific guitarist's life is something of the story of guitar itself in modern music. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "George Grella"
+        },
+        {
+          "title": "Karen y los Remedios, “Bestiaria”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/karen-y-los-remedios-bestiaria-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047829518_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "The bewitching new LP from the Mexican trio moves from light into shadow. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Filipe Costa"
+        },
+        {
+          "title": "The Best Contemporary Classical Music on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-contemporary-classical/the-best-contemporary-classical-music-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047811933_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "Our guide to the month’s crucial contemporary classical releases. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Contemporary Classical"
+          ],
+          "author": "Peter Margasak"
+        },
+        {
+          "title": "Essential Releases, October 9, 2026",
+          "link": "https://daily.bandcamp.com/essential-releases/essential-releases-october-9-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047856632_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "Experimental electronic, pipe organ experiments, video game soundtracks, and more. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Essential Releases"
+          ],
+          "author": "Bandcamp Daily Staff"
+        },
+        {
+          "title": "Margo Cilker, “Little White Cross”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/margo-cilker-little-white-cross-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047834502_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "The folk artist's third record is strengthened by a focus on feeling and storytelling. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Zara Hedderman"
+        },
+        {
+          "title": "Particle Acceleration: Pitchblende Reclaim Their Legacy",
+          "link": "https://daily.bandcamp.com/features/pitchblende-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0047827528_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "The D.C. quartet approached noise rock with a sense of sublime geekery. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Erick Bradshaw"
+        },
+        {
+          "title": "Still Modern: Dave Holland at 80",
+          "link": "https://daily.bandcamp.com/features/dave-holland-interview",
+          "imageUrl": "https://f4.bcbits.com/img/0047670931_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "The legendary bassist reflects on Miles Davis, his great working bands, and decades of making music. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Britt Robson"
+        },
+        {
+          "title": "Various Artists, “Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047728487_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "A new comp from Soundway unearths the Caribbean’s psychedelic underground. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Louis Pattison"
+        },
+        {
+          "title": "wherethetimegoes and the Sound of Celtic Futurism",
+          "link": "https://daily.bandcamp.com/label-profile/wherethetimegoes-label-profile",
+          "imageUrl": "https://f4.bcbits.com/img/0047701619_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "The Dublin label looks back on the records, relationships, and restless experimentation that shaped its first decade. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Label Profile"
+          ],
+          "author": "Mike McGrath-Bryan"
+        },
+        {
+          "title": "Underground Medicine #7: Region Rock, USA",
+          "link": "https://daily.bandcamp.com/underground-medicine/underground-medicine-7",
+          "imageUrl": "https://f4.bcbits.com/img/0047723252_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "Mapping out punk scenes archives from around the United States, alive and well on Bandcamp. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Underground Medicine"
+          ],
+          "author": "Erick Bradshaw"
+        },
+        {
+          "title": "Helen, “Linda’s Head”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047696124_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "The first new record from Liz Harris of Grouper's rock trio plays at being primitive while keeping one eye on the transcend. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Will Ainsley"
+        },
+        {
+          "title": "Chyna Baejing Contains Multitudes",
+          "link": "https://daily.bandcamp.com/features/chyna-baejing-interview",
+          "imageUrl": "https://f4.bcbits.com/img/0047671330_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "Assistant Principal by day, rapper by night, the Lynn artist weaves scholarship through everything she does. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Indigo Phoenyx"
+        },
+        {
+          "title": "IVM Trio, “Explain Yourselves”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/ivm-trio-explain-yourselves-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047728320_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "Post-club music through the looking glass. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Matthew Blackwell"
+        },
+        {
+          "title": "M. Geddes Gengras Is Still Figuring It Out",
+          "link": "https://daily.bandcamp.com/lists/m-geddes-gengras-album-guide",
+          "imageUrl": "https://f4.bcbits.com/img/0047655330_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "For the synth wizard, the journey is as important as the destination. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Lists"
+          ],
+          "author": "Ryan Reed"
+        },
+        {
+          "title": "Spotlight on Hurdy-Gurdy",
+          "link": "https://daily.bandcamp.com/lists/hurdy-gurdy-album-guide",
+          "imageUrl": "https://f4.bcbits.com/img/0047791030_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "An ancient instrument finds its place in all styles of contemporary music. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Lists"
+          ],
+          "author": "Maria Contreras, Michal Wieczorek"
+        },
+        {
+          "title": "Behind The Iron Curtain, Maťkovia Staged A Post-Punk Revolution",
+          "link": "https://daily.bandcamp.com/features/matkovia-1982-1986-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0047788412_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "The Slovak band spent 40 years hiding from the censors; now, their music is finally seeing the light of day. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Michal Wieczorek"
+        },
+        {
+          "title": "Head Phone Home: The Yummy Fur Rings Again",
+          "link": "https://daily.bandcamp.com/features/the-yummy-fur-everybody-talks-about-the-weather-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0047788374_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "Fixtures of the late '90s indie scene in Glasgow, the Yummy Fur return with a triumphant new record. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Erick Bradshaw"
+        },
+        {
+          "title": "Yayoba, “Matkat”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/yayoba-matkat-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047727816_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "Three musical explorers chart strange terrain. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Louis Pattison"
+        },
+        {
+          "title": "The Best Electronic Music on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047718900_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-02",
+          "description": "Our guide to the month’s crucial electronic releases. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Electronic"
+          ],
+          "author": "Joe Muggs"
+        },
+        {
+          "title": "The Best Punk on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047698800_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-02",
+          "description": "Our guide to the month’s crucial punk releases. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Punk"
+          ],
+          "author": "Sims Hardin"
+        },
+        {
+          "title": "The Hotlist, Fall 2026",
+          "link": "https://daily.bandcamp.com/hotlist/the-hotlist-fall-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047408066_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-02",
+          "description": "These are the upcoming albums that Bandcamp fans are excited about. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Hotlist"
+          ],
+          "author": "Bandcamp Daily Staff"
+        },
+        {
+          "title": "Stef Chura, “Dancing Alone on the Concrete”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047640190_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-02",
+          "description": "The Detroit artist puts the weight of experience into her torchy third full-length. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Jennifer Kelly"
+        },
+        {
+          "title": "The Best Metal on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047577157_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-01",
+          "description": "Our guide to the month’s crucial heavy LPs. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Metal"
+          ],
+          "author": "Brad Sanders"
+        },
+        {
+          "title": "Kaitlyn Aurelia Smith, “Ruin: It’s Not Just Music”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047579842_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-01",
+          "description": "Kaitlyn Aurelia Smith plunges headlong into dance music on her thrilling new LP. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Dom Lepore"
+        },
+        {
+          "title": "The Best Field Recordings on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047576830_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-30",
+          "description": "A higher-than-average number of insects make the scene on September's best sounds captured outside the studio. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Field Recordings"
+          ],
+          "author": "Matthew Blackwell"
+        },
+        {
+          "title": "TV Buddha, “Hallelujah Anyway”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/tv-buddha-hallelujah-anyway-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047637126_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-30",
+          "description": "The Chicago group make bedroom pop with the ambition of Abbey Road. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Dusty Henry"
+        },
+        {
+          "title": "The Best Jazz on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047635067_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-30",
+          "description": "Our guide to the month’s crucial jazz LPs. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Jazz"
+          ],
+          "author": "Dave Sumner"
+        },
+        {
+          "title": "Plunge of the Diving Bell: 25 Years of The Ocean",
+          "link": "https://daily.bandcamp.com/lists/the-ocean-albums-guide",
+          "imageUrl": "https://f4.bcbits.com/img/0047582076_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-29",
+          "description": "The German post-metal titans show no sign of slowing. Here are a few of their triumphs. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Lists"
+          ],
+          "author": "Luke Jackson"
+        },
+        {
+          "title": "The Best Ambient Music on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047633011_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-29",
+          "description": "Our guide to the month’s crucial electronic music. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Ambient"
+          ],
+          "author": "Ted Davis"
+        },
+        {
+          "title": "Music Seen #2",
+          "link": "https://daily.bandcamp.com/music-seen/music-seen-2",
+          "imageUrl": "https://f4.bcbits.com/img/0047578843_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-29",
+          "description": "When Indie Musicians Turn Into Film Composers Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Music Seen"
+          ],
+          "author": "Elle Carroll"
+        },
+        {
+          "title": "Anne Waldman, Thurston Moore, James Ilgenfritz & Anagram Ensemble, “The Travel Agency Is On Fire”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/anne-waldman-thurston-moore-james-ilgenfritz-anagram-ensemble-the-travel-agency-is-on-fire-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047633950_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-29",
+          "description": "Cut-up poetry meets cut-up music on an album that must be heard to be believed. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "George Grella"
+        },
+        {
+          "title": "The Tape Label Report, September 2026",
+          "link": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047583242_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-28",
+          "description": "5 more tape labels to know and love. How have we not run out yet. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Tape Label Report"
+          ],
+          "author": "Bandcamp Staff"
+        },
+        {
+          "title": "The Best Hip-Hop on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047583065_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-28",
+          "description": "Our guide to the month’s crucial hip-hop LPs. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Hip-Hop"
+          ],
+          "author": "Phillip Mlynar"
+        },
+        {
+          "title": "Big Flowers & shemar, “i love nature!”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/big-flowers-shemar-i-love-nature-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047629332_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-28",
+          "description": "The New York City rapper and producer's collaboration contains a single directive: Go touch grass. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Dash Lewis"
+        },
+        {
+          "title": "Today is Bandcamp Friday",
+          "link": "https://daily.bandcamp.com/features/bandcamp-fridays",
+          "imageUrl": "https://f4.bcbits.com/img/0047631843_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-26",
+          "description": "Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Bandcamp Staff"
+        }
+      ]
+    },
+    {
+      "sourceId": "pitchfork_bnm",
+      "sourceName": "Pitchfork Reviews",
+      "badge": "PITCHFORK",
+      "category": "critical",
+      "color": "#f5222d",
+      "tier": "2手源 · 权威乐评",
+      "description": "权威独立音乐评测与 Best New Music 认证",
+      "homeUrl": "https://pitchfork.com/reviews/albums/",
+      "curatedOnly": false,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 1505,
+      "error": null,
+      "fetchedAt": "2026-10-13T16:53:29.614Z",
+      "lastOkAt": "2026-10-13T16:53:29.614Z",
+      "itemCount": 30,
+      "items": [
+        {
+          "title": "A Mile South of Heaven",
+          "link": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab178b1e1cdfe6681b364a7/master/pass/3605.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sadie Sartini Garner"
+        },
+        {
+          "title": "At Work in the Fields of the Bomb EP",
+          "link": "https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac803d6c3f6632564b720d0/master/pass/Deafheaven%20-%20AWITFOTB%20-%20EP%20Artwork.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "On a blistering surprise EP, Deafheaven find the vicious attack and grandiose drama of symphonic black metal perfectly suited to their purposes.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Patrick Lyons"
+        },
+        {
+          "title": "Quiet Storm",
+          "link": "https://pitchfork.com/reviews/albums/space-afrika-quiet-storm/",
+          "imageUrl": "https://media.pitchfork.com/photos/6accf4be107094c6276c7651/master/pass/Space%20Afrika%20-%20Quiet%20Storm.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "Born as the score to a surreal short film set on Manchester’s empty streets, the ambient duo’s latest album folds classical instrumentation and field recordings into a mood of deep introspection.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Kiana Mickles"
+        },
+        {
+          "title": "at least you know what you’re laughing at",
+          "link": "https://pitchfork.com/reviews/albums/gash-at-least-you-know-what-youre-laughing-at/",
+          "imageUrl": "https://media.pitchfork.com/photos/6accee11bbe6c01c54481945/master/pass/gash-at%20least%20you%20know%20what%20you",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "On its fourth album, the experimental rock band chases down whimsical creative impulses and arranges them into a brisk, spectral eight-song collage.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Nina Corcoran"
+        },
+        {
+          "title": "Dja Dja",
+          "link": "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a452b81a7029f511eacd6da/master/pass/Marina-Herlop-Dja-Dja.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and more dazzling than anything she’s done to date.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Matthew Blackwell"
+        },
+        {
+          "title": "Do Not Dare to Dream",
+          "link": "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac7ef5ad1e096c849ba8c71/master/pass/Teenage%20Fanclub%20Do%20Not%20Dare%20to%20Dream.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "The latest album from the Scottish band settles into pleasant but predictable folk-rock doldrums.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Ethan Beck"
+        },
+        {
+          "title": "RUIN: It’s Not Just Music",
+          "link": "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/",
+          "imageUrl": "https://media.pitchfork.com/photos/6abbfb1687c6f137636455bb/master/pass/3663729437259_cover.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "The California musician has been moving away from new age and ambient for a while, but her latest album is still surprising: a headfirst leap into drum’n’bass and brightly colored EDM.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andrew Ryce"
+        },
+        {
+          "title": "Club Imperiale",
+          "link": "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac7fa9c72e89ec54ce0557a/master/pass/Maxime%20Denuc-Club%20Imperiale.png",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-12",
+          "description": "In an ode to the Mediterranean discotheques of yore, the French composer uses MIDI-controlled pipe organs to smear elements of trance and techno into a hazy state of ecstatic longing.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Philip Sherburne"
+        },
+        {
+          "title": "Taking the Long Way",
+          "link": "https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac90149fc8a5752f3b0dc77/master/pass/The%20Chicks%20Taking%20the%20Long%20Way.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-11",
+          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the iconoclastic trio’s embattled and cathartic 2006 album: a swan song for the artists’ imperial phase and for their bitterly fractured country.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Shaad D’Souza"
+        },
+        {
+          "title": "Songs in the Key of Life - The EP",
+          "link": "https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac7f4da26778676bec2e141/master/pass/Stevie%20Wonder%20Songs%20in%20the%20Key%20of%20Life%20The%20EP.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-10",
+          "description": "A rare glimpse into the artist’s legendary and largely untapped vault of unreleased music presents four stunning outtakes from a hot streak that remains unparalleled in pop history.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Stephen Thomas Erlewine"
+        },
+        {
+          "title": "Live at Carnegie Hall",
+          "link": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a8374d55eeaf65ef2de9c77/master/pass/Live%20at%20Carnegie%20Hall_1500X.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Walden Green"
+        },
+        {
+          "title": "creole culture",
+          "link": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a733ddef9a2e451bfdf19fe/master/pass/Dawn-Richard-Creole-Culture.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "The third album in Richards’ trilogy dedicated to her hometown is a celebration of New Orleans’ dynamism: colorful, communal, triumphantly on the move.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Stephen Kearse"
+        },
+        {
+          "title": "Mud",
+          "link": "https://pitchfork.com/reviews/albums/remi-wolf-mud/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a846e7bf8d0edf80c0400c1/master/pass/MUD-cover.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "The pop singer’s dynamic but uneven third record provides a portrait of semi-reformed adulthood, powered mostly by her sheer charisma and impressive voice.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Enzo Escober"
+        },
+        {
+          "title": "Cancel Me (I’m Tired)",
+          "link": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac5144f9c284e2dc1737eb7/master/pass/Fat%20Dog%20-%20Cancel%20Me%20(I%E2%80%99m%20Tired)%20album%20art.png",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "The London band wastes a great title on a second album of garish agit-rave punk that’s larded with references and desperately short on ideas.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Laura Snapes"
+        },
+        {
+          "title": "Linda’s Head",
+          "link": "https://pitchfork.com/reviews/albums/helen-lindas-head/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a720fc6315db0fbba4a3f47/master/pass/Helen-Lindas-Head.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "Over a decade since its debut, the shoegaze trio fronted by Grouper’s Liz Harris returns for a brisk new album with its eyes trained on the sky.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sasha Geffen"
+        },
+        {
+          "title": "BULLDOZER!!",
+          "link": "https://pitchfork.com/reviews/albums/mnek-bulldozer/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac51d09adf451e6bf74f1df/master/pass/MNEK-BULLDOZER!!.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "On their second album, the London-based producer and songwriter offers bold, hook-heavy club pop, but their lyrics about self-love and queer identity often land like platitudes.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Cassidy Sollazzo"
+        },
+        {
+          "title": "c",
+          "link": "https://pitchfork.com/reviews/albums/lucy-bedroque-c/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/master/pass/Lucy%20Bedroque%20-%20c.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "Like a cross between a fashionable rave and a final boss battle, the 20 year old’s latest album is both their sleekest and most overclocked, made more for mosh pits than headphone reveries.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "H.D. Angel"
+        },
+        {
+          "title": "Bread & Butter",
+          "link": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac63e6a57d07363842bd3b1/master/pass/Your%20Old%20Droog-Bread%20&amp;%20Butter.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "The New York rapper carves out a middle ground between belligerence and introspection on his latest record, expressing gratitude for the little things in life without sacrificing his slick wordplay.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Dylan Green"
+        },
+        {
+          "title": "QRÖMELIFE",
+          "link": "https://pitchfork.com/reviews/albums/quavo-qromelife/",
+          "imageUrl": "https://media.pitchfork.com/photos/6abbfadc061d1e7ca3ebec57/master/pass/26UM1IM02290.rgb.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "Quavo feels like an afterthought on his own new solo album, which suffers from phoned-in Pharrell beats, weak features, and exhausting levels of brand placement.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alphonse Pierre"
+        },
+        {
+          "title": "Frequency of Love",
+          "link": "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a60ef3d26f57e7b7f1973bd/master/pass/VictoriaMonet_FOL_Cover_Digital_060326_01%20(1).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "The singer and songwriter’s sprawling, meticulously polished new album stretches out with swoony ballads, cinematic strings, and timeless quiet storm.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Molly Mary O’Brien"
+        },
+        {
+          "title": "my own fairytale",
+          "link": "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/",
+          "imageUrl": "https://media.pitchfork.com/photos/6abaa7b3c7133574666efdd3/master/pass/klein%20my%20own%20fairy%20tale.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "The South London artist channels Disney soundtrack tropes into claustrophobic strings and drones, while a handful of vocal tracks hint darkly at real-world family drama.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Daniel Bromfield"
+        },
+        {
+          "title": "I Don’t Wanna Say Goodbye",
+          "link": "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac529de6bd2ab7424d820ab/master/pass/Haywire%20I%20Don%E2%80%99t%20Wanna%20Say%20Goodbye.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "The Boston hardcore band aims at wider audiences on a sweetly melodic breakup album that burns as hot and fast as the ill-fated relationship it describes.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andrew Sacher"
+        },
+        {
+          "title": "All Set the Bone",
+          "link": "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a5f8c0b3c4dfb9fde52303b/master/pass/Greg%20Freeman%20-%20All%20Set%20The%20Bone%20_%20Album%20Art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "The indie rock songwriter’s latest album is menacing and ambitious, overflowing with quotable lyrics and the feverish energy of something about to fall apart.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Jayson Greene"
+        },
+        {
+          "title": "Hotel Usona",
+          "link": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab1797ee1cdfe6681b364ad/master/pass/887828057160.png",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "You can check out but you’ll never leave the Detroit post-punks’ new concept album, which grimly parodies the United States’ ugliest realities as odious guests at a cursed hotel.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Nina Corcoran"
+        },
+        {
+          "title": "My World",
+          "link": "https://pitchfork.com/reviews/albums/jam-city-my-world/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac3a26925d8e15b70177a40/master/pass/Jam%20City%20-%20My%20World.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "The UK avant-dance producer has spent recent years wandering pop music’s hinterlands, but he sounds reenergized on his latest amalgam of ’80s-tinged club, pop, and R&B.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andrew Ryce"
+        },
+        {
+          "title": "Not Normal",
+          "link": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ac3f2e12f03407037013c74/master/pass/Cara%20Delevingne%20-%20Not%20Normal%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "As it flashes from synth-pop experimentation to introspective balladry to heavy distortion, the model and actress’ debut LP is both intriguing and exhausting.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Hannah Jocelyn"
+        },
+        {
+          "title": "Cyano",
+          "link": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/",
+          "imageUrl": "https://media.pitchfork.com/photos/6abfbbb4b1d8689d3617249a/master/pass/Emily%20Sprague%20Cyano.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "The Florist musician’s latest ambient release blends her intuitive, associative songwriting with her increasingly immersive voice as a composer for modular synth.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Emma Madden"
+        },
+        {
+          "title": "B0YG1RL",
+          "link": "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab584579bf6b62aec676cd6/master/pass/b0yg1rl%20rough%20trade.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "The Miami experimental dance duo’s new album pushes their capricious, explosive mix of bouyon, synth-pop, and electroclash to anxious extremes.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Olivier Lafontant"
+        },
+        {
+          "title": "Decay",
+          "link": "https://pitchfork.com/reviews/albums/godflesh-decay/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab41594272200043ff4eb82/master/pass/Godflesh-%20Decay.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "For decades, industrial metal titan Justin K. Broadrick screamed so hard that it shredded his insides. He softens his attack on the band’s penultimate album, but they’re not going out gently.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Madison Bloom"
+        },
+        {
+          "title": "The Old Beloved Path",
+          "link": "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aa86bfaae3e28fd3939c1bc/master/pass/820233608909.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "The North Carolina folk musician pulls from centuries-old ballads and blues standards for a meditative set full of drifters, sailors, and wistful travelers.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Habib Sabet"
+        }
+      ]
+    },
+    {
+      "sourceId": "stereogum",
+      "sourceName": "Stereogum (Album of the Week)",
+      "badge": "STEREOGUM AOTW",
+      "category": "critical",
+      "color": "#13c2c2",
+      "tier": "2手源 · 核心乐评",
+      "description": "每周深度长篇乐评与年度重点唱片锁定",
+      "homeUrl": "https://www.stereogum.com/category/reviews/album-of-the-week/",
+      "curatedOnly": false,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 6435,
+      "error": null,
+      "fetchedAt": "2026-10-13T16:53:29.614Z",
+      "lastOkAt": "2026-10-13T16:53:29.614Z",
+      "itemCount": 40,
+      "items": [
+        {
+          "title": "Album Of The Week: Sophia Stel the greatest album of all time",
+          "link": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Sophia-Stel-The-Greatest-Album-Of-All-Time.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "The post Album Of The Week: Sophia Stel <em>the greatest album of all time</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Sophia Stel"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: Cameron Winter Live At Carnegie Hall",
+          "link": "https://stereogum.com/2513341/album-of-the-week-cameron-winter-live-at-carnegie-hall/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/Cameron-Winter-Live-At-Carnegie-Hall.jpeg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-06",
+          "description": "The post Album Of The Week: Cameron Winter <em>Live At Carnegie Hall</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Cameron Winter",
+            "Geese",
+            "Paul Thomas Anderson"
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Greg Freeman All Set The Bone",
+          "link": "https://stereogum.com/2512728/album-of-the-week-greg-freeman-all-set-the-bone/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Greg-Freeman-All-Set-The-Bone.jpeg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-29",
+          "description": "The post Album Of The Week: Greg Freeman <em>All Set The Bone</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Greg Freeman"
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Gilla Band Pugnello",
+          "link": "https://stereogum.com/2511953/album-of-the-week-gilla-band-pugnello/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/4000x4000_GillaBand_Pugnello_Packshot-1.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-22",
+          "description": "The post Album Of The Week: Gilla Band <em>Pugnello</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Gilla Band"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Slow Pulp Melodie",
+          "link": "https://stereogum.com/2511446/album-of-the-week-slow-pulp-melodie/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Slow_Pulp_Melodie_3000.jpeg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-15",
+          "description": "The post Album Of The Week: Slow Pulp <em>Melodie</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Slow Pulp"
+          ],
+          "author": "Margaret Farrell"
+        },
+        {
+          "title": "Album Of The Week: This Is Lorelei The Singer In My Band",
+          "link": "https://stereogum.com/2510281/album-of-the-week-this-is-lorelei-the-singer-in-my-band/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/This-Is-Lorelei-The-Singer-In-My-Band.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-08",
+          "description": "The post Album Of The Week: This Is Lorelei <em>The Singer In My Band</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "This Is Lorelei"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: Lily Seabird Lightspheres On Their Way",
+          "link": "https://stereogum.com/2509424/album-of-the-week-lily-seabird-lightspheres-on-their-way/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/unnamed-2026-08-25T173205.318.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-09-01",
+          "description": "The post Album Of The Week: Lily Seabird <em>Lightspheres On Their Way</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Lily Seabird"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Maripool Rotten Luck",
+          "link": "https://stereogum.com/2509250/album-of-the-week-maripool-rotten-luck/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/image_3-1.jpeg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-08-25",
+          "description": "The post Album Of The Week: Maripool <em>Rotten Luck</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Maripool"
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Westside Cowboy It Goes On",
+          "link": "https://stereogum.com/2508517/album-of-the-week-westside-cowboy-it-goes-on/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/Westside-Cowboy-It-Goes-On.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-08-18",
+          "description": "The post Album Of The Week: Westside Cowboy <em>It Goes On</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "WestSide Cowboy"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: L’Rain fata morgana",
+          "link": "https://stereogum.com/2507540/album-of-the-week-lrain-fata-morgana/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/08/a2180407821_10_f6c9f5.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-08-11",
+          "description": "The post Album Of The Week: L’Rain <em>fata morgana</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "L'Rain"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Ceremony Tell Me Your Dream",
+          "link": "https://stereogum.com/2506867/album-of-the-week-ceremony-tell-me-your-dream/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Ceremony-Tell-Me-Your-Dream.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-08-04",
+          "description": "The post Album Of The Week: Ceremony <em>Tell Me Your Dream</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Ceremony",
+            "John Reis"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: Mallory Hawk Chinook",
+          "link": "https://stereogum.com/2506443/album-of-the-week-mallory-hawk-chinook/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Mallory-Hawk-Chinook-Cover-final-1-scaled-2.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-07-28",
+          "description": "The post Album Of The Week: Mallory Hawk <em>Chinook</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Mallory Hawk"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Nick Hakim I Can See",
+          "link": "https://stereogum.com/2505329/album-of-the-week-nick-hakim-i-can-see/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/unnamed-2026-07-15T163831.418.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-07-21",
+          "description": "Theoretically, Nick Hakim makes soul music, but it’s more like visiting spirit music. The Queens-based polymath, a trusted collaborator for figures as disparate as Adrianne Lenker and Lil Yachty, can be heard on many kinds of records. But he may be doing his finest work in his own catalog, crafting spectral R&B songs with sound design so immaculate it becomes an instrument unto itself. The post Album Of The Week: Nick Hakim <em>I Can See</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Nick Hakim"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Quicksand Bring On The Psychics",
+          "link": "https://stereogum.com/2504902/album-of-the-week-quicksand-bring-on-the-psychics/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/Quicksand-Bring-On-The-Psychics.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-07-14",
+          "description": "The post Album Of The Week: Quicksand <em>Bring On The Psychics</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Quicksand",
+            "Walter Schreifels"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: Kelela new avatar",
+          "link": "https://stereogum.com/2504380/album-of-the-week-kelela-new-avatar/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/a1820018607_10.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-07-07",
+          "description": "The post Album Of The Week: Kelela <em>new avatar</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Fousheé",
+            "Kelela",
+            "Oscar Scheller",
+            "PinkPantheress"
+          ],
+          "author": "Margaret Farrell"
+        },
+        {
+          "title": "Album Of The Week: Nixon Boyd Every Time We Turn A Corner",
+          "link": "https://stereogum.com/2503205/album-of-the-week-nixon-boyd-every-time-we-turn-a-corner/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/download-1.jpeg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-06-30",
+          "description": "The post Album Of The Week: Nixon Boyd <em>Every Time We Turn A Corner</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Nixon Boyd"
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Tasha You Are Spring!",
+          "link": "https://stereogum.com/2502949/album-of-the-week-tasha-you-are-spring/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/download-9.png?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-06-23",
+          "description": "The post Album Of The Week: Tasha <em>You Are Spring!</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Jamila Woods",
+            "L'Rain",
+            "Tasha"
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Styrofoam Winos Any River",
+          "link": "https://stereogum.com/2502000/album-of-the-week-styrofoam-winos-any-river/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1568021251_10-1.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-06-16",
+          "description": "The post Album Of The Week: Styrofoam Winos <em>Any River</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Styrofoam Winos"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Wiki Ancient History",
+          "link": "https://stereogum.com/2501203/album-of-the-week-wiki-ancient-history/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/Wiki-Ancient-History.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-06-09",
+          "description": "The post Album Of The Week: Wiki <em>Ancient History</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Wiki"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: Slippers Slippers 08",
+          "link": "https://stereogum.com/2500983/album-of-the-week-slippers-slippers-08/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/06/a1243030580_10.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-06-02",
+          "description": "The post Album Of The Week: Slippers <em>Slippers 08</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Slippers"
+          ],
+          "author": "Margaret Farrell"
+        },
+        {
+          "title": "Album Of The Week: ear Rumspringa",
+          "link": "https://stereogum.com/2500138/album-of-the-week-ear-rumspringa/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/ear-Rumspringa.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-05-26",
+          "description": "The post Album Of The Week: ear <em>Rumspringa</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "ear"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Lowertown Ugly Duckling Union",
+          "link": "https://stereogum.com/2499260/album-of-the-week-lowertown-ugly-duckling-union/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Lowertown-Album-Art-Ugly-Duckling-Union.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-05-19",
+          "description": "The post Album Of The Week: Lowertown <em>Ugly Duckling Union</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Lowertown",
+            "Olivia O."
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Touch Girl Apple Blossom Graceful",
+          "link": "https://stereogum.com/2498695/album-of-the-week-touch-girl-apple-blossom-graceful/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/tgab.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-05-12",
+          "description": "The post Album Of The Week: Touch Girl Apple Blossom <em>Graceful</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Touch Girl Apple Blossom"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "Album Of The Week: Aldous Harding Train On The Island",
+          "link": "https://stereogum.com/2497851/album-of-the-week-aldous-harding-train-on-the-island/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/05/Train-On-The-Island.png?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-05-05",
+          "description": "The post Album Of The Week: Aldous Harding <em>Train On The Island</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Aldous Harding"
+          ],
+          "author": "Margaret Farrell"
+        },
+        {
+          "title": "Album Of The Week: Lip Critic Theft World",
+          "link": "https://stereogum.com/2497108/album-of-the-week-lip-critic-theft-world/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Theft-World.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-04-28",
+          "description": "The post Album Of The Week: Lip Critic <em>Theft World</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Lip Critic"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Carla dal Forno Confession",
+          "link": "https://stereogum.com/2496478/album-of-the-week-carla-dal-forno-confession/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/Carla-Dal-Forno-Confession.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-04-21",
+          "description": "The post Album Of The Week: Carla dal Forno <em>Confession</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Carla dal Forno"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "Album Of The Week: Winston Hightower 100 Acre Wood",
+          "link": "https://stereogum.com/2495758/album-of-the-week-winston-hightower-100-acre-wood/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/100-Acre-Wood.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-04-14",
+          "description": "Winston Hightower is indisputably punk. That’s not just because he’s been a touring bassist for hardcore bands like Soul Glo, Minority Threat, and Twompsax. The Columbus-born musician first began self-releasing his music over a decade ago, and across countless releases — most of them hard to find these days — Hightower’s career so far has seen him subtly incorporate post-punk, rap, and jazz into his ramshackle indie pop. He’s accrued the type of vast, elusive catalog that seems requisite for a DIY legend in the making. Judging by his songs, he’s an outsider, but he’s also a deeply connected player in the Midwest’s underground scene. His fringe appeal and defiant spirit together position him to be a celebrated cult favorite in the future. A few decades from now, perhaps 100 Acre Wood will be the record to introduce late arrivals to Hightower’s world. The post Album Of The Week: Winston Hightower <em>100 Acre Wood</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Winston Hightower"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "Album Of The Week: WU LYF A Wave That Will Never Break",
+          "link": "https://stereogum.com/2494947/album-of-the-week-wu-lyf-a-wave-that-will-never-break/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/04/WU-LYF-A-Wave-That-Will-Never-Break.jpeg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-04-07",
+          "description": "The post Album Of The Week: WU LYF <em>A Wave That Will Never Break</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "WU LYF"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: Makthaverskan Glass And Bones",
+          "link": "https://stereogum.com/2494076/album-of-the-week-makthaverskan-glass-and-bones/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/Cover_-Makthaverskan-Glass-and-Bones.png?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-03-31",
+          "description": "The post Album Of The Week: Makthaverskan <em>Glass And Bones</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Makthaverskan"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Stuck Optimizer",
+          "link": "https://stereogum.com/2493187/album-of-the-week-stuck-optimizer/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/15e59b6f-c7a0-dd75-f2f4-5b42eebd2f2d.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-03-24",
+          "description": "A post-punk album grappling with the advancement of technology is about as common as an ad on your Instagram feed. A man bemoaning content nausea in a deadpan over animated guitars may be a bit played out at this point. But it’s 2026 and things are weirder than ever. You can be an influencer for smashing your jawbone with a hammer . You can livestream yourself being abused and humiliated until you die . Has the link between the expanding digital world and the desire for self-destruction ever been this clear before? This is something Chicago band Stuck explore on their new album Optimizer . The post Album Of The Week: Stuck <em>Optimizer</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Stuck"
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Grace Ives Girlfriend",
+          "link": "https://stereogum.com/2492498/album-of-the-week-grace-ives-girlfriend/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/Grace-Ives-Girlfriend.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-03-17",
+          "description": "The post Album Of The Week: Grace Ives <em>Girlfriend</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Ariel Rechtshaid",
+            "Grace Ives"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "Album Of The Week: Kim Gordon PLAY ME",
+          "link": "https://stereogum.com/2491669/album-of-the-week-kim-gordon-play-me/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/03/cover-Kim-Gordon-PLAY-ME.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-03-10",
+          "description": "The post Album Of The Week: Kim Gordon <em>PLAY ME</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Kim Gordon"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Various Artists’ HELP(2)",
+          "link": "https://stereogum.com/2490550/album-of-the-week-war-childs-help2/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Help2.jpeg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-03-03",
+          "description": "We need to bring back compilations. I mean, we won't. You can understand why we won't. Compilations are fully technologically obsolete, since streaming services turn everything into compilations. You no longer need to buy the soundtrack album for some movie that you'll never watch to hear 15 bands that you like and/or tolerate and/or are curious to check out and/or have never heard of. Also, compilations must be an almighty pain in the ass to coordinate. But when a compilation hits right, that's a glorious feeling. When you walk into a record store and you're like, \"Wait, they're on it? And her ? And these other two people, together ?\" And then you take it home and all the songs from disparate artists somehow work as a single listening experience? That's the stuff, baby. The post Album Of The Week: Various Artists’ <em>HELP(2)</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Anna Calvi",
+            "Arctic Monkeys",
+            "Arooj Aftab",
+            "Bat For Lashes",
+            "beabadoobee",
+            "Beck",
+            "Black Country New Road",
+            "Damon Albarn",
+            "Depeche Mode",
+            "English Teacher",
+            "Fontaines D.C.",
+            "Grian Chatten",
+            "James Ford",
+            "Kae Tempest",
+            "King Krule",
+            "Oasis",
+            "Olivia Rodrigo",
+            "Wet Leg"
+          ],
+          "author": "Tom Breihan"
+        },
+        {
+          "title": "Album Of The Week: deathcrash Somersaults",
+          "link": "https://stereogum.com/2490127/album-of-the-week-deathcrash-somersaults/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Deathcrash-Somersaults.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-02-24",
+          "description": "The post Album Of The Week: deathcrash <em>Somersaults</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "deathcrash"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "Album Of The Week: Mx Lonely All Monsters",
+          "link": "https://stereogum.com/2489529/album-of-the-week-mx-lonely-all-monsters/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Mx-Lonely-All-Monsters.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-02-18",
+          "description": "The post Album Of The Week: Mx Lonely <em>All Monsters</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Mx Lonely"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "Album Of The Week: hemlocke springs the apple tree under the sea",
+          "link": "https://stereogum.com/2488732/album-of-the-week-hemlocke-springs-the-apple-tree-under-the-sea/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Hemlocke-Springs.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-02-10",
+          "description": "The post Album Of The Week: hemlocke springs <em>the apple tree under the sea</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Burns",
+            "Hemlocke Springs"
+          ],
+          "author": "Margaret Farrell"
+        },
+        {
+          "title": "Album Of The Week: Mandy, Indiana URGH",
+          "link": "https://stereogum.com/2487243/album-of-the-week-mandy-indiana-urgh/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/Mandy-Indiana-URGH-album-art.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-02-03",
+          "description": "The post Album Of The Week: Mandy, Indiana <em>URGH</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "billy woods",
+            "Daniel Fox",
+            "Mandy Indiana"
+          ],
+          "author": "Chris DeVille"
+        },
+        {
+          "title": "Album Of The Week: Joyce Manor I Used To Go To This Bar",
+          "link": "https://stereogum.com/2486605/album-of-the-week-joyce-manor-i-used-to-go-to-this-bar/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2025/10/joyce-manor-1759755999.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-01-27",
+          "description": "The post Album Of The Week: Joyce Manor <em>I Used To Go To This Bar</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Joyce Manor"
+          ],
+          "author": "Danielle Chelosky"
+        },
+        {
+          "title": "Album Of The Week: Victoryland My Heart Is A Room With No Cameras In It",
+          "link": "https://stereogum.com/2485965/album-of-the-week-victoryland-my-heart-is-a-room-with-no-cameras-in-it/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/My-Heart-final-cover-1.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-01-20",
+          "description": "The post Album Of The Week: Victoryland <em>My Heart Is A Room With No Cameras In It</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Victoryland"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "Album Of The Week: Sassy 009 Dreamer+",
+          "link": "https://stereogum.com/2484456/album-of-the-week-sassy-009-dreamer/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/Sassy-009-Dreamer.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-01-13",
+          "description": "The post Album Of The Week: Sassy 009 <em>Dreamer+</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "BEA1991",
+            "Blood Orange",
+            "Sassy 009",
+            "yunè pinku"
+          ],
+          "author": "Tom Breihan"
+        }
+      ]
+    },
+    {
+      "sourceId": "fantano",
+      "sourceName": "The Needle Drop (Fantano)",
+      "badge": "FANTANO REVIEW",
+      "category": "critical",
+      "color": "#fa541c",
+      "tier": "2手源 · 视频乐评",
+      "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
+      "homeUrl": "https://www.youtube.com/c/theneedledrop",
+      "curatedOnly": false,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 1596,
+      "error": null,
+      "fetchedAt": "2026-10-13T16:53:29.614Z",
+      "lastOkAt": "2026-10-13T16:53:29.614Z",
+      "itemCount": 15,
+      "items": [
+        {
+          "title": "Cameron Winter - Live at Carnegie Hall ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=IB7GmiQm9xA",
+          "imageUrl": "https://i2.ytimg.com/vi/IB7GmiQm9xA/hqdefault.jpg",
+          "embedId": "IB7GmiQm9xA",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "Listen: https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall Cameron manages to upstage a lot of his already great studio material in this raw and stripped-back live performance. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: IT ALL FELL IN THE RIVER, TRY AS I MAY, THE ROLLING STONES, LOVE TAKES MILES, DRINKING AGE, CANCER OF THE SKULL, IF YOU TURN BACK NOW, $0 LEAST FAV TRACK: NINA + FIELD OF COPS CAMERON WINTER - LIVE AT CARNEGIE HALL / 2026 / PARTISAN / SINGER-SONGWRITER, PIANO BALLADS 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Swans - Newly Sentient Being ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=9xsmpDaz-7k",
+          "imageUrl": "https://i2.ytimg.com/vi/9xsmpDaz-7k/hqdefault.jpg",
+          "embedId": "9xsmpDaz-7k",
+          "audioSrc": "",
+          "pubDate": "2026-10-11",
+          "description": "Listen: https://swans.bandcamp.com/album/newly-sentient-being This tremendous phase of Swans closes with a bang on Newly Sentient Being. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen (i love this album a lot; shoutout to Phil for eating the honey) =================================== FAV TRACKS: THE END OF FORGETTING, THE MERGE, PARADISE IS MINE, NEWLY SENTIENT BEING SWANS - NEWLY SENTIENT BEING / 2026 / YOUNG GOD / TRANSCENDENTAL ROCK, TOTALISM, CONDUCTED IMPROV 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Quavo - QRÖMELIFE ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=vf_kJvlDO2E",
+          "imageUrl": "https://i3.ytimg.com/vi/vf_kJvlDO2E/hqdefault.jpg",
+          "embedId": "vf_kJvlDO2E",
+          "audioSrc": "",
+          "pubDate": "2026-10-09",
+          "description": "Listen: https://www.youtube.com/watch?v=M5PZIuXHIc4 Apart from a few fun spots, QRÖMELIFE is a pretty inconsistent project. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BACKWARDS, BA, BABY BREATH, TRANCE LEAST FAV TRACK: HOUSE MUSIC QUAVO - QRÖMELIFE / 2026 / QUALITY CONTROL / TRAP, POP RAP 5/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Kyle Gordon - Kyle Gordon Is Everywhere ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=4SElICJfL2A",
+          "imageUrl": "https://i1.ytimg.com/vi/4SElICJfL2A/hqdefault.jpg",
+          "embedId": "4SElICJfL2A",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "Listen: https://www.youtube.com/watch?v=FNXoEhcz8z4 Kyle Gordon really is everywhere on this one. Review by Prof. Bartholomew J. Giggens: https://www.youtube.com/user/Giggens More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== KYLE GORDON - KYLE GORDON IS EVERYWHERE / 2026 / BMG / MUSIC THAT TAKES YOU EVERYWHERE EVEN THE DARKEST SPACES OF YOUR PSYCHE GIGGENS LOVES IT/10 Y'all know this is just his opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Quadeca - Life 1 ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=1X3rXmuTxs8",
+          "imageUrl": "https://i2.ytimg.com/vi/1X3rXmuTxs8/hqdefault.jpg",
+          "embedId": "1X3rXmuTxs8",
+          "audioSrc": "",
+          "pubDate": "2026-10-08",
+          "description": "Listen: https://www.youtube.com/watch?v=0e6a0RFP69I Quadeca is really in sandbox mode on Life 1, with mixed but mostly positive results. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: DARK MAGIC, IT GOES LIKE THIS, MAKE YOU MY WHAT, LIKE YOU ALWAYS DO, BABY STEPS QUADECA - LIFE 1 / 2026 / X8 / INDIETRONIC, BEDROOM POP 6/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "C.O.F.F.I.N - Out in Oslo ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=5o7CRuHlZ4Y",
+          "imageUrl": "https://i2.ytimg.com/vi/5o7CRuHlZ4Y/hqdefault.jpg",
+          "embedId": "5o7CRuHlZ4Y",
+          "audioSrc": "",
+          "pubDate": "2026-10-07",
+          "description": "Listen: https://coffin-aus.bandcamp.com/album/out-in-oslo C.O.F.F.I.N's most commendable album yet. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: OUT IN OSLO, SLEEP IN IT, A PLACE TO STAY, WON'T LET YOU DOWN, FAIR ENOUGH, MILES AWAY LEAST FAV TRACK: GETTIN' DOWN C.O.F.F.I.N - OUT IN OSLO / 2026 / P(DOOM) / PUB ROCK, GARAGE PUNK 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Gilla Band - Pugnello ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=Bww3HG12uHM",
+          "imageUrl": "https://i3.ytimg.com/vi/Bww3HG12uHM/hqdefault.jpg",
+          "embedId": "Bww3HG12uHM",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "Listen: https://gillaband.bandcamp.com/album/pugnello Gilla Band ramp up the emotional and aural intensity dramatically on Pugnello. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: THE ANGELUS, PLACEHOLDER, ALOGIA, THREE HANDS CLAPPING, THE MEGAZORD GILLA BAND - PUGNELLO / 2026 / ROUGH TRADE / NO WAVE, ELECTRO-INDUSTRIAL, NOISE ROCK 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Jane Remover, Olivia Rodrigo, Lil Nas X, Queens of the Stone Age | Weekly Track Roundup: 10/4/26",
+          "link": "https://www.youtube.com/watch?v=WB18IsgNbBw",
+          "imageUrl": "https://i4.ytimg.com/vi/WB18IsgNbBw/hqdefault.jpg",
+          "embedId": "WB18IsgNbBw",
+          "audioSrc": "",
+          "pubDate": "2026-10-05",
+          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Death from Above 1979 - Private Lives https://www.youtube.com/watch?v=jTU413OX9Ig Olivia Rodrigo - stupid song (acoustic) https://www.youtube.com/watch?v=nukExJiF-y0 Shabazz Palaces - Tongue in Chic https://www.youtube.com/watch?v=c8atcotZcW0 Phoebe Bridgers - On Video https://www.youtube.com/watch?v=03u5jRjmd1Y Remi Wolf - I Won’t Cry https://www.youtube.com/watch?v=3Hxmu5BGqtQ Artificial Brain - Quantum Malignancies https://www.youtube.com/watch?v=qhu8OANlP74 Jane Remover - Beauty Sleep https://www.youtube.com/watch?v=_Y6pS1yoR2Y HMLTD - Umami https://www.youtube.com/watch?v=OhAQzRESRZs Assumption - Tombs Upon the Sun https://www.youtube.com/watch?v=j7m85BoMRcQ Jill Scott - Right Here Right Now (Jill Scott x Terry Hunter) https://www.youtube.com/watch?v=DQCXk4rQmCQ Michael Kiwanuka - Summer Clothes https://www.youtube.com/watch?v=gyv7buFhdvk Fontaines D.C. - Tongue https://www.youtube.com/watch?v=5OsIwKHppho Father John Misty - The X-panded Universe https://www.youtube.com/watch?v=sLi10D14R-k PISS - blocking a scene you can’t remember https://www.youtube.com/watch?v=ShDocSCuiIU brakence - death rolL https://www.youtube.com/watch?v=adAuew652Dw horsegiirL & Dylan Brady - c*ntry girl rock https://www.youtube.com/watch?v=KK1uB5fXdJo Ninajirachi - CSIRAC (Dylan Brady Remix) https://www.youtube.com/watch?v=J6feH_r5Y4g Rachel Chinouriri - Broken chair https://www.youtube.com/watch?v=zpg0xh-ypPs Cowboy Hunters - Punched in the Head https://www.youtube.com/watch?v=1mEoKOldwKs …meh… Ugly (UK) - Nat Cora & The Nations https://www.youtube.com/watch?v=SInlGIBorX0 The Rolling Stones - Bad Luck Hideaway https://www.youtube.com/watch?v=0xwqjyhFLZk Snõõper - Mouth Closed https://www.youtube.com/watch?v=T41YkBwZ80A Madonna & Charli xcx - Danceteria Afterhours https://www.youtube.com/watch?v=cUzhLWbvmic !!!WORST TRACKS THIS WEEK!!! Lil Nas X - World’s Greatest! https://www.youtube.com/watch?v=clkCS0Fk8Hk Queens of the Stone Age - Where the Goth Girls At? https://www.youtube.com/watch?v=eAOIpDUDGX4 Polyphia - WITH EYES TO SEE https://www.youtube.com/watch?v=WyfIzJwwOTc 2Slimey - Die for This https://www.youtube.com/watch?v=_ViWXh4xY4o 2hollis - Warhorse https://www.youtube.com/watch?v=BThCK0HF1Dw brakence - ready or noT (i like this one 😭 - austen) https://www.youtube.com/watch?v=MM0yi-Op4h8 U2 - Silencio https://www.youtube.com/watch?v=1mCN-RDh0-0 xaviersobased - Off tha Meter https://www.youtube.com/watch?v=VWl2tnAGYxo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "LOVE THESE ALBUMS 💛",
+          "link": "https://www.youtube.com/shorts/3FxDHBcANtg",
+          "imageUrl": "https://i4.ytimg.com/vi/3FxDHBcANtg/hqdefault.jpg",
+          "embedId": "3FxDHBcANtg",
+          "audioSrc": "",
+          "pubDate": "2026-10-04",
+          "description": "#music",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Carly Rae Jepsen - Day and Night ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=QmTEuVJVO9M",
+          "imageUrl": "https://i2.ytimg.com/vi/QmTEuVJVO9M/hqdefault.jpg",
+          "embedId": "QmTEuVJVO9M",
+          "audioSrc": "",
+          "pubDate": "2026-10-02",
+          "description": "Listen: https://www.youtube.com/watch?v=BoulWzXVL4Q Really a tale of two albums. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ON WIRES, WILD CHILD, GOOD FINE ALRIGHT, DON'T LEAVE ME ON THE DANCE FLOOR, NEAR OR FAR, HOLD ME TO THE LIGHT, THAT'S JUST ME, SUPER SAGE LEAST FAV TRACK: JUST A LITTLE WALK ON THE MOON CARLY RAE JEPSEN - DAY AND NIGHT / 2026 / INTERSCOPE / POP DAY: 5/10 NIGHT: 7/10 BOTH: 6/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Pain of Truth - Self-Titled ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=pspQzibTedE",
+          "imageUrl": "https://i1.ytimg.com/vi/pspQzibTedE/hqdefault.jpg",
+          "embedId": "pspQzibTedE",
+          "audioSrc": "",
+          "pubDate": "2026-10-01",
+          "description": "Listen: https://dazestyle.bandcamp.com/album/pain-of-truth Less dynamic than the band's debut, but still a pretty solid effort. More hardcore reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: DONE FOR, STRANDED, UNFORGIVEN, FED BY FEAR, FILTH IN YOUR HEAD LEAST FAV TRACK: CHINATOWN NY PAIN OF TRUTH - PAIN OF TRUTH / 2026 / DAZE / BEATDOWN, METALCORE 6/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "THIS OR THAT: new albums ✅",
+          "link": "https://www.youtube.com/shorts/Lvhbk7KRTqA",
+          "imageUrl": "https://i1.ytimg.com/vi/Lvhbk7KRTqA/hqdefault.jpg",
+          "embedId": "Lvhbk7KRTqA",
+          "audioSrc": "",
+          "pubDate": "2026-10-01",
+          "description": "#music #thisorthat",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Tinashe - Popstar ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=ZYxjZiNfZQc",
+          "imageUrl": "https://i3.ytimg.com/vi/ZYxjZiNfZQc/hqdefault.jpg",
+          "embedId": "ZYxjZiNfZQc",
+          "audioSrc": "",
+          "pubDate": "2026-09-30",
+          "description": "Listen: https://www.youtube.com/watch?v=6a2g12aE8kI Such a fun and versatile pop album. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SUNGLASSES, TOO EASY, EMPTY STADIUM, FLASHBACKS, I'D RATHER BE ALONE, CRASH OUT, PILLOW FIGHT, NOBODY WANNA DANCE ANYMORE, POPSTAR, CLOUD 9 LEAST FAV TRACK: BRAINROT TINASHE - POPSTAR / 2026 / NICE LIFE / ALT R&B, DANCE-POP 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Protomartyr - Hotel Usona ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=uIolbXfsg6Q",
+          "imageUrl": "https://i2.ytimg.com/vi/uIolbXfsg6Q/hqdefault.jpg",
+          "embedId": "uIolbXfsg6Q",
+          "audioSrc": "",
+          "pubDate": "2026-09-29",
+          "description": "Listen: https://protomartyr.bandcamp.com/album/hotel-usona One of the grandest rock albums you'll hear all year. Interview w/ the band: https://www.youtube.com/watch?v=U-7WNPIFkCc More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SOUNDS WE CANNOT HEAR, EXALTED EAGLES, THE KNIFE DREAM, FEED THE SEWER, LAVENDER - GOSPEL, THIRD COUNTRY LEAST FAV TRACK: CONVERTS PROTOMARTYR - HOTEL USONA / 2026 / DOMINO / ART PUNK, ORCHESTRAL ROCK 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "albums with beautiful voices 🎤✨",
+          "link": "https://www.youtube.com/shorts/sdFTe7sj1ho",
+          "imageUrl": "https://i4.ytimg.com/vi/sdFTe7sj1ho/hqdefault.jpg",
+          "embedId": "sdFTe7sj1ho",
+          "audioSrc": "",
+          "pubDate": "2026-09-27",
+          "description": "#music #vocals #singing",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        }
+      ]
+    }
+  ],
+  "enrichment": {
+    "https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/": {
+      "artist": "Deafheaven",
+      "album": "At Work in the Fields of the Bomb EP"
+    },
+    "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/": {
+      "artist": "Jess Williamson",
+      "album": "A Mile South of Heaven"
+    },
+    "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/": {
+      "artist": "Marina Herlop",
+      "album": "Dja Dja"
+    },
+    "https://pitchfork.com/reviews/albums/gash-at-least-you-know-what-youre-laughing-at/": {
+      "artist": "Gash",
+      "album": "at least you know what you’re laughing at"
+    },
+    "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/": {
+      "artist": "Teenage Fanclub",
+      "album": "Do Not Dare to Dream"
+    },
+    "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/": {
+      "artist": "Kaitlyn Aurelia Smith",
+      "album": "RUIN: It’s Not Just Music"
+    },
+    "https://pitchfork.com/reviews/albums/space-afrika-quiet-storm/": {
+      "artist": "Space Afrika",
+      "album": "Quiet Storm"
+    },
+    "https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/": {
+      "artist": "The Chicks",
+      "album": "Taking the Long Way"
+    },
+    "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/": {
+      "artist": "Maxime Denuc",
+      "album": "Club Imperiale"
+    },
+    "https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/": {
+      "artist": "Stevie Wonder",
+      "album": "Songs in the Key of Life - The EP"
+    },
+    "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/": {
+      "artist": "Cameron Winter",
+      "album": "Live at Carnegie Hall"
+    },
+    "https://pitchfork.com/reviews/albums/remi-wolf-mud/": {
+      "artist": "Remi Wolf",
+      "album": "Mud"
+    },
+    "https://pitchfork.com/reviews/albums/mnek-bulldozer/": {
+      "artist": "MNEK",
+      "album": "BULLDOZER!!"
+    },
+    "https://pitchfork.com/reviews/albums/helen-lindas-head/": {
+      "artist": "Helen",
+      "album": "Linda’s Head"
+    },
+    "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/": {
+      "artist": "Fat Dog",
+      "album": "Cancel Me (I’m Tired)"
+    },
+    "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/": {
+      "artist": "Dawn Richard",
+      "album": "creole culture"
+    },
+    "https://pitchfork.com/reviews/albums/quavo-qromelife/": {
+      "artist": "Quavo",
+      "album": "QRÖMELIFE"
+    },
+    "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/": {
+      "artist": "Klein",
+      "album": "my own fairytale"
+    },
+    "https://pitchfork.com/reviews/albums/lucy-bedroque-c/": {
+      "artist": "Lucy Bedroque",
+      "album": "c"
+    },
+    "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/": {
+      "artist": "Your Old Droog",
+      "album": "Bread & Butter"
+    },
+    "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/": {
+      "artist": "Victoria Monét",
+      "album": "Frequency of Love"
+    },
+    "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/": {
+      "artist": "Protomartyr",
+      "album": "Hotel Usona"
+    },
+    "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/": {
+      "artist": "Haywire",
+      "album": "I Don’t Wanna Say Goodbye"
+    },
+    "https://pitchfork.com/reviews/albums/jam-city-my-world/": {
+      "artist": "Jam City",
+      "album": "My World"
+    },
+    "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/": {
+      "artist": "Cara Delevingne",
+      "album": "Not Normal"
+    },
+    "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/": {
+      "artist": "Greg Freeman",
+      "album": "All Set the Bone"
+    },
+    "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/": {
+      "artist": "B0YG1RL",
+      "album": "B0YG1RL"
+    },
+    "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/": {
+      "artist": "Emily A. Sprague",
+      "album": "Cyano"
+    },
+    "https://pitchfork.com/reviews/albums/godflesh-decay/": {
+      "artist": "Godflesh",
+      "album": "Decay"
+    },
+    "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/": {
+      "artist": "Jake Xerxes Fussell",
+      "album": "The Old Beloved Path"
+    }
   }
-]
+}

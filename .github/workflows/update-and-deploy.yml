@@ -1,0 +1,71 @@
+name: Sonic Radar Auto Fetch & Deploy
+
+# ⚠️ 本文件必须位于仓库根目录的 .github/workflows/ 下，GitHub Actions 才会加载。
+#    历史上的 workflow 被放在 _build/workflows/，因此这条自动化从未真正执行过，
+#    index.html 一直是手工构建的产物。
+
+on:
+  schedule:
+    # 每天 UTC 00:00 / 12:00（北京时间 08:00 / 20:00）
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [master, main]
+
+# 避免定时任务与手动触发叠加执行
+concurrency:
+  group: sonic-radar-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch feeds (partial failure is tolerated)
+        id: fetch
+        run: node _build/fetch.mjs
+
+      - name: Build static site
+        id: build
+        run: node _build/build.mjs
+
+      - name: Report source health
+        if: always()
+        run: node _build/report.mjs >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Commit and push if updated
+        run: |
+          if [ -z "$(git status --porcelain _build/cache.json index.html)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _build/cache.json index.html
+          git commit -m "chore(sync): automated radar feeds sync [skip ci]"
+          git push
+
+      # 部署说明
+      # 本仓库采用 GitHub Pages 的「分支发布」模式（发布源为 master 根目录，配合根目录 .nojekyll），
+      # 因此把构建产物提交回仓库即可完成上线，无需 actions/deploy-pages。
+      # 若以后切换到 GitHub Actions 发布模式，请追加官方 pages 部署步骤：
+      #   - uses: actions/configure-pages@v5
+      #   - uses: actions/upload-pages-artifact@v3
+      #     with: { path: . }
+      #   - uses: actions/deploy-pages@v4
+      # 并补回 permissions: pages: write / id-token: write

@@ -180,6 +180,43 @@ body {
   background: rgba(255, 255, 255, 0.05);
 }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.lang-toggle-btn {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-dim);
+  border-radius: var(--radius-md);
+  padding: 6px 12px;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: var(--transition-smooth);
+}
+
+.lang-toggle-btn:hover {
+  border-color: var(--accent-cyan);
+  color: #fff;
+  background: rgba(0, 242, 254, 0.08);
+}
+
+.lang-text.active {
+  color: var(--accent-cyan);
+  font-weight: 700;
+}
+
+.lang-divider {
+  opacity: 0.4;
+  margin: 0 1px;
+}
+
 /* 主容器 */
 .main-container {
   max-width: 1400px;
@@ -569,6 +606,84 @@ body {
 .source-badge.thewire { border-color: rgba(114, 46, 209, 0.4); color: #b37feb; }
 .source-badge.boomkat { border-color: rgba(47, 84, 235, 0.4); color: #85a5ff; }
 .source-badge.fantano { border-color: rgba(250, 84, 28, 0.4); color: #ff9c6e; }
+
+/* 多平台共识评分条 (Scores Bar) */
+.scores-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  align-items: center;
+  margin-top: -2px;
+  margin-bottom: 2px;
+}
+
+.score-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border-dim);
+  line-height: 1.2;
+}
+
+.score-label {
+  font-weight: 700;
+  font-size: 0.6rem;
+  opacity: 0.8;
+}
+
+.score-val {
+  font-weight: 800;
+  color: #fff;
+}
+
+.score-pill.pitchfork {
+  border-color: rgba(245, 34, 45, 0.35);
+  background: rgba(245, 34, 45, 0.08);
+  color: #ff7875;
+}
+
+.score-pill.pitchfork.bnm {
+  border-color: #ff4d4f;
+  box-shadow: 0 0 10px rgba(255, 77, 79, 0.35);
+}
+
+.score-extra {
+  background: #ff4d4f;
+  color: #000;
+  font-size: 0.55rem;
+  padding: 0 3px;
+  border-radius: 2px;
+  font-weight: 900;
+}
+
+.score-pill.fantano {
+  border-color: rgba(250, 84, 28, 0.35);
+  background: rgba(250, 84, 28, 0.08);
+  color: #ff9c6e;
+}
+
+.score-pill.rym {
+  border-color: rgba(47, 84, 235, 0.35);
+  background: rgba(47, 84, 235, 0.08);
+  color: #85a5ff;
+}
+
+.score-pill.aoty {
+  border-color: rgba(250, 140, 22, 0.35);
+  background: rgba(250, 140, 22, 0.08);
+  color: #ffc069;
+}
+
+.score-pill.douban {
+  border-color: rgba(56, 158, 13, 0.35);
+  background: rgba(56, 158, 13, 0.08);
+  color: #73d13d;
+}
 
 /* 专辑评述导言 */
 .card-summary {

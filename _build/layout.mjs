@@ -1,6 +1,6 @@
 /**
- * HTML 模板与页面布局生成器 (Global Avant-Garde & Underground)
- * 纯粹聚焦全球先锋实验、地下独立与权威乐评
+ * HTML 模板与页面布局生成器
+ * 支持中英双语切换与多平台共识评分 (Pitchfork, RYM, AOTY, 豆瓣)
  */
 
 export function renderPage({ entries, liveStreams, sources }) {
@@ -31,6 +31,34 @@ export function renderPage({ entries, liveStreams, sources }) {
       ${entry.links?.bandcamp ? `<a href="${entry.links.bandcamp}" target="_blank" rel="noopener" class="ext-link">Bandcamp ↗</a>` : ''}
       ${entry.links?.spotify ? `<a href="${entry.links.spotify}" target="_blank" rel="noopener" class="ext-link">Spotify ↗</a>` : ''}
       ${entry.links?.youtube ? `<a href="${entry.links.youtube}" target="_blank" rel="noopener" class="ext-link">YouTube ↗</a>` : ''}
+    `;
+
+    // 多平台评分卡片
+    const scores = entry.scores || {};
+    const scoresHtml = `
+      <div class="scores-bar" title="Consensus Scores / 多平台共识评分">
+        <div class="score-pill pitchfork ${scores.pitchfork?.bnm ? 'bnm' : ''}" title="Pitchfork Score">
+          <span class="score-label">P4K</span>
+          <span class="score-val">${scores.pitchfork?.score || '-'}</span>
+          ${scores.pitchfork?.bnm ? '<span class="score-extra">BNM</span>' : ''}
+        </div>
+        <div class="score-pill fantano" title="The Needle Drop (Fantano) Review Score">
+          <span class="score-label">TND</span>
+          <span class="score-val">${scores.fantano?.score || '-'}</span>
+        </div>
+        <div class="score-pill rym" title="RateYourMusic Rating (0.0-5.0)">
+          <span class="score-label">RYM</span>
+          <span class="score-val">${scores.rym?.score || '-'}</span>
+        </div>
+        <div class="score-pill aoty" title="Album of the Year (0-100)">
+          <span class="score-label">AOTY</span>
+          <span class="score-val">${scores.aoty?.score || '-'}</span>
+        </div>
+        <div class="score-pill douban" title="豆瓣音乐评分 (0.0-10.0)">
+          <span class="score-label">豆瓣</span>
+          <span class="score-val">${scores.douban?.score || '-'}</span>
+        </div>
+      </div>
     `;
 
     return `
@@ -68,6 +96,8 @@ export function renderPage({ entries, liveStreams, sources }) {
           ${badgesHtml}
         </div>
 
+        ${scoresHtml}
+
         <p class="card-summary">${entry.summary || 'No review description available.'}</p>
 
         <div class="genre-tags">
@@ -76,7 +106,7 @@ export function renderPage({ entries, liveStreams, sources }) {
 
         <div class="card-actions">
           <button class="play-preview-btn" type="button">
-            <span>▶</span> Preview
+            <span>▶</span> <span data-i18n="btn_preview">试听 Preview</span>
           </button>
           <div class="platform-links">
             ${linksHtml}
@@ -113,19 +143,19 @@ export function renderPage({ entries, liveStreams, sources }) {
   const timestamp = Date.now();
 
   return `<!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
   <meta http-equiv="Pragma" content="no-cache">
   <meta http-equiv="Expires" content="0">
-  <title>SONIC RADAR · Global Avant-Garde &amp; Underground Music Radar</title>
-  <meta name="description" content="Real-time release radar aggregating Pitchfork, Bandcamp Daily, The Quietus, Stereogum, The Wire, and The Needle Drop.">
+  <title>SONIC RADAR · 全球音乐挖掘雷达 (Global Avant-Garde &amp; Consensus)</title>
+  <meta name="description" content="实时同步 Pitchfork、Bandcamp Daily、The Quietus、Stereogum、The Needle Drop 的新发音乐与多平台评分 (Pitchfork, RYM, AOTY, 豆瓣)。">
   
   <meta property="og:type" content="website">
   <meta property="og:title" content="SONIC RADAR · Global Music Radar">
-  <meta property="og:description" content="Direct from first-hand sources: Avant-garde, independent underground & critical consensus.">
+  <meta property="og:description" content="零延迟直连：全球先锋实验、地下独立与权威共识评分雷达。">
 
   <link rel="stylesheet" href="assets/css/style.css?v=${timestamp}">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220%22%3E<text y=%2226%22 font-size=%2224%22>💽</text></svg>">
@@ -139,20 +169,28 @@ export function renderPage({ entries, liveStreams, sources }) {
         <div class="brand-logo-disc"></div>
         <div>
           <div class="brand-title">
-            SONIC RADAR <span class="brand-tag">GLOBAL EDITION</span>
+            SONIC RADAR <span class="brand-tag" data-i18n="brand_tag">全球雷达</span>
           </div>
-          <div class="brand-subtitle">Global Avant-Garde, Underground &amp; Critical Music Radar</div>
+          <div class="brand-subtitle" data-i18n="brand_subtitle">全球先锋实验、地下独立与多平台评分实时看板</div>
         </div>
       </div>
 
       <div class="sources-ticker">
         <span class="pulse-dot"></span>
-        <span id="live-indicator">LIVE FEED: ${entries.length} RELEASES ONLINE</span>
+        <span id="live-indicator" data-i18n="live_feed" data-i18n-count="${entries.length}">实时在线: ${entries.length} 张发行</span>
       </div>
 
-      <div style="display: flex; gap: 8px; align-items: center;">
-        <button id="force-refresh-btn" type="button" class="github-badge-link" style="cursor: pointer; background: rgba(0, 242, 254, 0.1); border-color: rgba(0, 242, 254, 0.3); color: var(--accent-cyan);" title="Bypass browser cache to sync latest data">
-          ⚡ Sync Feeds
+      <div class="header-actions">
+        <!-- 中英切换 -->
+        <button id="lang-toggle-btn" type="button" class="lang-toggle-btn" title="切换语言 / Switch Language">
+          <span class="lang-text zh">中文</span>
+          <span class="lang-divider">/</span>
+          <span class="lang-text en">EN</span>
+        </button>
+
+        <!-- 刷新数据 -->
+        <button id="force-refresh-btn" type="button" class="github-badge-link" style="cursor: pointer; background: rgba(0, 242, 254, 0.1); border-color: rgba(0, 242, 254, 0.3); color: var(--accent-cyan);" title="跳过缓存刷新最新数据">
+          <span data-i18n="sync_btn">⚡ 刷新实时流</span>
         </button>
 
         <a href="https://github.com/frkocnluo/music-tracker" target="_blank" rel="noopener" class="github-badge-link">
@@ -171,19 +209,19 @@ export function renderPage({ entries, liveStreams, sources }) {
     <!-- 宣言 Banner -->
     <section class="hero-banner">
       <div class="hero-text">
-        <h1>Escape algorithmic feeds. Dig directly from the source.</h1>
-        <p>
-          Real-time syndicated music discovery tracking Pitchfork Reviews, Bandcamp Daily, The Quietus, Stereogum Album of the Week, The Wire, Boomkat, and Anthony Fantano. No algorithms, no delayed year-end lists.
+        <h1 data-i18n="hero_title">摆脱算法规训，重返一手声音。</h1>
+        <p data-i18n="hero_desc">
+          直接打通 Pitchfork 评测、Bandcamp Daily 深度首发、The Quietus 前卫摇滚与 Stereogum 重点大碟，并实时集成 Pitchfork / RYM / AOTY / 豆瓣 四大多维权威评分，彻底告别滞后的年终总结。
         </p>
       </div>
       <div class="hero-meta-stats">
         <div class="stat-box">
           <div class="stat-value">${entries.length}</div>
-          <div class="stat-label">Active Releases</div>
+          <div class="stat-label" data-i18n="stat_releases">活跃发行</div>
         </div>
         <div class="stat-box">
           <div class="stat-value">5+</div>
-          <div class="stat-label">Live Channels</div>
+          <div class="stat-label" data-i18n="stat_channels">直连信源</div>
         </div>
       </div>
     </section>
@@ -193,34 +231,34 @@ export function renderPage({ entries, liveStreams, sources }) {
       <!-- 视角切换 -->
       <div class="view-tabs">
         <button class="tab-btn active" data-category="all" type="button">
-          All Drops <span class="tab-count">${entries.length}</span>
+          <span data-i18n="tab_all">全部发行</span> <span class="tab-count">${entries.length}</span>
         </button>
         <button class="tab-btn" data-category="avant-garde" type="button">
-          Avant-Garde &amp; Experimental (The Quietus / The Wire) <span class="tab-count">${avantGardeCount}</span>
+          <span data-i18n="tab_avantgarde">先锋与实验 (The Quietus / The Wire)</span> <span class="tab-count">${avantGardeCount}</span>
         </button>
         <button class="tab-btn" data-category="underground" type="button">
-          Bandcamp Daily Drops <span class="tab-count">${undergroundCount}</span>
+          <span data-i18n="tab_underground">Bandcamp 深度发掘</span> <span class="tab-count">${undergroundCount}</span>
         </button>
         <button class="tab-btn" data-category="critical" type="button">
-          Critical Radar (Pitchfork / Stereogum / Fantano) <span class="tab-count">${criticalCount}</span>
+          <span data-i18n="tab_critical">权威乐评 (Pitchfork / Stereogum / Fantano)</span> <span class="tab-count">${criticalCount}</span>
         </button>
       </div>
 
       <!-- 搜索与风格过滤 -->
       <div class="filter-row">
         <div class="genre-pills">
-          <button class="pill-btn active" data-genre="all" type="button">All Genres</button>
-          <button class="pill-btn" data-genre="Electronic / Club" type="button">Club / Electronic</button>
-          <button class="pill-btn" data-genre="Post-Punk / Rock" type="button">Post-Punk / Rock</button>
-          <button class="pill-btn" data-genre="Indie Pop / Bedroom" type="button">Indie Pop / Dream Pop</button>
-          <button class="pill-btn" data-genre="Ambient / Drone" type="button">Ambient / Drone</button>
-          <button class="pill-btn" data-genre="Neo-Soul / Jazz / Beats" type="button">Jazz / Beats</button>
-          <button class="pill-btn" data-genre="Avant-Garde / Noise" type="button">Avant-Garde / Noise</button>
+          <button class="pill-btn active" data-genre="all" type="button" data-i18n="genre_all">全部流派</button>
+          <button class="pill-btn" data-genre="Electronic / Club" type="button" data-i18n="genre_club">Club / 电子</button>
+          <button class="pill-btn" data-genre="Post-Punk / Rock" type="button" data-i18n="genre_rock">后朋 / 摇滚</button>
+          <button class="pill-btn" data-genre="Indie Pop / Bedroom" type="button" data-i18n="genre_pop">独立流行 / 梦幻流行</button>
+          <button class="pill-btn" data-genre="Ambient / Drone" type="button" data-i18n="genre_ambient">环境 / 氛围</button>
+          <button class="pill-btn" data-genre="Neo-Soul / Jazz / Beats" type="button" data-i18n="genre_jazz">爵士 / 律动</button>
+          <button class="pill-btn" data-genre="Avant-Garde / Noise" type="button" data-i18n="genre_noise">先锋 / 实验</button>
         </div>
 
         <div class="search-box">
           <span class="search-icon">🔍</span>
-          <input type="text" class="search-input" placeholder="Search albums, artists, labels, keywords...">
+          <input type="text" class="search-input" placeholder="检索唱片、音乐人、厂牌、关键词..." data-i18n-placeholder="search_placeholder">
         </div>
       </div>
     </section>
@@ -236,7 +274,7 @@ export function renderPage({ entries, liveStreams, sources }) {
       <aside class="live-stream-panel">
         <div class="stream-header">
           <div class="stream-title">
-            <span>📡</span> Live Feed Stream
+            <span>📡</span> <span data-i18n="stream_title">实时电波流</span>
           </div>
           <span style="font-size: 0.7rem; color: var(--accent-cyan); font-family: var(--font-mono);">
             AUTO SYNC
@@ -257,13 +295,13 @@ export function renderPage({ entries, liveStreams, sources }) {
         <div class="player-vinyl-center"></div>
       </div>
       <div class="player-text">
-        <div class="player-title" id="player-title">No track selected</div>
-        <div class="player-artist" id="player-artist">Click Preview on any album</div>
+        <div class="player-title" id="player-title" data-i18n="now_playing_none">未选择曲目</div>
+        <div class="player-artist" id="player-artist" data-i18n="now_playing_hint">点击任意卡片试听</div>
       </div>
     </div>
 
     <div class="player-controls">
-      <button class="dock-btn" id="play-toggle-btn" type="button" title="Play/Pause">▶</button>
+      <button class="dock-btn" id="play-toggle-btn" type="button" title="播放/暂停">▶</button>
       <div class="waveform-bars">
         <div class="wave-bar"></div>
         <div class="wave-bar"></div>

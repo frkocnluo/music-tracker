@@ -1,19 +1,84 @@
 /**
  * SONIC RADAR · CLIENT APP LOGIC
- * Zero external dependencies: native DOM, Audio API, live filters
+ * Features:
+ * - Bilingual i18n Switcher (EN / 中文) with localStorage memory
+ * - Category Tab Filtering (All / Avant-Garde / Underground / Critical)
+ * - Genre Filter Pills & Debounced Search
+ * - Inline Universal Player with dynamic vinyl artwork and Web Audio fallback
+ * - Force cache refresh mechanism
  */
+
+const I18N = {
+  zh: {
+    brand_tag: "全球雷达",
+    brand_subtitle: "全球先锋实验、地下独立与多平台评分实时看板",
+    live_feed: "实时在线: {n} 张发行",
+    sync_btn: "⚡ 刷新实时流",
+    syncing_btn: "⚡ 同步中...",
+    hero_title: "摆脱算法规训，重返一手声音。",
+    hero_desc: "直接打通 Pitchfork 评测、Bandcamp Daily 深度首发、The Quietus 前卫摇滚与 Stereogum 重点大碟，并实时集成 Pitchfork / TND / RYM / AOTY / 豆瓣 五大多维权威评分，彻底告别滞后的年终总结。",
+    stat_releases: "活跃发行",
+    stat_channels: "直连信源",
+    tab_all: "全部发行",
+    tab_avantgarde: "先锋与实验 (The Quietus / The Wire)",
+    tab_underground: "Bandcamp 深度发掘",
+    tab_critical: "权威乐评 (Pitchfork / Stereogum / Fantano)",
+    genre_all: "全部流派",
+    genre_club: "Club / 电子",
+    genre_rock: "后朋 / 摇滚",
+    genre_pop: "独立流行 / 梦幻流行",
+    genre_ambient: "环境 / 氛围",
+    genre_jazz: "爵士 / 律动",
+    genre_noise: "先锋 / 实验",
+    search_placeholder: "检索唱片、音乐人、厂牌、关键词...",
+    stream_title: "实时电波流",
+    btn_preview: "试听 Preview",
+    now_playing_none: "未选择曲目",
+    now_playing_hint: "点击任意卡片试听"
+  },
+  en: {
+    brand_tag: "GLOBAL RADAR",
+    brand_subtitle: "Global Avant-Garde, Underground & Critical Release Radar",
+    live_feed: "LIVE FEED: {n} RELEASES ONLINE",
+    sync_btn: "⚡ Sync Feeds",
+    syncing_btn: "⚡ Syncing...",
+    hero_title: "Escape algorithmic feeds. Dig directly from the source.",
+    hero_desc: "Real-time syndicated music discovery tracking Pitchfork Reviews, Bandcamp Daily, The Quietus, Stereogum, and Anthony Fantano with live multi-platform scores (Pitchfork / TND / RYM / AOTY / Douban).",
+    stat_releases: "Active Releases",
+    stat_channels: "Live Channels",
+    tab_all: "All Drops",
+    tab_avantgarde: "Avant-Garde & Experimental (The Quietus / The Wire)",
+    tab_underground: "Bandcamp Daily Drops",
+    tab_critical: "Critical Radar (Pitchfork / Stereogum / Fantano)",
+    genre_all: "All Genres",
+    genre_club: "Club / Electronic",
+    genre_rock: "Post-Punk / Rock",
+    genre_pop: "Indie Pop / Dream Pop",
+    genre_ambient: "Ambient / Drone",
+    genre_jazz: "Jazz / Beats",
+    genre_noise: "Avant-Garde / Noise",
+    search_placeholder: "Search albums, artists, labels, keywords...",
+    stream_title: "Live Feed Stream",
+    btn_preview: "Preview",
+    now_playing_none: "No track selected",
+    now_playing_hint: "Click Preview on any album"
+  }
+};
 
 document.addEventListener('DOMContentLoaded', () => {
   // 状态变量
   let currentCategory = 'all';
   let currentGenre = 'all';
   let searchQuery = '';
+  let currentLang = localStorage.getItem('sonic_radar_lang') || 'zh';
   
   // DOM 元素
   const cards = document.querySelectorAll('.release-card');
   const tabBtns = document.querySelectorAll('.tab-btn');
   const pillBtns = document.querySelectorAll('.pill-btn');
   const searchInput = document.querySelector('.search-input');
+  const langToggleBtn = document.getElementById('lang-toggle-btn');
+  const forceRefreshBtn = document.getElementById('force-refresh-btn');
 
   // 播放器元素
   const playerDock = document.getElementById('player-dock');
@@ -30,7 +95,51 @@ document.addEventListener('DOMContentLoaded', () => {
   let synthOsc = null;
   let synthGain = null;
 
-  // 1. 卡片过滤逻辑
+  // 1. 中英双语切换系统
+  function applyLanguage(lang) {
+    currentLang = lang;
+    localStorage.setItem('sonic_radar_lang', lang);
+    document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+
+    const dict = I18N[lang] || I18N.zh;
+
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+      const key = el.dataset.i18n;
+      if (dict[key]) {
+        if (key === 'live_feed') {
+          const count = el.dataset.i18nCount || '';
+          el.textContent = dict[key].replace('{n}', count);
+        } else {
+          el.textContent = dict[key];
+        }
+      }
+    });
+
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+      const key = el.dataset.i18nPlaceholder;
+      if (dict[key]) {
+        el.placeholder = dict[key];
+      }
+    });
+
+    if (langToggleBtn) {
+      langToggleBtn.querySelectorAll('.lang-text').forEach(t => {
+        t.classList.toggle('active', t.classList.contains(lang));
+      });
+    }
+  }
+
+  if (langToggleBtn) {
+    langToggleBtn.addEventListener('click', () => {
+      const nextLang = currentLang === 'zh' ? 'en' : 'zh';
+      applyLanguage(nextLang);
+    });
+  }
+
+  // 初始化语言
+  applyLanguage(currentLang);
+
+  // 2. 卡片过滤逻辑
   function filterCards() {
     let visibleCount = 0;
 
@@ -50,14 +159,9 @@ document.addEventListener('DOMContentLoaded', () => {
         card.style.display = 'none';
       }
     });
-
-    const activeTab = document.querySelector(`.tab-btn[data-category="${currentCategory}"] .tab-count`);
-    if (activeTab && currentCategory === 'all') {
-      activeTab.textContent = visibleCount;
-    }
   }
 
-  // 2. Tab 切换
+  // 3. Tab 切换 (全部 / 先锋实验 / Bandcamp / 权威乐评)
   tabBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       tabBtns.forEach(b => b.classList.remove('active'));
@@ -67,7 +171,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // 3. 流派 Pill 切换
+  // 4. 流派 Pill 切换
   pillBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       pillBtns.forEach(b => b.classList.remove('active'));
@@ -77,7 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // 4. 实时搜索防抖
+  // 5. 实时搜索防抖
   if (searchInput) {
     let debounceTimer;
     searchInput.addEventListener('input', (e) => {
@@ -89,7 +193,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 5. Web Audio 兜底合成器 (当音频由于跨域或无直链时提供氛围试听)
+  // 6. Web Audio 兜底合成器
   function startSynthAmbient(freq = 220) {
     try {
       if (!audioCtx) {
@@ -132,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   }
 
-  // 6. 播放器逻辑
+  // 7. 播放器逻辑
   function playTrack(title, artist, audioSrc, links = {}, cover = '') {
     playerTitle.textContent = title;
     playerArtist.textContent = artist;
@@ -163,7 +267,6 @@ document.addEventListener('DOMContentLoaded', () => {
       nativeAudio.play().then(() => {
         setPlayingState(true);
       }).catch(() => {
-        // 播放失败时平滑降级到合成微音阶
         startSynthAmbient(330);
         setPlayingState(true);
       });
@@ -197,7 +300,6 @@ document.addEventListener('DOMContentLoaded', () => {
     setPlayingState(false);
   });
 
-  // 播放/暂停按钮切换
   if (playToggleBtn) {
     playToggleBtn.addEventListener('click', () => {
       if (isPlaying) {
@@ -231,14 +333,14 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // 强制刷新实时流（绕过本地强缓存）
-  const forceRefreshBtn = document.getElementById('force-refresh-btn');
   if (forceRefreshBtn) {
     forceRefreshBtn.addEventListener('click', () => {
-      forceRefreshBtn.textContent = '⚡ 同步中...';
+      const dict = I18N[currentLang] || I18N.zh;
+      forceRefreshBtn.textContent = dict.syncing_btn;
       const cleanUrl = window.location.origin + window.location.pathname;
       window.location.href = cleanUrl + '?refresh=' + Date.now();
     });
   }
 
-  console.log('⚡ Sonic Radar initialized: All channels listening.');
+  console.log('⚡ Sonic Radar initialized with bilingual UI and consensus ratings.');
 });

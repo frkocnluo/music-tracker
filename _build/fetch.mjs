@@ -102,7 +102,7 @@ export async function fetchAllFeeds() {
         sourceId: source.id,
         sourceName: source.name,
         badge: source.badge,
-        category: source.region,
+        category: source.category || source.region || 'critical',
         color: source.color,
         items: parsedItems.slice(0, 25)
       });

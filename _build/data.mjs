@@ -1,6 +1,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { SOURCES } from './sources.mjs';
+import { getScoresForRelease } from './scores.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE_FILE = path.join(__dirname, 'cache.json');
@@ -70,7 +72,6 @@ function extractArtistAndTitle(rawTitle, link, sourceId) {
   let title = rawTitle;
 
   if (sourceId === 'fantano') {
-    // e.g. "Swans - Newly Sentient Being ALBUM REVIEW"
     const cleaned = rawTitle.replace(/ALBUM REVIEW/gi, '').replace(/EP REVIEW/gi, '').trim();
     if (cleaned.includes(' - ')) {
       const parts = cleaned.split(' - ');
@@ -78,7 +79,6 @@ function extractArtistAndTitle(rawTitle, link, sourceId) {
       title = parts.slice(1).join(' - ').trim();
     }
   } else if (sourceId === 'thequietus') {
-    // e.g. "Gnod – Chronicles of Gnowt Vol. 2"
     if (rawTitle.includes(' – ')) {
       const parts = rawTitle.split(' – ');
       artist = parts[0].trim();
@@ -89,14 +89,12 @@ function extractArtistAndTitle(rawTitle, link, sourceId) {
       title = parts.slice(1).join(' - ').trim();
     }
   } else if (sourceId === 'bandcamp_daily') {
-    // e.g. "Karen y los Remedios, “Bestiaria”"
     const match = rawTitle.match(/^(.*?),\s*[“"'](.*?)[”"']/);
     if (match) {
       artist = match[1].trim();
       title = match[2].trim();
     }
   } else if (sourceId === 'stereogum') {
-    // e.g. "Album Of The Week: The Smile Cutouts"
     const cleaned = rawTitle.replace(/^Album Of The Week:\s*/i, '').trim();
     title = cleaned;
     const parts = cleaned.split(/\s+/);
@@ -104,7 +102,6 @@ function extractArtistAndTitle(rawTitle, link, sourceId) {
       artist = parts[0];
     }
   } else if (sourceId === 'pitchfork_bnm') {
-    // Pitchfork review URL has slug: /reviews/albums/marina-herlop-dja-dja/
     const urlMatch = link.match(/\/reviews\/albums\/([^/]+)\/?$/);
     if (urlMatch) {
       const slug = urlMatch[1];
@@ -130,21 +127,26 @@ export function getEntries() {
       const cacheData = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf-8'));
       
       for (const source of cacheData) {
+        const sourceDef = SOURCES.find(s => s.id === source.sourceId);
+        const resolvedCategory = source.category || sourceDef?.category || 'critical';
+
         for (const item of (source.items || [])) {
           const { artist, title } = extractArtistAndTitle(item.title, item.link, source.sourceId);
           const genres = inferGenres(item.title, item.description);
           const gradient = getGradientForString(item.title + artist);
+          const scores = getScoresForRelease(title, artist, source.sourceId, item.description);
 
           liveEntries.push({
             id: `live-${source.sourceId}-${Buffer.from(item.link).toString('base64url').slice(0, 12)}`,
             title: title,
             artist: artist,
             releaseDate: item.pubDate,
-            category: source.category, // 'avant-garde' | 'underground' | 'critical'
+            category: resolvedCategory, // 'avant-garde' | 'underground' | 'critical'
             genres: genres,
             label: source.sourceName,
             coverGradient: gradient,
             coverArt: item.imageUrl || '',
+            scores: scores, // Pitchfork, RYM, AOTY, 豆瓣
             sources: [
               {
                 source: source.badge,
@@ -161,7 +163,7 @@ export function getEntries() {
               bandcamp: source.sourceId.includes('bandcamp') ? item.link : `https://bandcamp.com/search?q=${encodeURIComponent(artist + ' ' + title)}`,
               youtube: source.sourceId === 'fantano' ? item.link : `https://www.youtube.com/results?search_query=${encodeURIComponent(artist + ' ' + title)}`
             },
-            isHighlight: true,
+            isHighlight: scores?.pitchfork?.bnm || false,
             isLiveStream: true
           });
         }

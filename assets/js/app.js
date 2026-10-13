@@ -151,11 +151,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 更新跳转外链
     playerLinks.innerHTML = '';
+    if (links.original) playerLinks.innerHTML += `<a href="${links.original}" target="_blank" class="player-outbound-link">Original ↗</a>`;
     if (links.bandcamp) playerLinks.innerHTML += `<a href="${links.bandcamp}" target="_blank" class="player-outbound-link">Bandcamp ↗</a>`;
-    if (links.streetvoice) playerLinks.innerHTML += `<a href="${links.streetvoice}" target="_blank" class="player-outbound-link">StreetVoice ↗</a>`;
     if (links.spotify) playerLinks.innerHTML += `<a href="${links.spotify}" target="_blank" class="player-outbound-link">Spotify ↗</a>`;
-    if (links.netease) playerLinks.innerHTML += `<a href="${links.netease}" target="_blank" class="player-outbound-link">网易云 ↗</a>`;
-    if (links.original) playerLinks.innerHTML += `<a href="${links.original}" target="_blank" class="player-outbound-link">原文 ↗</a>`;
+    if (links.youtube) playerLinks.innerHTML += `<a href="${links.youtube}" target="_blank" class="player-outbound-link">YouTube ↗</a>`;
 
     stopAudio();
 

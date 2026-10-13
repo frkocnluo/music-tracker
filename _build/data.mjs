@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CACHE_FILE = path.join(__dirname, 'cache.json');
 
-// 现代深色高质感渐变色板 (根据哈希值自动为唱片分配专属封面)
+// 现代深色高质感渐变色板
 const GRADIENT_PALETTES = [
   'linear-gradient(135deg, #09203f 0%, #537895 100%)',
   'linear-gradient(135deg, #1f1c2c 0%, #928dab 100%)',
@@ -31,28 +31,28 @@ function getGradientForString(str) {
 }
 
 /**
- * 智能流派推断
+ * 智能流派推断 (欧美先锋、另类与独立流派)
  */
 function inferGenres(title, desc) {
   const text = `${title} ${desc}`.toLowerCase();
   const tags = [];
 
-  if (text.includes('electronic') || text.includes('club') || text.includes('techno') || text.includes('dance') || text.includes('synth') || text.includes('电音')) {
+  if (text.includes('electronic') || text.includes('club') || text.includes('techno') || text.includes('dance') || text.includes('synth') || text.includes('house') || text.includes('bass')) {
     tags.push('Electronic / Club');
   }
-  if (text.includes('rock') || text.includes('punk') || text.includes('post-punk') || text.includes('guitar') || text.includes('吉他') || text.includes('摇滚')) {
+  if (text.includes('rock') || text.includes('punk') || text.includes('post-punk') || text.includes('guitar') || text.includes('indie rock') || text.includes('garage')) {
     tags.push('Post-Punk / Rock');
   }
-  if (text.includes('ambient') || text.includes('drone') || text.includes('soundscape') || text.includes('环境') || text.includes('氛围')) {
+  if (text.includes('ambient') || text.includes('drone') || text.includes('soundscape') || text.includes('field recording') || text.includes('minimalism')) {
     tags.push('Ambient / Drone');
   }
-  if (text.includes('pop') || text.includes('bedroom') || text.includes('folk') || text.includes('indie pop') || text.includes('流行') || text.includes('民谣')) {
+  if (text.includes('pop') || text.includes('bedroom') || text.includes('folk') || text.includes('indie pop') || text.includes('dream pop') || text.includes('shoegaze')) {
     tags.push('Indie Pop / Bedroom');
   }
-  if (text.includes('jazz') || text.includes('soul') || text.includes('r&b') || text.includes('hip-hop') || text.includes('rap') || text.includes('爵士') || text.includes('说唱')) {
+  if (text.includes('jazz') || text.includes('soul') || text.includes('r&b') || text.includes('hip-hop') || text.includes('rap') || text.includes('beats')) {
     tags.push('Neo-Soul / Jazz / Beats');
   }
-  if (text.includes('classical') || text.includes('experimental') || text.includes('avant-garde') || text.includes('noise') || text.includes('先锋') || text.includes('实验')) {
+  if (text.includes('classical') || text.includes('experimental') || text.includes('avant-garde') || text.includes('noise') || text.includes('industrial') || text.includes('improvisation')) {
     tags.push('Avant-Garde / Noise');
   }
 
@@ -63,14 +63,14 @@ function inferGenres(title, desc) {
 }
 
 /**
- * 从不同信源标题中清洗出 Artist 与 Title
+ * 从信源标题中清洗出 Artist 与 Title
  */
 function extractArtistAndTitle(rawTitle, link, sourceId) {
   let artist = 'Independent Artist';
   let title = rawTitle;
 
   if (sourceId === 'fantano') {
-    // "Swans - Newly Sentient Being ALBUM REVIEW"
+    // e.g. "Swans - Newly Sentient Being ALBUM REVIEW"
     const cleaned = rawTitle.replace(/ALBUM REVIEW/gi, '').replace(/EP REVIEW/gi, '').trim();
     if (cleaned.includes(' - ')) {
       const parts = cleaned.split(' - ');
@@ -78,7 +78,7 @@ function extractArtistAndTitle(rawTitle, link, sourceId) {
       title = parts.slice(1).join(' - ').trim();
     }
   } else if (sourceId === 'thequietus') {
-    // "Gnod – Chronicles of Gnowt Vol. 2"
+    // e.g. "Gnod – Chronicles of Gnowt Vol. 2"
     if (rawTitle.includes(' – ')) {
       const parts = rawTitle.split(' – ');
       artist = parts[0].trim();
@@ -89,32 +89,30 @@ function extractArtistAndTitle(rawTitle, link, sourceId) {
       title = parts.slice(1).join(' - ').trim();
     }
   } else if (sourceId === 'bandcamp_daily') {
-    // Karen y los Remedios, “Bestiaria”
+    // e.g. "Karen y los Remedios, “Bestiaria”"
     const match = rawTitle.match(/^(.*?),\s*[“"'](.*?)[”"']/);
     if (match) {
       artist = match[1].trim();
       title = match[2].trim();
     }
+  } else if (sourceId === 'stereogum') {
+    // e.g. "Album Of The Week: The Smile Cutouts"
+    const cleaned = rawTitle.replace(/^Album Of The Week:\s*/i, '').trim();
+    title = cleaned;
+    const parts = cleaned.split(/\s+/);
+    if (parts.length >= 2) {
+      artist = parts[0];
+    }
   } else if (sourceId === 'pitchfork_bnm') {
-    // URL often has: /reviews/albums/marina-herlop-dja-dja/
+    // Pitchfork review URL has slug: /reviews/albums/marina-herlop-dja-dja/
     const urlMatch = link.match(/\/reviews\/albums\/([^/]+)\/?$/);
     if (urlMatch) {
       const slug = urlMatch[1];
       const parts = slug.split('-');
-      // guess artist and title
       title = rawTitle;
-      artist = 'Pitchfork Reviewed Artist';
       if (parts.length >= 2) {
-        // e.g. marina-herlop-dja-dja
         artist = parts.slice(0, Math.floor(parts.length / 2)).map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
       }
-    }
-  } else if (sourceId === 'streetvoice_blow') {
-    // 华语文章提取
-    artist = '华语独立新声';
-    const artistMatch = rawTitle.match(/^(【.*?】)?([^\s《〈“”]+)/);
-    if (artistMatch && artistMatch[2]) {
-      artist = artistMatch[2].replace(/[「」『』]/g, '');
     }
   }
 
@@ -122,7 +120,7 @@ function extractArtistAndTitle(rawTitle, link, sourceId) {
 }
 
 /**
- * 读取实时缓存并构建雷达实体库
+ * 读取实时缓存并构建全球雷达实体库
  */
 export function getEntries() {
   const liveEntries = [];
@@ -142,7 +140,7 @@ export function getEntries() {
             title: title,
             artist: artist,
             releaseDate: item.pubDate,
-            category: source.category, // 'sinophone' | 'global' | 'critical'
+            category: source.category, // 'avant-garde' | 'underground' | 'critical'
             genres: genres,
             label: source.sourceName,
             coverGradient: gradient,
@@ -150,19 +148,18 @@ export function getEntries() {
             sources: [
               {
                 source: source.badge,
-                badge: 'LIVE TODAY',
+                badge: 'LIVE DROP',
                 date: item.pubDate,
                 note: item.title
               }
             ],
-            summary: item.description || `来自 ${source.sourceName} 的实时挖掘首发。`,
+            summary: item.description || `Recent feature from ${source.sourceName}.`,
             audioPreview: '',
             links: {
               original: item.link,
               spotify: `https://open.spotify.com/search/${encodeURIComponent(artist + ' ' + title)}`,
-              netease: `https://music.163.com/#/search/m/?s=${encodeURIComponent(artist + ' ' + title)}`,
-              bandcamp: source.sourceId.includes('bandcamp') ? item.link : '',
-              streetvoice: source.sourceId.includes('streetvoice') ? item.link : ''
+              bandcamp: source.sourceId.includes('bandcamp') ? item.link : `https://bandcamp.com/search?q=${encodeURIComponent(artist + ' ' + title)}`,
+              youtube: source.sourceId === 'fantano' ? item.link : `https://www.youtube.com/results?search_query=${encodeURIComponent(artist + ' ' + title)}`
             },
             isHighlight: true,
             isLiveStream: true
@@ -174,7 +171,7 @@ export function getEntries() {
     }
   }
 
-  // 严格按发布日期 (pubDate) 降序排列，最新实时发布的排在最前面！
+  // 严格按发布日期 (pubDate) 降序排列
   liveEntries.sort((a, b) => new Date(b.releaseDate) - new Date(a.releaseDate));
 
   return liveEntries;

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-14T00:24:50.705Z",
+    "updatedAt": "2026-10-14T12:28:25.648Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -29,10 +29,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 657,
+      "ms": 770,
       "error": null,
-      "fetchedAt": "2026-10-14T00:24:50.705Z",
-      "lastOkAt": "2026-10-14T00:24:50.705Z",
+      "fetchedAt": "2026-10-14T12:28:25.648Z",
+      "lastOkAt": "2026-10-14T12:28:25.648Z",
       "itemCount": 10,
       "items": [
         {
@@ -376,10 +376,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 320,
+      "ms": 328,
       "error": null,
-      "fetchedAt": "2026-10-14T00:24:50.705Z",
-      "lastOkAt": "2026-10-14T00:24:50.705Z",
+      "fetchedAt": "2026-10-14T12:28:25.648Z",
+      "lastOkAt": "2026-10-14T12:28:25.648Z",
       "itemCount": 39,
       "items": [
         {
@@ -905,12 +905,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 317,
+      "ms": 204,
       "error": null,
-      "fetchedAt": "2026-10-14T00:24:50.705Z",
-      "lastOkAt": "2026-10-14T00:24:50.705Z",
+      "fetchedAt": "2026-10-14T12:28:25.648Z",
+      "lastOkAt": "2026-10-14T12:28:25.648Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "She’s the Best",
+          "link": "https://pitchfork.com/reviews/albums/troye-sivan-shes-the-best/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a7f252f84348e8cbb2b41ac/master/pass/Troye%20Sivan%20She",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "The pop star’s fourth album explores the cracks between the hits, the climaxes, and the comedowns. When he steps off the dancefloor, he finds a looser and more liberated sound.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Harry Tafoya"
+        },
+        {
+          "title": "STRIKING",
+          "link": "https://pitchfork.com/reviews/albums/ovrkast-striking/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ace4d6fd38747617e6922fd/master/pass/Ovrkast.-Striking.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "The Bay Area rapper’s latest record boasts vivid scenes and careful character studies, backed by live instrumentation and occasionally staid samples.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alphonse Pierre"
+        },
+        {
+          "title": "Nature’s Pill",
+          "link": "https://pitchfork.com/reviews/albums/wishy-natures-pill/",
+          "imageUrl": "https://media.pitchfork.com/photos/6abbfaa0c7133574666f02da/master/pass/65809.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "A deep longing aches at the core of the Indianapolis indie-pop group’s music, making good on the bittersweet promise of twee at its most heartfelt.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Colin Joyce"
+        },
+        {
+          "title": "Confirmation!",
+          "link": "https://pitchfork.com/reviews/albums/logic1000-confirmation/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ace7ef0db59a31ef68a40d5/master/pass/Logic1000%20-%20Confirmation!%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "The producer’s second LP flows through dulcet synth-pop collaborations, throwback trip-hop, and sound collages without leaving much impression.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Cassidy Sollazzo"
+        },
         {
           "title": "A Mile South of Heaven",
           "link": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/",
@@ -1248,58 +1300,6 @@
             "Reviews / Albums"
           ],
           "author": "Hannah Jocelyn"
-        },
-        {
-          "title": "Cyano",
-          "link": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/",
-          "imageUrl": "https://media.pitchfork.com/photos/6abfbbb4b1d8689d3617249a/master/pass/Emily%20Sprague%20Cyano.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "The Florist musician’s latest ambient release blends her intuitive, associative songwriting with her increasingly immersive voice as a composer for modular synth.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Emma Madden"
-        },
-        {
-          "title": "B0YG1RL",
-          "link": "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab584579bf6b62aec676cd6/master/pass/b0yg1rl%20rough%20trade.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "The Miami experimental dance duo’s new album pushes their capricious, explosive mix of bouyon, synth-pop, and electroclash to anxious extremes.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Olivier Lafontant"
-        },
-        {
-          "title": "Decay",
-          "link": "https://pitchfork.com/reviews/albums/godflesh-decay/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab41594272200043ff4eb82/master/pass/Godflesh-%20Decay.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "For decades, industrial metal titan Justin K. Broadrick screamed so hard that it shredded his insides. He softens his attack on the band’s penultimate album, but they’re not going out gently.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Madison Bloom"
-        },
-        {
-          "title": "The Old Beloved Path",
-          "link": "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aa86bfaae3e28fd3939c1bc/master/pass/820233608909.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "The North Carolina folk musician pulls from centuries-old ballads and blues standards for a meditative set full of drifters, sailors, and wistful travelers.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Habib Sabet"
         }
       ]
     },
@@ -1317,10 +1317,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 1011,
+      "ms": 416,
       "error": null,
-      "fetchedAt": "2026-10-14T00:24:50.705Z",
-      "lastOkAt": "2026-10-14T00:24:50.705Z",
+      "fetchedAt": "2026-10-14T12:28:25.648Z",
+      "lastOkAt": "2026-10-14T12:28:25.648Z",
       "itemCount": 40,
       "items": [
         {
@@ -1969,15 +1969,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-13T16:53:29.614Z",
-      "lastOkAt": "2026-10-13T16:53:29.614Z",
+      "ms": 547,
+      "error": null,
+      "fetchedAt": "2026-10-14T12:28:25.648Z",
+      "lastOkAt": "2026-10-14T12:28:25.648Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Godflesh - Decay ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=bhKypakZovQ",
+          "imageUrl": "https://i3.ytimg.com/vi/bhKypakZovQ/hqdefault.jpg",
+          "embedId": "bhKypakZovQ",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "Listen: https://godflesh.bandcamp.com/album/decay This penultimate album is signaling a consummate end for the Godflesh project. More metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: LIVING/ENDING, FERAL COLONY, FEAR OF MAN, CONSUME ME GODFLESH - DECAY / 2026 / RELAPSE / INDUSTRIAL METAL, ATMOSPHERIC SLUDGE METAL 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Cameron Winter - Live at Carnegie Hall ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=IB7GmiQm9xA",
@@ -2131,17 +2143,6 @@
           "description": "Listen: https://protomartyr.bandcamp.com/album/hotel-usona One of the grandest rock albums you'll hear all year. Interview w/ the band: https://www.youtube.com/watch?v=U-7WNPIFkCc More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SOUNDS WE CANNOT HEAR, EXALTED EAGLES, THE KNIFE DREAM, FEED THE SEWER, LAVENDER - GOSPEL, THIRD COUNTRY LEAST FAV TRACK: CONVERTS PROTOMARTYR - HOTEL USONA / 2026 / DOMINO / ART PUNK, ORCHESTRAL ROCK 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "albums with beautiful voices 🎤✨",
-          "link": "https://www.youtube.com/shorts/sdFTe7sj1ho",
-          "imageUrl": "https://i4.ytimg.com/vi/sdFTe7sj1ho/hqdefault.jpg",
-          "embedId": "sdFTe7sj1ho",
-          "audioSrc": "",
-          "pubDate": "2026-09-27",
-          "description": "#music #vocals #singing",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2251,21 +2252,21 @@
       "artist": "Greg Freeman",
       "album": "All Set the Bone"
     },
-    "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/": {
-      "artist": "B0YG1RL",
-      "album": "B0YG1RL"
+    "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
+      "artist": "Logic1000",
+      "album": "Confirmation!"
     },
-    "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/": {
-      "artist": "Emily A. Sprague",
-      "album": "Cyano"
+    "https://pitchfork.com/reviews/albums/wishy-natures-pill/": {
+      "artist": "Wishy",
+      "album": "Nature’s Pill"
     },
-    "https://pitchfork.com/reviews/albums/godflesh-decay/": {
-      "artist": "Godflesh",
-      "album": "Decay"
+    "https://pitchfork.com/reviews/albums/ovrkast-striking/": {
+      "artist": "Ovrkast.",
+      "album": "STRIKING"
     },
-    "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/": {
-      "artist": "Jake Xerxes Fussell",
-      "album": "The Old Beloved Path"
+    "https://pitchfork.com/reviews/albums/troye-sivan-shes-the-best/": {
+      "artist": "Troye Sivan",
+      "album": "She’s the Best"
     }
   }
 }

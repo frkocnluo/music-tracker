@@ -30,8 +30,6 @@ export function esc(value) {
 /** 用于 data-* 与 href：与 esc 相同，额外把换行压平 */
 const escAttr = (v) => esc(String(v ?? '').replace(/\s+/g, ' ').trim());
 
-const pct = (n, d) => (d ? Math.round((n / d) * 100) : 0);
-
 /* ------------------------------------------------------------------ *
  * 页面
  * ------------------------------------------------------------------ */
@@ -116,8 +114,7 @@ export function renderPage({ entries, cache, sources }) {
       : `<p class="card-summary empty" data-i18n="no_excerpt">该信源未随订阅推送摘要，点击标题前往原文。</p>`;
 
     const metaLine = [
-      `<span class="live-date-pill">${entry.isFresh ? '⚡' : '📁'} ${esc(entry.releaseDate || 'DATE N/A')}</span>`,
-      `<span>•</span>`,
+      `<span class="live-date-pill">${esc(entry.releaseDate || 'DATE N/A')}</span>`,
       `<span>${esc(entry.label || 'Editorial Pick')}</span>`
     ].join('');
 
@@ -172,7 +169,7 @@ export function renderPage({ entries, cache, sources }) {
       return (
         `<div class="stream-item">` +
         `<div class="stream-item-top">` +
-        `<span class="stream-source-tag" style="color: ${escAttr(st?.color || '#9ca3af')}">${esc(st?.badge || item.label)}</span>` +
+        `<span class="stream-source-tag">${esc(st?.badge || item.label)}</span>` +
         `<span class="stream-date">${esc(item.releaseDate || '')}</span>` +
         `</div>` +
         `<a href="${escAttr(item.links?.original || '#')}" target="_blank" rel="noopener noreferrer" class="stream-link">${esc(item.title)}</a>` +
@@ -221,6 +218,8 @@ export function renderPage({ entries, cache, sources }) {
   const degraded = (cache.sources || []).filter((s) => s.ok === false);
 
   const timestamp = Date.now();
+  // 跑马灯内容重复 12 次（两份等长副本），CSS 位移 -50% 即无缝循环
+  const marqueeSpans = '<span>SONIC RADAR · 全球音乐雷达 · </span>'.repeat(12);
 
   return `<!DOCTYPE html>
 <html lang="zh-CN">
@@ -232,7 +231,7 @@ export function renderPage({ entries, cache, sources }) {
 <meta property="og:type" content="website">
 <meta property="og:title" content="SONIC RADAR · Global Music Radar">
 <meta property="og:description" content="摆脱算法规训，直连全球先锋实验、地下独立与权威乐评共识。">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%BD%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23f8f8f8'/%3E%3Ccircle cx='50' cy='50' r='30' fill='none' stroke='%23100f0f' stroke-width='8'/%3E%3Ccircle cx='50' cy='50' r='7' fill='%23100f0f'/%3E%3C/svg%3E">
 <link rel="stylesheet" href="assets/css/style.css?v=${timestamp}">
 </head>
 <body>
@@ -266,10 +265,14 @@ export function renderPage({ entries, cache, sources }) {
   </div>
 </header>
 
+<div class="marquee" aria-hidden="true">
+  <div class="marquee-track">${marqueeSpans}</div>
+</div>
+
 <main class="main-container">
 
   ${degraded.length ? `<div class="degrade-banner" role="status">
-    <strong data-i18n="degrade_title">⚠️ 部分信源暂时不可用</strong>
+    <strong data-i18n="degrade_title">部分信源暂时不可用</strong>
     <span>${degraded.map((s) => `${esc(s.sourceName)}（${esc(s.error || '抓取失败')}，展示 ${esc(s.lastOkAt || '历史')} 的快照）`).join('　')}</span>
   </div>` : ''}
 
@@ -280,8 +283,8 @@ export function renderPage({ entries, cache, sources }) {
     </div>
     <div class="hero-meta-stats">
       <div class="stat-box"><div class="stat-value">${freshEntries.length}</div><div class="stat-label" data-i18n="stat_fresh">实时新声</div></div>
-      <div class="stat-box"><div class="stat-value" style="color:var(--accent-cyan);">${consensusEntries.length}</div><div class="stat-label" data-i18n="stat_consensus">多源共识</div></div>
-      <div class="stat-box"><div class="stat-value" style="color:#73d13d;">${playable.length}</div><div class="stat-label" data-i18n="stat_playable">可直接试听</div></div>
+      <div class="stat-box"><div class="stat-value">${consensusEntries.length}</div><div class="stat-label" data-i18n="stat_consensus">多源共识</div></div>
+      <div class="stat-box"><div class="stat-value">${playable.length}</div><div class="stat-label" data-i18n="stat_playable">可直接试听</div></div>
       <div class="stat-box"><div class="stat-value">${okSources.length}/${liveSources.length}</div><div class="stat-label" data-i18n="stat_channels">信源在线</div></div>
     </div>
   </section>
@@ -296,15 +299,14 @@ export function renderPage({ entries, cache, sources }) {
 
     <div class="status-filter-row">
       <button class="status-pill-btn active" data-status="all" type="button"><span data-i18n="status_all">全部条目</span> <span class="status-count">${entries.length}</span></button>
-      <button class="status-pill-btn" data-status="fresh" type="button"><span data-i18n="status_fresh">⚡ 实时新声（45 天内）</span> <span class="status-count">${freshEntries.length}</span></button>
-      <button class="status-pill-btn" data-status="consensus" type="button"><span data-i18n="status_consensus">🟢 多源共识</span> <span class="status-count">${consensusEntries.length}</span></button>
-      <button class="status-pill-btn" data-status="editorial" type="button"><span data-i18n="status_editorial">📰 专栏 / 专访 / 播客</span> <span class="status-count">${editorial.length}</span></button>
+      <button class="status-pill-btn" data-status="fresh" type="button"><span data-i18n="status_fresh">实时新声（45 天内）</span> <span class="status-count">${freshEntries.length}</span></button>
+      <button class="status-pill-btn" data-status="consensus" type="button"><span data-i18n="status_consensus">多源共识</span> <span class="status-count">${consensusEntries.length}</span></button>
+      <button class="status-pill-btn" data-status="editorial" type="button"><span data-i18n="status_editorial">专栏 / 专访 / 播客</span> <span class="status-count">${editorial.length}</span></button>
     </div>
 
     <div class="filter-row">
       <div class="genre-pills">${genrePills}</div>
       <div class="search-box">
-        <span class="search-icon">🔍</span>
         <input type="text" class="search-input" placeholder="检索唱片、音乐人、厂牌、关键词..." data-i18n-placeholder="search_placeholder">
       </div>
     </div>
@@ -317,15 +319,15 @@ ${cardsHtml}
 
     <aside class="live-stream-panel">
       <div class="stream-header">
-        <div class="stream-title"><span>📡</span> <span data-i18n="stream_title">实时电波流</span></div>
+        <div class="stream-title"><span data-i18n="stream_title">实时电波流</span></div>
         <span class="stream-sub" data-i18n="stream_sub">近 45 天</span>
       </div>
       <div class="stream-list">
 ${streamItemsHtml}
       </div>
 
-      <div class="stream-header" style="margin-top:18px;">
-        <div class="stream-title"><span>🛰️</span> <span data-i18n="health_title">信源健康度</span></div>
+      <div class="stream-header">
+        <div class="stream-title"><span data-i18n="health_title">信源健康度</span></div>
         <span class="stream-sub">${okSources.length}/${liveSources.length} OK</span>
       </div>
       <div class="source-health">

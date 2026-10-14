@@ -21,7 +21,6 @@ export const SOURCES = [
     // 修复：The Wire 主站无 /rss，但 news 频道提供合法 RSS（已实测 200 / 10 items）
     feedUrl: 'https://www.thewire.co.uk/news/rss',
     badge: 'THE WIRE',
-    color: '#722ed1',
     description: 'Adventures in Modern Music，全球先锋实验与声音艺术最高殿堂'
   },
   {
@@ -37,7 +36,6 @@ export const SOURCES = [
     curatedOnly: true,
     note: 'Boomkat 无公开 RSS/Atom（products.atom 返回 403），仅作为人工策展位保留。',
     badge: 'BOOMKAT PICK',
-    color: '#2f54eb',
     description: '英国曼彻斯特先锋唱片店，Staff Picks 往往比传统乐评早数周'
   },
   {
@@ -53,7 +51,6 @@ export const SOURCES = [
     // 保留 feedUrl 以便 WAF 解除后自动恢复；抓取失败时保留上次成功快照并标记为 stale。
     waf: 'cloudflare-js-challenge',
     badge: 'THE QUIETUS',
-    color: '#52c41a',
     description: '专注于激进前卫摇滚、怪异实验电子与非主流乐潮'
   },
   {
@@ -67,7 +64,6 @@ export const SOURCES = [
     // 实测：daily.bandcamp.com 存在间歇性 TLS 重置 (ECONNRESET)，必须重试
     unstable: true,
     badge: 'BANDCAMP DAILY',
-    color: '#1890ff',
     description: '独立音乐最高频次深度挖掘专栏（Album of the Day / Essential Releases）'
   },
 
@@ -81,7 +77,6 @@ export const SOURCES = [
     feedType: 'rss',
     feedUrl: 'https://pitchfork.com/feed/feed-album-reviews/rss',
     badge: 'PITCHFORK',
-    color: '#f5222d',
     description: '权威独立音乐评测与 Best New Music 认证',
     // 实测：feed-best-new-music/rss 与 feed-reviews/rss 均 404；
     // 唯一可用订阅源不含 Best New Music 标记，故前端不再伪造 BNM 高亮。
@@ -98,7 +93,6 @@ export const SOURCES = [
     // 实测响应 5.3s，原 8s 超时在高延迟链路下会误杀该源
     slow: true,
     badge: 'STEREOGUM AOTW',
-    color: '#13c2c2',
     description: '每周深度长篇乐评与年度重点唱片锁定'
   },
   {
@@ -110,7 +104,6 @@ export const SOURCES = [
     feedType: 'youtube_rss',
     feedUrl: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCt7fwAhXDy3oNFTAzF2o8Pw',
     badge: 'FANTANO REVIEW',
-    color: '#fa541c',
     description: '全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级'
   }
 ];

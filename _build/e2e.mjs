@@ -63,7 +63,7 @@ async function main() {
   try {
     const target = await waitForTarget();
     ws = await connect(target.webSocketDebuggerUrl);
-    const { send, evaluate, exceptions, consoleErrors, pageErrors } = ws;
+    const { send, evaluate, exceptions, consoleErrors, pageErrors, externalErrors } = ws;
 
     await send('Page.enable');
     await send('Runtime.enable');
@@ -151,7 +151,32 @@ async function main() {
     console.log('\n▸ 运行时健康');
     check('未捕获异常', exceptions.length, 0);
     check('console error/warning', consoleErrors.length, 0);
+    if (pageErrors.length) console.log('     ' + pageErrors.join('\n     '));
     check('资源加载失败', pageErrors.length, 0);
+    if (externalErrors.length) {
+      console.log(`     （第三方封面加载失败 ${externalErrors.length} 次，属网络环境，不计入站点回归）`);
+    }
+
+    // --window-size 会被 Chrome 的最小窗口宽度钳制，窄屏只能用设备度量仿真。
+    // 断点与跑马灯都是本次新增样式，横向溢出必须在这里挡住。
+    // 改尺寸会让更多懒加载封面进入视口，第三方图片取不到属预期，故这里只看脚本错误。
+    console.log('\n▸ 窄屏 430px');
+    const exBefore = exceptions.length;
+    const ceBefore = consoleErrors.length;
+    await send('Emulation.setDeviceMetricsOverride', {
+      width: 430, height: 900, deviceScaleFactor: 1, mobile: false
+    });
+    await sleep(500);
+    check('窄屏横向无溢出', await evaluate('document.documentElement.scrollWidth - document.documentElement.clientWidth'), 0);
+    check('窄屏单栏布局', await evaluate("getComputedStyle(document.querySelector('.layout-columns')).gridTemplateColumns.split(' ').length"), 1);
+    // 跑马灯靠 overflow:hidden 裁剪，它的 scrollWidth 本来就大于自身宽度，
+    // 要验的是这条裁切带本身没有宽出视口。
+    check('窄屏跑马灯不超出视口', await evaluate("document.querySelector('.marquee').clientWidth <= document.documentElement.clientWidth"), true);
+    await send('Emulation.clearDeviceMetricsOverride');
+    await sleep(300);
+    check('恢复桌面宽度', await evaluate('document.documentElement.clientWidth'), (v) => v > 1200);
+    check('窄屏无新增脚本异常', exceptions.length, exBefore);
+    check('窄屏无新增 console 错误', consoleErrors.length, ceBefore);
   } finally {
     try { ws?.close?.(); } catch { /* ignore */ }
     browser.kill();
@@ -182,6 +207,7 @@ async function connect(url) {
   const exceptions = [];
   const consoleErrors = [];
   const pageErrors = [];
+  const externalErrors = [];
   ws.onmessage = (ev) => {
     const m = JSON.parse(ev.data);
     if (m.id && pending.has(m.id)) {
@@ -197,7 +223,14 @@ async function connect(url) {
       consoleErrors.push(m.params.args.map((a) => a.value ?? a.description ?? a.type).join(' '));
     }
     if (m.method === 'Log.entryAdded' && m.params.entry.level === 'error') {
-      pageErrors.push(m.params.entry.text);
+      // 封面是第三方直链，挂着代理抓取时偶发 reset / timeout。
+      // 那属于网络环境，不是站点故障 —— 只有本站资源的加载失败才算回归。
+      const url = m.params.entry.url || '';
+      if (url.startsWith('http') && !url.startsWith(`http://127.0.0.1:${PORT}`)) {
+        externalErrors.push(url);
+      } else {
+        pageErrors.push(m.params.entry.text || url);
+      }
     }
   };
   const send = (method, params = {}) => new Promise((resolve, reject) => {
@@ -210,7 +243,7 @@ async function connect(url) {
     if (r.exceptionDetails) throw new Error(r.exceptionDetails.exception?.description || 'evaluate failed');
     return r.result.value;
   };
-  return { ws, send, evaluate, exceptions, consoleErrors, pageErrors };
+  return { ws, send, evaluate, exceptions, consoleErrors, pageErrors, externalErrors };
 }
 
 function waitForLoad(ws) {

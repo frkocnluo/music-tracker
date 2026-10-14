@@ -309,7 +309,6 @@ export async function fetchAllFeeds() {
       sourceName: source.name,
       badge: source.badge,
       category: source.category,
-      color: source.color,
       tier: source.tier,
       description: source.description,
       homeUrl: source.url,

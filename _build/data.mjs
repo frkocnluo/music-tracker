@@ -16,21 +16,23 @@ import { SOURCES, FETCH_POLICY } from './sources.mjs';
  */
 
 /* ------------------------------------------------------------------ *
- * 配色：由标题稳定哈希到渐变（保持原视觉）
+ * 配色：由标题稳定哈希到渐变
+ * 仅用于无封面卡片（如 Bandcamp / Quietus 不提供封面）的占位底。
+ * 取值限定在黑—灰区间并带极淡色相偏移，避免高饱和渐变抢走封面主体。
  * ------------------------------------------------------------------ */
 
 const GRADIENT_PALETTES = [
-  'linear-gradient(135deg, #09203f 0%, #537895 100%)',
-  'linear-gradient(135deg, #1f1c2c 0%, #928dab 100%)',
-  'linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%)',
-  'linear-gradient(135deg, #141e30 0%, #243b55 100%)',
-  'linear-gradient(135deg, #3a1c71 0%, #d76d77 50%, #ffaf7b 100%)',
-  'linear-gradient(135deg, #2b5876 0%, #4e4376 100%)',
-  'linear-gradient(135deg, #434343 0%, #000000 100%)',
-  'linear-gradient(135deg, #232526 0%, #414345 100%)',
-  'linear-gradient(135deg, #000428 0%, #004e92 100%)',
-  'linear-gradient(135deg, #2c3e50 0%, #3498db 100%)',
-  'linear-gradient(135deg, #1a2a6c 0%, #b21f1f 50%, #fdbb2d 100%)'
+  'linear-gradient(135deg, #100f0f 0%, #2c2c2c 100%)',
+  'linear-gradient(135deg, #1a1a1a 0%, #3a3a3a 100%)',
+  'linear-gradient(135deg, #100f0f 0%, #1f2a2e 100%)',
+  'linear-gradient(135deg, #0d0d0d 0%, #262626 100%)',
+  'linear-gradient(135deg, #141414 0%, #333333 100%)',
+  'linear-gradient(135deg, #101010 0%, #1e2328 100%)',
+  'linear-gradient(135deg, #2c2c2c 0%, #100f0f 100%)',
+  'linear-gradient(135deg, #1c1c1c 0%, #444444 100%)',
+  'linear-gradient(135deg, #0f0f12 0%, #20222b 100%)',
+  'linear-gradient(135deg, #16181a 0%, #2f3538 100%)',
+  'linear-gradient(135deg, #12100f 0%, #2a1f1c 100%)'
 ];
 
 function getGradientForString(str = '') {

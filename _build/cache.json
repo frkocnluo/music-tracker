@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-14T12:28:25.648Z",
+    "updatedAt": "2026-10-14T14:24:51.972Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -20,7 +20,6 @@
       "sourceName": "The Wire",
       "badge": "THE WIRE",
       "category": "avant-garde",
-      "color": "#722ed1",
       "tier": "1手源 · 先锋声音艺术",
       "description": "Adventures in Modern Music，全球先锋实验与声音艺术最高殿堂",
       "homeUrl": "https://www.thewire.co.uk",
@@ -29,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 770,
+      "ms": 669,
       "error": null,
-      "fetchedAt": "2026-10-14T12:28:25.648Z",
-      "lastOkAt": "2026-10-14T12:28:25.648Z",
+      "fetchedAt": "2026-10-14T14:24:51.972Z",
+      "lastOkAt": "2026-10-14T14:24:51.972Z",
       "itemCount": 10,
       "items": [
         {
@@ -152,7 +151,6 @@
       "sourceName": "Boomkat",
       "badge": "BOOMKAT PICK",
       "category": "avant-garde",
-      "color": "#2f54eb",
       "tier": "0手源 · 先锋唱片店",
       "description": "英国曼彻斯特先锋唱片店，Staff Picks 往往比传统乐评早数周",
       "homeUrl": "https://boomkat.com",
@@ -171,7 +169,6 @@
       "sourceName": "The Quietus",
       "badge": "THE QUIETUS",
       "category": "avant-garde",
-      "color": "#52c41a",
       "tier": "1手源 · 激进独立媒体",
       "description": "专注于激进前卫摇滚、怪异实验电子与非主流乐潮",
       "homeUrl": "https://thequietus.com",
@@ -367,7 +364,6 @@
       "sourceName": "Bandcamp Daily",
       "badge": "BANDCAMP DAILY",
       "category": "underground",
-      "color": "#1890ff",
       "tier": "1手源 · 去中心化策展",
       "description": "独立音乐最高频次深度挖掘专栏（Album of the Day / Essential Releases）",
       "homeUrl": "https://daily.bandcamp.com",
@@ -376,12 +372,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 328,
+      "ms": 347,
       "error": null,
-      "fetchedAt": "2026-10-14T12:28:25.648Z",
-      "lastOkAt": "2026-10-14T12:28:25.648Z",
+      "fetchedAt": "2026-10-14T14:24:51.972Z",
+      "lastOkAt": "2026-10-14T14:24:51.972Z",
       "itemCount": 39,
       "items": [
+        {
+          "title": "Kou Records Builds Community the Old-School Way",
+          "link": "https://daily.bandcamp.com/label-profile/kou-records-label-profile",
+          "imageUrl": "https://f4.bcbits.com/img/0047834668_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "The cutting-edge Brooklyn label are driven by process, not genre. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Label Profile"
+          ],
+          "author": "George Grella"
+        },
+        {
+          "title": "Esoctrilihum, “Annochiül Xar Sorthïlazur”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/esoctrilihum-annochiul-xar-sorthilazur-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047946151_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "Another mindbending masterpiece from France’s mad scientist of black metal. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Brad Sanders"
+        },
         {
           "title": "Boy Harsher Pick Their Bandcamp Favorites",
           "link": "https://daily.bandcamp.com/big-ups/boy-harsher-big-ups",
@@ -862,32 +884,6 @@
             "Best Hip-Hop"
           ],
           "author": "Phillip Mlynar"
-        },
-        {
-          "title": "Big Flowers & shemar, “i love nature!”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/big-flowers-shemar-i-love-nature-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047629332_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-28",
-          "description": "The New York City rapper and producer's collaboration contains a single directive: Go touch grass. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Dash Lewis"
-        },
-        {
-          "title": "Today is Bandcamp Friday",
-          "link": "https://daily.bandcamp.com/features/bandcamp-fridays",
-          "imageUrl": "https://f4.bcbits.com/img/0047631843_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-26",
-          "description": "Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Features"
-          ],
-          "author": "Bandcamp Staff"
         }
       ]
     },
@@ -896,7 +892,6 @@
       "sourceName": "Pitchfork Reviews",
       "badge": "PITCHFORK",
       "category": "critical",
-      "color": "#f5222d",
       "tier": "2手源 · 权威乐评",
       "description": "权威独立音乐评测与 Best New Music 认证",
       "homeUrl": "https://pitchfork.com/reviews/albums/",
@@ -905,10 +900,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 204,
+      "ms": 313,
       "error": null,
-      "fetchedAt": "2026-10-14T12:28:25.648Z",
-      "lastOkAt": "2026-10-14T12:28:25.648Z",
+      "fetchedAt": "2026-10-14T14:24:51.972Z",
+      "lastOkAt": "2026-10-14T14:24:51.972Z",
       "itemCount": 30,
       "items": [
         {
@@ -1308,7 +1303,6 @@
       "sourceName": "Stereogum (Album of the Week)",
       "badge": "STEREOGUM AOTW",
       "category": "critical",
-      "color": "#13c2c2",
       "tier": "2手源 · 核心乐评",
       "description": "每周深度长篇乐评与年度重点唱片锁定",
       "homeUrl": "https://www.stereogum.com/category/reviews/album-of-the-week/",
@@ -1317,10 +1311,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 416,
+      "ms": 445,
       "error": null,
-      "fetchedAt": "2026-10-14T12:28:25.648Z",
-      "lastOkAt": "2026-10-14T12:28:25.648Z",
+      "fetchedAt": "2026-10-14T14:24:51.972Z",
+      "lastOkAt": "2026-10-14T14:24:51.972Z",
       "itemCount": 40,
       "items": [
         {
@@ -1964,7 +1958,6 @@
       "sourceName": "The Needle Drop (Fantano)",
       "badge": "FANTANO REVIEW",
       "category": "critical",
-      "color": "#fa541c",
       "tier": "2手源 · 视频乐评",
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
@@ -1973,10 +1966,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 547,
+      "ms": 449,
       "error": null,
-      "fetchedAt": "2026-10-14T12:28:25.648Z",
-      "lastOkAt": "2026-10-14T12:28:25.648Z",
+      "fetchedAt": "2026-10-14T14:24:51.972Z",
+      "lastOkAt": "2026-10-14T14:24:51.972Z",
       "itemCount": 15,
       "items": [
         {

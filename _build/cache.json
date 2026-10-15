@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-14T14:24:51.972Z",
+    "updatedAt": "2026-10-15T00:24:15.778Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 669,
+      "ms": 961,
       "error": null,
-      "fetchedAt": "2026-10-14T14:24:51.972Z",
-      "lastOkAt": "2026-10-14T14:24:51.972Z",
+      "fetchedAt": "2026-10-15T00:24:15.778Z",
+      "lastOkAt": "2026-10-15T00:24:15.778Z",
       "itemCount": 10,
       "items": [
         {
@@ -372,10 +372,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 347,
+      "ms": 385,
       "error": null,
-      "fetchedAt": "2026-10-14T14:24:51.972Z",
-      "lastOkAt": "2026-10-14T14:24:51.972Z",
+      "fetchedAt": "2026-10-15T00:24:15.778Z",
+      "lastOkAt": "2026-10-15T00:24:15.778Z",
       "itemCount": 39,
       "items": [
         {
@@ -900,10 +900,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 313,
+      "ms": 176,
       "error": null,
-      "fetchedAt": "2026-10-14T14:24:51.972Z",
-      "lastOkAt": "2026-10-14T14:24:51.972Z",
+      "fetchedAt": "2026-10-15T00:24:15.778Z",
+      "lastOkAt": "2026-10-15T00:24:15.778Z",
       "itemCount": 30,
       "items": [
         {
@@ -991,7 +991,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-10-13",
-          "description": "Born as the score to a surreal short film set on Manchester’s empty streets, the ambient duo’s latest album folds classical instrumentation and field recordings into a mood of deep introspection.",
+          "description": "The Manchester/Berlin ambient duo’s latest album folds classical instrumentation and field recordings into a mood of deep introspection.",
           "categories": [
             "Reviews / Albums"
           ],
@@ -1311,10 +1311,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 445,
+      "ms": 387,
       "error": null,
-      "fetchedAt": "2026-10-14T14:24:51.972Z",
-      "lastOkAt": "2026-10-14T14:24:51.972Z",
+      "fetchedAt": "2026-10-15T00:24:15.778Z",
+      "lastOkAt": "2026-10-15T00:24:15.778Z",
       "itemCount": 40,
       "items": [
         {
@@ -1966,10 +1966,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 449,
+      "ms": 232,
       "error": null,
-      "fetchedAt": "2026-10-14T14:24:51.972Z",
-      "lastOkAt": "2026-10-14T14:24:51.972Z",
+      "fetchedAt": "2026-10-15T00:24:15.778Z",
+      "lastOkAt": "2026-10-15T00:24:15.778Z",
       "itemCount": 15,
       "items": [
         {

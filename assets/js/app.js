@@ -16,26 +16,25 @@ const I18N = {
   zh: {
     brand_tag: '全球雷达',
     brand_subtitle: '全球先锋实验、地下独立与多平台共识雷达',
+    page_tagline: '先锋实验与乐评共识',
     live_feed: '实时新声 {n} 条',
     sync_label: '数据快照',
-    hero_title: '摆脱算法规训，重返一手声音。',
-    hero_desc: '直连全球先锋实验、地下独立与权威乐评共识，在算法发现它们之前先一步听到。',
     stat_fresh: '实时新声',
     stat_consensus: '多源共识',
     stat_playable: '可直接试听',
     stat_channels: '信源在线',
-    tab_all: '全部条目',
-    tab_avantgarde: '先锋与实验',
-    tab_underground: 'Bandcamp 深度发掘',
-    tab_critical: '权威乐评',
-    status_all: '全部条目',
-    status_fresh: '实时新声（45 天内）',
-    status_consensus: '多源共识',
-    status_editorial: '专栏 / 专访 / 播客',
+    tab_all: '全部',
+    tab_avantgarde: '先锋',
+    tab_underground: '地下',
+    tab_critical: '乐评',
+    status_all: '全部',
+    status_fresh: '新声',
+    status_consensus: '共识',
+    status_playable: '可听',
+    status_editorial: '专栏',
     editorial_note: '深度专栏（不计单一专辑评分）',
-    no_excerpt: '该信源未随订阅推送摘要，点击标题前往原文。',
     genre_all: '全部流派',
-    search_placeholder: '检索唱片、音乐人、厂牌、关键词...',
+    search_placeholder: '检索...',
     stream_title: '实时电波流',
     stream_sub: '近 45 天',
     health_title: '信源健康度',
@@ -45,33 +44,31 @@ const I18N = {
     now_playing_hint: '点击任意卡片试听',
     no_result: '没有符合条件的条目，试试放宽筛选条件。',
     no_audio: '该信源未提供免费试听音源',
-    no_audio_hint: '已为你准备好平台直链，点击下方任一平台继续收听。',
-    open_platform: '前往平台收听',
-    close_player: '关闭播放器'
+    clear_filters: '清除',
+    result_count: '{v} / {n}'
   },
   en: {
     brand_tag: 'GLOBAL RADAR',
     brand_subtitle: 'Global Avant-Garde, Underground & Critical Consensus Radar',
+    page_tagline: 'Avant-garde & critical consensus',
     live_feed: '{n} fresh releases',
     sync_label: 'Snapshot',
-    hero_title: 'Escape algorithmic feeds. Dig directly from the source.',
-    hero_desc: 'Wired straight to global avant-garde, underground and critical consensus — hear it before the algorithm catches up.',
     stat_fresh: 'Fresh Drops',
     stat_consensus: 'Cross-Source',
     stat_playable: 'Playable Now',
     stat_channels: 'Sources Online',
-    tab_all: 'All Entries',
+    tab_all: 'All',
     tab_avantgarde: 'Avant-Garde',
-    tab_underground: 'Bandcamp Daily',
+    tab_underground: 'Underground',
     tab_critical: 'Critical',
-    status_all: 'All Entries',
-    status_fresh: 'Fresh (< 45 days)',
-    status_consensus: 'Cross-Source Consensus',
-    status_editorial: 'Features & Interviews',
+    status_all: 'All',
+    status_fresh: 'Fresh',
+    status_consensus: 'Consensus',
+    status_playable: 'Playable',
+    status_editorial: 'Features',
     editorial_note: 'Editorial feature (no single-album score)',
-    no_excerpt: 'This source ships no excerpt with its feed — open the original to read on.',
     genre_all: 'All Genres',
-    search_placeholder: 'Search albums, artists, labels, keywords...',
+    search_placeholder: 'Search...',
     stream_title: 'Live Feed Stream',
     stream_sub: 'Last 45 days',
     health_title: 'Source Health',
@@ -81,9 +78,8 @@ const I18N = {
     now_playing_hint: 'Click Preview on any entry',
     no_result: 'Nothing matches these filters. Try widening them.',
     no_audio: 'No free preview audio from this source',
-    no_audio_hint: 'Platform links are ready below — pick one to keep listening.',
-    open_platform: 'Open on platform',
-    close_player: 'Close player'
+    clear_filters: 'Clear',
+    result_count: '{v} / {n}'
   }
 };
 
@@ -95,10 +91,6 @@ const PLATFORM_TEMPLATES = {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-  let currentCategory = 'all';
-  let currentGenre = 'all';
-  let currentStatus = 'all';
-  let searchQuery = '';
   let currentLang = localStorage.getItem('sonic_radar_lang') || 'zh';
 
   const cards = Array.from(document.querySelectorAll('.release-card'));
@@ -106,6 +98,29 @@ document.addEventListener('DOMContentLoaded', () => {
   const statusBtns = document.querySelectorAll('.status-pill-btn');
   const pillBtns = document.querySelectorAll('.pill-btn');
   const searchInput = document.querySelector('.search-input');
+  const resultCount = document.getElementById('result-count');
+  const clearBtn = document.getElementById('clear-filters');
+
+  // 筛选状态存在 URL hash 里：刷新可还原，链接可分享。hash 里的值必须对应真实按钮，否则回落到 all。
+  const hashParams = new URLSearchParams(location.hash.slice(1));
+  const pick = (btns, attr, want) => (Array.from(btns).some((b) => b.dataset[attr] === want) ? want : 'all');
+  let currentCategory = pick(tabBtns, 'category', hashParams.get('cat'));
+  let currentStatus = pick(statusBtns, 'status', hashParams.get('status'));
+  let currentGenre = pick(pillBtns, 'genre', hashParams.get('genre'));
+  let searchQuery = (hashParams.get('q') || '').trim().toLowerCase();
+  if (searchInput) searchInput.value = hashParams.get('q') || '';
+
+  // active 样式与 aria-pressed 必须同步，读屏才知道哪个筛选在生效
+  function setActive(btns, key, value) {
+    btns.forEach((b) => {
+      const on = b.dataset[key] === value;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', String(on));
+    });
+  }
+  setActive(tabBtns, 'category', currentCategory);
+  setActive(statusBtns, 'status', currentStatus);
+  setActive(pillBtns, 'genre', currentGenre);
   const langToggleBtn = document.getElementById('lang-toggle-btn');
   const grid = document.getElementById('release-grid');
 
@@ -203,6 +218,7 @@ document.addEventListener('DOMContentLoaded', () => {
       let matchStatus = true;
       if (currentStatus === 'fresh') matchStatus = isFresh;
       else if (currentStatus === 'consensus') matchStatus = srcCount > 1;
+      else if (currentStatus === 'playable') matchStatus = Boolean(card.dataset.embed || card.dataset.audio);
       else if (currentStatus === 'editorial') matchStatus = !isRelease;
 
       const ok = matchCategory && matchGenre && matchSearch && matchStatus;
@@ -215,26 +231,35 @@ document.addEventListener('DOMContentLoaded', () => {
       el.textContent = visible === 0 ? dict().no_result : '';
       el.hidden = visible !== 0;
     }
+
+    const filtered = currentCategory !== 'all' || currentStatus !== 'all' || currentGenre !== 'all' || searchQuery !== '';
+    if (resultCount) resultCount.textContent = dict().result_count.replace('{v}', visible).replace('{n}', cards.length);
+    if (clearBtn) clearBtn.hidden = !filtered;
+
+    // replaceState：筛选每一步都不新增历史记录，避免「返回」被几十个筛选态占满
+    const p = new URLSearchParams();
+    if (currentCategory !== 'all') p.set('cat', currentCategory);
+    if (currentStatus !== 'all') p.set('status', currentStatus);
+    if (currentGenre !== 'all') p.set('genre', currentGenre);
+    if (searchQuery) p.set('q', searchInput ? searchInput.value.trim() : searchQuery);
+    history.replaceState(null, '', p.toString() ? `#${p}` : location.pathname + location.search);
   }
 
   tabBtns.forEach((btn) => btn.addEventListener('click', () => {
-    tabBtns.forEach((b) => b.classList.remove('active'));
-    btn.classList.add('active');
     currentCategory = btn.dataset.category;
+    setActive(tabBtns, 'category', currentCategory);
     filterCards();
   }));
 
   statusBtns.forEach((btn) => btn.addEventListener('click', () => {
-    statusBtns.forEach((b) => b.classList.remove('active'));
-    btn.classList.add('active');
     currentStatus = btn.dataset.status;
+    setActive(statusBtns, 'status', currentStatus);
     filterCards();
   }));
 
   pillBtns.forEach((btn) => btn.addEventListener('click', () => {
-    pillBtns.forEach((b) => b.classList.remove('active'));
-    btn.classList.add('active');
     currentGenre = btn.dataset.genre;
+    setActive(pillBtns, 'genre', currentGenre);
     filterCards();
   }));
 
@@ -246,6 +271,18 @@ document.addEventListener('DOMContentLoaded', () => {
         searchQuery = e.target.value.trim().toLowerCase();
         filterCards();
       }, 150);
+    });
+  }
+
+  if (clearBtn) {
+    clearBtn.addEventListener('click', () => {
+      currentCategory = currentStatus = currentGenre = 'all';
+      searchQuery = '';
+      if (searchInput) searchInput.value = '';
+      setActive(tabBtns, 'category', 'all');
+      setActive(statusBtns, 'status', 'all');
+      setActive(pillBtns, 'genre', 'all');
+      filterCards();
     });
   }
 
@@ -350,21 +387,22 @@ document.addEventListener('DOMContentLoaded', () => {
       });
       return;
     }
-
-    // 无免费音源：不再用合成器假音伪装播放，如实告知并引导到平台
-    mode = 'none';
-    currentEmbed = '';
-    playToggleBtn.hidden = true;
-    playerArtist.textContent = dict().no_audio;
-    playerStage.innerHTML =
-      `<div class="player-note"><strong>${dict().no_audio}</strong><span>${dict().no_audio_hint}</span></div>`;
-    setPlaying(false);
+    // 没有音源的卡片没有入口能走到这里（layout.mjs 不给它们渲染试听键）
   }
 
-  document.querySelectorAll('.play-preview-btn, .cover-sleeve').forEach((el) => {
+  // 只有真实可播的卡片才渲染试听键与可聚焦封面（见 layout.mjs 的 playable）
+  document.querySelectorAll('.play-preview-btn, .cover-sleeve[role="button"]').forEach((el) => {
     el.addEventListener('click', () => {
       const card = el.closest('.release-card');
       if (card) openCard(card);
+    });
+  });
+  document.querySelectorAll('.cover-sleeve[role="button"]').forEach((el) => {
+    el.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        el.click();
+      }
     });
   });
 

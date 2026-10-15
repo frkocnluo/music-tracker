@@ -94,24 +94,28 @@ export function renderPage({ entries, cache, sources }) {
       const p4k = s.pitchfork || {};
       const tnd = s.fantano || {};
       const db = s.douban || {};
-      const p4kLabel = esc(p4k.label || '—');
-      const tndLabel = esc(tnd.label || '—');
-      scoresHtml =
-        `<div class="scores-bar" title="已核验的平台评分 · 未接入的平台不展示虚假数值">` +
-        `<span class="score-pill pitchfork ${escAttr(p4k.status || 'unrated')}" title="Pitchfork: ${escAttr(p4k.label || '无公开数值评分')}">` +
-        `<span class="score-label">P4K</span><span class="score-val">${p4kLabel}</span>` +
-        (p4k.bnm ? '<span class="score-extra">BNM</span>' : '') +
-        `</span>` +
-        `<span class="score-pill fantano ${escAttr(tnd.status || 'unrated')}" title="The Needle Drop: ${escAttr(tnd.label || '该条未解析到评分')}">` +
-        `<span class="score-label">TND</span><span class="score-val">${tndLabel}</span></span>` +
-        `<a href="${escAttr(entry.links?.original || '#')}" target="_blank" rel="noopener noreferrer" class="score-pill douban ${escAttr(db.status || 'unrated')}" title="${escAttr(db.tooltip || '豆瓣暂无评分')}">` +
-        `<span class="score-label">豆瓣</span><span class="score-val">${esc(db.label || '暂无')}</span></a>` +
-        `</div>`;
+      // 只渲染已有评分的平台；全部未评时整行不出现（实测 94 张唱片里 63/84/91 个评分位是空的）
+      const rated = (x) => x.status && x.status !== 'unrated';
+      const pills = [
+        rated(p4k) &&
+          `<span class="score-pill pitchfork ${escAttr(p4k.status)}" title="Pitchfork: ${escAttr(p4k.label || '')}">` +
+          `<span class="score-label">P4K</span><span class="score-val">${esc(p4k.label || '—')}</span>` +
+          (p4k.bnm ? '<span class="score-extra">BNM</span>' : '') +
+          `</span>`,
+        rated(tnd) &&
+          `<span class="score-pill fantano ${escAttr(tnd.status)}" title="The Needle Drop: ${escAttr(tnd.label || '')}">` +
+          `<span class="score-label">TND</span><span class="score-val">${esc(tnd.label || '—')}</span></span>`,
+        rated(db) &&
+          `<a href="${escAttr(entry.links?.original || '#')}" target="_blank" rel="noopener noreferrer" class="score-pill douban ${escAttr(db.status)}" title="${escAttr(db.tooltip || '')}">` +
+          `<span class="score-label">豆瓣</span><span class="score-val">${esc(db.label || '')}</span></a>`
+      ].filter(Boolean);
+      scoresHtml = pills.length
+        ? `<div class="scores-bar" title="已核验的平台评分 · 未接入的平台不展示虚假数值">${pills.join('')}</div>`
+        : '';
     }
 
-    const summaryHtml = entry.summary
-      ? `<p class="card-summary">${esc(entry.summary)}</p>`
-      : `<p class="card-summary empty" data-i18n="no_excerpt">该信源未随订阅推送摘要，点击标题前往原文。</p>`;
+    // 无摘要就不占位：34 张卡原先各多出一行「未推送摘要」的斜体说明
+    const summaryHtml = entry.summary ? `<p class="card-summary">${esc(entry.summary)}</p>` : '';
 
     const metaLine = [
       `<span class="live-date-pill">${esc(entry.releaseDate || 'DATE N/A')}</span>`,
@@ -121,6 +125,8 @@ export function renderPage({ entries, cache, sources }) {
     const artistHtml = entry.artist
       ? `<div class="card-artist${entry.artistConfidence === 'unknown' || entry.artistConfidence === 'guessed' ? ' low-confidence' : ''}"${entry.artistConfidence === 'guessed' ? ' title="艺人名由标题推断，可能不准确"' : ''}>${esc(entry.artist)}</div>`
       : '';
+
+    const playable = Boolean(entry.embedId || entry.audioSrc);
 
     return (
       `<article class="release-card${entry.sourceCount > 1 ? ' highlight' : ''}" ` +
@@ -132,7 +138,7 @@ export function renderPage({ entries, cache, sources }) {
       `data-embed="${escAttr(entry.embedId || '')}" data-audio="${escAttr(entry.audioSrc || '')}" ` +
       `data-search="${searchString}">` +
       `<div class="card-top">` +
-      `<div class="cover-sleeve" title="Preview / Details"${cover ? ` style="--cover:url('${cover}')"` : ''}>` +
+      `<div class="cover-sleeve"${playable ? ` role="button" tabindex="0" aria-label="试听 ${escAttr(entry.title)}"` : ''}${cover ? ` style="--cover:url('${cover}')"` : ''}>` +
       `<div class="sleeve-jacket" style="background:${escAttr(bgStyle)};">` +
       (cover
         ? `<img src="${cover}" alt="${escAttr(entry.title)}" class="sleeve-cover-img" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`
@@ -151,8 +157,10 @@ export function renderPage({ entries, cache, sources }) {
       summaryHtml +
       (genresHtml ? `<div class="genre-tags">${genresHtml}</div>` : '') +
       `<div class="card-actions">` +
-      `<button class="play-preview-btn" type="button" data-playable="${entry.embedId || entry.audioSrc ? 1 : 0}">` +
-      `<span>▶</span> <span data-i18n="btn_preview">试听 Preview</span></button>` +
+      // 没有真实音源的卡片不放试听键：点了也只会得到一句「无音源」，平台直链已在右侧
+      (playable
+        ? `<button class="play-preview-btn" type="button"><span>▶</span> <span data-i18n="btn_preview">试听 Preview</span></button>`
+        : '') +
       `<div class="platform-links">${linksHtml}</div>` +
       `</div>` +
       `</article>`
@@ -265,10 +273,6 @@ export function renderPage({ entries, cache, sources }) {
   </div>
 </header>
 
-<div class="marquee" aria-hidden="true">
-  <div class="marquee-track">${marqueeSpans}</div>
-</div>
-
 <main class="main-container">
 
   ${degraded.length ? `<div class="degrade-banner" role="status">
@@ -276,38 +280,34 @@ export function renderPage({ entries, cache, sources }) {
     <span>${degraded.map((s) => `${esc(s.sourceName)}（${esc(s.error || '抓取失败')}，展示 ${esc(s.lastOkAt || '历史')} 的快照）`).join('　')}</span>
   </div>` : ''}
 
-  <section class="hero-banner">
-    <div class="hero-text">
-      <h1 data-i18n="hero_title">摆脱算法规训，重返一手声音。</h1>
-      <p data-i18n="hero_desc">直连全球先锋实验、地下独立与权威乐评共识，在算法发现它们之前先一步听到。</p>
-    </div>
-    <div class="hero-meta-stats">
-      <div class="stat-box"><div class="stat-value">${freshEntries.length}</div><div class="stat-label" data-i18n="stat_fresh">实时新声</div></div>
-      <div class="stat-box"><div class="stat-value">${consensusEntries.length}</div><div class="stat-label" data-i18n="stat_consensus">多源共识</div></div>
-      <div class="stat-box"><div class="stat-value">${playable.length}</div><div class="stat-label" data-i18n="stat_playable">可直接试听</div></div>
-      <div class="stat-box"><div class="stat-value">${okSources.length}/${liveSources.length}</div><div class="stat-label" data-i18n="stat_channels">信源在线</div></div>
-    </div>
+  <section class="page-intro">
+    <h1 class="page-title">sonic radar</h1>
+    <p class="page-tagline" data-i18n="page_tagline">先锋实验与乐评共识雷达</p>
+    <span class="page-meta">${entries.length} 条 · ${okSources.length} 信源</span>
   </section>
 
   <section class="control-panel">
-    <div class="view-tabs">
-      <button class="tab-btn active" data-category="all" type="button"><span data-i18n="tab_all">全部条目</span> <span class="tab-count">${entries.length}</span></button>
-      <button class="tab-btn" data-category="avant-garde" type="button"><span data-i18n="tab_avantgarde">先锋与实验</span> <span class="tab-count">${entries.filter((e) => e.category === 'avant-garde').length}</span></button>
-      <button class="tab-btn" data-category="underground" type="button"><span data-i18n="tab_underground">Bandcamp 深度发掘</span> <span class="tab-count">${entries.filter((e) => e.category === 'underground').length}</span></button>
-      <button class="tab-btn" data-category="critical" type="button"><span data-i18n="tab_critical">权威乐评</span> <span class="tab-count">${entries.filter((e) => e.category === 'critical').length}</span></button>
+    <div class="filter-primary">
+      <button class="tab-btn active" data-category="all" type="button"><span data-i18n="tab_all">全部</span></button>
+      <button class="tab-btn" data-category="avant-garde" type="button"><span data-i18n="tab_avantgarde">先锋</span></button>
+      <button class="tab-btn" data-category="underground" type="button"><span data-i18n="tab_underground">地下</span></button>
+      <button class="tab-btn" data-category="critical" type="button"><span data-i18n="tab_critical">乐评</span></button>
+      <span class="filter-sep"></span>
+      <button class="status-pill-btn active" data-status="all" type="button"><span data-i18n="status_all">全部</span></button>
+      <button class="status-pill-btn" data-status="fresh" type="button"><span data-i18n="status_fresh">新声</span></button>
+      <button class="status-pill-btn" data-status="consensus" type="button"><span data-i18n="status_consensus">共识</span></button>
+      <button class="status-pill-btn" data-status="playable" type="button"><span data-i18n="status_playable">可听</span></button>
+      <button class="status-pill-btn" data-status="editorial" type="button"><span data-i18n="status_editorial">专栏</span></button>
     </div>
 
-    <div class="status-filter-row">
-      <button class="status-pill-btn active" data-status="all" type="button"><span data-i18n="status_all">全部条目</span> <span class="status-count">${entries.length}</span></button>
-      <button class="status-pill-btn" data-status="fresh" type="button"><span data-i18n="status_fresh">实时新声（45 天内）</span> <span class="status-count">${freshEntries.length}</span></button>
-      <button class="status-pill-btn" data-status="consensus" type="button"><span data-i18n="status_consensus">多源共识</span> <span class="status-count">${consensusEntries.length}</span></button>
-      <button class="status-pill-btn" data-status="editorial" type="button"><span data-i18n="status_editorial">专栏 / 专访 / 播客</span> <span class="status-count">${editorial.length}</span></button>
-    </div>
-
-    <div class="filter-row">
+    <div class="filter-secondary">
       <div class="genre-pills">${genrePills}</div>
       <div class="search-box">
-        <input type="text" class="search-input" placeholder="检索唱片、音乐人、厂牌、关键词..." data-i18n-placeholder="search_placeholder">
+        <input type="text" class="search-input" aria-label="search" placeholder="检索..." data-i18n-placeholder="search_placeholder">
+        <div class="search-box-meta">
+          <span id="result-count"></span>
+          <button type="button" id="clear-filters" class="clear-filters" data-i18n="clear_filters" hidden>清除</button>
+        </div>
       </div>
     </div>
   </section>

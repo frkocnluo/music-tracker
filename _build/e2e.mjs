@@ -132,14 +132,42 @@ async function main() {
     } else {
       check('可试听卡', 'none in dataset', () => true);
     }
-    const hasSilent = await evaluate('!!document.querySelector(\'.release-card[data-embed=""][data-audio=""]\')');
-    if (hasSilent) {
-      await evaluate(`document.querySelector('.release-card[data-embed=""][data-audio=""] .play-preview-btn').click()`);
-      await sleep(400);
-      check('无音源卡 → 显示说明而非假播', await evaluate("!!document.querySelector('#player-stage .player-note')"), true);
-      check('无音源卡 → 播放键隐藏', await evaluate("document.getElementById('play-toggle-btn').hidden"), true);
-      check('无音源卡 → 波形静止', await evaluate("!document.getElementById('waveform').classList.contains('playing')"), true);
-    }
+    console.log('\n▸ 诚实的试听入口（无音源的卡片不放试听键）');
+    check('试听键数 == 有音源卡数', await evaluate(`
+      document.querySelectorAll('.play-preview-btn').length ===
+      document.querySelectorAll('.release-card:not([data-embed=""]), .release-card:not([data-audio=""])').length`), true);
+    check('无音源卡 → 无试听键且封面不可聚焦', await evaluate(`
+      [...document.querySelectorAll('.release-card[data-embed=""][data-audio=""]')]
+        .every(c => !c.querySelector('.play-preview-btn') && !c.querySelector('.cover-sleeve[tabindex]'))`), true);
+    check('可试听封面可键盘聚焦', await evaluate(`
+      [...document.querySelectorAll('.release-card:not([data-embed=""])')]
+        .every(c => c.querySelector('.cover-sleeve').getAttribute('tabindex') === '0')`), true);
+    check('不再渲染全空评分行', await evaluate(`
+      [...document.querySelectorAll('.scores-bar')].every(b => b.querySelector('.score-pill'))`), true);
+    check('不再渲染「未评」评分位', await evaluate("document.querySelectorAll('.score-pill.unrated').length"), 0);
+
+    console.log('\n▸ 噪音清理与「可试听」筛选');
+    check('无「Genre N/A」标签或 chip', await evaluate("document.body.innerText.includes('Genre N/A')"), false);
+    check('无摘要占位行', await evaluate("document.querySelectorAll('.card-summary.empty').length"), 0);
+    check('筛选=可试听 → 数量等于试听键数', await (async () => {
+      const n = await clickVis('.status-pill-btn[data-status="playable"]');
+      const btns = await evaluate("document.querySelectorAll('.play-preview-btn').length");
+      await clickVis('.status-pill-btn[data-status="all"]');
+      return n > 0 && n === btns;
+    })(), true);
+
+    console.log('\n▸ 筛选状态 / 结果数 / 清除');
+    await evaluate("document.querySelector('.status-pill-btn[data-status=\"fresh\"]').click()");
+    await sleep(150);
+    check('筛选写入 URL hash', await evaluate('location.hash'), (v) => v.includes('status=fresh'));
+    check('aria-pressed 同步', await evaluate("document.querySelector('.status-pill-btn[data-status=\"fresh\"]').getAttribute('aria-pressed')"), 'true');
+    check('结果数文案', await evaluate("document.getElementById('result-count').textContent"), (v) => /\d+\s*\/\s*\d+/.test(v));
+    check('清除按钮出现', await evaluate("!document.getElementById('clear-filters').hidden"), true);
+    await evaluate("document.getElementById('clear-filters').click()");
+    await sleep(150);
+    check('清除后全部可见', await vis(), total);
+    check('清除后 hash 为空', await evaluate('location.hash'), '');
+    check('清除按钮隐藏', await evaluate("document.getElementById('clear-filters').hidden"), true);
 
     console.log('\n▸ 外链展开与多语言');
     check('豆瓣链接已填充检索词', await evaluate("(document.querySelector('.douban-link')?.href||'').includes('search_text=')"), true);
@@ -169,9 +197,7 @@ async function main() {
     await sleep(500);
     check('窄屏横向无溢出', await evaluate('document.documentElement.scrollWidth - document.documentElement.clientWidth'), 0);
     check('窄屏单栏布局', await evaluate("getComputedStyle(document.querySelector('.layout-columns')).gridTemplateColumns.split(' ').length"), 1);
-    // 跑马灯靠 overflow:hidden 裁剪，它的 scrollWidth 本来就大于自身宽度，
-    // 要验的是这条裁切带本身没有宽出视口。
-    check('窄屏跑马灯不超出视口', await evaluate("document.querySelector('.marquee').clientWidth <= document.documentElement.clientWidth"), true);
+    check('窄屏控制栏无横向撑出', await evaluate("document.querySelector('.control-panel').clientWidth <= document.documentElement.clientWidth"), true);
     await send('Emulation.clearDeviceMetricsOverride');
     await sleep(300);
     check('恢复桌面宽度', await evaluate('document.documentElement.clientWidth'), (v) => v > 1200);

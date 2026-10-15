@@ -316,39 +316,7 @@ a {
    2. 跑马灯条（参考站置于顶栏右侧的细带）
    ========================================================================== */
 
-.marquee {
-  overflow: hidden;
-  border-bottom: 1px solid var(--rule);
-  padding: 7px 0;
-  background: var(--bg);
-}
-
-.marquee-track {
-  display: flex;
-  width: max-content;
-  animation: marquee 46s linear infinite;
-}
-
-.marquee-track span {
-  font-size: var(--fs-label);
-  font-weight: 700;
-  line-height: 1;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  white-space: nowrap;
-  padding-right: var(--sp-5);
-  color: var(--ink);
-}
-
-/* 轨道内容为两份等长副本，位移 50% 即无缝循环 */
-@keyframes marquee {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-50%);
-  }
-}
+/* marquee 已删除 */
 
 /* ==========================================================================
    3. 主容器
@@ -382,167 +350,94 @@ a {
 }
 
 /* ==========================================================================
-   4. Hero（参考站的巨型压缩体字标）
+   4. 页面标题（替代 hero banner）
    ========================================================================== */
 
-.hero-banner {
+.page-intro {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
+  align-items: baseline;
+  gap: var(--sp-4);
   flex-wrap: wrap;
-  gap: var(--sp-8);
   padding: var(--pad-main) 0 var(--pad-sm);
-  border-bottom: 1px solid var(--rule);
 }
 
-.hero-text h1 {
-  font-family: var(--font-display);
-  font-size: var(--fs-h1-large);
+.page-title {
+  font-family: var(--font-body);
+  font-size: var(--fs-h4);
   font-weight: 400;
-  line-height: 0.92;
-  letter-spacing: -0.015em;
-  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: var(--ink);
-  max-width: 18ch;
 }
 
-.hero-text p {
-  margin-top: var(--sp-5);
-  max-width: 54ch;
-  font-size: var(--fs-text-large);
-  color: var(--grey-600);
-}
-
-.hero-meta-stats {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(96px, auto));
-  gap: var(--sp-4) var(--sp-6);
-}
-
-.stat-box {
-  border: 1px solid var(--rule);
-  padding: var(--sp-3);
-}
-
-.stat-value {
-  font-family: var(--font-display);
-  font-size: var(--fs-h3);
-  line-height: 1;
-}
-
-.stat-label {
-  margin-top: 6px;
-  font-size: var(--fs-label);
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
+.page-tagline {
+  font-size: var(--fs-text-small);
   color: var(--grey-500);
 }
 
+.page-meta {
+  margin-left: auto;
+  font-size: var(--fs-label);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--grey-400);
+}
+
 /* ==========================================================================
-   5. 控制面板
+   5. 控制面板（两排筛选）
    ========================================================================== */
 
 .control-panel {
   display: flex;
   flex-direction: column;
-  gap: var(--sp-5);
-  padding: var(--pad-main) 0 0;
+  gap: var(--sp-4);
+  padding: var(--pad-xs) 0 0;
 }
 
-/* 视角切换：连体方框标签条（负边距合并相邻边框，还原参考站的导航条） */
-.view-tabs {
-  display: flex;
-  flex-wrap: wrap;
-  margin-left: -1px;
-}
-
-.tab-btn {
-  position: relative;
-  display: inline-flex;
-  align-items: baseline;
-  gap: 8px;
-  margin-left: -1px;
-  border: 1px solid var(--rule);
-  padding: 9px 14px;
-  font-size: var(--fs-label);
-  font-weight: 700;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--ink);
-  transition: background-color 0.2s var(--ease), color 0.2s var(--ease);
-}
-
-.tab-btn:hover {
-  background: var(--grey-50);
-}
-
-.tab-btn.active {
-  background: var(--ink);
-  color: var(--bg);
-}
-
-.tab-count {
-  font-size: 0.6rem;
-  letter-spacing: 0.06em;
-  color: var(--grey-500);
-}
-
-.tab-btn.active .tab-count {
-  color: var(--grey-300);
-}
-
-/* 状态与流派筛选：独立方框，选中填蓝 */
-.status-filter-row {
+.filter-primary {
   display: flex;
   flex-wrap: wrap;
   gap: var(--sp-2);
+  align-items: center;
 }
 
-.status-pill-btn,
-.pill-btn {
-  display: inline-flex;
-  align-items: baseline;
-  gap: 7px;
-  border: 1px solid var(--rule);
-  padding: 7px 12px;
+.filter-sep {
+  width: 1px;
+  height: 18px;
+  background: var(--rule-dim);
+  margin: 0 var(--sp-1);
+}
+
+.tab-btn,
+.status-pill-btn {
+  border: 0;
+  padding: 7px 13px;
   font-size: var(--fs-label);
-  letter-spacing: 0.14em;
+  font-weight: 600;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: var(--ink);
-  transition: background-color 0.2s var(--ease), color 0.2s var(--ease),
-    border-color 0.2s var(--ease);
+  color: var(--grey-600);
+  background: transparent;
+  transition: background-color 0.2s var(--ease), color 0.2s var(--ease);
 }
 
-.status-pill-btn:hover,
-.pill-btn:hover {
+.tab-btn:hover,
+.status-pill-btn:hover {
   background: var(--grey-50);
+  color: var(--ink);
 }
 
-.status-pill-btn.active,
-.pill-btn.active {
+.tab-btn.active,
+.status-pill-btn.active {
   background: var(--blue);
-  border-color: var(--blue);
   color: #fff;
 }
 
-.status-count,
-.pill-count {
-  font-size: 0.6rem;
-  letter-spacing: 0.06em;
-  color: var(--grey-500);
-}
-
-.status-pill-btn.active .status-count,
-.pill-btn.active .pill-count {
-  color: rgba(255, 255, 255, 0.75);
-}
-
-.filter-row {
+.filter-secondary {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: var(--sp-4);
+  gap: var(--sp-3);
 }
 
 .genre-pills {
@@ -553,26 +448,55 @@ a {
   min-width: 0;
 }
 
-.genre-pills .pill-btn {
-  padding: 5px 9px;
+.pill-btn {
+  border: 0;
+  padding: 5px 10px;
   font-size: 0.62rem;
+  font-weight: 600;
   letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--grey-600);
+  background: transparent;
+  transition: background-color 0.2s var(--ease), color 0.2s var(--ease);
 }
 
-/* 检索：方框输入 */
+.pill-btn:hover {
+  background: var(--grey-50);
+  color: var(--ink);
+}
+
+.pill-btn.active {
+  background: var(--blue);
+  color: #fff;
+}
+
+.pill-count {
+  display: none;
+}
+
+/* 检索：无边框，结果数和清除按钮内联 */
 .search-box {
-  flex: 0 1 300px;
-  min-width: 220px;
-  border: 1px solid var(--rule);
-  padding: 0 10px;
-  background: #fff;
+  flex: 0 1 340px;
+  min-width: 260px;
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  border-bottom: 1px solid var(--rule-soft);
+  padding: 0 0 6px;
+  background: transparent;
+  transition: border-color 0.2s var(--ease);
+}
+
+.search-box:focus-within {
+  border-color: var(--blue);
 }
 
 .search-input {
-  width: 100%;
+  flex: 1;
+  min-width: 0;
   background: none;
   border: 0;
-  padding: var(--sp-2) 0;
+  padding: 0;
   color: var(--ink);
   font-family: inherit;
   font-size: var(--fs-text-small);
@@ -580,41 +504,61 @@ a {
 
 .search-input::placeholder {
   color: var(--grey-400);
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
   font-size: var(--fs-label);
+  letter-spacing: 0.08em;
 }
 
 .search-input:focus {
   outline: none;
 }
 
-.search-box:focus-within {
-  border-color: var(--blue);
-  box-shadow: 0 0 0 1px var(--blue);
+.search-box-meta {
+  display: flex;
+  align-items: baseline;
+  gap: var(--sp-2);
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--grey-400);
+  white-space: nowrap;
+}
+
+.clear-filters {
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--blue);
+  text-decoration: none;
+  padding: 0;
+  background: none;
+  border: 0;
+}
+
+.clear-filters:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
 
 /* ==========================================================================
-   6. 两栏布局
+   6. 两栏布局（sidebar 自适应宽度）
    ========================================================================== */
 
 .layout-columns {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 320px;
+  grid-template-columns: minmax(0, 1fr) auto;
   gap: var(--sp-9);
   align-items: start;
   padding-top: var(--pad-sm);
 }
 
 /* ==========================================================================
-   7. 唱片网格 + 卡片
-   封面满幅出血（对齐参考站的大图块），文字区用黑色细线做表格化分隔
+   7. 唱片网格 + 卡片（去边框，用背景色分层）
    ========================================================================== */
 
 .release-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-  gap: var(--sp-8) var(--sp-5);
+  gap: var(--sp-7) var(--sp-5);
   align-content: start;
 }
 
@@ -623,6 +567,21 @@ a {
   flex-direction: column;
   gap: var(--sp-3);
   min-width: 0;
+  padding: var(--sp-4);
+  background: #fff;
+  transition: background-color 0.2s var(--ease);
+}
+
+.release-card:hover {
+  background: #fafafa;
+}
+
+.release-card.highlight {
+  background: rgba(0, 130, 243, 0.04);
+}
+
+.release-card.highlight:hover {
+  background: rgba(0, 130, 243, 0.07);
 }
 
 .card-top {
@@ -631,13 +590,15 @@ a {
   gap: var(--sp-3);
 }
 
-/* 封面框：外层不裁剪，让黑胶能滑出；内层裁剪图片 */
+/* 封面框：外层不裁剪，让黑胶能滑出；内层裁剪图片。封面 4px 圆角。 */
 .cover-sleeve {
   --cover: none;
   position: relative;
   aspect-ratio: 1 / 1;
   background: var(--grey-100);
   border: 1px solid var(--rule);
+  border-radius: 4px;
+  overflow: hidden;
 }
 
 .sleeve-jacket {
@@ -646,6 +607,13 @@ a {
   z-index: 2;
   overflow: hidden;
 }
+
+.cover-sleeve[role="button"] {
+  cursor: pointer;
+}
+
+/* 结果数 + 清除筛选 */
+/* result-bar 已合并到 search-box-meta */
 
 /* 无封面（信源未提供，或图片加载失败被 onerror 移除）时补一层极淡网格底，
    让空封套读起来是「有意留白」而不是「图挂了」 */
@@ -736,16 +704,7 @@ a {
   text-decoration-thickness: 2px;
 }
 
-/* 多源共识：标题前挂一枚红方块 */
-.release-card.highlight .card-title::before {
-  content: "";
-  display: inline-block;
-  width: 7px;
-  height: 7px;
-  margin-right: 8px;
-  vertical-align: 0.28em;
-  background: var(--red);
-}
+/* 多源共识：去掉红点标记，已用淡蓝底背景区分 */
 
 .card-artist {
   font-size: var(--fs-text-xs);
@@ -790,7 +749,8 @@ a {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--ink);
-  white-space: nowrap;
+  white-space: normal;
+  word-break: break-word;
 }
 
 /* 信源身份：方框保留黑边，只让字色承担色相区分 */
@@ -894,11 +854,6 @@ a {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
-}
-
-.card-summary.empty {
-  color: var(--grey-400);
-  font-style: italic;
 }
 
 .genre-tags {
@@ -1007,10 +962,8 @@ a {
   align-items: baseline;
   justify-content: space-between;
   gap: var(--sp-2);
-  padding: 8px 10px;
-  border: 1px solid var(--rule);
-  background: var(--ink);
-  color: var(--bg);
+  padding: 8px 0 6px;
+  margin-bottom: var(--sp-3);
 }
 
 .stream-title {
@@ -1024,25 +977,18 @@ a {
   font-size: 0.6rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: var(--grey-300);
+  color: var(--grey-400);
 }
 
 .stream-list {
   display: flex;
   flex-direction: column;
-  border: 1px solid var(--rule);
-  border-top: 0;
-  /* 与下一组（信源健康度）拉开距离 */
-  margin-bottom: var(--sp-6);
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-7);
 }
 
 .stream-item {
-  padding: var(--sp-3) 10px;
-  border-bottom: 1px solid var(--rule-soft);
-}
-
-.stream-item:last-child {
-  border-bottom: 0;
+  padding: 0;
 }
 
 .stream-item-top {
@@ -1083,8 +1029,7 @@ a {
 .source-health {
   display: flex;
   flex-direction: column;
-  border: 1px solid var(--rule);
-  border-top: 0;
+  gap: var(--sp-3);
 }
 
 .health-row {
@@ -1092,13 +1037,7 @@ a {
   grid-template-columns: 7px minmax(0, 1fr) auto;
   align-items: center;
   gap: var(--sp-2);
-  padding: 9px 10px;
-  border-bottom: 1px solid var(--rule-soft);
   font-size: var(--fs-label);
-}
-
-.health-row:last-child {
-  border-bottom: 0;
 }
 
 .health-dot {
@@ -1305,24 +1244,6 @@ a {
   display: block;
 }
 
-.player-note {
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
-  max-width: 300px;
-  padding: 8px 10px;
-  border: 1px solid var(--rule);
-  font-size: var(--fs-label);
-  color: var(--grey-500);
-}
-
-.player-note strong {
-  color: var(--red);
-  font-size: var(--fs-label);
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-}
-
 .player-outbound {
   display: flex;
   align-items: center;
@@ -1398,9 +1319,13 @@ a {
     padding: 0 var(--sp-4) var(--pad-lg);
   }
 
+  .release-card {
+    padding: var(--sp-3);
+  }
+
   .release-grid {
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: var(--sp-6) var(--sp-3);
+    grid-template-columns: 1fr;
+    gap: var(--sp-5);
   }
 
   .card-summary {
@@ -1419,8 +1344,7 @@ a {
     flex: 1 1 auto;
   }
 
-  .player-stage iframe,
-  .player-note {
+  .player-stage iframe {
     width: 100%;
     max-width: none;
   }

@@ -99,7 +99,7 @@ export function inferGenres(title = '', desc = '', extra = '', categories = []) 
       if (rule.words.some((w) => wordRegex(w).test(text))) tags.push(rule.tag);
     }
   }
-  if (tags.length === 0) tags.push('Genre N/A · 信源未标注');
+  // 未识别就返回空：「Genre N/A」曾占 45 条并作为可点筛选 chip，对用户没有信息量
   return tags;
 }
 
@@ -502,10 +502,16 @@ export function getRadarData() {
     .sort((a, b) => {
       const da = a.releaseDate || '0000-00-00';
       const db = b.releaseDate || '0000-00-00';
-      return db.localeCompare(da);
+      // 同日条目很多（单日最多 17 条），按「多源共识 > 可试听 > 有评分」定先后，而不是随机
+      return db.localeCompare(da) || signal(b) - signal(a);
     });
 
   return { entries, cache, sourceMeta };
+}
+
+function signal(e) {
+  const rated = Object.values(e.scores || {}).some((s) => s && s.status && s.status !== 'unrated');
+  return (e.sourceCount > 1 ? 4 : 0) + (e.embedId || e.audioSrc ? 2 : 0) + (rated ? 1 : 0);
 }
 
 function normKey(s = '') {

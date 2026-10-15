@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-15T00:24:15.778Z",
+    "updatedAt": "2026-10-15T08:17:35.430Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 961,
+      "ms": 660,
       "error": null,
-      "fetchedAt": "2026-10-15T00:24:15.778Z",
-      "lastOkAt": "2026-10-15T00:24:15.778Z",
+      "fetchedAt": "2026-10-15T08:17:35.430Z",
+      "lastOkAt": "2026-10-15T08:17:35.430Z",
       "itemCount": 10,
       "items": [
         {
@@ -372,10 +372,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 385,
+      "ms": 310,
       "error": null,
-      "fetchedAt": "2026-10-15T00:24:15.778Z",
-      "lastOkAt": "2026-10-15T00:24:15.778Z",
+      "fetchedAt": "2026-10-15T08:17:35.430Z",
+      "lastOkAt": "2026-10-15T08:17:35.430Z",
       "itemCount": 39,
       "items": [
         {
@@ -900,12 +900,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 176,
+      "ms": 216,
       "error": null,
-      "fetchedAt": "2026-10-15T00:24:15.778Z",
-      "lastOkAt": "2026-10-15T00:24:15.778Z",
+      "fetchedAt": "2026-10-15T08:17:35.430Z",
+      "lastOkAt": "2026-10-15T08:17:35.430Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Dopamine Chamber",
+          "link": "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a83bc50522f93743d9915c4/master/pass/Dopamine%20Chamber%20by%20Fontaines%20D.C..jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "The Irish band’s fifth album balances profound cynicism and genuine beauty as its ice-hearted stadium rock grows to darkly apocalyptic proportions.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Shaad D’Souza"
+        },
+        {
+          "title": "Purdy",
+          "link": "https://pitchfork.com/reviews/albums/the-koreatown-oddity-purdy/",
+          "imageUrl": "https://media.pitchfork.com/photos/6acf847e76129a3879302f2c/master/pass/The%20Koreatown%20Oddity%20-%20Purdy.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "The L.A. rapper knows that working artists don’t have it easy. His latest album attempts to reconcile a life of precarity with the spiritual rewards of finding one’s voice.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Dash Lewis"
+        },
+        {
+          "title": "SUPREME MAGNETIC 3",
+          "link": "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/",
+          "imageUrl": "https://media.pitchfork.com/photos/6acf9c095d9dcf13afc8d0e4/master/pass/Errol%20Holden-SUPREME%20MAGNETIC%203.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "On his latest release, the prolific Harlem rapper burrows deep into the minutiae of his memories, pairing thrilling, detailed vignettes with ominous beats.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Matthew Ritchie"
+        },
+        {
+          "title": "Cooked",
+          "link": "https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/",
+          "imageUrl": "https://media.pitchfork.com/photos/6acf970d75d631e933dbaa2a/master/pass/Oren%20Ambarchi%20-%20Cooked.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "Building an international band that includes Eiko Ishibashi, Jim O’Rourke, and a whistler, the Australian guitarist shapes longform spells of emotional and musical ambiguity.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Grayson Haver Currin"
+        },
         {
           "title": "She’s the Best",
           "link": "https://pitchfork.com/reviews/albums/troye-sivan-shes-the-best/",
@@ -1243,58 +1295,6 @@
             "Reviews / Albums"
           ],
           "author": "Andrew Sacher"
-        },
-        {
-          "title": "All Set the Bone",
-          "link": "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a5f8c0b3c4dfb9fde52303b/master/pass/Greg%20Freeman%20-%20All%20Set%20The%20Bone%20_%20Album%20Art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-06",
-          "description": "The indie rock songwriter’s latest album is menacing and ambitious, overflowing with quotable lyrics and the feverish energy of something about to fall apart.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Jayson Greene"
-        },
-        {
-          "title": "Hotel Usona",
-          "link": "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab1797ee1cdfe6681b364ad/master/pass/887828057160.png",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-06",
-          "description": "You can check out but you’ll never leave the Detroit post-punks’ new concept album, which grimly parodies the United States’ ugliest realities as odious guests at a cursed hotel.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Nina Corcoran"
-        },
-        {
-          "title": "My World",
-          "link": "https://pitchfork.com/reviews/albums/jam-city-my-world/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac3a26925d8e15b70177a40/master/pass/Jam%20City%20-%20My%20World.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-06",
-          "description": "The UK avant-dance producer has spent recent years wandering pop music’s hinterlands, but he sounds reenergized on his latest amalgam of ’80s-tinged club, pop, and R&B.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Andrew Ryce"
-        },
-        {
-          "title": "Not Normal",
-          "link": "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac3f2e12f03407037013c74/master/pass/Cara%20Delevingne%20-%20Not%20Normal%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-06",
-          "description": "As it flashes from synth-pop experimentation to introspective balladry to heavy distortion, the model and actress’ debut LP is both intriguing and exhausting.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Hannah Jocelyn"
         }
       ]
     },
@@ -1311,10 +1311,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 387,
+      "ms": 290,
       "error": null,
-      "fetchedAt": "2026-10-15T00:24:15.778Z",
-      "lastOkAt": "2026-10-15T00:24:15.778Z",
+      "fetchedAt": "2026-10-15T08:17:35.430Z",
+      "lastOkAt": "2026-10-15T08:17:35.430Z",
       "itemCount": 40,
       "items": [
         {
@@ -1966,12 +1966,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 232,
+      "ms": 555,
       "error": null,
-      "fetchedAt": "2026-10-15T00:24:15.778Z",
-      "lastOkAt": "2026-10-15T00:24:15.778Z",
+      "fetchedAt": "2026-10-15T08:17:35.430Z",
+      "lastOkAt": "2026-10-15T08:17:35.430Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Remi Wolf - Mud ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=k3G3YpdV1gw",
+          "imageUrl": "https://i4.ytimg.com/vi/k3G3YpdV1gw/hqdefault.jpg",
+          "embedId": "k3G3YpdV1gw",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "Listen: https://www.youtube.com/watch?v=JnqDGWp6CSM Sadly an underwhelming album from Remi. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TWIGGY, I WON'T CRY LEAST FAV TRACK: WINE DRUNK REMI WOLF - MUD / 2026 / ISLAND / POP ROCK, ALT-COUNTRY 4/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Godflesh - Decay ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=bhKypakZovQ",
@@ -2125,17 +2136,6 @@
           "description": "Listen: https://www.youtube.com/watch?v=6a2g12aE8kI Such a fun and versatile pop album. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SUNGLASSES, TOO EASY, EMPTY STADIUM, FLASHBACKS, I'D RATHER BE ALONE, CRASH OUT, PILLOW FIGHT, NOBODY WANNA DANCE ANYMORE, POPSTAR, CLOUD 9 LEAST FAV TRACK: BRAINROT TINASHE - POPSTAR / 2026 / NICE LIFE / ALT R&B, DANCE-POP 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Protomartyr - Hotel Usona ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=uIolbXfsg6Q",
-          "imageUrl": "https://i2.ytimg.com/vi/uIolbXfsg6Q/hqdefault.jpg",
-          "embedId": "uIolbXfsg6Q",
-          "audioSrc": "",
-          "pubDate": "2026-09-29",
-          "description": "Listen: https://protomartyr.bandcamp.com/album/hotel-usona One of the grandest rock albums you'll hear all year. Interview w/ the band: https://www.youtube.com/watch?v=U-7WNPIFkCc More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SOUNDS WE CANNOT HEAR, EXALTED EAGLES, THE KNIFE DREAM, FEED THE SEWER, LAVENDER - GOSPEL, THIRD COUNTRY LEAST FAV TRACK: CONVERTS PROTOMARTYR - HOTEL USONA / 2026 / DOMINO / ART PUNK, ORCHESTRAL ROCK 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2225,25 +2225,9 @@
       "artist": "Victoria Monét",
       "album": "Frequency of Love"
     },
-    "https://pitchfork.com/reviews/albums/protomartyr-hotel-usona/": {
-      "artist": "Protomartyr",
-      "album": "Hotel Usona"
-    },
     "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/": {
       "artist": "Haywire",
       "album": "I Don’t Wanna Say Goodbye"
-    },
-    "https://pitchfork.com/reviews/albums/jam-city-my-world/": {
-      "artist": "Jam City",
-      "album": "My World"
-    },
-    "https://pitchfork.com/reviews/albums/cara-delevingne-not-normal/": {
-      "artist": "Cara Delevingne",
-      "album": "Not Normal"
-    },
-    "https://pitchfork.com/reviews/albums/greg-freeman-all-set-the-bone/": {
-      "artist": "Greg Freeman",
-      "album": "All Set the Bone"
     },
     "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
       "artist": "Logic1000",
@@ -2260,6 +2244,22 @@
     "https://pitchfork.com/reviews/albums/troye-sivan-shes-the-best/": {
       "artist": "Troye Sivan",
       "album": "She’s the Best"
+    },
+    "https://pitchfork.com/reviews/albums/the-koreatown-oddity-purdy/": {
+      "artist": "The Koreatown Oddity",
+      "album": "Purdy"
+    },
+    "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/": {
+      "artist": "Fontaines D.C.",
+      "album": "Dopamine Chamber"
+    },
+    "https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/": {
+      "artist": "Oren Ambarchi",
+      "album": "Cooked"
+    },
+    "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/": {
+      "artist": "Errol Holden",
+      "album": "SUPREME MAGNETIC 3"
     }
   }
 }

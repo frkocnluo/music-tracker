@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-15T08:17:35.430Z",
+    "updatedAt": "2026-10-15T12:28:05.831Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 660,
+      "ms": 578,
       "error": null,
-      "fetchedAt": "2026-10-15T08:17:35.430Z",
-      "lastOkAt": "2026-10-15T08:17:35.430Z",
+      "fetchedAt": "2026-10-15T12:28:05.831Z",
+      "lastOkAt": "2026-10-15T12:28:05.831Z",
       "itemCount": 10,
       "items": [
         {
@@ -372,10 +372,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 310,
+      "ms": 204,
       "error": null,
-      "fetchedAt": "2026-10-15T08:17:35.430Z",
-      "lastOkAt": "2026-10-15T08:17:35.430Z",
+      "fetchedAt": "2026-10-15T12:28:05.831Z",
+      "lastOkAt": "2026-10-15T12:28:05.831Z",
       "itemCount": 39,
       "items": [
         {
@@ -900,10 +900,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 216,
+      "ms": 165,
       "error": null,
-      "fetchedAt": "2026-10-15T08:17:35.430Z",
-      "lastOkAt": "2026-10-15T08:17:35.430Z",
+      "fetchedAt": "2026-10-15T12:28:05.831Z",
+      "lastOkAt": "2026-10-15T12:28:05.831Z",
       "itemCount": 30,
       "items": [
         {
@@ -1311,10 +1311,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 290,
+      "ms": 545,
       "error": null,
-      "fetchedAt": "2026-10-15T08:17:35.430Z",
-      "lastOkAt": "2026-10-15T08:17:35.430Z",
+      "fetchedAt": "2026-10-15T12:28:05.831Z",
+      "lastOkAt": "2026-10-15T12:28:05.831Z",
       "itemCount": 40,
       "items": [
         {
@@ -1966,10 +1966,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 555,
+      "ms": 166,
       "error": null,
-      "fetchedAt": "2026-10-15T08:17:35.430Z",
-      "lastOkAt": "2026-10-15T08:17:35.430Z",
+      "fetchedAt": "2026-10-15T12:28:05.831Z",
+      "lastOkAt": "2026-10-15T12:28:05.831Z",
       "itemCount": 15,
       "items": [
         {

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-15T12:28:05.831Z",
+    "updatedAt": "2026-10-16T00:23:00.753Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 578,
+      "ms": 1082,
       "error": null,
-      "fetchedAt": "2026-10-15T12:28:05.831Z",
-      "lastOkAt": "2026-10-15T12:28:05.831Z",
+      "fetchedAt": "2026-10-16T00:23:00.753Z",
+      "lastOkAt": "2026-10-16T00:23:00.753Z",
       "itemCount": 10,
       "items": [
         {
@@ -371,13 +371,39 @@
       "ok": true,
       "status": "ok",
       "httpStatus": 200,
-      "attempts": 1,
-      "ms": 204,
+      "attempts": 2,
+      "ms": 11480,
       "error": null,
-      "fetchedAt": "2026-10-15T12:28:05.831Z",
-      "lastOkAt": "2026-10-15T12:28:05.831Z",
+      "fetchedAt": "2026-10-16T00:23:00.753Z",
+      "lastOkAt": "2026-10-16T00:23:00.753Z",
       "itemCount": 39,
       "items": [
+        {
+          "title": "Bassist and Composer Mali Obomsawin Builds a Bridge Across Time",
+          "link": "https://daily.bandcamp.com/features/mali-obomsawin-automatic-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0047962141_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "The First Nations musician draws a line back to her heritage as a member of the Abenaki Nation. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Bret Sjerven"
+        },
+        {
+          "title": "Witchthroat Serpent, “Demons Left To Roam”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/witchthroat-serpent-demons-left-to-roam-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047949720_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "The riff, then the rhythm, then the rest goes the hierarchical order on the doom band's latest. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Will Ainsley"
+        },
         {
           "title": "Kou Records Builds Community the Old-School Way",
           "link": "https://daily.bandcamp.com/label-profile/kou-records-label-profile",
@@ -858,32 +884,6 @@
             "Album of the Day"
           ],
           "author": "George Grella"
-        },
-        {
-          "title": "The Tape Label Report, September 2026",
-          "link": "https://daily.bandcamp.com/tape-label-report/the-tape-label-report-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047583242_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-28",
-          "description": "5 more tape labels to know and love. How have we not run out yet. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Tape Label Report"
-          ],
-          "author": "Bandcamp Staff"
-        },
-        {
-          "title": "The Best Hip-Hop on Bandcamp, September 2026",
-          "link": "https://daily.bandcamp.com/best-hip-hop/the-best-hip-hop-on-bandcamp-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047583065_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-28",
-          "description": "Our guide to the month’s crucial hip-hop LPs. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Best Hip-Hop"
-          ],
-          "author": "Phillip Mlynar"
         }
       ]
     },
@@ -900,10 +900,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 165,
+      "ms": 156,
       "error": null,
-      "fetchedAt": "2026-10-15T12:28:05.831Z",
-      "lastOkAt": "2026-10-15T12:28:05.831Z",
+      "fetchedAt": "2026-10-16T00:23:00.753Z",
+      "lastOkAt": "2026-10-16T00:23:00.753Z",
       "itemCount": 30,
       "items": [
         {
@@ -1311,10 +1311,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 545,
+      "ms": 329,
       "error": null,
-      "fetchedAt": "2026-10-15T12:28:05.831Z",
-      "lastOkAt": "2026-10-15T12:28:05.831Z",
+      "fetchedAt": "2026-10-16T00:23:00.753Z",
+      "lastOkAt": "2026-10-16T00:23:00.753Z",
       "itemCount": 40,
       "items": [
         {
@@ -1966,12 +1966,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 166,
+      "ms": 346,
       "error": null,
-      "fetchedAt": "2026-10-15T12:28:05.831Z",
-      "lastOkAt": "2026-10-15T12:28:05.831Z",
+      "fetchedAt": "2026-10-16T00:23:00.753Z",
+      "lastOkAt": "2026-10-16T00:23:00.753Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "WHAT IS SHE DOING 😭",
+          "link": "https://www.youtube.com/shorts/lwrSLWhn4iE",
+          "imageUrl": "https://i1.ytimg.com/vi/lwrSLWhn4iE/hqdefault.jpg",
+          "embedId": "lwrSLWhn4iE",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "#music #stellalefty #lifeisahighway #cars #song",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Remi Wolf - Mud ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=k3G3YpdV1gw",
@@ -2123,17 +2134,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-01",
           "description": "#music #thisorthat",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Tinashe - Popstar ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=ZYxjZiNfZQc",
-          "imageUrl": "https://i3.ytimg.com/vi/ZYxjZiNfZQc/hqdefault.jpg",
-          "embedId": "ZYxjZiNfZQc",
-          "audioSrc": "",
-          "pubDate": "2026-09-30",
-          "description": "Listen: https://www.youtube.com/watch?v=6a2g12aE8kI Such a fun and versatile pop album. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SUNGLASSES, TOO EASY, EMPTY STADIUM, FLASHBACKS, I'D RATHER BE ALONE, CRASH OUT, PILLOW FIGHT, NOBODY WANNA DANCE ANYMORE, POPSTAR, CLOUD 9 LEAST FAV TRACK: BRAINROT TINASHE - POPSTAR / 2026 / NICE LIFE / ALT R&B, DANCE-POP 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

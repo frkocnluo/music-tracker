@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-16T00:23:00.753Z",
+    "updatedAt": "2026-10-16T12:27:00.422Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 1082,
+      "ms": 625,
       "error": null,
-      "fetchedAt": "2026-10-16T00:23:00.753Z",
-      "lastOkAt": "2026-10-16T00:23:00.753Z",
+      "fetchedAt": "2026-10-16T12:27:00.422Z",
+      "lastOkAt": "2026-10-16T12:27:00.422Z",
       "itemCount": 10,
       "items": [
         {
@@ -173,189 +173,458 @@
       "description": "专注于激进前卫摇滚、怪异实验电子与非主流乐潮",
       "homeUrl": "https://thequietus.com",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-403",
-      "httpStatus": 403,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 403（源站防护拦截 · cloudflare-js-challenge）",
-      "fetchedAt": null,
-      "lastOkAt": null,
-      "itemCount": 25,
+      "ms": 576,
+      "error": null,
+      "fetchedAt": "2026-10-16T12:27:00.422Z",
+      "lastOkAt": "2026-10-16T12:27:00.422Z",
+      "itemCount": 32,
       "items": [
+        {
+          "title": "Organic Intelligence LXI: Modular Music From Iran",
+          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxi-modular-music-from-iran/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Siavash-Amini-byAshkan-Norouzkhani-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "In this month’s antidote to the algorithm, Kamyar Salavati explores the evolution of Iran’s experimental electronic music scene Siavash Amini by Ashkan Norouzkhani I regret not being there, but fellow music critics still remember the shock of buying a ticket for a small concert in central Tehran, only to discover that the artist doing visuals for the electronic musician Sote was none other than Radiohead collaborator Tarik Barr. His Wikipedia photo is from that trip, framed by a detail of the iconic Azadi Tower in the background. This surprising presence was a sign of how the Iranian electronic music scene had gained some remarkable international visibility despite the country’s isolation – a musical equivalent to the international prestige and critical success of Iranian... The post Organic Intelligence LXI: Modular Music From Iran appeared first on The Quietus .",
+          "categories": [
+            "Organic Intelligence"
+          ],
+          "author": "Luke Turner"
+        },
+        {
+          "title": "The Avalanches – No Bad Memories",
+          "link": "https://thequietus.com/quietus-reviews/the-avalanches-no-bad-memories-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/avalanches-bad-memories.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "The Avalanches No Bad Memories Avalanches weave a satire on branding and tech enshittification complete with skits by Mike Patton and Haley Joel Osment On arrival, Australian plunderphonics crew The Avalanches only had eyes for record racks, bringing in armfuls of half-forgotten vinyl to harvest for the stunning sampledelic patchwork of 2000 debut album Since I Left You. Then they disappeared for 16 years. In the meantime, they apparently made more friends than music, finally coming back with the collaborator-heavy Wildflower (2016) and the even more convivial We Will Always Love You (2020). They never lost their skill with a sample, but now contributions were equally organic. No Bad Memories maintains that balance, stacking up guests and intriguing sonic finds alike. Returners from the... The post The Avalanches – No Bad Memories appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Orbital Detail New Album, ‘Other’",
+          "link": "https://thequietus.com/news/orbital-detail-new-album-other/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Orbital-Live-credit-Manja-Williams-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "The duo have also announced an extensive UK and European tour for spring 2027 Photo by Manja Williams Orbital have shared details of a new album, titled Other. Following on from 2023's Optical Delusion, the new record is preceded by lead cut 'Mother, Maiden & Crone'. The song, which you can listen to below, draws on influences from witchcraft and folklore, according to a press release, and features vocals from Maxine Peake. Other is Orbital's 11th studio album, and explores themes of otherness, as the title suggests. It draws on punk, ambient music, drum & bass and the duo's traditional electronic music origins. They will support the album with an extensive tour of the UK and Europe through April and into May, playing shows... The post Orbital Detail New Album, ‘Other’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Orbital"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Smalltown Supersound to Explore Norway’s 90s Minimal Noise Scene on New Compilation",
+          "link": "https://thequietus.com/news/smalltown-supersound-to-explore-norways-90s-minimal-noise-scene-on-new-compilation/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/09/Deathprod-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "Towards A Cosmic Music - Noise Minimalism, Norway, 1991-2001 features tracks by Deathprod, Lasse Marhaug and more Deathprod Smalltown Supersound will explore Norway's 90s minimal noise scene on a new compilation, Towards A Cosmic Music - Noise Minimalism, Norway, 1991-2001. Comprised of 10 tracks, the release features music by Deathprod, Lasse Marhaug, Supersilent, Elektro Nova and more. It will be released digitally and in a 2xLP vinyl edition. In a statement, Smalltown Supersound founder Joakim Haugland said: \"In many ways this compilation represents the start of the label Smalltown Supersound that I run and started in 1993 while in high school. I was in the middle of this scene when it happened and I released a lot of the music of the artists on... The post Smalltown Supersound to Explore Norway’s 90s Minimal Noise Scene on New Compilation appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Deathprod",
+            "Lasse Marhaug",
+            "Smalltown Supersound"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Butthole Surfers’ ‘Piouhgd’ and ‘Humpty Dumpty LSD’ to be Reissued",
+          "link": "https://thequietus.com/news/butthole-surfers-piouhgd-and-humpty-dumpty-lsd-to-be-reissued/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-15-at-14.55.34-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "Both albums have been remastered for their new vinyl pressings Photo by Kirk R. Tuck Butthole Surfers' albums Piouhgd and Humpty Dumpty LSD are being reissued on vinyl. Both have been remastered especially for their updated release, with the audio now available on streaming platforms and vinyl editions set to follow in December. It marks the third set of reissues of the band's material – the two previous ones came in 2024. Originally released in 1991, Piouhgd was Butthole Surfers' fifth album, and was originally released on Rough Trade. Humpty Dumpty LSD, meanwhile, was first released in 2002, and compiled loose ends from the group's mid-80s archival material. Album cut ‘Sherman (Backass Alt.)’ – later re-worked for Hairway To Steven – has been made... The post Butthole Surfers’ ‘Piouhgd’ and ‘Humpty Dumpty LSD’ to be Reissued appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Butthole Surfers",
+            "Matador"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Cities in Motion: Parallel Commutator by CZN",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/parallel-commutator-czn-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/CZN-press-shot-1-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "The third album to feature Valentina Magaletti in as many weeks finds the tireless rhythmic innovator teaming up with sculptor and gong-maker João Pais Filipe plus producer Leon Marks for an album of clattering polyrhythms and subtle synth washes Prolific musical collaborator and tireless rhythm generator Valentina Magaletti rarely seems to rest. But, even for her, this has been a particularly busy month. No doubt as much due to the logistical necessities of release schedules as the movement of the stars or artistic intention, October has already seen new albums from two of Magaletti’s other projects: Vanishing Twin (Archives) and Holy Tongue (Basilikum). So I hope she can make a little time to put her feet up and receive her flowers.... The post Cities in Motion: Parallel Commutator by CZN appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Boognish Provides: A Ween Odyssey",
+          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/ween-boognish-provides-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/image00025-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "Ween are about to release a 15-hour-long 14xCD boxset of live albums, so we thought, 'Who shall we make listen to the whole damn thing in one sitting?' Words & Pics: JR Moores As a wise person once put it, each person delights in the work that suits them best. Some are proficient plasterers, while others practise law. There are sculptors, plumbers, barbers, nurses, mechanics, teachers, chefs and astronauts, all thriving in their vocations. The butcher. The baker. The blockbuster-maker, whose films make a killing at the box office yet leave some viewers feeling colder than Matt Damon’s goolies on the set of Interstellar. The soldier, too, fearlessly travelling to foreign lands where they can apply their aptitude for killing to... The post Boognish Provides: A Ween Odyssey appeared first on The Quietus .",
+          "categories": [
+            "Black Sky Thinking"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Big Flowers x Shemar – I Love Nature!",
+          "link": "https://thequietus.com/quietus-reviews/big-flowers-x-shemar-i-love-nature/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/big8-flowers-i-love-nature.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-15",
+          "description": "Big Flowers x Shemar I Love Nature! The rapper-producer duo’s abrasive new record serves as a necessary soundtrack for end times i love nature! by Big Flowers x shemar On their new collaborative album, Buffalo-based rapper Big Flowers and NYC producer Shemar offer an unflinching and unfiltered gaze into the chaos of modern life. Equal parts eulogy and battle cry, the record holds a mirror up to a planet heading towards a point of no return. While his previous collaborative record Save The Bees aimed to make sense of the chaotic nature of the world, Big Flowers describes I Love Nature! as “a resistance to our environmental abandonment” referring to the present moment as the “Wall-E grade apocalypse.” Along with a slew of collaborators, including... The post Big Flowers x Shemar – I Love Nature! appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Long Nights in the Sound Forest: Highlights from Skaņu Mežs 2026",
+          "link": "https://thequietus.com/quietus-reviews/live-reviews/skanu-mezs-review-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Skanu-Mezs-2026-Arturs-Pavlovs-Foto_0586-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "Daryl Worthington returns to Latvia’s Skaņu Mežs, where sets from Cities Aviv, KMRU, Sophia Djebel Rose and more provide a much-needed sonic salve Cities Aviv, photo by Artūrs Pavlovs It’s deep into the closing night of Skaņu Mežs 2026 and Cities Aviv, aka Wilbert Gavin Mays, is on the edge of the stage pointing insistently through the darkness at the speakers and urging the sound technicians to turn them up. They comply, lifting his beats even louder so that, from my point close to the stage in the cavernous main hall of Riga’s Hanzas Perons, his chopped and screwed tracks coagulate into an all-consuming ripple of sound, seeping through my ears, into my brain, and on to vibrating in overlapping waves through... The post Long Nights in the Sound Forest: Highlights from Skaņu Mežs 2026 appeared first on The Quietus .",
+          "categories": [
+            "Live Reviews"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Heroína – Heroína",
+          "link": "https://thequietus.com/quietus-reviews/heroina-heroina-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/heroina-st.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "Heroína Heroína Someone has pissed these lads off, and we’re all the richer for it Heroína by Heroína ‘Corre’ means run. On this opener, Heroína do. No count-in, no settling, Vasco Galvão’s blast beats already at full pelt by the time you’ve registered it’s started and Martim Fernandes flying halfway up the neck. It lasts sixty-four seconds. The other twenty-two minutes are more of the same, which I mean as highest praise. ‘Escarro’ at least has a theme, a tumbling three-note figure that could’ve fallen off a Polvo record or a Don Caballero one (newly reunited, mercifully), before the whole show capsizes into bayou-thick Eyehategod sludge and Dillinger Escape Plan’s jackknifing chord shapes. Francisco Jarda rides the lot like David Yow three weeks into a... The post Heroína – Heroína appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Combined Worlds: Kali Malone’s Favourite Albums",
+          "link": "https://thequietus.com/interviews/bakers-dozen/kali-malone-favourite-albums-interview-burning-song/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-33-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "From early modern Renaissance compositions, through 20th century minimalism, all the way to grunge, Kali Malone treats Claire Biddles to a centuries-spanning Baker's Dozen Photo by Kingsley Ifill Kali Malone has always kept a home in several musical worlds at once. When she was in her early 20s, studying at the Royal College Of Music in Stockholm, she would make regular visits to her hometown of Denver, Colorado, diving back into the metal scene in which she was embedded as a teenager. “I was basically living part-time in Sweden, part-time in a metal house in Denver,” she recalls from her present-day Paris apartment. “I was studying electroacoustic composition, but I also wanted to engage with the scene from my home town, so... The post Combined Worlds: Kali Malone’s Favourite Albums appeared first on The Quietus .",
+          "categories": [
+            "Baker's Dozen"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Jon Hassell – Music Is Invisible (Pentimento Volume Three)",
+          "link": "https://thequietus.com/quietus-reviews/jon-hassell-music-is-invisible-pentimento-volume-three-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/hassell-music-is-invisible.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-14",
+          "description": "Jon Hassell Music Is Invisible (Pentimento Volume Three) A final album from the Memphis-born trumpet player and composer Music Is Invisible (Pentimento Volume Three) by Jon Hassell Jon Hassell departed this world on 26th June 2021. He’d lived an extraordinary life entwined in the musical landscape of the 20th century, studying under Stockhausen and Pandit Pran Nath, and collaborating with the likes of Terry Riley, La Monte Young, Brian Eno, Talking Heads, Techno Animal, David Sylvian, Björk and Ry Cooder. He also developed the highly influential concept of Fourth World music, a blend of primitive and futuristic ideas and techniques encompassing modern electronic sounds and global traditional musics. His final concert was in 2015 at St John at Hackney with Rick Cox and John von... The post Jon Hassell – Music Is Invisible (Pentimento Volume Three) appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "JD Twitch’s Record Collection to be Sold",
+          "link": "https://thequietus.com/news/jd-twitchs-record-collection-to-be-sold/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/JDTwitch_credit_MarissaCostello_-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "World Of Echo to sell 20,000 records belonging to the late Optimo lynchpin JD Twitch portrait by Marissa Costello The death of Keith McIvor – AKA JD Twitch – a year ago was a huge loss to the music community of which The Quietus is a part, a DJ, figurehead and inspiration to music fans, obsessives, musicians, dancers, artists, writers all over the world. Now, the thousands of records that made him, and that formed the raw materials of his sets with Optimo and beyond, are to be sold. They'll head off to find new lives in new record collections via a sale at the World Of Echo record shop on Cheshire Street, London, with each vinyl record cleaned, graded and featuring... The post JD Twitch’s Record Collection to be Sold appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "Luke Turner"
+        },
+        {
+          "title": "Columnus Metallicus: Heavy Metal for October Reviewed by Kez Whelan",
+          "link": "https://thequietus.com/quietus-reviews/metal/new-heavy-metal-reviews-sleep-krallice-lustmord-lombardo/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/119156-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "In his latest guide to the world of metal, Kez Whelan considers the disappointingly thin new effort from Sleep, and reviews finer fare from the likes of Krallice and Lustmord Lombardo Lustmord Lombardo While Sleep’s surprise 2018 comeback The Sciences united riff fiends worldwide in ecstatic glee, their recent surprise comeback Hempispheres has been largely met with confusion. Following drummer Jason Roeder’s unceremonious sacking in 2024, it appears Matt Pike is also out of the band now too, with rumours running rife as to what could have prompted the shirtless axeman to leave – when the new iteration of the band dropped their first single ‘Have Spacesuit Will Travel’ back in June, most fans seemed concerned as to whether it was even... The post Columnus Metallicus: Heavy Metal for October Reviewed by Kez Whelan appeared first on The Quietus .",
+          "categories": [
+            "Metal"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Institut Für Feinmotorik – Öd",
+          "link": "https://thequietus.com/quietus-reviews/institut-fur-feinmotorik-od/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/IFF-Od.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-13",
+          "description": "Institut Für Feinmotorik Öd Black Forest experimental turntablists return with a new album for the Faitiche label Öd by Institut fuer Feinmotorik Another week, another tech bro triumphantly declaring music solved, with hyper-individualisation via AI just around the corner. This obnoxious class of talentless grifters is obsessed with optimising everything, art included, and misses the point entirely. We want – no, need! – art to be messy, incomplete, and flawed. Take Institut Für Feinmotorik, originally from Germany’s Black Forest. The collective have spent years paring their sound down to squeaking, sparse forms that sound like mechanical contraptions in their death throes, indebted to both post-Cagean traditions and the Profan school of minimal techno. Their main medium? The Octogrammoticum – an orchestra of eight recordless turntables... The post Institut Für Feinmotorik – Öd appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Life is Death: An Interview with Róis",
           "link": "https://thequietus.com/interviews/rois-interview-mo-lean-domino-reissue/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/ROIS-PC-Anthony-OConnor-crop-3-300-dpi-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-12",
-          "description": "\nOn Mo Léan, Róis uses the ancient art of keening and otherworldly electronics to challenge the foundations of what we consider to be ‘proper’ when it"
+          "description": "On Mo Léan, Róis uses the ancient art of keening and otherworldly electronics to challenge the foundations of what we consider to be ‘proper’ when it comes to death. Here, she speaks to Deirdre Anna Rose Kelly about grief for a nation as well as individuals, the complexities of outsiders’ romanticisation of Irish culture, and the role of the Irish language in her work Photos by Anthony O'Connor “I want to party and to have the craic. That’s where I’m at,” says Róis. To the casual observer, this desire for fun might seem at odds with the work at hand. The title of her critically lauded last album, Mo Léan, newly reissued and expanded for its first global release by Domino next... The post Life is Death: An Interview with Róis appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "Patrick Clarke"
         },
         {
           "title": "Gnod – Chronicles of Gnowt Vol. 2",
           "link": "https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-2-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/gnod-chronicles-2.avif",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-12",
-          "description": "\nGnod\nChronicles of Gnowt Vol. 2\nA second volume from the same Spud Murphy-led session at Vol. 1 finds the Salford rockers at their most fierce\nChroni"
+          "description": "Gnod Chronicles of Gnowt Vol. 2 A second volume from the same Spud Murphy-led session at Vol. 1 finds the Salford rockers at their most fierce Chronicles of Gnowt (Vol 2) by Gnod Whatever monotheists may tell you, there are in fact two Gnods. The first creates thoughtful, psychedelia-tinged records like 2024’s Spot Land and Chronicles of Gnowt (Vol 1). The second, more vengeful Gnod, creates this record. If you’re wondering how to stop the second album in a trilogy feeling like the forgotten middle child, Gnod have the answer: make it much, much heavier. Gone are the almost Ry Cooder-esque acoustic stylings of Vol 1 opener ‘The Trees Pt. 1’. In their place are the propulsive down-the-line rock riffs of lead track ‘The Witness’,... The post Gnod – Chronicles of Gnowt Vol. 2 appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
         },
         {
-          "title": "Steve Reich – The ECM Recordings",
+          "title": "Steve Reich – Recordings on ECM",
           "link": "https://thequietus.com/quietus-reviews/steve-reich-the-ecm-recordings-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/reich-ecm-recordings-700x700.webp",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2890_LP-1-700x700.jpeg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-12",
-          "description": "\nSteve Reich\nThe ECM Recordings\nA new box set marking the composer's 90th birthday gathers together three seminal albums released by ECM in the late 7"
+          "description": "Steve Reich Recordings on ECM A new box set marking the composer's 90th birthday gathers together three seminal albums released by ECM in the late 70s and early 80s When does the last wall separating so-called ‘classical’ music from ‘pop’ finally collapse? At what point in music history does that distinction, maintained in various forms since the great flourishing of the publishing industry at the end of the eighteenth century, pass the point at which it makes any real sense or has any real explanatory use? There’s a strong argument to be made that it happens somewhere in the midst of these three records, released by the German label ECM between 1978 and 1982. I remember meeting someone once who insisted to me that... The post Steve Reich – Recordings on ECM appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
         },
         {
-          "title": "Ryuichi Sakamoto&#8217;s &#8216;1996&#8217; Set for 30th Anniversary Reissue",
+          "title": "Ryuichi Sakamoto’s ‘1996’ Set for 30th Anniversary Reissue",
           "link": "https://thequietus.com/news/ryuichi-sakamotos-1996-set-for-30th-anniversary-reissue/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-09-at-15.43.46-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-09",
-          "description": "\nThe newly remastered release will mark the first time that the album has been made available on vinyl in the US\nPhoto by John Scarsberg\nRyuichi Sakam"
+          "description": "The newly remastered release will mark the first time that the album has been made available on vinyl in the US Photo by John Scarsberg Ryuichi Sakamoto's album 1996 is getting a reissue to mark its 30th anniversary. The record has been newly remastered for its updated release, and will be available in 2xLP and double-cassette editions, retaining the original visual design. It marks the first time that the album has been released on vinyl in the US. 1996 saw Sakamoto revisit a number of his defining works, reworking them in stripped-back form via arrangements for piano, cello and violin. He was joined by Brazilian cellist Jaques Morelenbaum and a cast of violinists for the recording of the album. Milan Records will release 1996 on... The post Ryuichi Sakamoto’s ‘1996’ Set for 30th Anniversary Reissue appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Ryuichi Sakamoto"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "David Byrne Shares Song with Daniel Pemberton Made for Elon Musk Movie",
           "link": "https://thequietus.com/news/david-byrne-shares-song-with-daniel-pemberton-made-for-elon-musk-movie/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/David-Byrne-Daniel-Pemberton-Let-Me-Sell-You-A-Dream-Lead-Press-Photo-credit-Tristan-Bejawn-left-Shervin-Lainez-right-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-09",
-          "description": "\n'Let Me Sell You A Dream' was made using quotes from the controversial billionaire\nPhotos by  Tristan Bejawn and Shervin Lainez (L-R)\nDavid Byrne has"
+          "description": "'Let Me Sell You A Dream' was made using quotes from the controversial billionaire Photos by Tristan Bejawn and Shervin Lainez (L-R) David Byrne has linked up with composer Daniel Pemberton on a new song, 'Let Me Sell You A Dream', which was recorded to appear in the forthcoming Alex Gibney-directed documentary Musk. The lyrics for the track were generated solely from quotes from controversial billionaire Elon Musk, who is the focus of the new film that the song features in. Byrne previously used this method of songwriting on 2010’s Here Lies Love LP, which saw him repurpose statements by Philippine First Lady Imelda Marcos. In a statement, Byrne said: \"It would be too easy and probably not as much fun to overtly criticise... The post David Byrne Shares Song with Daniel Pemberton Made for Elon Musk Movie appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Daniel Pemberton",
+            "David Byrne"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Embrace the Black Box: Duet Emmo Interviewed",
           "link": "https://thequietus.com/interviews/duet-emmo-interview-ica-live-show-or-so-it-seems/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/duet-emmo-433-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-09",
-          "description": "\n43 years since their sole record Or So It Seems, Daniel Miller, Graham Lewis and Bruce Gilbert will be reforming Duet Emmo for the band's first ever "
+          "description": "43 years since their sole record Or So It Seems, Daniel Miller, Graham Lewis and Bruce Gilbert will be reforming Duet Emmo for the band's first ever live performance. Speaking to Kiran Sande, they look back to tell the story of a cult classic, and forwards to a show that won't just see them trying to emulate what's come before Nestled at the corner of Pepper St and Copperfield St in the London borough of Southwark, All Hallows began life as a major Victorian Gothic church, built in 1879 to a design by G.G. Scott Junior. Bombed to bits in the Blitz and deconsecrated soon after, it lay in partial ruin until a 1957 salvage effort led by Southwark Cathedral Provost... The post Embrace the Black Box: Duet Emmo Interviewed appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "Patrick Clarke"
         },
         {
           "title": "Pet Shop Boys – A Man From the Future",
           "link": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/A_Man_from_the_Future.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-09",
-          "description": "\nPet Shop Boys\nA Man From the Future\nChris Lowe and Neil Tennant rework their 2014 BBC Proms performance about Alan Turing into a tighter, more album-"
+          "description": "Pet Shop Boys A Man From the Future Chris Lowe and Neil Tennant rework their 2014 BBC Proms performance about Alan Turing into a tighter, more album-shaped package, with the voices of Juliet Stevenson and Gordon Brown “Although driven by the desire to do something, he wanted to remain ordinary, to be left alone in peace,” writes biographer Andrew Hodges of his subject Alan Turing. It’s a very Pet Shop Boys kind of sensibility, and you can see why the duo are drawn to Turing’s story: the WWII codebreaker who was not rewarded for his contributions to his country, but punished for his sexuality. Much has changed in the decade or so since Pet Shop Boys performed A Man From the Future, their... The post Pet Shop Boys – A Man From the Future appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
         },
         {
-          "title": "Björk Details Live Orchestral Album, &#8216;Björk Orkestral With The Hamrahlíð Choir&#8217;",
+          "title": "Björk Details Live Orchestral Album, ‘Björk Orkestral With The Hamrahlíð Choir’",
           "link": "https://thequietus.com/news/bjork-details-live-orchestral-album-bjork-orkestral-with-the-hamrahlid-choir/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Bjork-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nAvailable across vinyl, CD, DVD and Blu-ray, the live album was captured during one of her October 2021 performances at Reykjavík’s Harpa Concert Hal"
+          "description": "Available across vinyl, CD, DVD and Blu-ray, the live album was captured during one of her October 2021 performances at Reykjavík’s Harpa Concert Hall Björk is releasing an orchestral live album, titled Björk Orkestral With The Hamrahlíð Choir. Captured during a performance at Reykjavík's Harpa Concert Hall on 24 October 2021, the show saw Björk play music mostly from 2004 album Medúlla. For the performance, she was joined by the 50-member Hamrahlíð Choir, who were conducted by Þorgerður Ingólfsdóttir. Musician Bergur Þórisson also provided accompaniment on the organ. The album will be released across vinyl, CD, DVD and Blu-ray formats, and features renditions of 11 of Björk's tracks. In a statement, the Icelandic artist said: \"I am so happy and proud of this concert.... The post Björk Details Live Orchestral Album, ‘Björk Orkestral With The Hamrahlíð Choir’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Björk"
+          ],
+          "author": "Christian Eede"
         },
         {
-          "title": "Loraine James, Puce Mary and More to Debut Orchestral Works at London&#8217;s Barbican",
+          "title": "Loraine James, Puce Mary and More to Debut Orchestral Works at London’s Barbican",
           "link": "https://thequietus.com/news/loraine-james-puce-mary-and-more-to-debut-orchestral-works-at-londons-barbican/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Loraine-James-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nThe six members of Warp Records' Providenza Ensemble will have their works performed by Sinfonietta Cracovia in a show presented by Unsound\nLoraine J"
+          "description": "The six members of Warp Records' Providenza Ensemble will have their works performed by Sinfonietta Cracovia in a show presented by Unsound Loraine James and Puce Mary are among six artists who've produced new orchestral works to be performed at London's Barbican next year. Scheduled for 24 January, the Unsound-presented event will see Sinfonietta Cracovia, the official orchestra of Kraków, perform new pieces by Warp Records' Providenza Ensemble, which comprises James, Mary, Mabe Fratti, Clarissa Connelly, Kelman Duran and Mark William Lewis. Each piece lasts 10 minutes, and was produced to be performed by a 30-string orchestra while the six artists took part in a residency at the Corsican agricultural site Providenza. The musicians produced their works under the guidance of Manchester Collective... The post Loraine James, Puce Mary and More to Debut Orchestral Works at London’s Barbican appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Barbican",
+            "Loraine James",
+            "Puce Mary",
+            "Unsound",
+            "Warp Records"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "µ-Ziq, Plaid and More to Play Edgelands 2026",
           "link": "https://thequietus.com/news/%c2%b5-ziq-plaid-and-more-to-play-edgelands-2026/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Mike-Paradinas.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nThe experimental electronic music event takes over Colchester Arts Centre later this month\nMike Paradinas, AKA µ-Ziq \nUK festival Edgelands will host"
+          "description": "The experimental electronic music event takes over Colchester Arts Centre later this month Mike Paradinas, AKA µ-Ziq UK festival Edgelands will host four days of leftfield and experimental electronic music at its third edition later this month. Returning to its home of Colchester Arts Centre, the event will take in a headline appearance from Mike Paradinas' µ-Ziq project, featuring immersive visuals from ID:Mora. Meemo Comma and Stuart Bowditch will provide support. Elsewhere, the festival will take in sets from Masal – the collaboration between Al Johnson and Anglo-Turkish multi-instrumentalist Ozlem Simsek – Warp Records affiliates Plaid, and cellist Jo Quail. Edgelands will take place from 15 to 18 October 2026. Find more information here. ... The post µ-Ziq, Plaid and More to Play Edgelands 2026 appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Edgelands",
+            "Mike Paradinas",
+            "Plaid",
+            "µ-Ziq"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Jeff Mills Unveils New Album from Tomorrow Comes The Harvest Project",
           "link": "https://thequietus.com/news/jeff-mills-unveils-new-album-from-tomorrow-comes-the-harvest-project/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Tomorrow-Comes-The-Harvest-Photo-by-Jacob-Khrist-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nThe Forbidden Planet will be released via Mills' own Axis Records next month\nPhoto by Jacob Khrist\nJeff Mills is releasing a new album from his Tomor"
+          "description": "The Forbidden Planet will be released via Mills' own Axis Records next month Photo by Jacob Khrist Jeff Mills is releasing a new album from his Tomorrow Comes The Harvest band project. Titled The Forbidden Planet, the record features nine tracks by the band that comprises Mills, keyboardist Jean-Phi Dary and percussionist Prabhu Edouard. Rasheeda Ali also makes guest contributions to the LP on flute. The album sees the group continue to explore their blend of electronic and acoustic dynamics. It was recorded across two years between studios in Miami and Paris. Tomorrow Comes The Harvest began as a live, improvisation-based project involving Mills and the late Tony Allen, with Dary later joining the fold after working with Allen for some time beforehand. Edouard joined... The post Jeff Mills Unveils New Album from Tomorrow Comes The Harvest Project appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Axis Records",
+            "Jeff Mills",
+            "Tomorrow Comes The Harvest"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Liz Harris Plots New Release of Soundtrack Work",
           "link": "https://thequietus.com/news/liz-harris-plots-new-release-of-soundtrack-work/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-14.26.55-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nMusic For Two Films About Water takes in work that the artist otherwise known as Grouper made for films released in 2023 and 2024\nPhoto by Colin Smit"
+          "description": "Music For Two Films About Water takes in work that the artist otherwise known as Grouper made for films released in 2023 and 2024 Photo by Colin Smith Liz Harris, the artist otherwise known as Grouper, is releasing a new collection of soundtrack works through longtime label home Kranky. Music For Two Films About Water features two extended pieces by Harris, produced for 2023 film We Exhale – which sees artist Tanja Engelberts explore how centuries of damming, channelling and industrial pollution have changed the Rhône river – and 2024 film Constellation – in which Takashi Makino explores how new meanings emerge through the arrangement of existing images, memories and other ephemera. Listen to Harris' 21-minute piece for Constellation below. Kranky will release Music For... The post Liz Harris Plots New Release of Soundtrack Work appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Grouper",
+            "Kranky",
+            "Liz Harris"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "The Skinny to Return After Scottish Arts Charity Provides Support",
           "link": "https://thequietus.com/news/the-skinny-to-return-after-scottish-arts-charity-provides-support/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/The-Skinny-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nThe Scottish cultural magazine announced its closure last month, but will now continue thanks to an agreement struck with the organisation Outer Spac"
+          "description": "The Scottish cultural magazine announced its closure last month, but will now continue thanks to an agreement struck with the organisation Outer Spaces The Skinny, the Scottish cultural magazine that announced its impending closure last month, will no longer be ceasing operations. A social media post shared by the team behind the publication revealed that its September issue wasn't actually its last and that it would now continue after an agreement was reached between publisher Radge Media CIC and Scottish arts charity Outer Spaces. Under the terms of the agreement, Outer Spaces will acquire shares in Radge Media in a bid to stabilise the publisher. \"The last month has been incredibly challenging, but the outpouring of support from contributors and collaborators reaffirmed the... The post The Skinny to Return After Scottish Arts Charity Provides Support appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "The Skinny"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "The Low Culture Podcast: Godzilla",
           "link": "https://thequietus.com/subscriber-area/low-culture-podcast/the-low-culture-podcast-godzilla/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Godzilla_1954-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nIn this month’s edition of the pod, John Doran and Luke Turner face a terrifying beast of the atomic age\nBehold! A horrific-looking, lumbering beast "
+          "description": "In this month’s edition of the pod, John Doran and Luke Turner face a terrifying beast of the atomic age Behold! A horrific-looking, lumbering beast comes crashing through his environment, pulverising everything in his path with his concrete-vapourising breath, leaving a trail of destruction that will take months to repair. But once John is settled in his shed, behind the mic and ready to talk to Luke, it’s time for another Quietus Low Culture Podcast. This month the pair discuss Godzilla, which is both a type of Kaiju (strange beast) and the name of a sensational black and white Japanese film from 1954 (although tQ’s co-pilots have a lot to say about the recent ‘prequel’ Godzilla Minus Zero as well). The original... The post The Low Culture Podcast: Godzilla appeared first on The Quietus .",
+          "categories": [
+            "Low Culture Podcast"
+          ],
+          "author": "Luke Turner"
         },
         {
           "title": "Move Any Mountain: Ako Akas by 10LEC6",
           "link": "https://thequietus.com/quietus-reviews/album-of-the-week/10lec6-ako-akas-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-17-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nEight years after Bone Bame, the Paris collective return with a record named after a Cameroonian mountain that traps walkers in a dance they cannot q"
+          "description": "Eight years after Bone Bame, the Paris collective return with a record named after a Cameroonian mountain that traps walkers in a dance they cannot quit. The reason they chose that story is more pointed than the sleeve lets on Somewhere in the middle of the Bone Bame touring cycle, 10LEC6 stopped being able to work. Nicole, the singer whose voice is the entire centre of the group, was served an OQTF, the French administrative order requiring a person to leave the country. The practical result was that the band could not honour festival bookings outside France. A Paris collective built almost entirely on movement, on diaspora, on rhythms carried between continents, was pinned to one territory by paperwork. It was Nicole... The post Move Any Mountain: Ako Akas by 10LEC6 appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
         },
         {
           "title": "Marvin Tate – Controlled Burn",
           "link": "https://thequietus.com/quietus-reviews/marvin-tate-controlled-burn-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/marvin-tate-controlled-burn.avif",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-08",
-          "description": "\nMarvin Tate\nControlled Burn\nChicago slam poet teams up with Wilco’s LeRoy Bach for an album of avant-soul storytelling and hallucinatory instrumentat"
+          "description": "Marvin Tate Controlled Burn Chicago slam poet teams up with Wilco’s LeRoy Bach for an album of avant-soul storytelling and hallucinatory instrumentation Controlled Burn by Marvin Tate Whether you’re just the right amount of tapped-in to Marvin Tate or whether Controlled Burn is your first encounter with the esteemed Chicago poet-performer, you’ll soon realise there’s little else quite like him. On his new full-length album with Amalgam Records, Tate joins forces with veteran Chicago multi-instrumentalist, Wilco’s LeRoy Bach, setting melancholic spoken word against an unruly bed of stretchy, hallucinatory instrumentation. The duo, in their narrative playfulness, don’t make it easy to parse what came first in the experimental collaboration. More often than not though, Bach’s arrangements seem to meet Tate where he’s at – a... The post Marvin Tate – Controlled Burn appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
         },
         {
           "title": "US Man Given Prison Sentence for Bot-Farming Music Streams",
           "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-01.47.19-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
           "pubDate": "2026-10-07",
-          "description": "\nMichael Smith will serve 18 months in prison and give up $8 million in fraudulently earned royalties\nA North Carolina man has been sentenced to 18 mo"
-        },
-        {
-          "title": "Anna Meredith Reveals New Album, &#8216;DARLING&#8217;",
-          "link": "https://thequietus.com/news/anna-meredith-reveals-new-album-darling/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Press-shot-Anna-Meredith-credit-Martina-Lang-700x466.webp",
-          "pubDate": "2026-10-07",
-          "description": "\nThe Scottish artist describes the new record as \"a channelling of intensity, energy and euphoria\"\nPhoto by Martina Lang\nAnna Meredith has unveiled a "
-        },
-        {
-          "title": "Lorenzo Senni Returns to Warp Records for First Album in Six Years",
-          "link": "https://thequietus.com/news/lorenzo-senni-returns-to-warp-records-for-first-album-in-six-years/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/16_Lorenzo-Senni_All-Ages_Press-Pictures_Jim-C_Nedd_1400-700x466.jpg",
-          "pubDate": "2026-10-07",
-          "description": "\nAll Ages features contributions from Xiu Xiu's Jamie Stewart, and skateboarders Chad Muska and Jamie Thomas\nPhoto by Jim C Nedd\nLorenzo Senni has sha"
-        },
-        {
-          "title": "Further Details of TG50 Event at London&#8217;s ICA Emerge",
-          "link": "https://thequietus.com/news/further-details-of-tg50-event-at-londons-ica-emerge/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/ThrobbingGristle-700x466.jpg",
-          "pubDate": "2026-10-07",
-          "description": "\nThe free event will allow fans to gather to listen to the group's music, while extra tickets for Chris Carter and Cosey Fanni Tutti's talk with tQ's "
-        },
-        {
-          "title": "The Comet Is Coming Detail &#8216;Channel The Spirits&#8217; Reissue",
-          "link": "https://thequietus.com/news/the-comet-is-coming-detail-channel-the-spirits-reissue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Comet-Coming-700x466.jpg",
-          "pubDate": "2026-10-07",
-          "description": "\nMarking the album's 10th anniversary, the new edition adds four previously unreleased recordings\nThe Comet Is Coming are marking the 10th anniversary"
-        },
-        {
-          "title": "Appreciation Loops: Tara Clerkin&#8217;s Favourite Albums",
-          "link": "https://thequietus.com/interviews/bakers-dozen/tara-clerkin-trio-interview-favourite-albums/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/09/image0-700x466.jpeg",
-          "pubDate": "2026-10-07",
-          "description": "\nFrom sing-along favourites old and new via jazz, ambient, dub and more, on the back of acclaimed new Trio album Somewhere Good and ahead of a UK tour"
-        },
-        {
-          "title": "Jam City – My World",
-          "link": "https://thequietus.com/quietus-reviews/jam-city-my-world-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/jam-city-my-world.avif",
-          "pubDate": "2026-10-07",
-          "description": "\nJam City\nMy World\nIn the second installment of a 'liminal' trilogy, Jack Louis Latham calls on vocal contributions from Aidan, Bawo, Ox Eye, Sølv, Ha"
-        },
-        {
-          "title": "Glenn Richards &#038; The Venus Lakes – The Great Behind",
-          "link": "https://thequietus.com/quietus-reviews/glenn-richards-the-venus-lakes-the-great-behind/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/PastedGraphic-1-700x700.jpg",
-          "pubDate": "2026-10-06",
-          "description": "\nGlenn Richards &amp; The Venus Lakes\nThe Great Behind\nThe Augie March auteur debuts an energising new ensemble \nDespite gracing the country with a qu"
-        },
-        {
-          "title": "Bloc Reveals First Acts and Venue for 20th Anniversary Event",
-          "link": "https://thequietus.com/news/bloc-reveals-first-acts-and-venue-for-20th-anniversary-event/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Jeff-Mills-700x466.webp",
-          "pubDate": "2026-10-06",
-          "description": "\nThe event, previously famously held as a weekender at UK holiday parks, will return for a one-off party at The Cause in London next March\nBloc has re"
+          "description": "Michael Smith will serve 18 months in prison and give up $8 million in fraudulently earned royalties A North Carolina man has been sentenced to 18 months in prison for collecting millions in royalties from bot-farming streams of AI-generated songs. The US Justice Department announced the sentencing of 54-year-old Michael Smith (pictured above) in a press release yesterday (6 October). He was sentenced for one count of conspiracy to commit wire fraud having pleaded guilty in court in March of this year. Smith, who is a musician, has also been forced to forfeit the $8 million in royalties that he earned from the bot-generated streams. He earned those royalties via his activities from 2017 until his arrest in 2024. According to the US... The post US Man Given Prison Sentence for Bot-Farming Music Streams appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Artificial Intelligence"
+          ],
+          "author": "Christian Eede"
         }
       ]
     },
@@ -371,11 +640,11 @@
       "ok": true,
       "status": "ok",
       "httpStatus": 200,
-      "attempts": 2,
-      "ms": 11480,
+      "attempts": 1,
+      "ms": 307,
       "error": null,
-      "fetchedAt": "2026-10-16T00:23:00.753Z",
-      "lastOkAt": "2026-10-16T00:23:00.753Z",
+      "fetchedAt": "2026-10-16T12:27:00.422Z",
+      "lastOkAt": "2026-10-16T12:27:00.422Z",
       "itemCount": 39,
       "items": [
         {
@@ -900,12 +1169,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 156,
+      "ms": 189,
       "error": null,
-      "fetchedAt": "2026-10-16T00:23:00.753Z",
-      "lastOkAt": "2026-10-16T00:23:00.753Z",
+      "fetchedAt": "2026-10-16T12:27:00.422Z",
+      "lastOkAt": "2026-10-16T12:27:00.422Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Autosmile",
+          "link": "https://pitchfork.com/reviews/albums/at-sign-autosmile/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a3be91e393fc0fa5a7423cb/master/pass/@-Autosmile.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sophie Kemp"
+        },
+        {
+          "title": "I think I spoke too soon",
+          "link": "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab179d106bd4642732ccf88/master/pass/1200214614201.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "The London pop singer mines the pitfalls of young womanhood for dramedy on her sleeker, more polished second record, finding a sweet spot where goofy melodrama and emotional realism meet.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Grace Robins-Somerville"
+        },
+        {
+          "title": "Edge Conditions",
+          "link": "https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad0fa9162c02f46ed117491/master/pass/Jeremiah%20Chiu%20-%20Edge%20Conditions.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "The Los Angeles synthesist steps out from improvising quintet SML to deliver a playful collection of rhythmic studies, electronic abstractions, and even a wriggly acid jam.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Jude Noel"
+        },
+        {
+          "title": "Music Is Invisible (Pentimento Volume Three)",
+          "link": "https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a7c8bd5d4319edfaf67e65b/master/pass/Music%20Is%20Invisible%20by%20Jon%20Hassell.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "The final entry in a painting-inspired trilogy of records draws on the trumpeter and composer’s last live show before his death, highlighting his focused, distinctive musical presence.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Mark Richardson"
+        },
         {
           "title": "Dopamine Chamber",
           "link": "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/",
@@ -1243,58 +1564,6 @@
             "Reviews / Albums"
           ],
           "author": "Dylan Green"
-        },
-        {
-          "title": "QRÖMELIFE",
-          "link": "https://pitchfork.com/reviews/albums/quavo-qromelife/",
-          "imageUrl": "https://media.pitchfork.com/photos/6abbfadc061d1e7ca3ebec57/master/pass/26UM1IM02290.rgb.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "Quavo feels like an afterthought on his own new solo album, which suffers from phoned-in Pharrell beats, weak features, and exhausting levels of brand placement.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Alphonse Pierre"
-        },
-        {
-          "title": "Frequency of Love",
-          "link": "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a60ef3d26f57e7b7f1973bd/master/pass/VictoriaMonet_FOL_Cover_Digital_060326_01%20(1).jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "The singer and songwriter’s sprawling, meticulously polished new album stretches out with swoony ballads, cinematic strings, and timeless quiet storm.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Molly Mary O’Brien"
-        },
-        {
-          "title": "my own fairytale",
-          "link": "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/",
-          "imageUrl": "https://media.pitchfork.com/photos/6abaa7b3c7133574666efdd3/master/pass/klein%20my%20own%20fairy%20tale.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "The South London artist channels Disney soundtrack tropes into claustrophobic strings and drones, while a handful of vocal tracks hint darkly at real-world family drama.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Daniel Bromfield"
-        },
-        {
-          "title": "I Don’t Wanna Say Goodbye",
-          "link": "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac529de6bd2ab7424d820ab/master/pass/Haywire%20I%20Don%E2%80%99t%20Wanna%20Say%20Goodbye.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "The Boston hardcore band aims at wider audiences on a sweetly melodic breakup album that burns as hot and fast as the ill-fated relationship it describes.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Andrew Sacher"
         }
       ]
     },
@@ -1311,10 +1580,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 329,
+      "ms": 341,
       "error": null,
-      "fetchedAt": "2026-10-16T00:23:00.753Z",
-      "lastOkAt": "2026-10-16T00:23:00.753Z",
+      "fetchedAt": "2026-10-16T12:27:00.422Z",
+      "lastOkAt": "2026-10-16T12:27:00.422Z",
       "itemCount": 40,
       "items": [
         {
@@ -1966,12 +2235,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 346,
+      "ms": 194,
       "error": null,
-      "fetchedAt": "2026-10-16T00:23:00.753Z",
-      "lastOkAt": "2026-10-16T00:23:00.753Z",
+      "fetchedAt": "2026-10-16T12:27:00.422Z",
+      "lastOkAt": "2026-10-16T12:27:00.422Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Alabama Shakes - I Must Be Dreaming ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=Ypyau5YSZgU",
+          "imageUrl": "https://i2.ytimg.com/vi/Ypyau5YSZgU/hqdefault.jpg",
+          "embedId": "Ypyau5YSZgU",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "Listen: https://www.youtube.com/watch?v=qB8bqpVn_SA Alabama Shakes' comeback album is kind of carried by its great singles. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ANOTHER LIFE, GARDEN, I FEEL HOPE COMING, HOW LOVE'S SUPPOSED TO GO, AMERICAN DREAM LEAST FAV TRACK: TEA TIME ALABAMA SHAKES - I MUST BE DREAMING / 2026 / ISLAND / PSYCH SOUL, BLUES ROCK 6/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "WHAT IS SHE DOING 😭",
           "link": "https://www.youtube.com/shorts/lwrSLWhn4iE",
@@ -2125,17 +2405,6 @@
           "description": "Listen: https://dazestyle.bandcamp.com/album/pain-of-truth Less dynamic than the band's debut, but still a pretty solid effort. More hardcore reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: DONE FOR, STRANDED, UNFORGIVEN, FED BY FEAR, FILTH IN YOUR HEAD LEAST FAV TRACK: CHINATOWN NY PAIN OF TRUTH - PAIN OF TRUTH / 2026 / DAZE / BEATDOWN, METALCORE 6/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "THIS OR THAT: new albums ✅",
-          "link": "https://www.youtube.com/shorts/Lvhbk7KRTqA",
-          "imageUrl": "https://i1.ytimg.com/vi/Lvhbk7KRTqA/hqdefault.jpg",
-          "embedId": "Lvhbk7KRTqA",
-          "audioSrc": "",
-          "pubDate": "2026-10-01",
-          "description": "#music #thisorthat",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2205,14 +2474,6 @@
       "artist": "Dawn Richard",
       "album": "creole culture"
     },
-    "https://pitchfork.com/reviews/albums/quavo-qromelife/": {
-      "artist": "Quavo",
-      "album": "QRÖMELIFE"
-    },
-    "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/": {
-      "artist": "Klein",
-      "album": "my own fairytale"
-    },
     "https://pitchfork.com/reviews/albums/lucy-bedroque-c/": {
       "artist": "Lucy Bedroque",
       "album": "c"
@@ -2220,14 +2481,6 @@
     "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/": {
       "artist": "Your Old Droog",
       "album": "Bread & Butter"
-    },
-    "https://pitchfork.com/reviews/albums/victoria-monet-frequency-of-love/": {
-      "artist": "Victoria Monét",
-      "album": "Frequency of Love"
-    },
-    "https://pitchfork.com/reviews/albums/haywire-i-dont-wanna-say-goodbye/": {
-      "artist": "Haywire",
-      "album": "I Don’t Wanna Say Goodbye"
     },
     "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
       "artist": "Logic1000",
@@ -2260,6 +2513,22 @@
     "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/": {
       "artist": "Errol Holden",
       "album": "SUPREME MAGNETIC 3"
+    },
+    "https://pitchfork.com/reviews/albums/at-sign-autosmile/": {
+      "artist": "@",
+      "album": "Autosmile"
+    },
+    "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/": {
+      "artist": "Rachel Chinouriri",
+      "album": "I think I spoke too soon"
+    },
+    "https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/": {
+      "artist": "Jeremiah Chiu",
+      "album": "Edge Conditions"
+    },
+    "https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/": {
+      "artist": "Jon Hassell",
+      "album": "Music Is Invisible (Pentimento Volume Three)"
     }
   }
 }

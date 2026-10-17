@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-17T00:24:04.233Z",
+    "updatedAt": "2026-10-17T12:20:12.097Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 469,
+      "ms": 778,
       "error": null,
-      "fetchedAt": "2026-10-17T00:24:04.233Z",
-      "lastOkAt": "2026-10-17T00:24:04.233Z",
+      "fetchedAt": "2026-10-17T12:20:12.097Z",
+      "lastOkAt": "2026-10-17T12:20:12.097Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,20 +177,20 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 551,
+      "ms": 669,
       "error": null,
-      "fetchedAt": "2026-10-17T00:24:04.233Z",
-      "lastOkAt": "2026-10-17T00:24:04.233Z",
+      "fetchedAt": "2026-10-17T12:20:12.097Z",
+      "lastOkAt": "2026-10-17T12:20:12.097Z",
       "itemCount": 32,
       "items": [
         {
-          "title": "Organic Intelligence LXI: Modular Music From Iran",
-          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxi-modular-music-from-iran/",
+          "title": "Organic Intelligence LXI: Electronic Music From Iran",
+          "link": "https://thequietus.com/subscriber-area/organic-intelligence/electronic-music-from-iran/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Siavash-Amini-byAshkan-Norouzkhani-700x466.webp",
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-10-16",
-          "description": "In this month’s antidote to the algorithm, Kamyar Salavati explores the evolution of Iran’s experimental electronic music scene Siavash Amini by Ashkan Norouzkhani I regret not being there, but fellow music critics still remember the shock of buying a ticket for a small concert in central Tehran, only to discover that the artist doing visuals for the electronic musician Sote was none other than Radiohead collaborator Tarik Barr. His Wikipedia photo is from that trip, framed by a detail of the iconic Azadi Tower in the background. This surprising presence was a sign of how the Iranian electronic music scene had gained some remarkable international visibility despite the country’s isolation – a musical equivalent to the international prestige and critical success of Iranian... The post Organic Intelligence LXI: Modular Music From Iran appeared first on The Quietus .",
+          "description": "In this month’s antidote to the algorithm, Kamyar Salavati explores the evolution of Iran’s experimental electronic music scene Siavash Amini by Ashkan Norouzkhani I regret not being there, but fellow music critics still remember the shock of buying a ticket for a small concert in central Tehran, only to discover that the artist doing visuals for the electronic musician Sote was none other than Radiohead collaborator Tarik Barr. His Wikipedia photo is from that trip, framed by a detail of the iconic Azadi Tower in the background. This surprising presence was a sign of how the Iranian electronic music scene had gained some remarkable international visibility despite the country’s isolation – a musical equivalent to the international prestige and critical success of Iranian... The post Organic Intelligence LXI: Electronic Music From Iran appeared first on The Quietus .",
           "categories": [
             "Organic Intelligence"
           ],
@@ -641,10 +641,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 246,
+      "ms": 356,
       "error": null,
-      "fetchedAt": "2026-10-17T00:24:04.233Z",
-      "lastOkAt": "2026-10-17T00:24:04.233Z",
+      "fetchedAt": "2026-10-17T12:20:12.097Z",
+      "lastOkAt": "2026-10-17T12:20:12.097Z",
       "itemCount": 39,
       "items": [
         {
@@ -1169,12 +1169,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 136,
+      "ms": 1269,
       "error": null,
-      "fetchedAt": "2026-10-17T00:24:04.233Z",
-      "lastOkAt": "2026-10-17T00:24:04.233Z",
+      "fetchedAt": "2026-10-17T12:20:12.097Z",
+      "lastOkAt": "2026-10-17T12:20:12.097Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "DJ-Kicks",
+          "link": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad0e91d056973d40b8be89e/master/pass/Djrum%20-%20DJ-Kicks.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-17",
+          "description": "The UK selector throws caution—and genre—to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Ben Cardew"
+        },
         {
           "title": "Autosmile",
           "link": "https://pitchfork.com/reviews/albums/at-sign-autosmile/",
@@ -1551,19 +1564,6 @@
             "Reviews / Albums"
           ],
           "author": "H.D. Angel"
-        },
-        {
-          "title": "Bread & Butter",
-          "link": "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac63e6a57d07363842bd3b1/master/pass/Your%20Old%20Droog-Bread%20&amp;%20Butter.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "The New York rapper carves out a middle ground between belligerence and introspection on his latest record, expressing gratitude for the little things in life without sacrificing his slick wordplay.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Dylan Green"
         }
       ]
     },
@@ -1580,10 +1580,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 406,
+      "ms": 542,
       "error": null,
-      "fetchedAt": "2026-10-17T00:24:04.233Z",
-      "lastOkAt": "2026-10-17T00:24:04.233Z",
+      "fetchedAt": "2026-10-17T12:20:12.097Z",
+      "lastOkAt": "2026-10-17T12:20:12.097Z",
       "itemCount": 40,
       "items": [
         {
@@ -2231,13 +2231,14 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-16T12:27:00.422Z",
-      "lastOkAt": "2026-10-16T12:27:00.422Z",
+      "ms": 608,
+      "error": null,
+      "fetchedAt": "2026-10-17T12:20:12.097Z",
+      "lastOkAt": "2026-10-17T12:20:12.097Z",
       "itemCount": 15,
       "items": [
         {
@@ -2477,10 +2478,6 @@
       "artist": "Lucy Bedroque",
       "album": "c"
     },
-    "https://pitchfork.com/reviews/albums/your-old-droog-bread-and-butter/": {
-      "artist": "Your Old Droog",
-      "album": "Bread & Butter"
-    },
     "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
       "artist": "Logic1000",
       "album": "Confirmation!"
@@ -2528,6 +2525,10 @@
     "https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/": {
       "artist": "Jon Hassell",
       "album": "Music Is Invisible (Pentimento Volume Three)"
+    },
+    "https://pitchfork.com/reviews/albums/djrum-dj-kicks/": {
+      "artist": "Djrum",
+      "album": "DJ-Kicks"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-16T12:27:00.422Z",
+    "updatedAt": "2026-10-17T00:24:04.233Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 6,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 625,
+      "ms": 469,
       "error": null,
-      "fetchedAt": "2026-10-16T12:27:00.422Z",
-      "lastOkAt": "2026-10-16T12:27:00.422Z",
+      "fetchedAt": "2026-10-17T00:24:04.233Z",
+      "lastOkAt": "2026-10-17T00:24:04.233Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 576,
+      "ms": 551,
       "error": null,
-      "fetchedAt": "2026-10-16T12:27:00.422Z",
-      "lastOkAt": "2026-10-16T12:27:00.422Z",
+      "fetchedAt": "2026-10-17T00:24:04.233Z",
+      "lastOkAt": "2026-10-17T00:24:04.233Z",
       "itemCount": 32,
       "items": [
         {
@@ -641,12 +641,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 307,
+      "ms": 246,
       "error": null,
-      "fetchedAt": "2026-10-16T12:27:00.422Z",
-      "lastOkAt": "2026-10-16T12:27:00.422Z",
+      "fetchedAt": "2026-10-17T00:24:04.233Z",
+      "lastOkAt": "2026-10-17T00:24:04.233Z",
       "itemCount": 39,
       "items": [
+        {
+          "title": "The Best Latin Music on Bandcamp, September 2026",
+          "link": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-september-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047838098_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "The best Latin music releases from October. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Best Latin"
+          ],
+          "author": "Maria Barrios"
+        },
+        {
+          "title": "Essential Releases, October 16, 2026",
+          "link": "https://daily.bandcamp.com/essential-releases/essential-releases-october-16-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0047986678_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "Alternative folk, experimental rock, industrial electronic, and more. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Essential Releases"
+          ],
+          "author": "Bandcamp Daily Staff"
+        },
+        {
+          "title": "Pardoner, “Target Practice”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/pardoner-target-practice-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047949574_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-16",
+          "description": "The San Francisco group attempts the same balance of heartfelt and sarcastic as Hüsker, Pavement, Teenage Fanclub, and Ovlov Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Jennifer Kelly"
+        },
         {
           "title": "Bassist and Composer Mali Obomsawin Builds a Bridge Across Time",
           "link": "https://daily.bandcamp.com/features/mali-obomsawin-automatic-feature",
@@ -1114,45 +1153,6 @@
             "Lists"
           ],
           "author": "Luke Jackson"
-        },
-        {
-          "title": "The Best Ambient Music on Bandcamp, September 2026",
-          "link": "https://daily.bandcamp.com/best-ambient/the-best-ambient-music-on-bandcamp-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047633011_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-29",
-          "description": "Our guide to the month’s crucial electronic music. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Best Ambient"
-          ],
-          "author": "Ted Davis"
-        },
-        {
-          "title": "Music Seen #2",
-          "link": "https://daily.bandcamp.com/music-seen/music-seen-2",
-          "imageUrl": "https://f4.bcbits.com/img/0047578843_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-29",
-          "description": "When Indie Musicians Turn Into Film Composers Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Music Seen"
-          ],
-          "author": "Elle Carroll"
-        },
-        {
-          "title": "Anne Waldman, Thurston Moore, James Ilgenfritz & Anagram Ensemble, “The Travel Agency Is On Fire”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/anne-waldman-thurston-moore-james-ilgenfritz-anagram-ensemble-the-travel-agency-is-on-fire-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047633950_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-29",
-          "description": "Cut-up poetry meets cut-up music on an album that must be heard to be believed. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "George Grella"
         }
       ]
     },
@@ -1169,10 +1169,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 189,
+      "ms": 136,
       "error": null,
-      "fetchedAt": "2026-10-16T12:27:00.422Z",
-      "lastOkAt": "2026-10-16T12:27:00.422Z",
+      "fetchedAt": "2026-10-17T00:24:04.233Z",
+      "lastOkAt": "2026-10-17T00:24:04.233Z",
       "itemCount": 30,
       "items": [
         {
@@ -1580,10 +1580,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 341,
+      "ms": 406,
       "error": null,
-      "fetchedAt": "2026-10-16T12:27:00.422Z",
-      "lastOkAt": "2026-10-16T12:27:00.422Z",
+      "fetchedAt": "2026-10-17T00:24:04.233Z",
+      "lastOkAt": "2026-10-17T00:24:04.233Z",
       "itemCount": 40,
       "items": [
         {
@@ -2231,12 +2231,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 194,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-10-16T12:27:00.422Z",
       "lastOkAt": "2026-10-16T12:27:00.422Z",
       "itemCount": 15,

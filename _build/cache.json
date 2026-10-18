@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-18T00:23:53.048Z",
+    "updatedAt": "2026-10-18T12:20:07.112Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 605,
+      "ms": 582,
       "error": null,
-      "fetchedAt": "2026-10-18T00:23:53.048Z",
-      "lastOkAt": "2026-10-18T00:23:53.048Z",
+      "fetchedAt": "2026-10-18T12:20:07.112Z",
+      "lastOkAt": "2026-10-18T12:20:07.112Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 531,
+      "ms": 574,
       "error": null,
-      "fetchedAt": "2026-10-18T00:23:53.048Z",
-      "lastOkAt": "2026-10-18T00:23:53.048Z",
+      "fetchedAt": "2026-10-18T12:20:07.112Z",
+      "lastOkAt": "2026-10-18T12:20:07.112Z",
       "itemCount": 32,
       "items": [
         {
@@ -641,10 +641,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 296,
+      "ms": 345,
       "error": null,
-      "fetchedAt": "2026-10-18T00:23:53.048Z",
-      "lastOkAt": "2026-10-18T00:23:53.048Z",
+      "fetchedAt": "2026-10-18T12:20:07.112Z",
+      "lastOkAt": "2026-10-18T12:20:07.112Z",
       "itemCount": 39,
       "items": [
         {
@@ -1169,12 +1169,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 201,
+      "ms": 227,
       "error": null,
-      "fetchedAt": "2026-10-18T00:23:53.048Z",
-      "lastOkAt": "2026-10-18T00:23:53.048Z",
+      "fetchedAt": "2026-10-18T12:20:07.112Z",
+      "lastOkAt": "2026-10-18T12:20:07.112Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "The Perfect Prescription",
+          "link": "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad131e362c02f46ed1175c3/master/pass/Spacemen%203%20-%20The%20Perfect%20Prescription%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-18",
+          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we investigate J Spaceman and Sonic Boom’s 1987 psychedelic rock album, a mythically drugged-out method of divine transport.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Gabriel Szatan"
+        },
         {
           "title": "DJ-Kicks",
           "link": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/",
@@ -1551,19 +1564,6 @@
             "Reviews / Albums"
           ],
           "author": "Cassidy Sollazzo"
-        },
-        {
-          "title": "c",
-          "link": "https://pitchfork.com/reviews/albums/lucy-bedroque-c/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/master/pass/Lucy%20Bedroque%20-%20c.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Like a cross between a fashionable rave and a final boss battle, the 20 year old’s latest album is both their sleekest and most overclocked, made more for mosh pits than headphone reveries.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "H.D. Angel"
         }
       ]
     },
@@ -1580,10 +1580,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 517,
+      "ms": 528,
       "error": null,
-      "fetchedAt": "2026-10-18T00:23:53.048Z",
-      "lastOkAt": "2026-10-18T00:23:53.048Z",
+      "fetchedAt": "2026-10-18T12:20:07.112Z",
+      "lastOkAt": "2026-10-18T12:20:07.112Z",
       "itemCount": 40,
       "items": [
         {
@@ -2235,12 +2235,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 204,
+      "ms": 262,
       "error": null,
-      "fetchedAt": "2026-10-18T00:23:53.048Z",
-      "lastOkAt": "2026-10-18T00:23:53.048Z",
+      "fetchedAt": "2026-10-18T12:20:07.112Z",
+      "lastOkAt": "2026-10-18T12:20:07.112Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "NO SKIP ALBUMS 🔥💿💯",
+          "link": "https://www.youtube.com/shorts/NrOWZLtILeU",
+          "imageUrl": "https://i3.ytimg.com/vi/NrOWZLtILeU/hqdefault.jpg",
+          "embedId": "NrOWZLtILeU",
+          "audioSrc": "",
+          "pubDate": "2026-10-18",
+          "description": "#music #vinyl #album",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Alabama Shakes - I Must Be Dreaming ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=Ypyau5YSZgU",
@@ -2394,17 +2405,6 @@
           "description": "Listen: https://www.youtube.com/watch?v=BoulWzXVL4Q Really a tale of two albums. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ON WIRES, WILD CHILD, GOOD FINE ALRIGHT, DON'T LEAVE ME ON THE DANCE FLOOR, NEAR OR FAR, HOLD ME TO THE LIGHT, THAT'S JUST ME, SUPER SAGE LEAST FAV TRACK: JUST A LITTLE WALK ON THE MOON CARLY RAE JEPSEN - DAY AND NIGHT / 2026 / INTERSCOPE / POP DAY: 5/10 NIGHT: 7/10 BOTH: 6/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Pain of Truth - Self-Titled ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=pspQzibTedE",
-          "imageUrl": "https://i1.ytimg.com/vi/pspQzibTedE/hqdefault.jpg",
-          "embedId": "pspQzibTedE",
-          "audioSrc": "",
-          "pubDate": "2026-10-01",
-          "description": "Listen: https://dazestyle.bandcamp.com/album/pain-of-truth Less dynamic than the band's debut, but still a pretty solid effort. More hardcore reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: DONE FOR, STRANDED, UNFORGIVEN, FED BY FEAR, FILTH IN YOUR HEAD LEAST FAV TRACK: CHINATOWN NY PAIN OF TRUTH - PAIN OF TRUTH / 2026 / DAZE / BEATDOWN, METALCORE 6/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2474,10 +2474,6 @@
       "artist": "Dawn Richard",
       "album": "creole culture"
     },
-    "https://pitchfork.com/reviews/albums/lucy-bedroque-c/": {
-      "artist": "Lucy Bedroque",
-      "album": "c"
-    },
     "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
       "artist": "Logic1000",
       "album": "Confirmation!"
@@ -2529,6 +2525,10 @@
     "https://pitchfork.com/reviews/albums/djrum-dj-kicks/": {
       "artist": "Djrum",
       "album": "DJ-Kicks"
+    },
+    "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/": {
+      "artist": "Spacemen 3",
+      "album": "The Perfect Prescription"
     }
   }
 }

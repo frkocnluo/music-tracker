@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-18T12:20:07.112Z",
+    "updatedAt": "2026-10-19T00:24:27.033Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 582,
+      "ms": 715,
       "error": null,
-      "fetchedAt": "2026-10-18T12:20:07.112Z",
-      "lastOkAt": "2026-10-18T12:20:07.112Z",
+      "fetchedAt": "2026-10-19T00:24:27.033Z",
+      "lastOkAt": "2026-10-19T00:24:27.033Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 574,
+      "ms": 691,
       "error": null,
-      "fetchedAt": "2026-10-18T12:20:07.112Z",
-      "lastOkAt": "2026-10-18T12:20:07.112Z",
+      "fetchedAt": "2026-10-19T00:24:27.033Z",
+      "lastOkAt": "2026-10-19T00:24:27.033Z",
       "itemCount": 32,
       "items": [
         {
@@ -641,10 +641,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 345,
+      "ms": 408,
       "error": null,
-      "fetchedAt": "2026-10-18T12:20:07.112Z",
-      "lastOkAt": "2026-10-18T12:20:07.112Z",
+      "fetchedAt": "2026-10-19T00:24:27.033Z",
+      "lastOkAt": "2026-10-19T00:24:27.033Z",
       "itemCount": 39,
       "items": [
         {
@@ -1169,10 +1169,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 227,
+      "ms": 287,
       "error": null,
-      "fetchedAt": "2026-10-18T12:20:07.112Z",
-      "lastOkAt": "2026-10-18T12:20:07.112Z",
+      "fetchedAt": "2026-10-19T00:24:27.033Z",
+      "lastOkAt": "2026-10-19T00:24:27.033Z",
       "itemCount": 30,
       "items": [
         {
@@ -1580,10 +1580,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 528,
+      "ms": 806,
       "error": null,
-      "fetchedAt": "2026-10-18T12:20:07.112Z",
-      "lastOkAt": "2026-10-18T12:20:07.112Z",
+      "fetchedAt": "2026-10-19T00:24:27.033Z",
+      "lastOkAt": "2026-10-19T00:24:27.033Z",
       "itemCount": 40,
       "items": [
         {
@@ -2235,12 +2235,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 262,
+      "ms": 561,
       "error": null,
-      "fetchedAt": "2026-10-18T12:20:07.112Z",
-      "lastOkAt": "2026-10-18T12:20:07.112Z",
+      "fetchedAt": "2026-10-19T00:24:27.033Z",
+      "lastOkAt": "2026-10-19T00:24:27.033Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "GREAT ALBUMS: October 2026",
+          "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
+          "imageUrl": "https://i2.ytimg.com/vi/qvjpRLaeA5Y/hqdefault.jpg",
+          "embedId": "qvjpRLaeA5Y",
+          "audioSrc": "",
+          "pubDate": "2026-10-18",
+          "description": "A roundup of Anthony's favorite albums from the past month or so. The music and reviews are linked below in order of appearance. Alex Cameron - Late to Set Review: https://www.youtube.com/watch?v=hDKUNgce03g Listen: https://www.youtube.com/watch?v=AU6KPj5xCX0&list=OLAK5uy_lOXH_3WglGUjM6mfTPRAHcXN0ghMawBdM&index=1 Cameron Winter Live at Carnegie Hall Review: https://www.youtube.com/watch?v=IB7GmiQm9xA Listen: https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall Godflesh - Decay Review: https://www.youtube.com/watch?v=bhKypakZovQ Listen: https://godflesh.bandcamp.com/album/decay Chat Pile - Who Loves the Sun Review: https://www.youtube.com/watch?v=xivxvPzEWhA Listen: https://chatpile.bandcamp.com/album/who-loves-the-sun Protomartyr - Hotel Usona Review: https://www.youtube.com/watch?v=uIolbXfsg6Q Listen: https://protomartyr.bandcamp.com/album/hotel-usona Interview: https://www.youtube.com/watch?v=U-7WNPIFkCc Standing on the Corner \"II\" Review: https://www.youtube.com/watch?v=E7jOCrmHrvw Listen: https://standingonthecorner.bandcamp.com/album/standing-on-the-corner-ii Swans - Newly Sentient Being Review: https://www.youtube.com/watch?v=9xsmpDaz-7k Listen: https://swans.bandcamp.com/album/newly-sentient-being Tinashe - Popstar Review: https://www.youtube.com/watch?v=ZYxjZiNfZQc Listen: https://tinashe.lnk.to/popstar Deafheaven - At Work in the Fields of the Bomb EP Listen: https://www.youtube.com/watch?v=rbpZPrT4Jqw&list=OLAK5uy_nTV2WjlENpAbZWxgKpx0EGr2yVRIsFUXc NEKRA - Is It Really Living? EP Listen: https://nekra.bandcamp.com/album/is-it-really-living Full 2026 Loved List: https://theneedledrop.com/loved-list/2026/ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "NO SKIP ALBUMS 🔥💿💯",
           "link": "https://www.youtube.com/shorts/NrOWZLtILeU",
@@ -2392,17 +2403,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-04",
           "description": "#music",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Carly Rae Jepsen - Day and Night ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=QmTEuVJVO9M",
-          "imageUrl": "https://i2.ytimg.com/vi/QmTEuVJVO9M/hqdefault.jpg",
-          "embedId": "QmTEuVJVO9M",
-          "audioSrc": "",
-          "pubDate": "2026-10-02",
-          "description": "Listen: https://www.youtube.com/watch?v=BoulWzXVL4Q Really a tale of two albums. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ON WIRES, WILD CHILD, GOOD FINE ALRIGHT, DON'T LEAVE ME ON THE DANCE FLOOR, NEAR OR FAR, HOLD ME TO THE LIGHT, THAT'S JUST ME, SUPER SAGE LEAST FAV TRACK: JUST A LITTLE WALK ON THE MOON CARLY RAE JEPSEN - DAY AND NIGHT / 2026 / INTERSCOPE / POP DAY: 5/10 NIGHT: 7/10 BOTH: 6/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

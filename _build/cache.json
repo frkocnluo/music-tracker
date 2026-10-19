@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-19T00:24:27.033Z",
+    "updatedAt": "2026-10-19T12:30:41.896Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 715,
+      "ms": 818,
       "error": null,
-      "fetchedAt": "2026-10-19T00:24:27.033Z",
-      "lastOkAt": "2026-10-19T00:24:27.033Z",
+      "fetchedAt": "2026-10-19T12:30:41.896Z",
+      "lastOkAt": "2026-10-19T12:30:41.896Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 691,
+      "ms": 626,
       "error": null,
-      "fetchedAt": "2026-10-19T00:24:27.033Z",
-      "lastOkAt": "2026-10-19T00:24:27.033Z",
+      "fetchedAt": "2026-10-19T12:30:41.896Z",
+      "lastOkAt": "2026-10-19T12:30:41.896Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Guest Playlist: Dis Fig",
+          "link": "https://thequietus.com/subscriber-area/playlists/guest-playlist-dis-fig/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Dis-Fig-©-Camille-Blake-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "From her deep roots in choral music to the \"fucking queen\" Mariah Carey, Dis Fig takes us through the vast range of influences behind new LP What To Make Of These Mortal Hands, and compile them into a special 20-track playlist available exclusively for tQ Subscriber Plus tier members Music journalists love to declare the influences that must have gone into a new album, but a lot of the time the artists responsible themselves are left baffled by such comparisons. We thought, why not go straight to the source? Dis Fig is a performer, producer, and vocalist who has collaborated with The Bug, The Body, and Asian Dope Boys. Her latest record, What To Make Of These Mortal Hands, is out on... The post Guest Playlist: Dis Fig appeared first on The Quietus .",
+          "categories": [
+            "Playlists"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Matthew Herbert – The UK Has More Food Banks Than Branches Of McDonalds",
+          "link": "https://thequietus.com/quietus-reviews/matthew-herbert-the-uk-has-more-food-banks-than-branches-of-mcdonalds-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/cover-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "Matthew Herbert The UK Has More Food Banks Than Branches Of McDonalds The British producer (fka Doctor Rockit, Wishmountain) returns to the politics of food with an album that doubles as a direct call to action theukhasmorefoodbanksthanbranchesofmcdonalds.com by Matthew Herbert Our relationship to food is the foundation upon which this civilization is built. It’s how we engage with the environment, with our bodies, with each other. It nurtures cultures and communities; it is fundamental to survival. Matthew Herbert has long been interested in the politics of food and the systems that govern its production, distribution and consumption. There is the controversial One Pig and Plat du Jour (2005), which employed augmented recordings of objects relating to industrial food production; and the lesser known documentary Listen... The post Matthew Herbert – The UK Has More Food Banks Than Branches Of McDonalds appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Northern Mantra: Cabaret Voltaire say Goodbye",
+          "link": "https://thequietus.com/interviews/cabaret-voltaire-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Cabaret-Voltaire-2025-4042_credit_PaulHeartfield-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "Derek Walmsley asks Stephen Mallinder and Chris Watson some big questions before they hang up their hats for the last time. Main portrait: Paul Heartfield Stephen Mallinder and Chris Watson are on a video call finding all the different ways to say it’s over. “There will be no more Cabaret Voltaire. We’re not making new tracks,” insists Watson. For Mallinder, “we don’t want to be a tribute band. The end’s going to stagger a little bit, because we can’t stop at every territory within that period, but it will end. “It’s for Richard really,” he continues, namechecking the permanently absent third member of their gang. “I don’t want to take the piss, it has to be a finite thing.” The Cabs are in... The post Northern Mantra: Cabaret Voltaire say Goodbye appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "John Doran"
+        },
         {
           "title": "Organic Intelligence LXI: Electronic Music From Iran",
           "link": "https://thequietus.com/subscriber-area/organic-intelligence/electronic-music-from-iran/",
@@ -585,46 +624,6 @@
             "Low Culture Podcast"
           ],
           "author": "Luke Turner"
-        },
-        {
-          "title": "Move Any Mountain: Ako Akas by 10LEC6",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/10lec6-ako-akas-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-17-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Eight years after Bone Bame, the Paris collective return with a record named after a Cameroonian mountain that traps walkers in a dance they cannot quit. The reason they chose that story is more pointed than the sleeve lets on Somewhere in the middle of the Bone Bame touring cycle, 10LEC6 stopped being able to work. Nicole, the singer whose voice is the entire centre of the group, was served an OQTF, the French administrative order requiring a person to leave the country. The practical result was that the band could not honour festival bookings outside France. A Paris collective built almost entirely on movement, on diaspora, on rhythms carried between continents, was pinned to one territory by paperwork. It was Nicole... The post Move Any Mountain: Ako Akas by 10LEC6 appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Marvin Tate – Controlled Burn",
-          "link": "https://thequietus.com/quietus-reviews/marvin-tate-controlled-burn-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/marvin-tate-controlled-burn.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Marvin Tate Controlled Burn Chicago slam poet teams up with Wilco’s LeRoy Bach for an album of avant-soul storytelling and hallucinatory instrumentation Controlled Burn by Marvin Tate Whether you’re just the right amount of tapped-in to Marvin Tate or whether Controlled Burn is your first encounter with the esteemed Chicago poet-performer, you’ll soon realise there’s little else quite like him. On his new full-length album with Amalgam Records, Tate joins forces with veteran Chicago multi-instrumentalist, Wilco’s LeRoy Bach, setting melancholic spoken word against an unruly bed of stretchy, hallucinatory instrumentation. The duo, in their narrative playfulness, don’t make it easy to parse what came first in the experimental collaboration. More often than not though, Bach’s arrangements seem to meet Tate where he’s at – a... The post Marvin Tate – Controlled Burn appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "US Man Given Prison Sentence for Bot-Farming Music Streams",
-          "link": "https://thequietus.com/news/us-man-given-prison-sentence-for-bot-farming-music-streams/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-01.47.19-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "Michael Smith will serve 18 months in prison and give up $8 million in fraudulently earned royalties A North Carolina man has been sentenced to 18 months in prison for collecting millions in royalties from bot-farming streams of AI-generated songs. The US Justice Department announced the sentencing of 54-year-old Michael Smith (pictured above) in a press release yesterday (6 October). He was sentenced for one count of conspiracy to commit wire fraud having pleaded guilty in court in March of this year. Smith, who is a musician, has also been forced to forfeit the $8 million in royalties that he earned from the bot-generated streams. He earned those royalties via his activities from 2017 until his arrest in 2024. According to the US... The post US Man Given Prison Sentence for Bot-Farming Music Streams appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Artificial Intelligence"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -641,10 +640,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 408,
+      "ms": 302,
       "error": null,
-      "fetchedAt": "2026-10-19T00:24:27.033Z",
-      "lastOkAt": "2026-10-19T00:24:27.033Z",
+      "fetchedAt": "2026-10-19T12:30:41.896Z",
+      "lastOkAt": "2026-10-19T12:30:41.896Z",
       "itemCount": 39,
       "items": [
         {
@@ -1169,12 +1168,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 287,
+      "ms": 178,
       "error": null,
-      "fetchedAt": "2026-10-19T00:24:27.033Z",
-      "lastOkAt": "2026-10-19T00:24:27.033Z",
+      "fetchedAt": "2026-10-19T12:30:41.896Z",
+      "lastOkAt": "2026-10-19T12:30:41.896Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Stick Around for Tea",
+          "link": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad133ea47a15edc7845996a/master/pass/Worldpeace%20DMT%20-%20Stick%20Around%20for%20Tea%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Samuel Hyland"
+        },
+        {
+          "title": "KOOL FAITH / LOOSIES II",
+          "link": "https://pitchfork.com/reviews/albums/they-are-gutting-a-body-of-water-kool-faith-loosies-ii/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab3e168ad1203b50827a447/master/pass/They%20Are%20Gutting%20a%20Body%20of%20Water%20Kool%20Faith%20Loosies%20II.png",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "The Philly shoegaze band calls on friends from across genres for a wide-spanning compilation that’s equal parts label sampler, B-sides showcase, and assembly of rising stars.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Abby Jones"
+        },
+        {
+          "title": "NOAH",
+          "link": "https://pitchfork.com/reviews/albums/teller-banks-noah/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad27f1843dd5de235952ef5/master/pass/Teller%20Bank$%20-%20Noah%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "Teller Bank$ extends his visionary streak on his third album this year, a biblically inspired concept record that takes full advantage of his skillful pen and chimeric delivery.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Olivier Lafontant"
+        },
+        {
+          "title": "Uncle",
+          "link": "https://pitchfork.com/reviews/albums/fish-narc-uncle/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad275720dd1470351a8a233/master/pass/fish%20narc%20-%20Uncle%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "The Olympia, Washington songwriter known for underground rap production pivots to sunny, nostalgic power-pop with distinct affection for the college-rock era.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Jeff Yerger"
+        },
         {
           "title": "The Perfect Prescription",
           "link": "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/",
@@ -1512,58 +1563,6 @@
             "Reviews / Albums"
           ],
           "author": "Stephen Kearse"
-        },
-        {
-          "title": "Mud",
-          "link": "https://pitchfork.com/reviews/albums/remi-wolf-mud/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a846e7bf8d0edf80c0400c1/master/pass/MUD-cover.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "The pop singer’s dynamic but uneven third record provides a portrait of semi-reformed adulthood, powered mostly by her sheer charisma and impressive voice.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Enzo Escober"
-        },
-        {
-          "title": "Cancel Me (I’m Tired)",
-          "link": "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac5144f9c284e2dc1737eb7/master/pass/Fat%20Dog%20-%20Cancel%20Me%20(I%E2%80%99m%20Tired)%20album%20art.png",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "The London band wastes a great title on a second album of garish agit-rave punk that’s larded with references and desperately short on ideas.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Laura Snapes"
-        },
-        {
-          "title": "Linda’s Head",
-          "link": "https://pitchfork.com/reviews/albums/helen-lindas-head/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a720fc6315db0fbba4a3f47/master/pass/Helen-Lindas-Head.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Over a decade since its debut, the shoegaze trio fronted by Grouper’s Liz Harris returns for a brisk new album with its eyes trained on the sky.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sasha Geffen"
-        },
-        {
-          "title": "BULLDOZER!!",
-          "link": "https://pitchfork.com/reviews/albums/mnek-bulldozer/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac51d09adf451e6bf74f1df/master/pass/MNEK-BULLDOZER!!.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "On their second album, the London-based producer and songwriter offers bold, hook-heavy club pop, but their lyrics about self-love and queer identity often land like platitudes.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Cassidy Sollazzo"
         }
       ]
     },
@@ -1580,10 +1579,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 806,
+      "ms": 511,
       "error": null,
-      "fetchedAt": "2026-10-19T00:24:27.033Z",
-      "lastOkAt": "2026-10-19T00:24:27.033Z",
+      "fetchedAt": "2026-10-19T12:30:41.896Z",
+      "lastOkAt": "2026-10-19T12:30:41.896Z",
       "itemCount": 40,
       "items": [
         {
@@ -2235,12 +2234,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 561,
+      "ms": 188,
       "error": null,
-      "fetchedAt": "2026-10-19T00:24:27.033Z",
-      "lastOkAt": "2026-10-19T00:24:27.033Z",
+      "fetchedAt": "2026-10-19T12:30:41.896Z",
+      "lastOkAt": "2026-10-19T12:30:41.896Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Taylor Swift, Grimes, femtanyl, A$AP Rocky | Weekly Track Roundup: 10/18/26",
+          "link": "https://www.youtube.com/watch?v=kChEOoG-uCM",
+          "imageUrl": "https://i4.ytimg.com/vi/kChEOoG-uCM/hqdefault.jpg",
+          "embedId": "kChEOoG-uCM",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! LustSickPuppy - SHAKER https://www.youtube.com/watch?v=xly1kfOATxI Danny L Harle - Starlight ft. PinkPantheress (Skrillex & ring noord Remix) https://www.youtube.com/watch?v=lM1bydMNMHA fakemink & Skepta - Chiltern Firehouse . https://www.youtube.com/watch?v=3FqzoaWq4wc femtanyl - ALL THE TIME https://www.youtube.com/watch?v=ZlKSjeYIxr8 Power Trip - Precinct 3 https://www.youtube.com/watch?v=N4u9M1eXxq0 Michael Kiwanuka - Sing https://www.youtube.com/watch?v=7esTGcAwxcM Undeath - Arterial Bombardment https://www.youtube.com/watch?v=ZJObtup-6qY Silvana Estrada - Todo Baila ft. M. Ward https://www.youtube.com/watch?v=bGerVl-wRLo PISS - Rote Zora. “Resistance is Possible.” Emma, no. 6, June 1984, pp. 39-41. https://www.youtube.com/watch?v=6TiFlIIijPA The Drums & Genesis Owusu - Blackstar https://www.youtube.com/watch?v=Bennl_HdXmU Aesop Rock & Blockhead - Coyote Summer ft. Hanni El Khatib https://www.youtube.com/watch?v=br2IbQW1BRo …meh… Matt Proxy - iphone https://www.youtube.com/watch?v=L2gNCPt6HKo Tiffany Day & glaive - MEANT TO BE https://www.youtube.com/watch?v=a8kQFgp9Oy4 Zach Bryan - Lies ft. Lana Del Rey https://www.youtube.com/watch?v=nhR-Ka-aKUs Justice - Flower in a Hurricane ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard https://www.youtube.com/watch?v=5dPwBWvmcbQ A$AP Rocky - Shroom Clouds ft. reggie & Jeremih https://www.youtube.com/watch?v=kfBW-Hj-yrA bleood - how many https://www.youtube.com/watch?v=REdY7AKUGYI KASTEYE - Unloveu https://www.youtube.com/watch?v=bRrjcdad2Zg Twisted Teens - Stalks https://www.youtube.com/watch?v=0J6qF477cPc !!!WORST TRACKS THIS WEEK!!! Grimes - ACCELERANDO ft. VADAKIN https://www.youtube.com/watch?v=AVu5p2DMIf8 Taylor Swift - Patient Zero (Acoustic Version) https://www.youtube.com/watch?v=ZnR9AtSBwvk brakence - bitE https://www.youtube.com/watch?v=-WQep3y_Tm8 Tate McRae - Housewife https://www.youtube.com/watch?v=DPEodkHzH-s U2 - The Greatest Show on Earth https://www.youtube.com/watch?v=TUuVOW7XogA =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "GREAT ALBUMS: October 2026",
           "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
@@ -2394,17 +2404,6 @@
           "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Death from Above 1979 - Private Lives https://www.youtube.com/watch?v=jTU413OX9Ig Olivia Rodrigo - stupid song (acoustic) https://www.youtube.com/watch?v=nukExJiF-y0 Shabazz Palaces - Tongue in Chic https://www.youtube.com/watch?v=c8atcotZcW0 Phoebe Bridgers - On Video https://www.youtube.com/watch?v=03u5jRjmd1Y Remi Wolf - I Won’t Cry https://www.youtube.com/watch?v=3Hxmu5BGqtQ Artificial Brain - Quantum Malignancies https://www.youtube.com/watch?v=qhu8OANlP74 Jane Remover - Beauty Sleep https://www.youtube.com/watch?v=_Y6pS1yoR2Y HMLTD - Umami https://www.youtube.com/watch?v=OhAQzRESRZs Assumption - Tombs Upon the Sun https://www.youtube.com/watch?v=j7m85BoMRcQ Jill Scott - Right Here Right Now (Jill Scott x Terry Hunter) https://www.youtube.com/watch?v=DQCXk4rQmCQ Michael Kiwanuka - Summer Clothes https://www.youtube.com/watch?v=gyv7buFhdvk Fontaines D.C. - Tongue https://www.youtube.com/watch?v=5OsIwKHppho Father John Misty - The X-panded Universe https://www.youtube.com/watch?v=sLi10D14R-k PISS - blocking a scene you can’t remember https://www.youtube.com/watch?v=ShDocSCuiIU brakence - death rolL https://www.youtube.com/watch?v=adAuew652Dw horsegiirL & Dylan Brady - c*ntry girl rock https://www.youtube.com/watch?v=KK1uB5fXdJo Ninajirachi - CSIRAC (Dylan Brady Remix) https://www.youtube.com/watch?v=J6feH_r5Y4g Rachel Chinouriri - Broken chair https://www.youtube.com/watch?v=zpg0xh-ypPs Cowboy Hunters - Punched in the Head https://www.youtube.com/watch?v=1mEoKOldwKs …meh… Ugly (UK) - Nat Cora & The Nations https://www.youtube.com/watch?v=SInlGIBorX0 The Rolling Stones - Bad Luck Hideaway https://www.youtube.com/watch?v=0xwqjyhFLZk Snõõper - Mouth Closed https://www.youtube.com/watch?v=T41YkBwZ80A Madonna & Charli xcx - Danceteria Afterhours https://www.youtube.com/watch?v=cUzhLWbvmic !!!WORST TRACKS THIS WEEK!!! Lil Nas X - World’s Greatest! https://www.youtube.com/watch?v=clkCS0Fk8Hk Queens of the Stone Age - Where the Goth Girls At? https://www.youtube.com/watch?v=eAOIpDUDGX4 Polyphia - WITH EYES TO SEE https://www.youtube.com/watch?v=WyfIzJwwOTc 2Slimey - Die for This https://www.youtube.com/watch?v=_ViWXh4xY4o 2hollis - Warhorse https://www.youtube.com/watch?v=BThCK0HF1Dw brakence - ready or noT (i like this one 😭 - austen) https://www.youtube.com/watch?v=MM0yi-Op4h8 U2 - Silencio https://www.youtube.com/watch?v=1mCN-RDh0-0 xaviersobased - Off tha Meter https://www.youtube.com/watch?v=VWl2tnAGYxo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "LOVE THESE ALBUMS 💛",
-          "link": "https://www.youtube.com/shorts/3FxDHBcANtg",
-          "imageUrl": "https://i4.ytimg.com/vi/3FxDHBcANtg/hqdefault.jpg",
-          "embedId": "3FxDHBcANtg",
-          "audioSrc": "",
-          "pubDate": "2026-10-04",
-          "description": "#music",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2453,22 +2452,6 @@
     "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/": {
       "artist": "Cameron Winter",
       "album": "Live at Carnegie Hall"
-    },
-    "https://pitchfork.com/reviews/albums/remi-wolf-mud/": {
-      "artist": "Remi Wolf",
-      "album": "Mud"
-    },
-    "https://pitchfork.com/reviews/albums/mnek-bulldozer/": {
-      "artist": "MNEK",
-      "album": "BULLDOZER!!"
-    },
-    "https://pitchfork.com/reviews/albums/helen-lindas-head/": {
-      "artist": "Helen",
-      "album": "Linda’s Head"
-    },
-    "https://pitchfork.com/reviews/albums/fat-dog-cancel-me-im-tired/": {
-      "artist": "Fat Dog",
-      "album": "Cancel Me (I’m Tired)"
     },
     "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/": {
       "artist": "Dawn Richard",
@@ -2529,6 +2512,22 @@
     "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/": {
       "artist": "Spacemen 3",
       "album": "The Perfect Prescription"
+    },
+    "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/": {
+      "artist": "Worldpeace DMT",
+      "album": "Stick Around for Tea"
+    },
+    "https://pitchfork.com/reviews/albums/fish-narc-uncle/": {
+      "artist": "fish narc",
+      "album": "Uncle"
+    },
+    "https://pitchfork.com/reviews/albums/they-are-gutting-a-body-of-water-kool-faith-loosies-ii/": {
+      "artist": "They Are Gutting a Body of Water",
+      "album": "KOOL FAITH / LOOSIES II"
+    },
+    "https://pitchfork.com/reviews/albums/teller-banks-noah/": {
+      "artist": "Teller Bank$",
+      "album": "NOAH"
     }
   }
 }

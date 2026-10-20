@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-19T12:30:41.896Z",
+    "updatedAt": "2026-10-20T00:27:39.686Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 6,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 818,
+      "ms": 764,
       "error": null,
-      "fetchedAt": "2026-10-19T12:30:41.896Z",
-      "lastOkAt": "2026-10-19T12:30:41.896Z",
+      "fetchedAt": "2026-10-20T00:27:39.686Z",
+      "lastOkAt": "2026-10-20T00:27:39.686Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 626,
+      "ms": 668,
       "error": null,
-      "fetchedAt": "2026-10-19T12:30:41.896Z",
-      "lastOkAt": "2026-10-19T12:30:41.896Z",
+      "fetchedAt": "2026-10-20T00:27:39.686Z",
+      "lastOkAt": "2026-10-20T00:27:39.686Z",
       "itemCount": 32,
       "items": [
         {
@@ -640,12 +640,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 302,
+      "ms": 469,
       "error": null,
-      "fetchedAt": "2026-10-19T12:30:41.896Z",
-      "lastOkAt": "2026-10-19T12:30:41.896Z",
+      "fetchedAt": "2026-10-20T00:27:39.686Z",
+      "lastOkAt": "2026-10-20T00:27:39.686Z",
       "itemCount": 39,
       "items": [
+        {
+          "title": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
+          "link": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups",
+          "imageUrl": "https://f4.bcbits.com/img/0048055740_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "The Aussie producer and tastemaker's recommendations double as a vital scene report. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Big Ups"
+          ],
+          "author": "Harry Levin"
+        },
+        {
+          "title": "Various Artists, “Beirut City Pop”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/various-artists-beirut-city-pop-review",
+          "imageUrl": "https://f4.bcbits.com/img/0047945722_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "Habibi Funk retraces the revolutionary arc of Lebanon's city pop scene in the ’70s and ’80s. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Samuel Tornow"
+        },
         {
           "title": "The Best Latin Music on Bandcamp, September 2026",
           "link": "https://daily.bandcamp.com/best-latin/the-best-latin-music-on-bandcamp-september-2026",
@@ -1126,32 +1152,6 @@
             "Album of the Day"
           ],
           "author": "Dusty Henry"
-        },
-        {
-          "title": "The Best Jazz on Bandcamp, September 2026",
-          "link": "https://daily.bandcamp.com/best-jazz/the-best-jazz-on-bandcamp-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047635067_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-30",
-          "description": "Our guide to the month’s crucial jazz LPs. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Best Jazz"
-          ],
-          "author": "Dave Sumner"
-        },
-        {
-          "title": "Plunge of the Diving Bell: 25 Years of The Ocean",
-          "link": "https://daily.bandcamp.com/lists/the-ocean-albums-guide",
-          "imageUrl": "https://f4.bcbits.com/img/0047582076_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-29",
-          "description": "The German post-metal titans show no sign of slowing. Here are a few of their triumphs. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Lists"
-          ],
-          "author": "Luke Jackson"
         }
       ]
     },
@@ -1168,10 +1168,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 178,
+      "ms": 208,
       "error": null,
-      "fetchedAt": "2026-10-19T12:30:41.896Z",
-      "lastOkAt": "2026-10-19T12:30:41.896Z",
+      "fetchedAt": "2026-10-20T00:27:39.686Z",
+      "lastOkAt": "2026-10-20T00:27:39.686Z",
       "itemCount": 30,
       "items": [
         {
@@ -1579,10 +1579,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 511,
+      "ms": 623,
       "error": null,
-      "fetchedAt": "2026-10-19T12:30:41.896Z",
-      "lastOkAt": "2026-10-19T12:30:41.896Z",
+      "fetchedAt": "2026-10-20T00:27:39.686Z",
+      "lastOkAt": "2026-10-20T00:27:39.686Z",
       "itemCount": 40,
       "items": [
         {
@@ -2230,12 +2230,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 188,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-10-19T12:30:41.896Z",
       "lastOkAt": "2026-10-19T12:30:41.896Z",
       "itemCount": 15,

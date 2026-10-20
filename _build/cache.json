@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-20T00:27:39.686Z",
+    "updatedAt": "2026-10-20T12:27:31.177Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 764,
+      "ms": 691,
       "error": null,
-      "fetchedAt": "2026-10-20T00:27:39.686Z",
-      "lastOkAt": "2026-10-20T00:27:39.686Z",
+      "fetchedAt": "2026-10-20T12:27:31.177Z",
+      "lastOkAt": "2026-10-20T12:27:31.177Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,77 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 668,
+      "ms": 712,
       "error": null,
-      "fetchedAt": "2026-10-20T00:27:39.686Z",
-      "lastOkAt": "2026-10-20T00:27:39.686Z",
+      "fetchedAt": "2026-10-20T12:27:31.177Z",
+      "lastOkAt": "2026-10-20T12:27:31.177Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Beyond The Pleasuredome: Frankie Goes To Hollywood’s Liverpool 40 Years On",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/frankie-goes-to-hollywood-liverpool/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Frankie-Goes-To-Hollywood-Liverpool-LP-Vinyl-1-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Wyndham Wallace looks at the oft-neglected follow-up to FGTH's debut, Liverpool which was released in 1986 Compare and contrast: \"The world is my oyster,\" the opening words to Frankie Goes To Hollywood's debut album, 1984's Welcome To The Pleasuredome. Delivered by Holly Johnson in the flippant style of a cartoon villain, a cackling laugh in their wake. \"I'm looking for something and I don't know what it is,\" the last words to Frankie Goes To Hollywood's second and final album, 1986's Liverpool. Delivered by Holly Johnson in the style of a man running on empty, almost bereft of hope. What a difference a couple of years can make. Frankie Goes To Hollywood first hit the top of the UK charts at the... The post Beyond The Pleasuredome: Frankie Goes To Hollywood’s Liverpool 40 Years On appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "An Evergreen Lodestar of all that is Abominable: How Reign in Blood Changed Metal",
+          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/slayer-reign-in-blood/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Slayer003-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Ian Winwood looks back 40 years to his first contact with an imperial and imperious Slayer and their third album's \"frenzied scream of wall-eyed mayhem\" On the weekend before Christmas, in 2020, I sent a friend a text message comprised of just three words. It read: Epidemic. Permanent disease. I had no doubt that my old familiar would recognise the bulletin as being a snippet of a lyric from Reign In Blood, by Slayer. Thirty-four years earlier, while listening for the first time to an import edition of the album dispatched by post from Shades Records, in Soho, the two of us had been forever conjoined by the fiercest musical experience of our teenage lives. We’d stood transfixed in the front row of... The post An Evergreen Lodestar of all that is Abominable: How Reign in Blood Changed Metal appeared first on The Quietus .",
+          "categories": [
+            "Black Sky Thinking"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Fisherman’s Blues: the Damning Indictment cast by All Rivers Spill Their Stories To The Sea",
+          "link": "https://thequietus.com/interviews/jeanie-finlay-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/001.2_ALL-RIVERS-SPILL.-mainstill_lands_01_crop-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Claire Sawers talks to director Jeanie Finlay about her hard-hitting, emotionally resonant documentary about toxic pollution of UK waters, which doubles as love letter to the north east Stan Rennie takes a tea break, by Jeanie Finlay “I’m sick as a chip”, says Stan Rennie. He’s dressed in shiny orange fisherman’s bibs and lifejacket, sat aboard his blue and white boat, the Sarah Lynn, on the waters around Hartlepool. That particular Northernism nails his beyond fed up feeling. We’d say ‘seek’ in Scots. Flattened by the injustice of his situation and we’re right there with him. It’s at the end of the documentary All Rivers Spill Their Stories To The Sea and we’re glimpsing a rare moment of despondency from the... The post Fisherman’s Blues: the Damning Indictment cast by All Rivers Spill Their Stories To The Sea appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "New Weird Britain in Review for October, by Noel Gardner",
+          "link": "https://thequietus.com/quietus-reviews/new-weird-britain/new-weird-britain-in-review-for-october-by-noel-gardner/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/vivek-pic1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Your latest guide to the British underground comes with bananas mashcore from a huge crew of Rotherham children, a demonstration of the discombobulatory potential of the human voice, and much more V.I.V.E.K Unfathomable amounts of music are being recorded around the world daily, more than you could hear in a thousand lifetimes with access to a server bigger than the Ritz. And even then, not everything is getting captured. Think how many formalised music-making sessions are happening somewhere, as I write and you read. The participants are likely finding their feet and letting off steam, not attempting to create something for public consumption. But what if someone involved realises the cultural value of what they’re doing, and lets the tape roll? That’s what... The post New Weird Britain in Review for October, by Noel Gardner appeared first on The Quietus .",
+          "categories": [
+            "New Weird Britain"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Storefront Church – Blue Movie",
+          "link": "https://thequietus.com/quietus-reviews/storefront-church-blue-movie-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/storefront-church-blue-movie.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Storefront Church Blue Movie When he's not playing session for Perfume Genius and Phoebe Bridgers, Lukas Frank is getting seedy with Storefront Church Blue Movie by Storefront Church God knows if they were handing out fivers for every time the phrase ‘it’s like a soundtrack to a film that hasn’t been made yet’ appeared in a press release or blurb, then no one would need to be writing reviews and instead they’d be lavishing it up in a bath of cash, but Los Angeles’ Storefront Church’s latest, and third album proper, Blue Movie, is just that. Frontman Lukas Frank has dabbled in soundtracks as well as having a few bits of acting on his CV, so if anyone knows what he’s doing, he does. Having... The post Storefront Church – Blue Movie appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Guest Playlist: Dis Fig",
           "link": "https://thequietus.com/subscriber-area/playlists/guest-playlist-dis-fig/",
@@ -548,82 +613,6 @@
             "Warp Records"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "µ-Ziq, Plaid and More to Play Edgelands 2026",
-          "link": "https://thequietus.com/news/%c2%b5-ziq-plaid-and-more-to-play-edgelands-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Mike-Paradinas.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "The experimental electronic music event takes over Colchester Arts Centre later this month Mike Paradinas, AKA µ-Ziq UK festival Edgelands will host four days of leftfield and experimental electronic music at its third edition later this month. Returning to its home of Colchester Arts Centre, the event will take in a headline appearance from Mike Paradinas' µ-Ziq project, featuring immersive visuals from ID:Mora. Meemo Comma and Stuart Bowditch will provide support. Elsewhere, the festival will take in sets from Masal – the collaboration between Al Johnson and Anglo-Turkish multi-instrumentalist Ozlem Simsek – Warp Records affiliates Plaid, and cellist Jo Quail. Edgelands will take place from 15 to 18 October 2026. Find more information here. ... The post µ-Ziq, Plaid and More to Play Edgelands 2026 appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Edgelands",
-            "Mike Paradinas",
-            "Plaid",
-            "µ-Ziq"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Jeff Mills Unveils New Album from Tomorrow Comes The Harvest Project",
-          "link": "https://thequietus.com/news/jeff-mills-unveils-new-album-from-tomorrow-comes-the-harvest-project/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Tomorrow-Comes-The-Harvest-Photo-by-Jacob-Khrist-1-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "The Forbidden Planet will be released via Mills' own Axis Records next month Photo by Jacob Khrist Jeff Mills is releasing a new album from his Tomorrow Comes The Harvest band project. Titled The Forbidden Planet, the record features nine tracks by the band that comprises Mills, keyboardist Jean-Phi Dary and percussionist Prabhu Edouard. Rasheeda Ali also makes guest contributions to the LP on flute. The album sees the group continue to explore their blend of electronic and acoustic dynamics. It was recorded across two years between studios in Miami and Paris. Tomorrow Comes The Harvest began as a live, improvisation-based project involving Mills and the late Tony Allen, with Dary later joining the fold after working with Allen for some time beforehand. Edouard joined... The post Jeff Mills Unveils New Album from Tomorrow Comes The Harvest Project appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Axis Records",
-            "Jeff Mills",
-            "Tomorrow Comes The Harvest"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Liz Harris Plots New Release of Soundtrack Work",
-          "link": "https://thequietus.com/news/liz-harris-plots-new-release-of-soundtrack-work/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-08-at-14.26.55-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Music For Two Films About Water takes in work that the artist otherwise known as Grouper made for films released in 2023 and 2024 Photo by Colin Smith Liz Harris, the artist otherwise known as Grouper, is releasing a new collection of soundtrack works through longtime label home Kranky. Music For Two Films About Water features two extended pieces by Harris, produced for 2023 film We Exhale – which sees artist Tanja Engelberts explore how centuries of damming, channelling and industrial pollution have changed the Rhône river – and 2024 film Constellation – in which Takashi Makino explores how new meanings emerge through the arrangement of existing images, memories and other ephemera. Listen to Harris' 21-minute piece for Constellation below. Kranky will release Music For... The post Liz Harris Plots New Release of Soundtrack Work appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Grouper",
-            "Kranky",
-            "Liz Harris"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "The Skinny to Return After Scottish Arts Charity Provides Support",
-          "link": "https://thequietus.com/news/the-skinny-to-return-after-scottish-arts-charity-provides-support/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/The-Skinny-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "The Scottish cultural magazine announced its closure last month, but will now continue thanks to an agreement struck with the organisation Outer Spaces The Skinny, the Scottish cultural magazine that announced its impending closure last month, will no longer be ceasing operations. A social media post shared by the team behind the publication revealed that its September issue wasn't actually its last and that it would now continue after an agreement was reached between publisher Radge Media CIC and Scottish arts charity Outer Spaces. Under the terms of the agreement, Outer Spaces will acquire shares in Radge Media in a bid to stabilise the publisher. \"The last month has been incredibly challenging, but the outpouring of support from contributors and collaborators reaffirmed the... The post The Skinny to Return After Scottish Arts Charity Provides Support appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "The Skinny"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "The Low Culture Podcast: Godzilla",
-          "link": "https://thequietus.com/subscriber-area/low-culture-podcast/the-low-culture-podcast-godzilla/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Godzilla_1954-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "In this month’s edition of the pod, John Doran and Luke Turner face a terrifying beast of the atomic age Behold! A horrific-looking, lumbering beast comes crashing through his environment, pulverising everything in his path with his concrete-vapourising breath, leaving a trail of destruction that will take months to repair. But once John is settled in his shed, behind the mic and ready to talk to Luke, it’s time for another Quietus Low Culture Podcast. This month the pair discuss Godzilla, which is both a type of Kaiju (strange beast) and the name of a sensational black and white Japanese film from 1954 (although tQ’s co-pilots have a lot to say about the recent ‘prequel’ Godzilla Minus Zero as well). The original... The post The Low Culture Podcast: Godzilla appeared first on The Quietus .",
-          "categories": [
-            "Low Culture Podcast"
-          ],
-          "author": "Luke Turner"
         }
       ]
     },
@@ -640,10 +629,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 469,
+      "ms": 307,
       "error": null,
-      "fetchedAt": "2026-10-20T00:27:39.686Z",
-      "lastOkAt": "2026-10-20T00:27:39.686Z",
+      "fetchedAt": "2026-10-20T12:27:31.177Z",
+      "lastOkAt": "2026-10-20T12:27:31.177Z",
       "itemCount": 39,
       "items": [
         {
@@ -1168,12 +1157,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 208,
+      "ms": 185,
       "error": null,
-      "fetchedAt": "2026-10-20T00:27:39.686Z",
-      "lastOkAt": "2026-10-20T00:27:39.686Z",
+      "fetchedAt": "2026-10-20T12:27:31.177Z",
+      "lastOkAt": "2026-10-20T12:27:31.177Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "No Bad Memories",
+          "link": "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a74dae2af72977b209d59da/master/pass/No%20Bad%20Memories%20by%20the%20Avalanches.png",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Patching in audio logos and advertising dialog without interrupting the dreamlike sampledelic flow, the Australian band’s new album summons nostalgia for the era of truly mass media.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Philip Sherburne"
+        },
+        {
+          "title": "Young Manhood and Other Donatable Organs EP",
+          "link": "https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad28eea0dd1470351a8a266/master/pass/Zach%20Bryan%20-%20Young%20Manhood%20and%20Other%20Donatable%20Organs%20EP%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "On his first new music since getting sober, the prolific 30-year-old singer-songwriter offers a sense of adult clarity—and some welcome self-editing.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Grayson Haver Currin"
+        },
+        {
+          "title": "Massive Shoe",
+          "link": "https://pitchfork.com/reviews/albums/way-dynamic-massive-shoe/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad64354e6ca4759ddfe6b50/master/pass/Way%20Dynamic-Massive%20Shoe.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Dylan Young and his Melbourne group fill their third album with winsome and warm tracks whose best moments combine rambling guitars with tales of bruising regret.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Linnie Greene"
+        },
+        {
+          "title": "Split Second",
+          "link": "https://pitchfork.com/reviews/albums/renny-conti-split-second/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad63ada92212513baf7ebae/master/pass/Renny%20Conti-Split%20Second.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "The singer-songwriter’s hushed meditations on grief unfold like a series of hazy recollections, occasionally punctured by vivid descriptions and urgent arrangements.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alex Robert Ross"
+        },
         {
           "title": "Stick Around for Tea",
           "link": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/",
@@ -1511,58 +1552,6 @@
             "Reviews / Albums"
           ],
           "author": "Philip Sherburne"
-        },
-        {
-          "title": "Taking the Long Way",
-          "link": "https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac90149fc8a5752f3b0dc77/master/pass/The%20Chicks%20Taking%20the%20Long%20Way.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-11",
-          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the iconoclastic trio’s embattled and cathartic 2006 album: a swan song for the artists’ imperial phase and for their bitterly fractured country.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Shaad D’Souza"
-        },
-        {
-          "title": "Songs in the Key of Life - The EP",
-          "link": "https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac7f4da26778676bec2e141/master/pass/Stevie%20Wonder%20Songs%20in%20the%20Key%20of%20Life%20The%20EP.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-10",
-          "description": "A rare glimpse into the artist’s legendary and largely untapped vault of unreleased music presents four stunning outtakes from a hot streak that remains unparalleled in pop history.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Stephen Thomas Erlewine"
-        },
-        {
-          "title": "Live at Carnegie Hall",
-          "link": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a8374d55eeaf65ef2de9c77/master/pass/Live%20at%20Carnegie%20Hall_1500X.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Walden Green"
-        },
-        {
-          "title": "creole culture",
-          "link": "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a733ddef9a2e451bfdf19fe/master/pass/Dawn-Richard-Creole-Culture.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "The third album in Richards’ trilogy dedicated to her hometown is a celebration of New Orleans’ dynamism: colorful, communal, triumphantly on the move.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Stephen Kearse"
         }
       ]
     },
@@ -1579,10 +1568,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 623,
+      "ms": 584,
       "error": null,
-      "fetchedAt": "2026-10-20T00:27:39.686Z",
-      "lastOkAt": "2026-10-20T00:27:39.686Z",
+      "fetchedAt": "2026-10-20T12:27:31.177Z",
+      "lastOkAt": "2026-10-20T12:27:31.177Z",
       "itemCount": 40,
       "items": [
         {
@@ -2230,15 +2219,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-19T12:30:41.896Z",
-      "lastOkAt": "2026-10-19T12:30:41.896Z",
+      "ms": 230,
+      "error": null,
+      "fetchedAt": "2026-10-20T12:27:31.177Z",
+      "lastOkAt": "2026-10-20T12:27:31.177Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "MASSIVE VINYL UPDATE",
+          "link": "https://www.youtube.com/watch?v=huYP-3TUgs8",
+          "imageUrl": "https://i1.ytimg.com/vi/huYP-3TUgs8/hqdefault.jpg",
+          "embedId": "huYP-3TUgs8",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "Albums getting added to Anthony's collection (in order of mention): Frank Zappa / The Mothers of Invention - Freak Out! 60th Anniversary Box Set The Beatles - Rubber Soul 60th Anniversary Box Set Mos Def - The Ecstatic Photo Book Vinyl Nails - \"Fear Based Life\" 7\" Henson Cargill - What's My Name The Jimi Hendrix Experience - Electric Ladyland Interpol - This Mirror Weighs a Ton Earth Tongue - Dungeon Vision (CD) & Floating Being Ty Segall - Chrome Scientist - Scientific Dub SML - Spontaneous Music Live Carlos Santana & Mahavishnu John McLaughlin - Love Devotion Surrender Minnie Ripperton - Adventures in Paradise Melvins - Joe Preston Natalia Lafourcade - Cancionera More vinyl collection vids: https://www.youtube.com/playlist?list=PL41246372C72A479B Turntable Lab link: http://turntablelab.com/theneedledrop =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Taylor Swift, Grimes, femtanyl, A$AP Rocky | Weekly Track Roundup: 10/18/26",
           "link": "https://www.youtube.com/watch?v=kChEOoG-uCM",
@@ -2392,17 +2393,6 @@
           "description": "Listen: https://gillaband.bandcamp.com/album/pugnello Gilla Band ramp up the emotional and aural intensity dramatically on Pugnello. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: THE ANGELUS, PLACEHOLDER, ALOGIA, THREE HANDS CLAPPING, THE MEGAZORD GILLA BAND - PUGNELLO / 2026 / ROUGH TRADE / NO WAVE, ELECTRO-INDUSTRIAL, NOISE ROCK 7/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Jane Remover, Olivia Rodrigo, Lil Nas X, Queens of the Stone Age | Weekly Track Roundup: 10/4/26",
-          "link": "https://www.youtube.com/watch?v=WB18IsgNbBw",
-          "imageUrl": "https://i4.ytimg.com/vi/WB18IsgNbBw/hqdefault.jpg",
-          "embedId": "WB18IsgNbBw",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Death from Above 1979 - Private Lives https://www.youtube.com/watch?v=jTU413OX9Ig Olivia Rodrigo - stupid song (acoustic) https://www.youtube.com/watch?v=nukExJiF-y0 Shabazz Palaces - Tongue in Chic https://www.youtube.com/watch?v=c8atcotZcW0 Phoebe Bridgers - On Video https://www.youtube.com/watch?v=03u5jRjmd1Y Remi Wolf - I Won’t Cry https://www.youtube.com/watch?v=3Hxmu5BGqtQ Artificial Brain - Quantum Malignancies https://www.youtube.com/watch?v=qhu8OANlP74 Jane Remover - Beauty Sleep https://www.youtube.com/watch?v=_Y6pS1yoR2Y HMLTD - Umami https://www.youtube.com/watch?v=OhAQzRESRZs Assumption - Tombs Upon the Sun https://www.youtube.com/watch?v=j7m85BoMRcQ Jill Scott - Right Here Right Now (Jill Scott x Terry Hunter) https://www.youtube.com/watch?v=DQCXk4rQmCQ Michael Kiwanuka - Summer Clothes https://www.youtube.com/watch?v=gyv7buFhdvk Fontaines D.C. - Tongue https://www.youtube.com/watch?v=5OsIwKHppho Father John Misty - The X-panded Universe https://www.youtube.com/watch?v=sLi10D14R-k PISS - blocking a scene you can’t remember https://www.youtube.com/watch?v=ShDocSCuiIU brakence - death rolL https://www.youtube.com/watch?v=adAuew652Dw horsegiirL & Dylan Brady - c*ntry girl rock https://www.youtube.com/watch?v=KK1uB5fXdJo Ninajirachi - CSIRAC (Dylan Brady Remix) https://www.youtube.com/watch?v=J6feH_r5Y4g Rachel Chinouriri - Broken chair https://www.youtube.com/watch?v=zpg0xh-ypPs Cowboy Hunters - Punched in the Head https://www.youtube.com/watch?v=1mEoKOldwKs …meh… Ugly (UK) - Nat Cora & The Nations https://www.youtube.com/watch?v=SInlGIBorX0 The Rolling Stones - Bad Luck Hideaway https://www.youtube.com/watch?v=0xwqjyhFLZk Snõõper - Mouth Closed https://www.youtube.com/watch?v=T41YkBwZ80A Madonna & Charli xcx - Danceteria Afterhours https://www.youtube.com/watch?v=cUzhLWbvmic !!!WORST TRACKS THIS WEEK!!! Lil Nas X - World’s Greatest! https://www.youtube.com/watch?v=clkCS0Fk8Hk Queens of the Stone Age - Where the Goth Girls At? https://www.youtube.com/watch?v=eAOIpDUDGX4 Polyphia - WITH EYES TO SEE https://www.youtube.com/watch?v=WyfIzJwwOTc 2Slimey - Die for This https://www.youtube.com/watch?v=_ViWXh4xY4o 2hollis - Warhorse https://www.youtube.com/watch?v=BThCK0HF1Dw brakence - ready or noT (i like this one 😭 - austen) https://www.youtube.com/watch?v=MM0yi-Op4h8 U2 - Silencio https://www.youtube.com/watch?v=1mCN-RDh0-0 xaviersobased - Off tha Meter https://www.youtube.com/watch?v=VWl2tnAGYxo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2436,25 +2426,9 @@
       "artist": "Space Afrika",
       "album": "Quiet Storm"
     },
-    "https://pitchfork.com/reviews/albums/the-chicks-taking-the-long-way/": {
-      "artist": "The Chicks",
-      "album": "Taking the Long Way"
-    },
     "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/": {
       "artist": "Maxime Denuc",
       "album": "Club Imperiale"
-    },
-    "https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/": {
-      "artist": "Stevie Wonder",
-      "album": "Songs in the Key of Life - The EP"
-    },
-    "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/": {
-      "artist": "Cameron Winter",
-      "album": "Live at Carnegie Hall"
-    },
-    "https://pitchfork.com/reviews/albums/dawn-richard-creole-culture/": {
-      "artist": "Dawn Richard",
-      "album": "creole culture"
     },
     "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
       "artist": "Logic1000",
@@ -2527,6 +2501,22 @@
     "https://pitchfork.com/reviews/albums/teller-banks-noah/": {
       "artist": "Teller Bank$",
       "album": "NOAH"
+    },
+    "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/": {
+      "artist": "The Avalanches",
+      "album": "No Bad Memories"
+    },
+    "https://pitchfork.com/reviews/albums/renny-conti-split-second/": {
+      "artist": "Renny Conti",
+      "album": "Split Second"
+    },
+    "https://pitchfork.com/reviews/albums/way-dynamic-massive-shoe/": {
+      "artist": "Way Dynamic",
+      "album": "Massive Shoe"
+    },
+    "https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/": {
+      "artist": "Zach Bryan",
+      "album": "Young Manhood and Other Donatable Organs EP"
     }
   }
 }

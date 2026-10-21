@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-21T00:24:54.372Z",
+    "updatedAt": "2026-10-21T12:28:39.626Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 886,
+      "ms": 622,
       "error": null,
-      "fetchedAt": "2026-10-21T00:24:54.372Z",
-      "lastOkAt": "2026-10-21T00:24:54.372Z",
+      "fetchedAt": "2026-10-21T12:28:39.626Z",
+      "lastOkAt": "2026-10-21T12:28:39.626Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 712,
+      "ms": 563,
       "error": null,
-      "fetchedAt": "2026-10-21T00:24:54.372Z",
-      "lastOkAt": "2026-10-21T00:24:54.372Z",
+      "fetchedAt": "2026-10-21T12:28:39.626Z",
+      "lastOkAt": "2026-10-21T12:28:39.626Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Matt Carmichael on New Album and EFG London Jazz Festival Appearance",
+          "link": "https://thequietus.com/news/matt-carmichael-on-new-album-and-london-jazz-festival-appearance/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/matt-solo-bnw-camille-lemoine--700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "Matt Carmichael speaks to Gail Tasker about his lush combination of jazz and folk, Held In The Dark, which will be performed with a full septet at three shows next month including a set for EFG London Jazz Festival Photo by Camille Lemoine Matt Carmichael is an artist whose deep and introspective relationship with music belies his years. Based in Glasgow, he forms part of a cohort of young music graduates who have steadily yet organically been pushing against the boundaries of learned traditions. Carmichael’s latest album, Held In The Dark, is his fourth, and a further iteration of the lush combination of folk and jazz which characterises his music. In some ways, Held In The Dark is familiar territory for Carmichael. It... The post Matt Carmichael on New Album and EFG London Jazz Festival Appearance appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Ye Gods – Los",
+          "link": "https://thequietus.com/quietus-reviews/ye-gods-los/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/ye-gods-los.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "Ye Gods Los Visited by the ghost of gothmas past, Antoni Maiovvi whips out his magic circle for a true grimoire of an album Los by Ye Gods When Killing Joke’s Jaz Coleman tells you to do something, you should probably do it. Even if it’s only in a dream. In the case of British composer Antoni Maiovvi (AKA AD Goodfellow), the post-punk vocalist’s mid-slumber visit guided him back to the ritual magick practice he had let slide. To further atone for this oversight, Coleman suggested the name Ye Gods. Seven years and 12 releases later (by my abacus twiddling) and this “occult devotional electronics project” arrives at the William Blake-referencing Los. Over the years, Maiovvi’s compositional approach has evolved. The electronics are still scrambled,... The post Ye Gods – Los appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "The Electro Quartet – Nature’s World With Studio G",
+          "link": "https://thequietus.com/quietus-reviews/the-electro-quartet-natures-world-with-studio-g-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/studio-g-natures-world.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "The Electro Quartet Nature’s World With Studio G An album of electronic library music from the early 80s breaths the air of sunnier climes Nature's World With Studio G by Various Artists 1982 was an odd year. Ozzy Osbourne was treated for rabies after biting the head of a bat in the middle of a gig. The first ever computer virus was created by a 15-year old kid in Pittsburgh. Mary Whitehouse sued the National Theatre for obscenity. The Falklands War kicked off in the South Atlantic. Israel invaded Lebanon in a military campaign called Operation Peace. Abba split up. The first compact discs were produced in Germany. The most popular albums in Britain that year included Barbra Streisand’s schmaltzily nostalgic Memories, the soundtrack... The post The Electro Quartet – Nature’s World With Studio G appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Beyond The Pleasuredome: Frankie Goes To Hollywood’s Liverpool 40 Years On",
           "link": "https://thequietus.com/opinion-and-essays/anniversary/frankie-goes-to-hollywood-liverpool/",
@@ -568,51 +607,6 @@
             "A Quietus Interview"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Pet Shop Boys – A Man From the Future",
-          "link": "https://thequietus.com/quietus-reviews/pet-shop-boys-a-man-from-the-future/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/A_Man_from_the_Future.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "Pet Shop Boys A Man From the Future Chris Lowe and Neil Tennant rework their 2014 BBC Proms performance about Alan Turing into a tighter, more album-shaped package, with the voices of Juliet Stevenson and Gordon Brown “Although driven by the desire to do something, he wanted to remain ordinary, to be left alone in peace,” writes biographer Andrew Hodges of his subject Alan Turing. It’s a very Pet Shop Boys kind of sensibility, and you can see why the duo are drawn to Turing’s story: the WWII codebreaker who was not rewarded for his contributions to his country, but punished for his sexuality. Much has changed in the decade or so since Pet Shop Boys performed A Man From the Future, their... The post Pet Shop Boys – A Man From the Future appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Björk Details Live Orchestral Album, ‘Björk Orkestral With The Hamrahlíð Choir’",
-          "link": "https://thequietus.com/news/bjork-details-live-orchestral-album-bjork-orkestral-with-the-hamrahlid-choir/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Bjork-1-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Available across vinyl, CD, DVD and Blu-ray, the live album was captured during one of her October 2021 performances at Reykjavík’s Harpa Concert Hall Björk is releasing an orchestral live album, titled Björk Orkestral With The Hamrahlíð Choir. Captured during a performance at Reykjavík's Harpa Concert Hall on 24 October 2021, the show saw Björk play music mostly from 2004 album Medúlla. For the performance, she was joined by the 50-member Hamrahlíð Choir, who were conducted by Þorgerður Ingólfsdóttir. Musician Bergur Þórisson also provided accompaniment on the organ. The album will be released across vinyl, CD, DVD and Blu-ray formats, and features renditions of 11 of Björk's tracks. In a statement, the Icelandic artist said: \"I am so happy and proud of this concert.... The post Björk Details Live Orchestral Album, ‘Björk Orkestral With The Hamrahlíð Choir’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Björk"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Loraine James, Puce Mary and More to Debut Orchestral Works at London’s Barbican",
-          "link": "https://thequietus.com/news/loraine-james-puce-mary-and-more-to-debut-orchestral-works-at-londons-barbican/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Loraine-James-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "The six members of Warp Records' Providenza Ensemble will have their works performed by Sinfonietta Cracovia in a show presented by Unsound Loraine James and Puce Mary are among six artists who've produced new orchestral works to be performed at London's Barbican next year. Scheduled for 24 January, the Unsound-presented event will see Sinfonietta Cracovia, the official orchestra of Kraków, perform new pieces by Warp Records' Providenza Ensemble, which comprises James, Mary, Mabe Fratti, Clarissa Connelly, Kelman Duran and Mark William Lewis. Each piece lasts 10 minutes, and was produced to be performed by a 30-string orchestra while the six artists took part in a residency at the Corsican agricultural site Providenza. The musicians produced their works under the guidance of Manchester Collective... The post Loraine James, Puce Mary and More to Debut Orchestral Works at London’s Barbican appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Barbican",
-            "Loraine James",
-            "Puce Mary",
-            "Unsound",
-            "Warp Records"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -629,10 +623,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 377,
+      "ms": 302,
       "error": null,
-      "fetchedAt": "2026-10-21T00:24:54.372Z",
-      "lastOkAt": "2026-10-21T00:24:54.372Z",
+      "fetchedAt": "2026-10-21T12:28:39.626Z",
+      "lastOkAt": "2026-10-21T12:28:39.626Z",
       "itemCount": 39,
       "items": [
         {
@@ -1157,12 +1151,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 239,
+      "ms": 175,
       "error": null,
-      "fetchedAt": "2026-10-21T00:24:54.372Z",
-      "lastOkAt": "2026-10-21T00:24:54.372Z",
+      "fetchedAt": "2026-10-21T12:28:39.626Z",
+      "lastOkAt": "2026-10-21T12:28:39.626Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "the greatest album of all time",
+          "link": "https://pitchfork.com/reviews/albums/sophia-stel-the-greatest-album-of-all-time/",
+          "imageUrl": "https://media.pitchfork.com/photos/6acfa1617b620b9086574c22/master/pass/600x600bb%20(88).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "Casual but never unconsidered, the Canadian songwriter’s porous blend of pop, trip-hop, and hip-hop evokes late-night group hangs and intense body highs.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Walden Green"
+        },
+        {
+          "title": "The Party (10th Anniversary Edition)",
+          "link": "https://pitchfork.com/reviews/albums/andy-shauf-the-party-10th-anniversary-edition/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad7c55a0684aacfe7e8b107/master/pass/TheParty_AndyShauf_1600x1600.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "Tracing the events of a single evening, the Canadian songwriter’s cult-favorite concept album gets a new reissue with demos and outtakes that add darker shades to its intimate, soft-rock vignettes.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Lily Goldberg"
+        },
+        {
+          "title": "Antione’s Son",
+          "link": "https://pitchfork.com/reviews/albums/seventhirtyatmorning-antiones-son/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad769a607793ccccc6d6ac5/master/pass/Seventhirtyatmorning%20-%20Antione",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "The core elements—airy melodies, drug talk, copious ad-libs—are old hat, but frank tales of suburban ennui and romantic strife give the Minneapolis rapper’s latest album a refreshingly personal air.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alphonse Pierre"
+        },
+        {
+          "title": "BLUNTS & BLADES",
+          "link": "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab41534f7ef2378a6776d57/master/pass/Zukenee-%20Blunts%20and%20Blades.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "Zukenee’s acrobatic performances and appreciation for Atlanta rap history outshine even his suit of medieval armor.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Narsimha Gour Chintaluri"
+        },
         {
           "title": "No Bad Memories",
           "link": "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/",
@@ -1500,58 +1546,6 @@
             "Reviews / Albums"
           ],
           "author": "Nina Corcoran"
-        },
-        {
-          "title": "Dja Dja",
-          "link": "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a452b81a7029f511eacd6da/master/pass/Marina-Herlop-Dja-Dja.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-12",
-          "description": "Modeled after the literary concept of the hero’s journey, the Catalan composer’s latest album is her most ambitious yet: It’s weirder, wilder, and more dazzling than anything she’s done to date.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Matthew Blackwell"
-        },
-        {
-          "title": "Do Not Dare to Dream",
-          "link": "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac7ef5ad1e096c849ba8c71/master/pass/Teenage%20Fanclub%20Do%20Not%20Dare%20to%20Dream.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-12",
-          "description": "The latest album from the Scottish band settles into pleasant but predictable folk-rock doldrums.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Ethan Beck"
-        },
-        {
-          "title": "RUIN: It’s Not Just Music",
-          "link": "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/",
-          "imageUrl": "https://media.pitchfork.com/photos/6abbfb1687c6f137636455bb/master/pass/3663729437259_cover.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-12",
-          "description": "The California musician has been moving away from new age and ambient for a while, but her latest album is still surprising: a headfirst leap into drum’n’bass and brightly colored EDM.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Andrew Ryce"
-        },
-        {
-          "title": "Club Imperiale",
-          "link": "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac7fa9c72e89ec54ce0557a/master/pass/Maxime%20Denuc-Club%20Imperiale.png",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-12",
-          "description": "In an ode to the Mediterranean discotheques of yore, the French composer uses MIDI-controlled pipe organs to smear elements of trance and techno into a hazy state of ecstatic longing.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Philip Sherburne"
         }
       ]
     },
@@ -1568,10 +1562,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 714,
+      "ms": 599,
       "error": null,
-      "fetchedAt": "2026-10-21T00:24:54.372Z",
-      "lastOkAt": "2026-10-21T00:24:54.372Z",
+      "fetchedAt": "2026-10-21T12:28:39.626Z",
+      "lastOkAt": "2026-10-21T12:28:39.626Z",
       "itemCount": 40,
       "items": [
         {
@@ -2226,12 +2220,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 515,
+      "ms": 197,
       "error": null,
-      "fetchedAt": "2026-10-21T00:24:54.372Z",
-      "lastOkAt": "2026-10-21T00:24:54.372Z",
+      "fetchedAt": "2026-10-21T12:28:39.626Z",
+      "lastOkAt": "2026-10-21T12:28:39.626Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Fontaines D.C. - Dopamine Chamber ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=UzvthnAU6nc",
+          "imageUrl": "https://i2.ytimg.com/vi/UzvthnAU6nc/hqdefault.jpg",
+          "embedId": "UzvthnAU6nc",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "Listen: https://fontainesdc.bandcamp.com/album/dopamine-chamber Fontaines D.C. take their sound in a darker, more ethereal direction that works for them on Dopamine Chamber. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SIX SHOT MORNING, MARIANNE, TONGUE, WHERE IS GONE?, JAPAN LEAST FAV TRACK: MIMESIS FONTAINES D.C. - DOPAMINE CHAMBER / 2026 / XL / DARKWAVE, DREAM POP 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "MASSIVE VINYL UPDATE",
           "link": "https://www.youtube.com/watch?v=huYP-3TUgs8",
@@ -2385,17 +2390,6 @@
           "description": "Listen: https://coffin-aus.bandcamp.com/album/out-in-oslo C.O.F.F.I.N's most commendable album yet. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: OUT IN OSLO, SLEEP IN IT, A PLACE TO STAY, WON'T LET YOU DOWN, FAIR ENOUGH, MILES AWAY LEAST FAV TRACK: GETTIN' DOWN C.O.F.F.I.N - OUT IN OSLO / 2026 / P(DOOM) / PUB ROCK, GARAGE PUNK 7/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Gilla Band - Pugnello ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=Bww3HG12uHM",
-          "imageUrl": "https://i3.ytimg.com/vi/Bww3HG12uHM/hqdefault.jpg",
-          "embedId": "Bww3HG12uHM",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "Listen: https://gillaband.bandcamp.com/album/pugnello Gilla Band ramp up the emotional and aural intensity dramatically on Pugnello. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: THE ANGELUS, PLACEHOLDER, ALOGIA, THREE HANDS CLAPPING, THE MEGAZORD GILLA BAND - PUGNELLO / 2026 / ROUGH TRADE / NO WAVE, ELECTRO-INDUSTRIAL, NOISE ROCK 7/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2409,29 +2403,13 @@
       "artist": "Jess Williamson",
       "album": "A Mile South of Heaven"
     },
-    "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/": {
-      "artist": "Marina Herlop",
-      "album": "Dja Dja"
-    },
     "https://pitchfork.com/reviews/albums/gash-at-least-you-know-what-youre-laughing-at/": {
       "artist": "Gash",
       "album": "at least you know what you’re laughing at"
     },
-    "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/": {
-      "artist": "Teenage Fanclub",
-      "album": "Do Not Dare to Dream"
-    },
-    "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/": {
-      "artist": "Kaitlyn Aurelia Smith",
-      "album": "RUIN: It’s Not Just Music"
-    },
     "https://pitchfork.com/reviews/albums/space-afrika-quiet-storm/": {
       "artist": "Space Afrika",
       "album": "Quiet Storm"
-    },
-    "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/": {
-      "artist": "Maxime Denuc",
-      "album": "Club Imperiale"
     },
     "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
       "artist": "Logic1000",
@@ -2520,6 +2498,22 @@
     "https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/": {
       "artist": "Zach Bryan",
       "album": "Young Manhood and Other Donatable Organs EP"
+    },
+    "https://pitchfork.com/reviews/albums/sophia-stel-the-greatest-album-of-all-time/": {
+      "artist": "Sophia Stel",
+      "album": "the greatest album of all time"
+    },
+    "https://pitchfork.com/reviews/albums/andy-shauf-the-party-10th-anniversary-edition/": {
+      "artist": "Andy Shauf",
+      "album": "The Party (10th Anniversary Edition)"
+    },
+    "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/": {
+      "artist": "Zukenee",
+      "album": "BLUNTS & BLADES"
+    },
+    "https://pitchfork.com/reviews/albums/seventhirtyatmorning-antiones-son/": {
+      "artist": "Seventhirtyatmorning",
+      "album": "Antione’s Son"
     }
   }
 }

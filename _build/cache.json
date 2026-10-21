@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-20T12:27:31.177Z",
+    "updatedAt": "2026-10-21T00:24:54.372Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 691,
+      "ms": 886,
       "error": null,
-      "fetchedAt": "2026-10-20T12:27:31.177Z",
-      "lastOkAt": "2026-10-20T12:27:31.177Z",
+      "fetchedAt": "2026-10-21T00:24:54.372Z",
+      "lastOkAt": "2026-10-21T00:24:54.372Z",
       "itemCount": 10,
       "items": [
         {
@@ -179,8 +179,8 @@
       "attempts": 1,
       "ms": 712,
       "error": null,
-      "fetchedAt": "2026-10-20T12:27:31.177Z",
-      "lastOkAt": "2026-10-20T12:27:31.177Z",
+      "fetchedAt": "2026-10-21T00:24:54.372Z",
+      "lastOkAt": "2026-10-21T00:24:54.372Z",
       "itemCount": 32,
       "items": [
         {
@@ -242,7 +242,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-10-20",
-          "description": "Storefront Church Blue Movie When he's not playing session for Perfume Genius and Phoebe Bridgers, Lukas Frank is getting seedy with Storefront Church Blue Movie by Storefront Church God knows if they were handing out fivers for every time the phrase ‘it’s like a soundtrack to a film that hasn’t been made yet’ appeared in a press release or blurb, then no one would need to be writing reviews and instead they’d be lavishing it up in a bath of cash, but Los Angeles’ Storefront Church’s latest, and third album proper, Blue Movie, is just that. Frontman Lukas Frank has dabbled in soundtracks as well as having a few bits of acting on his CV, so if anyone knows what he’s doing, he does. Having... The post Storefront Church – Blue Movie appeared first on The Quietus .",
+          "description": "Storefront Church Blue Movie When he's not playing the session musician game, Lukas Frank is getting seedy with Storefront Church Blue Movie by Storefront Church God knows if they were handing out fivers for every time the phrase ‘it’s like a soundtrack to a film that hasn’t been made yet’ appeared in a press release or blurb, then no one would need to be writing reviews and instead they’d be lavishing it up in a bath of cash, but Los Angeles’ Storefront Church’s latest, and third album proper, Blue Movie, is just that. Frontman Lukas Frank has dabbled in soundtracks as well as having a few bits of acting on his CV, so if anyone knows what he’s doing, he does. Having stepped out from... The post Storefront Church – Blue Movie appeared first on The Quietus .",
           "categories": [
             "Reviews"
           ],
@@ -629,12 +629,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 307,
+      "ms": 377,
       "error": null,
-      "fetchedAt": "2026-10-20T12:27:31.177Z",
-      "lastOkAt": "2026-10-20T12:27:31.177Z",
+      "fetchedAt": "2026-10-21T00:24:54.372Z",
+      "lastOkAt": "2026-10-21T00:24:54.372Z",
       "itemCount": 39,
       "items": [
+        {
+          "title": "How Dev Lemons Is the Nathan Fielder of Music",
+          "link": "https://daily.bandcamp.com/features/dev-lemons-hunting-what-we-already-killed-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0048045759_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "The absurdist comic and musician creates dizzying music that balances darkness and light. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Hayden Merrick"
+        },
+        {
+          "title": "Shabazz Palaces, “It’s A Style Sport”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/shabazz-palaces-its-a-style-sport-review",
+          "imageUrl": "https://f4.bcbits.com/img/0048061102_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "A futuristic innovator turns his gaze inward. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Dusty Henry"
+        },
         {
           "title": "Anna Lunoe Picks Her Favorite Sydney Club Music on Bandcamp",
           "link": "https://daily.bandcamp.com/big-ups/anna-lunoe-big-ups",
@@ -1115,32 +1141,6 @@
             "Album of the Day"
           ],
           "author": "Dom Lepore"
-        },
-        {
-          "title": "The Best Field Recordings on Bandcamp, September 2026",
-          "link": "https://daily.bandcamp.com/best-field-recordings/the-best-field-recordings-on-bandcamp-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047576830_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-30",
-          "description": "A higher-than-average number of insects make the scene on September's best sounds captured outside the studio. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Best Field Recordings"
-          ],
-          "author": "Matthew Blackwell"
-        },
-        {
-          "title": "TV Buddha, “Hallelujah Anyway”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/tv-buddha-hallelujah-anyway-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047637126_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-09-30",
-          "description": "The Chicago group make bedroom pop with the ambition of Abbey Road. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Dusty Henry"
         }
       ]
     },
@@ -1157,10 +1157,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 185,
+      "ms": 239,
       "error": null,
-      "fetchedAt": "2026-10-20T12:27:31.177Z",
-      "lastOkAt": "2026-10-20T12:27:31.177Z",
+      "fetchedAt": "2026-10-21T00:24:54.372Z",
+      "lastOkAt": "2026-10-21T00:24:54.372Z",
       "itemCount": 30,
       "items": [
         {
@@ -1568,12 +1568,33 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 584,
+      "ms": 714,
       "error": null,
-      "fetchedAt": "2026-10-20T12:27:31.177Z",
-      "lastOkAt": "2026-10-20T12:27:31.177Z",
+      "fetchedAt": "2026-10-21T00:24:54.372Z",
+      "lastOkAt": "2026-10-21T00:24:54.372Z",
       "itemCount": 40,
       "items": [
+        {
+          "title": "Album Of The Week: Josh Johnson Animative",
+          "link": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/Animative.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-20",
+          "description": "The post Album Of The Week: Josh Johnson <em>Animative</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Ben Lumsdaine",
+            "Josh Johnson",
+            "Macie Stewart",
+            "Marlon Patton",
+            "Marquis Hill",
+            "Meshell Ndegeocello",
+            "SML"
+          ],
+          "author": "Chris DeVille"
+        },
         {
           "title": "Album Of The Week: Sophia Stel the greatest album of all time",
           "link": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/",
@@ -2189,24 +2210,6 @@
             "Victoryland"
           ],
           "author": "Abby Jones"
-        },
-        {
-          "title": "Album Of The Week: Sassy 009 Dreamer+",
-          "link": "https://stereogum.com/2484456/album-of-the-week-sassy-009-dreamer/reviews/album-of-the-week/",
-          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/Sassy-009-Dreamer.jpg?w=564",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-01-13",
-          "description": "The post Album Of The Week: Sassy 009 <em>Dreamer+</em> appeared first on Stereogum .",
-          "categories": [
-            "Album Of The Week",
-            "Reviews",
-            "BEA1991",
-            "Blood Orange",
-            "Sassy 009",
-            "yunè pinku"
-          ],
-          "author": "Tom Breihan"
         }
       ]
     },
@@ -2223,10 +2226,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 230,
+      "ms": 515,
       "error": null,
-      "fetchedAt": "2026-10-20T12:27:31.177Z",
-      "lastOkAt": "2026-10-20T12:27:31.177Z",
+      "fetchedAt": "2026-10-21T00:24:54.372Z",
+      "lastOkAt": "2026-10-21T00:24:54.372Z",
       "itemCount": 15,
       "items": [
         {

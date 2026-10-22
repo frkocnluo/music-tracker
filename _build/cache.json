@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-22T00:26:06.673Z",
+    "updatedAt": "2026-10-22T12:30:17.806Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 946,
+      "ms": 847,
       "error": null,
-      "fetchedAt": "2026-10-22T00:26:06.673Z",
-      "lastOkAt": "2026-10-22T00:26:06.673Z",
+      "fetchedAt": "2026-10-22T12:30:17.806Z",
+      "lastOkAt": "2026-10-22T12:30:17.806Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 652,
+      "ms": 694,
       "error": null,
-      "fetchedAt": "2026-10-22T00:26:06.673Z",
-      "lastOkAt": "2026-10-22T00:26:06.673Z",
+      "fetchedAt": "2026-10-22T12:30:17.806Z",
+      "lastOkAt": "2026-10-22T12:30:17.806Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Picking a Quarrel: The death of Edward Burra and the birth of British punk",
+          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/edward-burra-the-damned-1976/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Picture1-1.jpg-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "Richard Foster considers the life of an artist who died on the day that The Damned's 'New rose' was released, and considers an unusual continuum in weird British culture Those familiar with the popular British TV series Doctor Who will be aware that the unnamed Timelord protagonist occasionally transforms, 'dying' and reemerging alive once more within seconds, now portrayed by a new actor. This pareidolic process, alongside the sometimes ectoplasmic visual effects found in the programme’s opening and closing credits (especially those seen in the mid-1970s) suggests astral travel and spiritual regeneration; new possibilities that nevertheless draw on old hinterlands. On 22 October 1976, the English watercolour painter Edward Burra died in the Royal East Sussex hospital in Hastings. A happier and... The post Picking a Quarrel: The death of Edward Burra and the birth of British punk appeared first on The Quietus .",
+          "categories": [
+            "Black Sky Thinking"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Reframing our Environment: Pulp’s We Love Life at 25",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/pulp-we-love-life-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/711BphS6tL._AC_SL1063_-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "Darran Anderson looks at Pulp's (one-time) farewell LP, as fine as any of their others, and asks, why did it fall by the wayside? In Die Technik des Dramas (1863), Gustav Freytag argued for an ideal five act structure in storytelling. The problem was Freytag, for all his talent and success, was a racist Prussian supremacist and had, to put it mildly, something of a questionable world-view. Another problem was that life, with all its messy tangents and inconvenient loose ends, does not necessarily unfold in five acts. Though the structure existed in practise before then, it took off after Freytag formalised it, and it’s easy to see why; audiences, theatre producers, and political and religious moralists were all flattered by... The post Reframing our Environment: Pulp’s We Love Life at 25 appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Tally Ho! Hark Away! Everything in Readiness by Shovel Dance Collective",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/everything-in-readiness-shovel-dance-collective-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Shovel-Dance-Collective-by-Brad-Gilbert-horizontal-03-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "The London experimental folk outliers’ triumphant third album is a demonstration of traditional music at its most progressive, outward-looking and migratory Photo credit: Brad Gilbert The hammered dulcimer originated in Persia as the santur, perhaps as many as 5,000 years ago. From there it travelled in all directions, adapting and mutating as it went. It moved southwards to India, where it became the santoor, played by ancient Sufi mystics as an accompaniment to hymns, and then moved eastwards via China to become the Korean yanggeum. In Hungary it has grown bigger and turned into the cimbalom, the national instrument. In Spain, it can be found depicted on the relief of a 12th century cathedral. It England it became popular with street performers... The post Tally Ho! Hark Away! Everything in Readiness by Shovel Dance Collective appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Reigns – Antigeist",
+          "link": "https://thequietus.com/quietus-reviews/reigns-antigeist-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/reigns-antigeist.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "Reigns Antigeist Wessex duo grow into a quartet, get amped, still full of doom The Antigeist by Reigns Somerset is a real epicentre of modern druidry and all things occult. Stonehenge is there, the Stanton Drew Stone Circles are there and Glastonbury Tor is there, all generating plenty of neo-pagan energy. It is also the mystical home county of sibling duo Reigns (Roo and Tim Farthing) who since their 2004 debut have consistently welded horror-flavoured storytelling and a trippy electro-folk sound to create a discography that could serve a spiritual companion to Fernando Pessoa’s The Book of Disquiet Reigns’ signature is mining the darker side of humanity through their work, offering the audience scant relief from these terrifying realities. But whereas the duo worked alone... The post Reigns – Antigeist appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Matt Carmichael on New Album and EFG London Jazz Festival Appearance",
           "link": "https://thequietus.com/news/matt-carmichael-on-new-album-and-london-jazz-festival-appearance/",
@@ -552,61 +604,6 @@
             "Reviews"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "Steve Reich – Recordings on ECM",
-          "link": "https://thequietus.com/quietus-reviews/steve-reich-the-ecm-recordings-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2890_LP-1-700x700.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-12",
-          "description": "Steve Reich Recordings on ECM A new box set marking the composer's 90th birthday gathers together three seminal albums released by ECM in the late 70s and early 80s When does the last wall separating so-called ‘classical’ music from ‘pop’ finally collapse? At what point in music history does that distinction, maintained in various forms since the great flourishing of the publishing industry at the end of the eighteenth century, pass the point at which it makes any real sense or has any real explanatory use? There’s a strong argument to be made that it happens somewhere in the midst of these three records, released by the German label ECM between 1978 and 1982. I remember meeting someone once who insisted to me that... The post Steve Reich – Recordings on ECM appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Ryuichi Sakamoto’s ‘1996’ Set for 30th Anniversary Reissue",
-          "link": "https://thequietus.com/news/ryuichi-sakamotos-1996-set-for-30th-anniversary-reissue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-09-at-15.43.46-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "The newly remastered release will mark the first time that the album has been made available on vinyl in the US Photo by John Scarsberg Ryuichi Sakamoto's album 1996 is getting a reissue to mark its 30th anniversary. The record has been newly remastered for its updated release, and will be available in 2xLP and double-cassette editions, retaining the original visual design. It marks the first time that the album has been released on vinyl in the US. 1996 saw Sakamoto revisit a number of his defining works, reworking them in stripped-back form via arrangements for piano, cello and violin. He was joined by Brazilian cellist Jaques Morelenbaum and a cast of violinists for the recording of the album. Milan Records will release 1996 on... The post Ryuichi Sakamoto’s ‘1996’ Set for 30th Anniversary Reissue appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Ryuichi Sakamoto"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "David Byrne Shares Song with Daniel Pemberton Made for Elon Musk Movie",
-          "link": "https://thequietus.com/news/david-byrne-shares-song-with-daniel-pemberton-made-for-elon-musk-movie/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/David-Byrne-Daniel-Pemberton-Let-Me-Sell-You-A-Dream-Lead-Press-Photo-credit-Tristan-Bejawn-left-Shervin-Lainez-right-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "'Let Me Sell You A Dream' was made using quotes from the controversial billionaire Photos by Tristan Bejawn and Shervin Lainez (L-R) David Byrne has linked up with composer Daniel Pemberton on a new song, 'Let Me Sell You A Dream', which was recorded to appear in the forthcoming Alex Gibney-directed documentary Musk. The lyrics for the track were generated solely from quotes from controversial billionaire Elon Musk, who is the focus of the new film that the song features in. Byrne previously used this method of songwriting on 2010’s Here Lies Love LP, which saw him repurpose statements by Philippine First Lady Imelda Marcos. In a statement, Byrne said: \"It would be too easy and probably not as much fun to overtly criticise... The post David Byrne Shares Song with Daniel Pemberton Made for Elon Musk Movie appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Daniel Pemberton",
-            "David Byrne"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Embrace the Black Box: Duet Emmo Interviewed",
-          "link": "https://thequietus.com/interviews/duet-emmo-interview-ica-live-show-or-so-it-seems/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/duet-emmo-433-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "43 years since their sole record Or So It Seems, Daniel Miller, Graham Lewis and Bruce Gilbert will be reforming Duet Emmo for the band's first ever live performance. Speaking to Kiran Sande, they look back to tell the story of a cult classic, and forwards to a show that won't just see them trying to emulate what's come before Nestled at the corner of Pepper St and Copperfield St in the London borough of Southwark, All Hallows began life as a major Victorian Gothic church, built in 1879 to a design by G.G. Scott Junior. Bombed to bits in the Blitz and deconsecrated soon after, it lay in partial ruin until a 1957 salvage effort led by Southwark Cathedral Provost... The post Embrace the Black Box: Duet Emmo Interviewed appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -623,10 +620,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 501,
+      "ms": 313,
       "error": null,
-      "fetchedAt": "2026-10-22T00:26:06.673Z",
-      "lastOkAt": "2026-10-22T00:26:06.673Z",
+      "fetchedAt": "2026-10-22T12:30:17.806Z",
+      "lastOkAt": "2026-10-22T12:30:17.806Z",
       "itemCount": 39,
       "items": [
         {
@@ -1151,12 +1148,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 202,
+      "ms": 271,
       "error": null,
-      "fetchedAt": "2026-10-22T00:26:06.673Z",
-      "lastOkAt": "2026-10-22T00:26:06.673Z",
+      "fetchedAt": "2026-10-22T12:30:17.806Z",
+      "lastOkAt": "2026-10-22T12:30:17.806Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Alchemical Sisters",
+          "link": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a885e2c3ebe66b3901a13cd/master/pass/Eris-Drew-Octo-Octa-Alchemical-Sisters.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andrew Ryce"
+        },
+        {
+          "title": "Numbskull",
+          "link": "https://pitchfork.com/reviews/albums/ryan-hemsworth-numbskull/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a7b8a52050964276156a80d/master/pass/Numbskull%20album%20art_credit_CoreySchmitz.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "On his first album in eight years, the Canadian DJ and producer reconnects with the guitar music of his youth, drawing on punk, emo, and shoegaze for an album that plays like a handmade mixtape.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Mehan Jayasuriya"
+        },
+        {
+          "title": "Totally",
+          "link": "https://pitchfork.com/reviews/albums/baba-stiltz-totally/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/master/pass/Baba%20Stiltz%20Totally.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "The Swedish polymath explores the sounds, language, and imagery of Americana on a drolly observational singer-songwriter album.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Harry Thorfinn-George"
+        },
+        {
+          "title": "do you love the color of the sky?",
+          "link": "https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a7dd69bca14a077a056d363/master/pass/unnamed%20-%202026-08-13T103639.912.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "The Los Angeles band dials up the hazy distortion and synthetic sheen surrounding its spacey blend of shoegaze guitars and breakbeats.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sue Park"
+        },
         {
           "title": "the greatest album of all time",
           "link": "https://pitchfork.com/reviews/albums/sophia-stel-the-greatest-album-of-all-time/",
@@ -1494,58 +1543,6 @@
             "Reviews / Albums"
           ],
           "author": "Cassidy Sollazzo"
-        },
-        {
-          "title": "A Mile South of Heaven",
-          "link": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab178b1e1cdfe6681b364a7/master/pass/3605.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "Torn between Texas and Topanga but fully herself, the songwriter sounds at home in the outlaw country idiom on an intimate, searching new record produced by Shooter Jennings.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sadie Sartini Garner"
-        },
-        {
-          "title": "At Work in the Fields of the Bomb EP",
-          "link": "https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ac803d6c3f6632564b720d0/master/pass/Deafheaven%20-%20AWITFOTB%20-%20EP%20Artwork.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "On a blistering surprise EP, Deafheaven find the vicious attack and grandiose drama of symphonic black metal perfectly suited to their purposes.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Patrick Lyons"
-        },
-        {
-          "title": "Quiet Storm",
-          "link": "https://pitchfork.com/reviews/albums/space-afrika-quiet-storm/",
-          "imageUrl": "https://media.pitchfork.com/photos/6accf4be107094c6276c7651/master/pass/Space%20Afrika%20-%20Quiet%20Storm.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "The Manchester/Berlin ambient duo’s latest album folds classical instrumentation and field recordings into a mood of deep introspection.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Kiana Mickles"
-        },
-        {
-          "title": "at least you know what you’re laughing at",
-          "link": "https://pitchfork.com/reviews/albums/gash-at-least-you-know-what-youre-laughing-at/",
-          "imageUrl": "https://media.pitchfork.com/photos/6accee11bbe6c01c54481945/master/pass/gash-at%20least%20you%20know%20what%20you",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "On its fourth album, the experimental rock band chases down whimsical creative impulses and arranges them into a brisk, spectral eight-song collage.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Nina Corcoran"
         }
       ]
     },
@@ -1562,10 +1559,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 467,
+      "ms": 754,
       "error": null,
-      "fetchedAt": "2026-10-22T00:26:06.673Z",
-      "lastOkAt": "2026-10-22T00:26:06.673Z",
+      "fetchedAt": "2026-10-22T12:30:17.806Z",
+      "lastOkAt": "2026-10-22T12:30:17.806Z",
       "itemCount": 40,
       "items": [
         {
@@ -2216,15 +2213,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-21T12:28:39.626Z",
-      "lastOkAt": "2026-10-21T12:28:39.626Z",
+      "ms": 341,
+      "error": null,
+      "fetchedAt": "2026-10-22T12:30:17.806Z",
+      "lastOkAt": "2026-10-22T12:30:17.806Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Zach Bryan - Young Manhood and Other Donatable Organs EP REVIEW",
+          "link": "https://www.youtube.com/watch?v=_J79mLaklF0",
+          "imageUrl": "https://i4.ytimg.com/vi/_J79mLaklF0/hqdefault.jpg",
+          "embedId": "_J79mLaklF0",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "Listen: https://www.youtube.com/watch?v=nhR-Ka-aKUs Zach Bryan takes a step in the right direction on this new EP. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: LODI WHEN, BACKWARDS, YOU'LL GET BY LEAST FAV TRACK: IS THE BLUE TANGLED IN YOU? ZACH BRYAN - YOUNG MANHOOD AND OTHER DONATABLE ORGANS / 2026 / WARNER / COUNTRY ROCK, AMERICANA, SINGER-SONGWRITER 6/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Fontaines D.C. - Dopamine Chamber ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=UzvthnAU6nc",
@@ -2378,38 +2387,11 @@
           "description": "Listen: https://www.youtube.com/watch?v=0e6a0RFP69I Quadeca is really in sandbox mode on Life 1, with mixed but mostly positive results. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: DARK MAGIC, IT GOES LIKE THIS, MAKE YOU MY WHAT, LIKE YOU ALWAYS DO, BABY STEPS QUADECA - LIFE 1 / 2026 / X8 / INDIETRONIC, BEDROOM POP 6/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "C.O.F.F.I.N - Out in Oslo ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=5o7CRuHlZ4Y",
-          "imageUrl": "https://i2.ytimg.com/vi/5o7CRuHlZ4Y/hqdefault.jpg",
-          "embedId": "5o7CRuHlZ4Y",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "Listen: https://coffin-aus.bandcamp.com/album/out-in-oslo C.O.F.F.I.N's most commendable album yet. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: OUT IN OSLO, SLEEP IN IT, A PLACE TO STAY, WON'T LET YOU DOWN, FAIR ENOUGH, MILES AWAY LEAST FAV TRACK: GETTIN' DOWN C.O.F.F.I.N - OUT IN OSLO / 2026 / P(DOOM) / PUB ROCK, GARAGE PUNK 7/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/": {
-      "artist": "Deafheaven",
-      "album": "At Work in the Fields of the Bomb EP"
-    },
-    "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/": {
-      "artist": "Jess Williamson",
-      "album": "A Mile South of Heaven"
-    },
-    "https://pitchfork.com/reviews/albums/gash-at-least-you-know-what-youre-laughing-at/": {
-      "artist": "Gash",
-      "album": "at least you know what you’re laughing at"
-    },
-    "https://pitchfork.com/reviews/albums/space-afrika-quiet-storm/": {
-      "artist": "Space Afrika",
-      "album": "Quiet Storm"
-    },
     "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
       "artist": "Logic1000",
       "album": "Confirmation!"
@@ -2513,6 +2495,22 @@
     "https://pitchfork.com/reviews/albums/seventhirtyatmorning-antiones-son/": {
       "artist": "Seventhirtyatmorning",
       "album": "Antione’s Son"
+    },
+    "https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/": {
+      "artist": "Dummy",
+      "album": "do you love the color of the sky?"
+    },
+    "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/": {
+      "artist": "Alchemical Sisters",
+      "album": "Alchemical Sisters"
+    },
+    "https://pitchfork.com/reviews/albums/ryan-hemsworth-numbskull/": {
+      "artist": "Ryan Hemsworth",
+      "album": "Numbskull"
+    },
+    "https://pitchfork.com/reviews/albums/baba-stiltz-totally/": {
+      "artist": "Baba Stiltz",
+      "album": "Totally"
     }
   }
 }

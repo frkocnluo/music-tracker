@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-21T12:28:39.626Z",
+    "updatedAt": "2026-10-22T00:26:06.673Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 6,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 622,
+      "ms": 946,
       "error": null,
-      "fetchedAt": "2026-10-21T12:28:39.626Z",
-      "lastOkAt": "2026-10-21T12:28:39.626Z",
+      "fetchedAt": "2026-10-22T00:26:06.673Z",
+      "lastOkAt": "2026-10-22T00:26:06.673Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 563,
+      "ms": 652,
       "error": null,
-      "fetchedAt": "2026-10-21T12:28:39.626Z",
-      "lastOkAt": "2026-10-21T12:28:39.626Z",
+      "fetchedAt": "2026-10-22T00:26:06.673Z",
+      "lastOkAt": "2026-10-22T00:26:06.673Z",
       "itemCount": 32,
       "items": [
         {
@@ -623,12 +623,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 302,
+      "ms": 501,
       "error": null,
-      "fetchedAt": "2026-10-21T12:28:39.626Z",
-      "lastOkAt": "2026-10-21T12:28:39.626Z",
+      "fetchedAt": "2026-10-22T00:26:06.673Z",
+      "lastOkAt": "2026-10-22T00:26:06.673Z",
       "itemCount": 39,
       "items": [
+        {
+          "title": "June McDoom, “Follow The Light”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/june-mcdoom-follow-the-light-review",
+          "imageUrl": "https://f4.bcbits.com/img/0048065940_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "The folk singer uses intricate production to keep her ethereal music from floating away. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Elle Carroll"
+        },
+        {
+          "title": "The Life, Death, and Afterlife of Astor Piazzolla",
+          "link": "https://daily.bandcamp.com/features/astor-piazzolla-album-guide",
+          "imageUrl": "https://f4.bcbits.com/img/0048068155_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "The legendary tango artist composed music that has become staples for violinists, pianists, and string quartets. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "George Grella"
+        },
         {
           "title": "How Dev Lemons Is the Nathan Fielder of Music",
           "link": "https://daily.bandcamp.com/features/dev-lemons-hunting-what-we-already-killed-feature",
@@ -1109,32 +1135,6 @@
             "Album of the Day"
           ],
           "author": "Jennifer Kelly"
-        },
-        {
-          "title": "The Best Metal on Bandcamp, September 2026",
-          "link": "https://daily.bandcamp.com/best-metal/the-best-metal-on-bandcamp-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047577157_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-01",
-          "description": "Our guide to the month’s crucial heavy LPs. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Best Metal"
-          ],
-          "author": "Brad Sanders"
-        },
-        {
-          "title": "Kaitlyn Aurelia Smith, “Ruin: It’s Not Just Music”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/kaitlyn-aurelia-smith-ruin-its-not-just-music-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047579842_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-01",
-          "description": "Kaitlyn Aurelia Smith plunges headlong into dance music on her thrilling new LP. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Dom Lepore"
         }
       ]
     },
@@ -1151,10 +1151,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 175,
+      "ms": 202,
       "error": null,
-      "fetchedAt": "2026-10-21T12:28:39.626Z",
-      "lastOkAt": "2026-10-21T12:28:39.626Z",
+      "fetchedAt": "2026-10-22T00:26:06.673Z",
+      "lastOkAt": "2026-10-22T00:26:06.673Z",
       "itemCount": 30,
       "items": [
         {
@@ -1562,10 +1562,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 599,
+      "ms": 467,
       "error": null,
-      "fetchedAt": "2026-10-21T12:28:39.626Z",
-      "lastOkAt": "2026-10-21T12:28:39.626Z",
+      "fetchedAt": "2026-10-22T00:26:06.673Z",
+      "lastOkAt": "2026-10-22T00:26:06.673Z",
       "itemCount": 40,
       "items": [
         {
@@ -2216,12 +2216,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 197,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-10-21T12:28:39.626Z",
       "lastOkAt": "2026-10-21T12:28:39.626Z",
       "itemCount": 15,

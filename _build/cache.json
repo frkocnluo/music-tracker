@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-23T00:27:29.379Z",
+    "updatedAt": "2026-10-23T12:24:04.133Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 854,
+      "ms": 566,
       "error": null,
-      "fetchedAt": "2026-10-23T00:27:29.379Z",
-      "lastOkAt": "2026-10-23T00:27:29.379Z",
+      "fetchedAt": "2026-10-23T12:24:04.133Z",
+      "lastOkAt": "2026-10-23T12:24:04.133Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 689,
+      "ms": 569,
       "error": null,
-      "fetchedAt": "2026-10-23T00:27:29.379Z",
-      "lastOkAt": "2026-10-23T00:27:29.379Z",
+      "fetchedAt": "2026-10-23T12:24:04.133Z",
+      "lastOkAt": "2026-10-23T12:24:04.133Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Cracked Actor: Robbie Williams’ Rudebox at 20",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/robbie-williams-rudebox-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/0x1900-000000-80-0-0-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Robbie Williams’ hip hop pivot is widely seen as one of the most obnoxious failures in pop. Claire Biddles & Fergal Kinney deal with an LP which is experimental outlier, outsider art & baffling mess all at once There’s a moment in 2016 captured in Chris Heath’s bestselling journalistic portrait of Robbie Williams where the singer is struggling with his infant child emotionally pushing his father away. “Maybe,” offers his wife Ayda Field-Williams, “she’s finally heard Rudebox.” The September 2006 release of the ‘Rudebox’ single remains the most controversial moment in Robbie Williams career, a turning point that decisively ended his imperial phase as Britain’s biggest pop star that he had sustained since the 1997 release of Life Thru A Lens. Where... The post Cracked Actor: Robbie Williams’ Rudebox at 20 appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Low Culture Essay: Sophie Sleigh-Johnson on The Indoor League",
+          "link": "https://thequietus.com/subscriber-area/low-culture-essay/low-culture-essay-sophie-sleigh-johnson-on-the-indoor-league/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/indor-league-trueman-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Rising Damp expert Sophie Sleigh-Johnson tunes in to the 70s pub sports telly series that celebrated regional specificity through a fug of cig smoke and the rituals of indoor combat Something was afoot in the corridors of Yorkshire TV during the early 70s, fuelled by crates of Double Diamond beer. The chipboard sets of Rising Damp, a luridly claustrophobic set piece transmitted into the country’s living rooms, shared production space (if not a specific studio) at Kirkstall Road Studios, Leeds with another domesticated strain of British culture: the pub. Long before Luke Littler brought darts to the TikTok generation and Sky homogenised the arrows’ presentation, The Indoor League brought pub-based sports to British living rooms. In 1972 audiences had been able to watch the... The post Low Culture Essay: Sophie Sleigh-Johnson on The Indoor League appeared first on The Quietus .",
+          "categories": [
+            "Low Culture Essay"
+          ],
+          "author": "Luke Turner"
+        },
+        {
+          "title": "Shit And Shine – 0 aa Riot",
+          "link": "https://thequietus.com/quietus-reviews/shit-and-shine-0-aa-riot-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/shit-and-shine-o-aa-riot.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Shit And Shine 0 aa Riot The ever-prolific Craig Clouse gives us four tracks of skipping needles and sporadic glitches, but it's the subtle details and small shifts that prove most beguiling for JR Moores 0 aa RIOT by SHIT AND SHINE Paul Du Noyer compared Paul McCartney’s “stylistic breadth” to Pablo Picasso. Will Gompertz eulogised David Bowie as “the Picasso of pop”. Leonard Cohen saw Bob Dylan as “the Picasso” and considered himself a lower-rung Matisse. Kanye West and Madonna have likened themselves to the great master. Mike Skinner said he was “the Pablo Picasso of geezer garage”. Notwithstanding this painter’s stranglehold over Western aesthetic thinking and ignoring his personal shortcomings for a moment, whose output can truly be hailed as the musical... The post Shit And Shine – 0 aa Riot appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Discrepant and Keroxen Plan Three-Day Cafe OTO Takeover",
           "link": "https://thequietus.com/news/discrepant-keroxen-cafe-oto-festival-goncalo-f-cardoso-interview/",
@@ -247,6 +286,49 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Talking Heads Reveal Book, ‘Talking Heads: New Feeling’",
+          "link": "https://thequietus.com/news/talking-heads-reveal-book-talking-heads-new-feeling/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Talking-Heads-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "It features archival visual material and original essay from the band's members, in addition to contributions by Debbie Harry, Lorde and others Talking Heads are publishing a book that will look back over their history and impact on the music world. Talking Heads: New Feeling will be released to mark the 50th anniversary of the band's debut album, Talking Heads: 77. \"For this book, we pulled out handwritten lyrics, original album sketches and private photos, some of which haven't left our archive in over 40 years,” the band's Jerry Harrison said. It also takes in original essays from all four members of the band, plus contributions by Debbie Harry, Lorde, Jeff Bridges and others. Among the visual material featured are behind-the-scenes photos from... The post Talking Heads Reveal Book, ‘Talking Heads: New Feeling’ appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Wendy Eisenberg Reveals Surprise Release and New Project with More Eaze",
+          "link": "https://thequietus.com/news/wendy-eisenberg-reveals-surprise-release-and-new-project-with-more-eaze/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "The band, Whait, will put their first album out in February Photo by Eleanor Petry Wendy Eisenberg has surprise released a companion album to their self-titled LP from earlier this year. Titled Wweennddyy Eeiisseennbbeerrgg, it collects extended live versions of the tracks 'Meaning Business' and 'The Walls' from Eisenberg's 2026 album. They recorded the new versions of the tracks with Mr. Bungle bassist Trevor Dunn, drummer Ryan Sawyer and violinist Mari Rubio, otherwise known as More Eaze. Speaking about their decision to record and share the expanded takes on these tracks, Eisenberg said: \"I want to write songs that feel infinite. I want to write songs that transcend their production, that can weather the changes. It’s probably a holdover from my jazz training, the... The post Wendy Eisenberg Reveals Surprise Release and New Project with More Eaze appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "More Eaze",
+            "Wendy Eisenberg"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "FKA twigs to Curate Meltdown 2027",
+          "link": "https://thequietus.com/news/fka-twigs-to-curate-meltdown-2027/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/FKA-twigs-curator-of-Meltdown-festival-2027-c-Jordan-Hemingway-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-21",
+          "description": "The UK artist will oversee the programming for next year's edition of the event at London's Southbank Centre Photo by Jordan Hemingway FKA twigs has been confirmed as the curator of next year's Meltdown festival. Returning once again to London's Southbank Centre, the lineup for next year's event will be overseen by the UK artist, who will also play a headline set as part of the 11-day event. The full lineup will be announced in the coming months, but a press release promised that she will bring together an array of musical genre and artists working across various creative disciplines to reflect her influences. In a statement, FKA twigs said: \"I am honoured and excited to be curating Meltdown at the Southbank Centre. The... The post FKA twigs to Curate Meltdown 2027 appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "FKA twigs",
+            "Meltdown"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Matt Carmichael on New Album and EFG London Jazz Festival Appearance",
@@ -351,6 +433,21 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Hot Chip Return with New Album, ‘A Long Way From Kansas’",
+          "link": "https://thequietus.com/news/hot-chip-return-with-new-album-a-long-way-from-kansas/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Hot-Chip-PC-Fiona-Garden-8W0A0432-300dpi-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-19",
+          "description": "The lead single, 'Random Violence', is a tribute to the late Optimo (Espacio) DJ JD Twitch Photo by Fiona Garden Hot Chip have shared details of their ninth studio album, A Long Way From Kansas. Spanning 11 tracks, the LP's title is a nod to towards The Wizard Of Oz, while Beth Ditto and Eddie Chaco have contributed guest vocals. In a statement, the band's Alexis Taylor said: \"In addition to myself and Joe, Owen and Felix are singing (Felix for the first time on a Hot Chip record). There’s also a choir and lots of group singing. I think we like opening out our interior world and bringing all these voices together.\" Opening up on the record's influences and themes explored its tracks,... The post Hot Chip Return with New Album, ‘A Long Way From Kansas’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Domino",
+            "Hot Chip"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Guest Playlist: Dis Fig",
@@ -513,97 +610,6 @@
             "Live Reviews"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Heroína – Heroína",
-          "link": "https://thequietus.com/quietus-reviews/heroina-heroina-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/heroina-st.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "Heroína Heroína Someone has pissed these lads off, and we’re all the richer for it Heroína by Heroína ‘Corre’ means run. On this opener, Heroína do. No count-in, no settling, Vasco Galvão’s blast beats already at full pelt by the time you’ve registered it’s started and Martim Fernandes flying halfway up the neck. It lasts sixty-four seconds. The other twenty-two minutes are more of the same, which I mean as highest praise. ‘Escarro’ at least has a theme, a tumbling three-note figure that could’ve fallen off a Polvo record or a Don Caballero one (newly reunited, mercifully), before the whole show capsizes into bayou-thick Eyehategod sludge and Dillinger Escape Plan’s jackknifing chord shapes. Francisco Jarda rides the lot like David Yow three weeks into a... The post Heroína – Heroína appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Combined Worlds: Kali Malone’s Favourite Albums",
-          "link": "https://thequietus.com/interviews/bakers-dozen/kali-malone-favourite-albums-interview-burning-song/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-33-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "From early modern Renaissance compositions, through 20th century minimalism, all the way to grunge, Kali Malone treats Claire Biddles to a centuries-spanning Baker's Dozen Photo by Kingsley Ifill Kali Malone has always kept a home in several musical worlds at once. When she was in her early 20s, studying at the Royal College Of Music in Stockholm, she would make regular visits to her hometown of Denver, Colorado, diving back into the metal scene in which she was embedded as a teenager. “I was basically living part-time in Sweden, part-time in a metal house in Denver,” she recalls from her present-day Paris apartment. “I was studying electroacoustic composition, but I also wanted to engage with the scene from my home town, so... The post Combined Worlds: Kali Malone’s Favourite Albums appeared first on The Quietus .",
-          "categories": [
-            "Baker's Dozen"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Jon Hassell – Music Is Invisible (Pentimento Volume Three)",
-          "link": "https://thequietus.com/quietus-reviews/jon-hassell-music-is-invisible-pentimento-volume-three-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/hassell-music-is-invisible.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "Jon Hassell Music Is Invisible (Pentimento Volume Three) A final album from the Memphis-born trumpet player and composer Music Is Invisible (Pentimento Volume Three) by Jon Hassell Jon Hassell departed this world on 26th June 2021. He’d lived an extraordinary life entwined in the musical landscape of the 20th century, studying under Stockhausen and Pandit Pran Nath, and collaborating with the likes of Terry Riley, La Monte Young, Brian Eno, Talking Heads, Techno Animal, David Sylvian, Björk and Ry Cooder. He also developed the highly influential concept of Fourth World music, a blend of primitive and futuristic ideas and techniques encompassing modern electronic sounds and global traditional musics. His final concert was in 2015 at St John at Hackney with Rick Cox and John von... The post Jon Hassell – Music Is Invisible (Pentimento Volume Three) appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "JD Twitch’s Record Collection to be Sold",
-          "link": "https://thequietus.com/news/jd-twitchs-record-collection-to-be-sold/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/JDTwitch_credit_MarissaCostello_-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "World Of Echo to sell 20,000 records belonging to the late Optimo lynchpin JD Twitch portrait by Marissa Costello The death of Keith McIvor – AKA JD Twitch – a year ago was a huge loss to the music community of which The Quietus is a part, a DJ, figurehead and inspiration to music fans, obsessives, musicians, dancers, artists, writers all over the world. Now, the thousands of records that made him, and that formed the raw materials of his sets with Optimo and beyond, are to be sold. They'll head off to find new lives in new record collections via a sale at the World Of Echo record shop on Cheshire Street, London, with each vinyl record cleaned, graded and featuring... The post JD Twitch’s Record Collection to be Sold appeared first on The Quietus .",
-          "categories": [
-            "News"
-          ],
-          "author": "Luke Turner"
-        },
-        {
-          "title": "Columnus Metallicus: Heavy Metal for October Reviewed by Kez Whelan",
-          "link": "https://thequietus.com/quietus-reviews/metal/new-heavy-metal-reviews-sleep-krallice-lustmord-lombardo/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/119156-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "In his latest guide to the world of metal, Kez Whelan considers the disappointingly thin new effort from Sleep, and reviews finer fare from the likes of Krallice and Lustmord Lombardo Lustmord Lombardo While Sleep’s surprise 2018 comeback The Sciences united riff fiends worldwide in ecstatic glee, their recent surprise comeback Hempispheres has been largely met with confusion. Following drummer Jason Roeder’s unceremonious sacking in 2024, it appears Matt Pike is also out of the band now too, with rumours running rife as to what could have prompted the shirtless axeman to leave – when the new iteration of the band dropped their first single ‘Have Spacesuit Will Travel’ back in June, most fans seemed concerned as to whether it was even... The post Columnus Metallicus: Heavy Metal for October Reviewed by Kez Whelan appeared first on The Quietus .",
-          "categories": [
-            "Metal"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Institut Für Feinmotorik – Öd",
-          "link": "https://thequietus.com/quietus-reviews/institut-fur-feinmotorik-od/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/IFF-Od.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "Institut Für Feinmotorik Öd Black Forest experimental turntablists return with a new album for the Faitiche label Öd by Institut fuer Feinmotorik Another week, another tech bro triumphantly declaring music solved, with hyper-individualisation via AI just around the corner. This obnoxious class of talentless grifters is obsessed with optimising everything, art included, and misses the point entirely. We want – no, need! – art to be messy, incomplete, and flawed. Take Institut Für Feinmotorik, originally from Germany’s Black Forest. The collective have spent years paring their sound down to squeaking, sparse forms that sound like mechanical contraptions in their death throes, indebted to both post-Cagean traditions and the Profan school of minimal techno. Their main medium? The Octogrammoticum – an orchestra of eight recordless turntables... The post Institut Für Feinmotorik – Öd appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Life is Death: An Interview with Róis",
-          "link": "https://thequietus.com/interviews/rois-interview-mo-lean-domino-reissue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/ROIS-PC-Anthony-OConnor-crop-3-300-dpi-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-12",
-          "description": "On Mo Léan, Róis uses the ancient art of keening and otherworldly electronics to challenge the foundations of what we consider to be ‘proper’ when it comes to death. Here, she speaks to Deirdre Anna Rose Kelly about grief for a nation as well as individuals, the complexities of outsiders’ romanticisation of Irish culture, and the role of the Irish language in her work Photos by Anthony O'Connor “I want to party and to have the craic. That’s where I’m at,” says Róis. To the casual observer, this desire for fun might seem at odds with the work at hand. The title of her critically lauded last album, Mo Léan, newly reissued and expanded for its first global release by Domino next... The post Life is Death: An Interview with Róis appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -620,10 +626,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 332,
+      "ms": 238,
       "error": null,
-      "fetchedAt": "2026-10-23T00:27:29.379Z",
-      "lastOkAt": "2026-10-23T00:27:29.379Z",
+      "fetchedAt": "2026-10-23T12:24:04.133Z",
+      "lastOkAt": "2026-10-23T12:24:04.133Z",
       "itemCount": 38,
       "items": [
         {
@@ -1135,12 +1141,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 256,
+      "ms": 123,
       "error": null,
-      "fetchedAt": "2026-10-23T00:27:29.379Z",
-      "lastOkAt": "2026-10-23T00:27:29.379Z",
+      "fetchedAt": "2026-10-23T12:24:04.133Z",
+      "lastOkAt": "2026-10-23T12:24:04.133Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Jazz dreams",
+          "link": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab1771595d5696b67afdb2c/master/pass/a0271857415_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Hattie Lindert"
+        },
+        {
+          "title": "jg",
+          "link": "https://pitchfork.com/reviews/albums/jacques-greene-jg/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad9c65110f23c4740171808/master/pass/Jacques%20Greene%20-%20jg.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "A year after his moody collab with Nosaj Thing, the Montreal producer returns with his clubbiest album yet. But even when it bangs, his music still sounds as dreamy as ever.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Kiana Mickles"
+        },
+        {
+          "title": "It’s a Style Sport",
+          "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ada59e651345c8f17678d01/master/pass/Shabazz%20Palaces%20It",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Ishmael Butler explores the cosmos within on a shadowy and uncharacteristically introspective new album.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Dash Lewis"
+        },
+        {
+          "title": "Beirut City Pop",
+          "link": "https://pitchfork.com/reviews/albums/various-artists-beirut-city-pop/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad8ffeb96279ee60f9f9373/master/pass/Beirut%20City%20Pop.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Habibi Funk’s latest compilation shines a spotlight on the vintage soul, disco, and jazz that sprang up as a homegrown response to Lebanon’s brutal civil war.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Shy Clara Thompson"
+        },
         {
           "title": "Alchemical Sisters",
           "link": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/",
@@ -1478,58 +1536,6 @@
             "Reviews / Albums"
           ],
           "author": "Grayson Haver Currin"
-        },
-        {
-          "title": "She’s the Best",
-          "link": "https://pitchfork.com/reviews/albums/troye-sivan-shes-the-best/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a7f252f84348e8cbb2b41ac/master/pass/Troye%20Sivan%20She",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "The pop star’s fourth album explores the cracks between the hits, the climaxes, and the comedowns. When he steps off the dancefloor, he finds a looser and more liberated sound.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Harry Tafoya"
-        },
-        {
-          "title": "STRIKING",
-          "link": "https://pitchfork.com/reviews/albums/ovrkast-striking/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ace4d6fd38747617e6922fd/master/pass/Ovrkast.-Striking.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "The Bay Area rapper’s latest record boasts vivid scenes and careful character studies, backed by live instrumentation and occasionally staid samples.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Alphonse Pierre"
-        },
-        {
-          "title": "Nature’s Pill",
-          "link": "https://pitchfork.com/reviews/albums/wishy-natures-pill/",
-          "imageUrl": "https://media.pitchfork.com/photos/6abbfaa0c7133574666f02da/master/pass/65809.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "A deep longing aches at the core of the Indianapolis indie-pop group’s music, making good on the bittersweet promise of twee at its most heartfelt.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Colin Joyce"
-        },
-        {
-          "title": "Confirmation!",
-          "link": "https://pitchfork.com/reviews/albums/logic1000-confirmation/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ace7ef0db59a31ef68a40d5/master/pass/Logic1000%20-%20Confirmation!%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "The producer’s second LP flows through dulcet synth-pop collaborations, throwback trip-hop, and sound collages without leaving much impression.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Cassidy Sollazzo"
         }
       ]
     },
@@ -1546,10 +1552,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 549,
+      "ms": 484,
       "error": null,
-      "fetchedAt": "2026-10-23T00:27:29.379Z",
-      "lastOkAt": "2026-10-23T00:27:29.379Z",
+      "fetchedAt": "2026-10-23T12:24:04.133Z",
+      "lastOkAt": "2026-10-23T12:24:04.133Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,15 +2206,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-22T12:30:17.806Z",
-      "lastOkAt": "2026-10-22T12:30:17.806Z",
+      "ms": 156,
+      "error": null,
+      "fetchedAt": "2026-10-23T12:24:04.133Z",
+      "lastOkAt": "2026-10-23T12:24:04.133Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "The Avalanches - No Bad Memories ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
+          "imageUrl": "https://i3.ytimg.com/vi/ZAHEPtclKOg/hqdefault.jpg",
+          "embedId": "ZAHEPtclKOg",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Listen: https://www.youtube.com/watch?v=EpNSk8qu_Vo The most fun album of The Avalanches' comeback so far. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TOGETHER, I GIVE EVERYTHING I HAVE 2 U, EVERY SINGLE WEEKEND, LIKE CLOCKWORK / HIT BY TRAFFIC, VIDA, CAN'T GET OVER LOSING YOU, HIGHFIELD, UNDER YR POWER, ONE MORE FANTASY, NO BAD MEMORIES, FINAL CREDITS, THE PAVEMENTS LIGHT THE AVALANCHES - NO BAD MEMORIES / 2026 / MODULAR / EDM, PLUNDERPHONICS, SOUND COLLAGE, CHILLWAVE 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Zach Bryan - Young Manhood and Other Donatable Organs EP REVIEW",
           "link": "https://www.youtube.com/watch?v=_J79mLaklF0",
@@ -2362,38 +2380,11 @@
           "description": "Listen: https://www.youtube.com/watch?v=FNXoEhcz8z4 Kyle Gordon really is everywhere on this one. Review by Prof. Bartholomew J. Giggens: https://www.youtube.com/user/Giggens More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== KYLE GORDON - KYLE GORDON IS EVERYWHERE / 2026 / BMG / MUSIC THAT TAKES YOU EVERYWHERE EVEN THE DARKEST SPACES OF YOUR PSYCHE GIGGENS LOVES IT/10 Y'all know this is just his opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Quadeca - Life 1 ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=1X3rXmuTxs8",
-          "imageUrl": "https://i2.ytimg.com/vi/1X3rXmuTxs8/hqdefault.jpg",
-          "embedId": "1X3rXmuTxs8",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Listen: https://www.youtube.com/watch?v=0e6a0RFP69I Quadeca is really in sandbox mode on Life 1, with mixed but mostly positive results. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: DARK MAGIC, IT GOES LIKE THIS, MAKE YOU MY WHAT, LIKE YOU ALWAYS DO, BABY STEPS QUADECA - LIFE 1 / 2026 / X8 / INDIETRONIC, BEDROOM POP 6/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/logic1000-confirmation/": {
-      "artist": "Logic1000",
-      "album": "Confirmation!"
-    },
-    "https://pitchfork.com/reviews/albums/wishy-natures-pill/": {
-      "artist": "Wishy",
-      "album": "Nature’s Pill"
-    },
-    "https://pitchfork.com/reviews/albums/ovrkast-striking/": {
-      "artist": "Ovrkast.",
-      "album": "STRIKING"
-    },
-    "https://pitchfork.com/reviews/albums/troye-sivan-shes-the-best/": {
-      "artist": "Troye Sivan",
-      "album": "She’s the Best"
-    },
     "https://pitchfork.com/reviews/albums/the-koreatown-oddity-purdy/": {
       "artist": "The Koreatown Oddity",
       "album": "Purdy"
@@ -2497,6 +2488,22 @@
     "https://pitchfork.com/reviews/albums/baba-stiltz-totally/": {
       "artist": "Baba Stiltz",
       "album": "Totally"
+    },
+    "https://pitchfork.com/reviews/albums/fine-jazz-dreams/": {
+      "artist": "Fine",
+      "album": "Jazz dreams"
+    },
+    "https://pitchfork.com/reviews/albums/jacques-greene-jg/": {
+      "artist": "Jacques Greene",
+      "album": "jg"
+    },
+    "https://pitchfork.com/reviews/albums/various-artists-beirut-city-pop/": {
+      "artist": "Various Artists",
+      "album": "Beirut City Pop"
+    },
+    "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/": {
+      "artist": "Shabazz Palaces",
+      "album": "It’s a Style Sport"
     }
   }
 }

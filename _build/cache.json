@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-22T12:30:17.806Z",
+    "updatedAt": "2026-10-23T00:27:29.379Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 6,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 847,
+      "ms": 854,
       "error": null,
-      "fetchedAt": "2026-10-22T12:30:17.806Z",
-      "lastOkAt": "2026-10-22T12:30:17.806Z",
+      "fetchedAt": "2026-10-23T00:27:29.379Z",
+      "lastOkAt": "2026-10-23T00:27:29.379Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 694,
+      "ms": 689,
       "error": null,
-      "fetchedAt": "2026-10-22T12:30:17.806Z",
-      "lastOkAt": "2026-10-22T12:30:17.806Z",
+      "fetchedAt": "2026-10-23T00:27:29.379Z",
+      "lastOkAt": "2026-10-23T00:27:29.379Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Discrepant and Keroxen Plan Three-Day Cafe OTO Takeover",
+          "link": "https://thequietus.com/news/discrepant-keroxen-cafe-oto-festival-goncalo-f-cardoso-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Alejandra-alehop-pic-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "Discrepant founder Gonçalo F. Cardoso tells tQ about a stacked lineup celebrating the underground scene of the Canary Islands and beyond Alejandra Cárdenas, aka Ale Hop The last three days of October will see London's experimental music lodestar Cafe OTO host a three day program organised by Tenerife-based DIY label Discrepant and the annual Canary Islands festival Keroxen. Taking place on 29, 30 and 31 October, a rammed schedule will see performances from more than a dozen acts. They include representatives from the thriving Canarian underground like psych rockers GAF Y La Estrella De La Muerte, experimental guitarist Paul Pèrrim, leftfield pop songwriter Akane and more. International representation comes from the likes of Japanese turntablist DJ Sniff, making a rare appearance in the... The post Discrepant and Keroxen Plan Three-Day Cafe OTO Takeover appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "Patrick Clarke"
+        },
         {
           "title": "Picking a Quarrel: The death of Edward Burra and the birth of British punk",
           "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/edward-burra-the-damned-1976/",
@@ -229,7 +242,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-10-22",
-          "description": "Reigns Antigeist Wessex duo grow into a quartet, get amped, still full of doom The Antigeist by Reigns Somerset is a real epicentre of modern druidry and all things occult. Stonehenge is there, the Stanton Drew Stone Circles are there and Glastonbury Tor is there, all generating plenty of neo-pagan energy. It is also the mystical home county of sibling duo Reigns (Roo and Tim Farthing) who since their 2004 debut have consistently welded horror-flavoured storytelling and a trippy electro-folk sound to create a discography that could serve a spiritual companion to Fernando Pessoa’s The Book of Disquiet Reigns’ signature is mining the darker side of humanity through their work, offering the audience scant relief from these terrifying realities. But whereas the duo worked alone... The post Reigns – Antigeist appeared first on The Quietus .",
+          "description": "Reigns Antigeist Wessex duo grow into a quartet, get amped, still full of doom The Antigeist by Reigns Somerset is a real epicentre of modern druidry and all things occult. The Stanton Drew Stone Circles are there and Glastonbury Tor is there, both generating plenty of neo-pagan energy. It is also the mystical home county of sibling duo Reigns (Roo and Tim Farthing) who since their 2004 debut have consistently welded horror-flavoured storytelling and a trippy electro-folk sound to create a discography that could serve a spiritual companion to Fernando Pessoa’s The Book of Disquiet Reigns’ signature is mining the darker side of humanity through their work, offering the audience scant relief from these terrifying realities. But whereas the duo worked alone on previous albums,... The post Reigns – Antigeist appeared first on The Quietus .",
           "categories": [
             "Reviews"
           ],
@@ -591,19 +604,6 @@
             "A Quietus Interview"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Gnod – Chronicles of Gnowt Vol. 2",
-          "link": "https://thequietus.com/quietus-reviews/gnod-chronicles-of-gnowt-vol-2-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/gnod-chronicles-2.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-12",
-          "description": "Gnod Chronicles of Gnowt Vol. 2 A second volume from the same Spud Murphy-led session at Vol. 1 finds the Salford rockers at their most fierce Chronicles of Gnowt (Vol 2) by Gnod Whatever monotheists may tell you, there are in fact two Gnods. The first creates thoughtful, psychedelia-tinged records like 2024’s Spot Land and Chronicles of Gnowt (Vol 1). The second, more vengeful Gnod, creates this record. If you’re wondering how to stop the second album in a trilogy feeling like the forgotten middle child, Gnod have the answer: make it much, much heavier. Gone are the almost Ry Cooder-esque acoustic stylings of Vol 1 opener ‘The Trees Pt. 1’. In their place are the propulsive down-the-line rock riffs of lead track ‘The Witness’,... The post Gnod – Chronicles of Gnowt Vol. 2 appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -620,12 +620,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 313,
+      "ms": 332,
       "error": null,
-      "fetchedAt": "2026-10-22T12:30:17.806Z",
-      "lastOkAt": "2026-10-22T12:30:17.806Z",
-      "itemCount": 39,
+      "fetchedAt": "2026-10-23T00:27:29.379Z",
+      "lastOkAt": "2026-10-23T00:27:29.379Z",
+      "itemCount": 38,
       "items": [
+        {
+          "title": "Kill Alters, “We Can Rot Together”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/kill-alters-we-can-rot-together-review",
+          "imageUrl": "https://f4.bcbits.com/img/0048080645_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "Bonnie Baxter dives into the digital detritus of modern life and emerges with a diamond. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Liz Ohanesian"
+        },
+        {
+          "title": "Return of the Dark Ages: The Rise of the Medieval Underground",
+          "link": "https://daily.bandcamp.com/scene-report/contemporary-medieval-music-scene-report",
+          "imageUrl": "https://f4.bcbits.com/img/0048081808_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-22",
+          "description": "Artists of all genre are revisiting centuries past for inspiration. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Scene Report"
+          ],
+          "author": "Jordan Warren, Christian Askin"
+        },
         {
           "title": "June McDoom, “Follow The Light”",
           "link": "https://daily.bandcamp.com/album-of-the-day/june-mcdoom-follow-the-light-review",
@@ -1093,45 +1119,6 @@
             "Best Electronic"
           ],
           "author": "Joe Muggs"
-        },
-        {
-          "title": "The Best Punk on Bandcamp, September 2026",
-          "link": "https://daily.bandcamp.com/best-punk/the-best-punk-on-bandcamp-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047698800_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-02",
-          "description": "Our guide to the month’s crucial punk releases. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Best Punk"
-          ],
-          "author": "Sims Hardin"
-        },
-        {
-          "title": "The Hotlist, Fall 2026",
-          "link": "https://daily.bandcamp.com/hotlist/the-hotlist-fall-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047408066_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-02",
-          "description": "These are the upcoming albums that Bandcamp fans are excited about. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Hotlist"
-          ],
-          "author": "Bandcamp Daily Staff"
-        },
-        {
-          "title": "Stef Chura, “Dancing Alone on the Concrete”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/stef-chura-dancing-alone-on-the-concrete-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047640190_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-02",
-          "description": "The Detroit artist puts the weight of experience into her torchy third full-length. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Jennifer Kelly"
         }
       ]
     },
@@ -1148,10 +1135,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 271,
+      "ms": 256,
       "error": null,
-      "fetchedAt": "2026-10-22T12:30:17.806Z",
-      "lastOkAt": "2026-10-22T12:30:17.806Z",
+      "fetchedAt": "2026-10-23T00:27:29.379Z",
+      "lastOkAt": "2026-10-23T00:27:29.379Z",
       "itemCount": 30,
       "items": [
         {
@@ -1559,10 +1546,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 754,
+      "ms": 549,
       "error": null,
-      "fetchedAt": "2026-10-22T12:30:17.806Z",
-      "lastOkAt": "2026-10-22T12:30:17.806Z",
+      "fetchedAt": "2026-10-23T00:27:29.379Z",
+      "lastOkAt": "2026-10-23T00:27:29.379Z",
       "itemCount": 40,
       "items": [
         {
@@ -2213,12 +2200,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 341,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-10-22T12:30:17.806Z",
       "lastOkAt": "2026-10-22T12:30:17.806Z",
       "itemCount": 15,

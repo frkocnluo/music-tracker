@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-23T12:24:04.133Z",
+    "updatedAt": "2026-10-24T00:29:32.712Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 566,
+      "ms": 872,
       "error": null,
-      "fetchedAt": "2026-10-23T12:24:04.133Z",
-      "lastOkAt": "2026-10-23T12:24:04.133Z",
+      "fetchedAt": "2026-10-24T00:29:32.712Z",
+      "lastOkAt": "2026-10-24T00:29:32.712Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,58 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 569,
+      "ms": 863,
       "error": null,
-      "fetchedAt": "2026-10-23T12:24:04.133Z",
-      "lastOkAt": "2026-10-23T12:24:04.133Z",
+      "fetchedAt": "2026-10-24T00:29:32.712Z",
+      "lastOkAt": "2026-10-24T00:29:32.712Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Kevin Martin Blocks Unlicensed GOD Reissue",
+          "link": "https://thequietus.com/news/kevin-martin-blocks-unlicensed-god-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/GOD-Band.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "He revealed that he is now in talks with a record label to produce an official box set of the group's material Kevin Martin has taken to Instagram to reveal that he's successfully blocked an unlicensed reissue of Possession, a 1992 album by GOD, the band that he was part of from 1987 until 1996. Updating his social media followers, Martin thanked people who had offered him legal advice on the matter and said he'd fought back against the planned reissue on \"legal and moral grounds\". He added that the process of blocking the release had been \"difficult and stressful\", but ultimately successful, and that none of the members of GOD had approved the reissue. The dispute was over a planned new edition... The post Kevin Martin Blocks Unlicensed GOD Reissue appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "GOD",
+            "Kevin Martin",
+            "The Bug"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Lost Pursues 24-Hour License for New Oxford Street Venue",
+          "link": "https://thequietus.com/news/lost-pursues-24-hour-license-for-new-oxford-street-venue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Lost-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "The London party series is aiming to take over a complex formerly used by London College of Fashion Lost, the secretive London party series famed for its big-name lineups, has revealed its pursuing a 24-hour license for a new venue in the heart of Oxford Street. Taking to Instagram yesterday (22 October), the team behind the party revealed that they had secured use of a building complex formerly used by London College of Fashion. Writing on social media, they said: \"An entire block on Oxford Street to reimagine the heart of London, we want to build this with you.\" In a further update to email subscribers issued today (23 October), Lost encouraged people to contact Westminster Council in order to support them in... The post Lost Pursues 24-Hour License for New Oxford Street Venue appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Lost"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Portugal’s SQUARE Festival Reveals First Name for Conference Programme",
+          "link": "https://thequietus.com/news/portugals-square-festival-reveals-first-name-for-conference-programme/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/DJ-Marfox_photo-credit-Marta-Pina-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Exploring the theme of Continuity, it will feature contributions from affiliates of the Príncipe label and tQ's own Jennifer Lucy Allan DJ Marfox, photo by Marta Pina Portuguese festival SQUARE has revealed the first details of the conference programme for its 2027 edition. Returning to Braga for its third edition in January, SQUARE will host a number of panel discussions and artist interviews for the second consecutive year. The programming will revolve around the theme of Continuity. One session will explore 15 years of Portuguese label Príncipe, with key affiliates DJ Marfox and Helviofox set to be interviewed. tQ's own Jennifer Lucy Allan will also moderate a panel discussion called Archives And Memory: Exploring The Unfamiliar, which will explore the practice of recovering sound... The post Portugal’s SQUARE Festival Reveals First Name for Conference Programme appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "DJ Marfox",
+            "Príncipe",
+            "SQUARE"
+          ],
+          "author": "Christian Eede"
+        },
         {
           "title": "Cracked Actor: Robbie Williams’ Rudebox at 20",
           "link": "https://thequietus.com/opinion-and-essays/anniversary/robbie-williams-rudebox-review/",
@@ -571,45 +617,6 @@
             "Album of the Week"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "Boognish Provides: A Ween Odyssey",
-          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/ween-boognish-provides-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/image00025-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "Ween are about to release a 15-hour-long 14xCD boxset of live albums, so we thought, 'Who shall we make listen to the whole damn thing in one sitting?' Words & Pics: JR Moores As a wise person once put it, each person delights in the work that suits them best. Some are proficient plasterers, while others practise law. There are sculptors, plumbers, barbers, nurses, mechanics, teachers, chefs and astronauts, all thriving in their vocations. The butcher. The baker. The blockbuster-maker, whose films make a killing at the box office yet leave some viewers feeling colder than Matt Damon’s goolies on the set of Interstellar. The soldier, too, fearlessly travelling to foreign lands where they can apply their aptitude for killing to... The post Boognish Provides: A Ween Odyssey appeared first on The Quietus .",
-          "categories": [
-            "Black Sky Thinking"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Big Flowers x Shemar – I Love Nature!",
-          "link": "https://thequietus.com/quietus-reviews/big-flowers-x-shemar-i-love-nature/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/big8-flowers-i-love-nature.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "Big Flowers x Shemar I Love Nature! The rapper-producer duo’s abrasive new record serves as a necessary soundtrack for end times i love nature! by Big Flowers x shemar On their new collaborative album, Buffalo-based rapper Big Flowers and NYC producer Shemar offer an unflinching and unfiltered gaze into the chaos of modern life. Equal parts eulogy and battle cry, the record holds a mirror up to a planet heading towards a point of no return. While his previous collaborative record Save The Bees aimed to make sense of the chaotic nature of the world, Big Flowers describes I Love Nature! as “a resistance to our environmental abandonment” referring to the present moment as the “Wall-E grade apocalypse.” Along with a slew of collaborators, including... The post Big Flowers x Shemar – I Love Nature! appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Long Nights in the Sound Forest: Highlights from Skaņu Mežs 2026",
-          "link": "https://thequietus.com/quietus-reviews/live-reviews/skanu-mezs-review-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Skanu-Mezs-2026-Arturs-Pavlovs-Foto_0586-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "Daryl Worthington returns to Latvia’s Skaņu Mežs, where sets from Cities Aviv, KMRU, Sophia Djebel Rose and more provide a much-needed sonic salve Cities Aviv, photo by Artūrs Pavlovs It’s deep into the closing night of Skaņu Mežs 2026 and Cities Aviv, aka Wilbert Gavin Mays, is on the edge of the stage pointing insistently through the darkness at the speakers and urging the sound technicians to turn them up. They comply, lifting his beats even louder so that, from my point close to the stage in the cavernous main hall of Riga’s Hanzas Perons, his chopped and screwed tracks coagulate into an all-consuming ripple of sound, seeping through my ears, into my brain, and on to vibrating in overlapping waves through... The post Long Nights in the Sound Forest: Highlights from Skaņu Mežs 2026 appeared first on The Quietus .",
-          "categories": [
-            "Live Reviews"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -626,12 +633,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 238,
+      "ms": 469,
       "error": null,
-      "fetchedAt": "2026-10-23T12:24:04.133Z",
-      "lastOkAt": "2026-10-23T12:24:04.133Z",
+      "fetchedAt": "2026-10-24T00:29:32.712Z",
+      "lastOkAt": "2026-10-24T00:29:32.712Z",
       "itemCount": 38,
       "items": [
+        {
+          "title": "The Contemporary Scandinavian Jazz Scene Through the Years",
+          "link": "https://daily.bandcamp.com/scene-report/contemporary-scandinavian-jazz-scene-report",
+          "imageUrl": "https://f4.bcbits.com/img/0048078881_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "In Norway, Sweden, and Denmark, experimental jazz and roots music are one and the same. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Scene Report"
+          ],
+          "author": "Andy Thomas, Amy Moss"
+        },
+        {
+          "title": "The Power of P.E.E.",
+          "link": "https://daily.bandcamp.com/features/pee-now-more-charm-and-more-tender-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0048112090_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "The obscure ’90s math pop band are Gen Z's latest musical obsession. Now, they're back. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Jude Noel"
+        },
+        {
+          "title": "Essential Releases, October 23, 2026",
+          "link": "https://daily.bandcamp.com/essential-releases/essential-releases-october-23-2026",
+          "imageUrl": "https://f4.bcbits.com/img/0048115318_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Experimental hip-hop, synth punk, jazz, and more. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Essential Releases"
+          ],
+          "author": "Bandcamp Daily Staff"
+        },
+        {
+          "title": "Water Damage, “Repair”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/water-damage-repair-review",
+          "imageUrl": "https://f4.bcbits.com/img/0048066014_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "This might be the purest distillation of Water Damage’s ethos as a band that does away with the formalities of rock, forever in thrall to the sprawl. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Stuart Berman"
+        },
         {
           "title": "Kill Alters, “We Can Rot Together”",
           "link": "https://daily.bandcamp.com/album-of-the-day/kill-alters-we-can-rot-together-review",
@@ -1072,59 +1131,7 @@
           "categories": [
             "Lists"
           ],
-          "author": "Maria Contreras, Michal Wieczorek"
-        },
-        {
-          "title": "Behind The Iron Curtain, Maťkovia Staged A Post-Punk Revolution",
-          "link": "https://daily.bandcamp.com/features/matkovia-1982-1986-feature",
-          "imageUrl": "https://f4.bcbits.com/img/0047788412_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "The Slovak band spent 40 years hiding from the censors; now, their music is finally seeing the light of day. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Features"
-          ],
-          "author": "Michal Wieczorek"
-        },
-        {
-          "title": "Head Phone Home: The Yummy Fur Rings Again",
-          "link": "https://daily.bandcamp.com/features/the-yummy-fur-everybody-talks-about-the-weather-feature",
-          "imageUrl": "https://f4.bcbits.com/img/0047788374_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "Fixtures of the late '90s indie scene in Glasgow, the Yummy Fur return with a triumphant new record. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Features"
-          ],
-          "author": "Erick Bradshaw"
-        },
-        {
-          "title": "Yayoba, “Matkat”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/yayoba-matkat-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047727816_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "Three musical explorers chart strange terrain. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Louis Pattison"
-        },
-        {
-          "title": "The Best Electronic Music on Bandcamp, September 2026",
-          "link": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-september-2026",
-          "imageUrl": "https://f4.bcbits.com/img/0047718900_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-02",
-          "description": "Our guide to the month’s crucial electronic releases. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Best Electronic"
-          ],
-          "author": "Joe Muggs"
+          "author": "Maria Contreras"
         }
       ]
     },
@@ -1141,10 +1148,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 123,
+      "ms": 346,
       "error": null,
-      "fetchedAt": "2026-10-23T12:24:04.133Z",
-      "lastOkAt": "2026-10-23T12:24:04.133Z",
+      "fetchedAt": "2026-10-24T00:29:32.712Z",
+      "lastOkAt": "2026-10-24T00:29:32.712Z",
       "itemCount": 30,
       "items": [
         {
@@ -1552,10 +1559,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 484,
+      "ms": 989,
       "error": null,
-      "fetchedAt": "2026-10-23T12:24:04.133Z",
-      "lastOkAt": "2026-10-23T12:24:04.133Z",
+      "fetchedAt": "2026-10-24T00:29:32.712Z",
+      "lastOkAt": "2026-10-24T00:29:32.712Z",
       "itemCount": 40,
       "items": [
         {
@@ -2210,12 +2217,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 156,
+      "ms": 508,
       "error": null,
-      "fetchedAt": "2026-10-23T12:24:04.133Z",
-      "lastOkAt": "2026-10-23T12:24:04.133Z",
+      "fetchedAt": "2026-10-24T00:29:32.712Z",
+      "lastOkAt": "2026-10-24T00:29:32.712Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "heavensouls - \"cantu\" of the sower ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=Z88G-jkrf78",
+          "imageUrl": "https://i3.ytimg.com/vi/Z88G-jkrf78/hqdefault.jpg",
+          "embedId": "Z88G-jkrf78",
+          "audioSrc": "",
+          "pubDate": "2026-10-23",
+          "description": "Listen: https://officialauthks.bandcamp.com/album/cantu-of-the-sower heavensouls strikes an impressive balance of meticulous and freewheeling on \"cantu\" of the sower. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TODAY IS MY FAVORITE, MODEL HOUSING, STAR BALCONY, SHIPPING TIMES AND QUIET STREETS HEAVENSOULS - \"CANTU\" OF THE SOWER / 2026 / NTS / IDEK 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "The Avalanches - No Bad Memories ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
@@ -2367,17 +2385,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-09",
           "description": "Listen: https://www.youtube.com/watch?v=M5PZIuXHIc4 Apart from a few fun spots, QRÖMELIFE is a pretty inconsistent project. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BACKWARDS, BA, BABY BREATH, TRANCE LEAST FAV TRACK: HOUSE MUSIC QUAVO - QRÖMELIFE / 2026 / QUALITY CONTROL / TRAP, POP RAP 5/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Kyle Gordon - Kyle Gordon Is Everywhere ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=4SElICJfL2A",
-          "imageUrl": "https://i1.ytimg.com/vi/4SElICJfL2A/hqdefault.jpg",
-          "embedId": "4SElICJfL2A",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "Listen: https://www.youtube.com/watch?v=FNXoEhcz8z4 Kyle Gordon really is everywhere on this one. Review by Prof. Bartholomew J. Giggens: https://www.youtube.com/user/Giggens More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== KYLE GORDON - KYLE GORDON IS EVERYWHERE / 2026 / BMG / MUSIC THAT TAKES YOU EVERYWHERE EVEN THE DARKEST SPACES OF YOUR PSYCHE GIGGENS LOVES IT/10 Y'all know this is just his opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-24T00:29:32.712Z",
+    "updatedAt": "2026-10-24T12:23:01.562Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 872,
+      "ms": 825,
       "error": null,
-      "fetchedAt": "2026-10-24T00:29:32.712Z",
-      "lastOkAt": "2026-10-24T00:29:32.712Z",
+      "fetchedAt": "2026-10-24T12:23:01.562Z",
+      "lastOkAt": "2026-10-24T12:23:01.562Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 863,
+      "ms": 765,
       "error": null,
-      "fetchedAt": "2026-10-24T00:29:32.712Z",
-      "lastOkAt": "2026-10-24T00:29:32.712Z",
+      "fetchedAt": "2026-10-24T12:23:01.562Z",
+      "lastOkAt": "2026-10-24T12:23:01.562Z",
       "itemCount": 32,
       "items": [
         {
@@ -633,10 +633,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 469,
+      "ms": 342,
       "error": null,
-      "fetchedAt": "2026-10-24T00:29:32.712Z",
-      "lastOkAt": "2026-10-24T00:29:32.712Z",
+      "fetchedAt": "2026-10-24T12:23:01.562Z",
+      "lastOkAt": "2026-10-24T12:23:01.562Z",
       "itemCount": 38,
       "items": [
         {
@@ -1148,12 +1148,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 346,
+      "ms": 220,
       "error": null,
-      "fetchedAt": "2026-10-24T00:29:32.712Z",
-      "lastOkAt": "2026-10-24T00:29:32.712Z",
+      "fetchedAt": "2026-10-24T12:23:01.562Z",
+      "lastOkAt": "2026-10-24T12:23:01.562Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Back to Black (20th Anniversary Edition)",
+          "link": "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ada38d1f00eb0165f8135ae/master/pass/Amy%20Winehouse%20-%20Back%20to%20Black%2020th%20anniversary%20edition%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-24",
+          "description": "Even with unreleased demos on the tracklist, there’s hardly anything to add to Amy Winehouse’s 2006 blockbuster, one of the all-time great breakup albums.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Rich Juzwiak"
+        },
         {
           "title": "Jazz dreams",
           "link": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/",
@@ -1530,19 +1543,6 @@
             "Reviews / Albums"
           ],
           "author": "Matthew Ritchie"
-        },
-        {
-          "title": "Cooked",
-          "link": "https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/",
-          "imageUrl": "https://media.pitchfork.com/photos/6acf970d75d631e933dbaa2a/master/pass/Oren%20Ambarchi%20-%20Cooked.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "Building an international band that includes Eiko Ishibashi, Jim O’Rourke, and a whistler, the Australian guitarist shapes longform spells of emotional and musical ambiguity.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Grayson Haver Currin"
         }
       ]
     },
@@ -1559,10 +1559,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 989,
+      "ms": 351,
       "error": null,
-      "fetchedAt": "2026-10-24T00:29:32.712Z",
-      "lastOkAt": "2026-10-24T00:29:32.712Z",
+      "fetchedAt": "2026-10-24T12:23:01.562Z",
+      "lastOkAt": "2026-10-24T12:23:01.562Z",
       "itemCount": 40,
       "items": [
         {
@@ -2217,10 +2217,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 508,
+      "ms": 222,
       "error": null,
-      "fetchedAt": "2026-10-24T00:29:32.712Z",
-      "lastOkAt": "2026-10-24T00:29:32.712Z",
+      "fetchedAt": "2026-10-24T12:23:01.562Z",
+      "lastOkAt": "2026-10-24T12:23:01.562Z",
       "itemCount": 15,
       "items": [
         {
@@ -2400,10 +2400,6 @@
       "artist": "Fontaines D.C.",
       "album": "Dopamine Chamber"
     },
-    "https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/": {
-      "artist": "Oren Ambarchi",
-      "album": "Cooked"
-    },
     "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/": {
       "artist": "Errol Holden",
       "album": "SUPREME MAGNETIC 3"
@@ -2511,6 +2507,10 @@
     "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/": {
       "artist": "Shabazz Palaces",
       "album": "It’s a Style Sport"
+    },
+    "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/": {
+      "artist": "Amy Winehouse",
+      "album": "Back to Black (20th Anniversary Edition)"
     }
   }
 }

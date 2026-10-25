@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-25T00:21:09.293Z",
+    "updatedAt": "2026-10-25T12:22:35.346Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 938,
+      "ms": 835,
       "error": null,
-      "fetchedAt": "2026-10-25T00:21:09.293Z",
-      "lastOkAt": "2026-10-25T00:21:09.293Z",
+      "fetchedAt": "2026-10-25T12:22:35.346Z",
+      "lastOkAt": "2026-10-25T12:22:35.346Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 641,
+      "ms": 570,
       "error": null,
-      "fetchedAt": "2026-10-25T00:21:09.293Z",
-      "lastOkAt": "2026-10-25T00:21:09.293Z",
+      "fetchedAt": "2026-10-25T12:22:35.346Z",
+      "lastOkAt": "2026-10-25T12:22:35.346Z",
       "itemCount": 32,
       "items": [
         {
@@ -633,10 +633,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 315,
+      "ms": 351,
       "error": null,
-      "fetchedAt": "2026-10-25T00:21:09.293Z",
-      "lastOkAt": "2026-10-25T00:21:09.293Z",
+      "fetchedAt": "2026-10-25T12:22:35.346Z",
+      "lastOkAt": "2026-10-25T12:22:35.346Z",
       "itemCount": 38,
       "items": [
         {
@@ -1148,12 +1148,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 268,
+      "ms": 283,
       "error": null,
-      "fetchedAt": "2026-10-25T00:21:09.293Z",
-      "lastOkAt": "2026-10-25T00:21:09.293Z",
+      "fetchedAt": "2026-10-25T12:22:35.346Z",
+      "lastOkAt": "2026-10-25T12:22:35.346Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "In My Own Words",
+          "link": "https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ada6e3198461794d4a4a34f/master/pass/Ne-Yo%20-%20In%20My%20Own%20Words%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-25",
+          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the 2006 debut from Ne-Yo, a gifted young songwriter whose suave, supportive love songs put ladies first.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Clover Hope"
+        },
         {
           "title": "Back to Black (20th Anniversary Edition)",
           "link": "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/",
@@ -1530,19 +1543,6 @@
             "Reviews / Albums"
           ],
           "author": "Dash Lewis"
-        },
-        {
-          "title": "SUPREME MAGNETIC 3",
-          "link": "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/",
-          "imageUrl": "https://media.pitchfork.com/photos/6acf9c095d9dcf13afc8d0e4/master/pass/Errol%20Holden-SUPREME%20MAGNETIC%203.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "On his latest release, the prolific Harlem rapper burrows deep into the minutiae of his memories, pairing thrilling, detailed vignettes with ominous beats.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Matthew Ritchie"
         }
       ]
     },
@@ -1559,10 +1559,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 647,
+      "ms": 689,
       "error": null,
-      "fetchedAt": "2026-10-25T00:21:09.293Z",
-      "lastOkAt": "2026-10-25T00:21:09.293Z",
+      "fetchedAt": "2026-10-25T12:22:35.346Z",
+      "lastOkAt": "2026-10-25T12:22:35.346Z",
       "itemCount": 40,
       "items": [
         {
@@ -2213,13 +2213,14 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-24T12:23:01.562Z",
-      "lastOkAt": "2026-10-24T12:23:01.562Z",
+      "ms": 467,
+      "error": null,
+      "fetchedAt": "2026-10-25T12:22:35.346Z",
+      "lastOkAt": "2026-10-25T12:22:35.346Z",
       "itemCount": 15,
       "items": [
         {
@@ -2399,10 +2400,6 @@
       "artist": "Fontaines D.C.",
       "album": "Dopamine Chamber"
     },
-    "https://pitchfork.com/reviews/albums/errol-holden-supreme-magnetic-3/": {
-      "artist": "Errol Holden",
-      "album": "SUPREME MAGNETIC 3"
-    },
     "https://pitchfork.com/reviews/albums/at-sign-autosmile/": {
       "artist": "@",
       "album": "Autosmile"
@@ -2510,6 +2507,10 @@
     "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/": {
       "artist": "Amy Winehouse",
       "album": "Back to Black (20th Anniversary Edition)"
+    },
+    "https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/": {
+      "artist": "Ne-Yo",
+      "album": "In My Own Words"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-24T12:23:01.562Z",
+    "updatedAt": "2026-10-25T00:21:09.293Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 6,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 825,
+      "ms": 938,
       "error": null,
-      "fetchedAt": "2026-10-24T12:23:01.562Z",
-      "lastOkAt": "2026-10-24T12:23:01.562Z",
+      "fetchedAt": "2026-10-25T00:21:09.293Z",
+      "lastOkAt": "2026-10-25T00:21:09.293Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 765,
+      "ms": 641,
       "error": null,
-      "fetchedAt": "2026-10-24T12:23:01.562Z",
-      "lastOkAt": "2026-10-24T12:23:01.562Z",
+      "fetchedAt": "2026-10-25T00:21:09.293Z",
+      "lastOkAt": "2026-10-25T00:21:09.293Z",
       "itemCount": 32,
       "items": [
         {
@@ -633,10 +633,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 342,
+      "ms": 315,
       "error": null,
-      "fetchedAt": "2026-10-24T12:23:01.562Z",
-      "lastOkAt": "2026-10-24T12:23:01.562Z",
+      "fetchedAt": "2026-10-25T00:21:09.293Z",
+      "lastOkAt": "2026-10-25T00:21:09.293Z",
       "itemCount": 38,
       "items": [
         {
@@ -1148,10 +1148,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 220,
+      "ms": 268,
       "error": null,
-      "fetchedAt": "2026-10-24T12:23:01.562Z",
-      "lastOkAt": "2026-10-24T12:23:01.562Z",
+      "fetchedAt": "2026-10-25T00:21:09.293Z",
+      "lastOkAt": "2026-10-25T00:21:09.293Z",
       "itemCount": 30,
       "items": [
         {
@@ -1559,10 +1559,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 351,
+      "ms": 647,
       "error": null,
-      "fetchedAt": "2026-10-24T12:23:01.562Z",
-      "lastOkAt": "2026-10-24T12:23:01.562Z",
+      "fetchedAt": "2026-10-25T00:21:09.293Z",
+      "lastOkAt": "2026-10-25T00:21:09.293Z",
       "itemCount": 40,
       "items": [
         {
@@ -2213,12 +2213,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 222,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-10-24T12:23:01.562Z",
       "lastOkAt": "2026-10-24T12:23:01.562Z",
       "itemCount": 15,

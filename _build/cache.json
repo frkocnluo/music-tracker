@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-26T00:30:03.658Z",
+    "updatedAt": "2026-10-26T14:33:53.624Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 685,
+      "ms": 847,
       "error": null,
-      "fetchedAt": "2026-10-26T00:30:03.658Z",
-      "lastOkAt": "2026-10-26T00:30:03.658Z",
+      "fetchedAt": "2026-10-26T14:33:53.624Z",
+      "lastOkAt": "2026-10-26T14:33:53.624Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 659,
+      "ms": 681,
       "error": null,
-      "fetchedAt": "2026-10-26T00:30:03.658Z",
-      "lastOkAt": "2026-10-26T00:30:03.658Z",
+      "fetchedAt": "2026-10-26T14:33:53.624Z",
+      "lastOkAt": "2026-10-26T14:33:53.624Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "The Strange World Of… Jennifer Walshe",
+          "link": "https://thequietus.com/interviews/strange-world-of/jennifer-walshe-best-music/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Jennifer-Walshe-by-Blackie-Bouffant-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "Ahead of her curation of this year's Deep Time Festival, the Irish experimentalist gives Alastair Shuttleworth 10 entry points into a back catalogue which includes an opera with Barbie dolls, 12 fictional aliases and a board game for them to play Jennifer Walshe by Blackie Bouffant Flann O’Brien, one of Jennifer Walshe’s favourite Irish writers, once wrote of speaking Irish “when it was neither profitable nor popular.” Walshe has been ahead of the curve herself in speaking about the rise of AI, which brought her career-spanning questions about art, truth and technology into focus. A prolific improviser, composer and researcher, she is one of the most celebrated figures working in contemporary classical music today – but the scope of her catalogue may... The post The Strange World Of… Jennifer Walshe appeared first on The Quietus .",
+          "categories": [
+            "Strange World Of..."
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Oliver Leith – Doom and the Dooms",
+          "link": "https://thequietus.com/quietus-reviews/oliver-leith-doom-and-the-dooms-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Doom-and-the-Dooms-WP_featured-image-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "Oliver Leith Doom and the Dooms Based on transcriptions direct from tapes found at a jumble sale, the latest from Oliver Leith may be the ideal entry point to the British composer's oeuvre Steady pulse, parallel melodies. Strings undulating with opulent vibrato. Percussive garnish that, clinking and clattering, sounds just like a five-year-old breaking a piggy bank. Endless vacillation between hope and despair. Endless vacillation between stately ceremony and soft frolicking. All processed as if through a stereo-widening plug-in. This is Oliver Leith’s signature style, and it’s easy to start taking it for granted – mostly because of how effortless he makes it sound. Commissioned by Wigmore Hall, where it received its debonair premiere in June 2024, Doom and the Dooms offers a half-hour... The post Oliver Leith – Doom and the Dooms appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Kevin Martin Blocks Unlicensed GOD Reissue",
           "link": "https://thequietus.com/news/kevin-martin-blocks-unlicensed-god-reissue/",
@@ -589,34 +615,6 @@
             "Smalltown Supersound"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Butthole Surfers’ ‘Piouhgd’ and ‘Humpty Dumpty LSD’ to be Reissued",
-          "link": "https://thequietus.com/news/butthole-surfers-piouhgd-and-humpty-dumpty-lsd-to-be-reissued/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-15-at-14.55.34-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "Both albums have been remastered for their new vinyl pressings Photo by Kirk R. Tuck Butthole Surfers' albums Piouhgd and Humpty Dumpty LSD are being reissued on vinyl. Both have been remastered especially for their updated release, with the audio now available on streaming platforms and vinyl editions set to follow in December. It marks the third set of reissues of the band's material – the two previous ones came in 2024. Originally released in 1991, Piouhgd was Butthole Surfers' fifth album, and was originally released on Rough Trade. Humpty Dumpty LSD, meanwhile, was first released in 2002, and compiled loose ends from the group's mid-80s archival material. Album cut ‘Sherman (Backass Alt.)’ – later re-worked for Hairway To Steven – has been made... The post Butthole Surfers’ ‘Piouhgd’ and ‘Humpty Dumpty LSD’ to be Reissued appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Butthole Surfers",
-            "Matador"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Cities in Motion: Parallel Commutator by CZN",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/parallel-commutator-czn-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/CZN-press-shot-1-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "The third album to feature Valentina Magaletti in as many weeks finds the tireless rhythmic innovator teaming up with sculptor and gong-maker João Pais Filipe plus producer Leon Marks for an album of clattering polyrhythms and subtle synth washes Prolific musical collaborator and tireless rhythm generator Valentina Magaletti rarely seems to rest. But, even for her, this has been a particularly busy month. No doubt as much due to the logistical necessities of release schedules as the movement of the stars or artistic intention, October has already seen new albums from two of Magaletti’s other projects: Vanishing Twin (Archives) and Holy Tongue (Basilikum). So I hope she can make a little time to put her feet up and receive her flowers.... The post Cities in Motion: Parallel Commutator by CZN appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -633,12 +631,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 311,
+      "ms": 346,
       "error": null,
-      "fetchedAt": "2026-10-26T00:30:03.658Z",
-      "lastOkAt": "2026-10-26T00:30:03.658Z",
-      "itemCount": 38,
+      "fetchedAt": "2026-10-26T14:33:53.624Z",
+      "lastOkAt": "2026-10-26T14:33:53.624Z",
+      "itemCount": 37,
       "items": [
+        {
+          "title": "How the Buddha Machine Built Modern Ambient",
+          "link": "https://daily.bandcamp.com/features/the-buddha-machine-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0048138694_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "“The Buddha Machine is purposely dumb, but not dumb in a pejorative way. It's dumb in a joyful way.\" Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Mike McGrath-Bryan, Aaron Lowell Denton"
+        },
+        {
+          "title": "SUN ARAW, “Rapid Response”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review",
+          "imageUrl": "https://f4.bcbits.com/img/0048116694_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "The composer/producer emerges from the shadows with another beguiling LP. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Louis Pattison"
+        },
         {
           "title": "The Contemporary Scandinavian Jazz Scene Through the Years",
           "link": "https://daily.bandcamp.com/scene-report/contemporary-scandinavian-jazz-scene-report",
@@ -1093,45 +1117,6 @@
             "Features"
           ],
           "author": "Indigo Phoenyx"
-        },
-        {
-          "title": "IVM Trio, “Explain Yourselves”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/ivm-trio-explain-yourselves-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047728320_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-06",
-          "description": "Post-club music through the looking glass. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Matthew Blackwell"
-        },
-        {
-          "title": "M. Geddes Gengras Is Still Figuring It Out",
-          "link": "https://daily.bandcamp.com/lists/m-geddes-gengras-album-guide",
-          "imageUrl": "https://f4.bcbits.com/img/0047655330_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-06",
-          "description": "For the synth wizard, the journey is as important as the destination. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Lists"
-          ],
-          "author": "Ryan Reed"
-        },
-        {
-          "title": "Spotlight on Hurdy-Gurdy",
-          "link": "https://daily.bandcamp.com/lists/hurdy-gurdy-album-guide",
-          "imageUrl": "https://f4.bcbits.com/img/0047791030_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-05",
-          "description": "An ancient instrument finds its place in all styles of contemporary music. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Lists"
-          ],
-          "author": "Maria Contreras"
         }
       ]
     },
@@ -1148,12 +1133,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 203,
+      "ms": 248,
       "error": null,
-      "fetchedAt": "2026-10-26T00:30:03.658Z",
-      "lastOkAt": "2026-10-26T00:30:03.658Z",
+      "fetchedAt": "2026-10-26T14:33:53.624Z",
+      "lastOkAt": "2026-10-26T14:33:53.624Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "cantu of the sower EP",
+          "link": "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/",
+          "imageUrl": "https://media.pitchfork.com/photos/6adb85c8eb79c260502e90fb/master/pass/heavensouls%20Cantu%20of%20the%20sower.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "An album-length EP by the 20-year-old producer is a dizzying and boundless collage of collages, using free-jazz logic and digital overload to chart new emotional terrain.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Kieran Press-Reynolds"
+        },
+        {
+          "title": "Gentling the Horse at the Walt Whitman Mall",
+          "link": "https://pitchfork.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad9138a99efacf8991d37c0/master/pass/3000x3000bb-100%20(1).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "The singer-songwriter’s seventh album is their wackiest and funniest to date, with a madcap gleam coursing through its portraits of lovable weirdos and suburban dread.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Zach Schonfeld"
+        },
+        {
+          "title": "How to Count to Five",
+          "link": "https://pitchfork.com/reviews/albums/holidays-in-united-states-how-to-count-to-five/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad910aff6a56a2545c47504/master/pass/Holidays%20in%20United%20States%20-%20How%20to%20Count%20to%20Five%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "The New York City emo band’s debut LP splits the difference between the genre’s first and second waves with sincerity and self-deprecating charm.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Nick Laskin"
+        },
+        {
+          "title": "Doomed",
+          "link": "https://pitchfork.com/reviews/albums/andy-boay-doomed/",
+          "imageUrl": "https://media.pitchfork.com/photos/6adb8c090ac26c3bad94e14d/master/pass/Andy%20Boay%20Doomed.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "On his latest solo album, the Tonstartssbandht guitarist/vocalist crafts a serene, psychedelic opus that invites us to become immersed.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Ryan Meehan"
+        },
         {
           "title": "In My Own Words",
           "link": "https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/",
@@ -1491,58 +1528,6 @@
             "Reviews / Albums"
           ],
           "author": "Grace Robins-Somerville"
-        },
-        {
-          "title": "Edge Conditions",
-          "link": "https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad0fa9162c02f46ed117491/master/pass/Jeremiah%20Chiu%20-%20Edge%20Conditions.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-16",
-          "description": "The Los Angeles synthesist steps out from improvising quintet SML to deliver a playful collection of rhythmic studies, electronic abstractions, and even a wriggly acid jam.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Jude Noel"
-        },
-        {
-          "title": "Music Is Invisible (Pentimento Volume Three)",
-          "link": "https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a7c8bd5d4319edfaf67e65b/master/pass/Music%20Is%20Invisible%20by%20Jon%20Hassell.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-16",
-          "description": "The final entry in a painting-inspired trilogy of records draws on the trumpeter and composer’s last live show before his death, highlighting his focused, distinctive musical presence.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Mark Richardson"
-        },
-        {
-          "title": "Dopamine Chamber",
-          "link": "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a83bc50522f93743d9915c4/master/pass/Dopamine%20Chamber%20by%20Fontaines%20D.C..jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "The Irish band’s fifth album balances profound cynicism and genuine beauty as its ice-hearted stadium rock grows to darkly apocalyptic proportions.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Shaad D’Souza"
-        },
-        {
-          "title": "Purdy",
-          "link": "https://pitchfork.com/reviews/albums/the-koreatown-oddity-purdy/",
-          "imageUrl": "https://media.pitchfork.com/photos/6acf847e76129a3879302f2c/master/pass/The%20Koreatown%20Oddity%20-%20Purdy.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "The L.A. rapper knows that working artists don’t have it easy. His latest album attempts to reconcile a life of precarity with the spiritual rewards of finding one’s voice.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Dash Lewis"
         }
       ]
     },
@@ -1559,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 572,
+      "ms": 499,
       "error": null,
-      "fetchedAt": "2026-10-26T00:30:03.658Z",
-      "lastOkAt": "2026-10-26T00:30:03.658Z",
+      "fetchedAt": "2026-10-26T14:33:53.624Z",
+      "lastOkAt": "2026-10-26T14:33:53.624Z",
       "itemCount": 40,
       "items": [
         {
@@ -2213,15 +2198,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-25T12:22:35.346Z",
-      "lastOkAt": "2026-10-25T12:22:35.346Z",
+      "ms": 256,
+      "error": null,
+      "fetchedAt": "2026-10-26T14:33:53.624Z",
+      "lastOkAt": "2026-10-26T14:33:53.624Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Olivia Rodrigo, Chappell Roan, Ecco2k, BICEP | Weekly Track Roundup: 10/25/26",
+          "link": "https://www.youtube.com/watch?v=1YxOw8IxHQw",
+          "imageUrl": "https://i2.ytimg.com/vi/1YxOw8IxHQw/hqdefault.jpg",
+          "embedId": "1YxOw8IxHQw",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Olivia Rodrigo & Chappell Roan - expectations (Remix) https://www.youtube.com/watch?v=gsZauX8gwxo BICEP - Gas ft. Lauren Duffus & SOARR https://www.youtube.com/watch?v=ydRyOr3KYD0 Lambrini Girls - The Basement https://www.youtube.com/watch?v=84g1HvosClI Bassvictim - White Flag https://www.youtube.com/watch?v=M_G7-eYnqmc Kacey Musgraves - Weekend in Texas https://www.youtube.com/watch?v=Yu19gwnmlw8 Boldy James - Love Me Now https://www.youtube.com/watch?v=qc6lR_g2dXY Hannah Frances - Circadian Heart https://www.youtube.com/watch?v=b7rcoeVoBwA Erick the Architect - YERR ft. Ghostface Killah & Fergie Baby https://www.youtube.com/watch?v=wVnaN-44O1I Deki Alem - Pretty Toes https://www.youtube.com/watch?v=BIum-_IKEY0 Soul Glo - Ppl Worried https://www.youtube.com/watch?v=X975wXnStWw Ho99o9 - War Bait ft. Slay Squad https://www.youtube.com/watch?v=1Ro1xDsqriw …meh… Cloud Nothings - Death Keeps Me Alive https://www.youtube.com/watch?v=N6kcmzMowik Westside Gunn - ZILLA https://www.youtube.com/watch?v=eZxEOfwlhJc Ecco2k - Aldehydes and Ketones https://www.youtube.com/watch?v=25A5Y0_qHCc Haru Nemuri - Watermelon https://www.youtube.com/watch?v=N3feyKuTKaM girl in red - missing person https://www.youtube.com/watch?v=z3xQSfUSc28 Artificial Brain - Planet: Carrion https://www.youtube.com/watch?v=Z5E732KCe44 Circle Jerks - Revenge https://www.youtube.com/watch?v=DPhEuO_P_lA Skepta - Pandora’s Box https://www.youtube.com/watch?v=tVy_4Ney03U John Legend - Bodies on the Floor ft. Clipse https://www.youtube.com/watch?v=wW8rxQkInhQ !!!WORST TRACKS THIS WEEK!!! Hot Chip - Random Violence https://www.youtube.com/watch?v=I4f5T7IyA20 Current Joys - HOLE https://www.youtube.com/watch?v=sUBwbqDsjBc =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "heavensouls - \"cantu\" of the sower ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=Z88G-jkrf78",
@@ -2375,30 +2372,11 @@
           "description": "Listen: https://swans.bandcamp.com/album/newly-sentient-being This tremendous phase of Swans closes with a bang on Newly Sentient Being. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen (i love this album a lot; shoutout to Phil for eating the honey) =================================== FAV TRACKS: THE END OF FORGETTING, THE MERGE, PARADISE IS MINE, NEWLY SENTIENT BEING SWANS - NEWLY SENTIENT BEING / 2026 / YOUNG GOD / TRANSCENDENTAL ROCK, TOTALISM, CONDUCTED IMPROV 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Quavo - QRÖMELIFE ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=vf_kJvlDO2E",
-          "imageUrl": "https://i3.ytimg.com/vi/vf_kJvlDO2E/hqdefault.jpg",
-          "embedId": "vf_kJvlDO2E",
-          "audioSrc": "",
-          "pubDate": "2026-10-09",
-          "description": "Listen: https://www.youtube.com/watch?v=M5PZIuXHIc4 Apart from a few fun spots, QRÖMELIFE is a pretty inconsistent project. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BACKWARDS, BA, BABY BREATH, TRANCE LEAST FAV TRACK: HOUSE MUSIC QUAVO - QRÖMELIFE / 2026 / QUALITY CONTROL / TRAP, POP RAP 5/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/the-koreatown-oddity-purdy/": {
-      "artist": "The Koreatown Oddity",
-      "album": "Purdy"
-    },
-    "https://pitchfork.com/reviews/albums/fontaines-dc-dopamine-chamber/": {
-      "artist": "Fontaines D.C.",
-      "album": "Dopamine Chamber"
-    },
     "https://pitchfork.com/reviews/albums/at-sign-autosmile/": {
       "artist": "@",
       "album": "Autosmile"
@@ -2406,14 +2384,6 @@
     "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/": {
       "artist": "Rachel Chinouriri",
       "album": "I think I spoke too soon"
-    },
-    "https://pitchfork.com/reviews/albums/jeremiah-chiu-edge-conditions/": {
-      "artist": "Jeremiah Chiu",
-      "album": "Edge Conditions"
-    },
-    "https://pitchfork.com/reviews/albums/jon-hassell-music-is-invisible-pentimento-volume-three/": {
-      "artist": "Jon Hassell",
-      "album": "Music Is Invisible (Pentimento Volume Three)"
     },
     "https://pitchfork.com/reviews/albums/djrum-dj-kicks/": {
       "artist": "Djrum",
@@ -2510,6 +2480,22 @@
     "https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/": {
       "artist": "Ne-Yo",
       "album": "In My Own Words"
+    },
+    "https://pitchfork.com/reviews/albums/andy-boay-doomed/": {
+      "artist": "Andy Boay",
+      "album": "Doomed"
+    },
+    "https://pitchfork.com/reviews/albums/holidays-in-united-states-how-to-count-to-five/": {
+      "artist": "Holidays in United States",
+      "album": "How to Count to Five"
+    },
+    "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/": {
+      "artist": "heavensouls",
+      "album": "cantu of the sower EP"
+    },
+    "https://pitchfork.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall/": {
+      "artist": "Caroline Rose",
+      "album": "Gentling the Horse at the Walt Whitman Mall"
     }
   }
 }

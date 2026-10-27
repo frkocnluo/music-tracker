@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-26T14:33:53.624Z",
+    "updatedAt": "2026-10-27T00:27:17.191Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 847,
+      "ms": 740,
       "error": null,
-      "fetchedAt": "2026-10-26T14:33:53.624Z",
-      "lastOkAt": "2026-10-26T14:33:53.624Z",
+      "fetchedAt": "2026-10-27T00:27:17.191Z",
+      "lastOkAt": "2026-10-27T00:27:17.191Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 681,
+      "ms": 575,
       "error": null,
-      "fetchedAt": "2026-10-26T14:33:53.624Z",
-      "lastOkAt": "2026-10-26T14:33:53.624Z",
+      "fetchedAt": "2026-10-27T00:27:17.191Z",
+      "lastOkAt": "2026-10-27T00:27:17.191Z",
       "itemCount": 32,
       "items": [
         {
@@ -631,10 +631,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 346,
+      "ms": 400,
       "error": null,
-      "fetchedAt": "2026-10-26T14:33:53.624Z",
-      "lastOkAt": "2026-10-26T14:33:53.624Z",
+      "fetchedAt": "2026-10-27T00:27:17.191Z",
+      "lastOkAt": "2026-10-27T00:27:17.191Z",
       "itemCount": 37,
       "items": [
         {
@@ -1133,10 +1133,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 248,
+      "ms": 206,
       "error": null,
-      "fetchedAt": "2026-10-26T14:33:53.624Z",
-      "lastOkAt": "2026-10-26T14:33:53.624Z",
+      "fetchedAt": "2026-10-27T00:27:17.191Z",
+      "lastOkAt": "2026-10-27T00:27:17.191Z",
       "itemCount": 30,
       "items": [
         {
@@ -1544,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 499,
+      "ms": 629,
       "error": null,
-      "fetchedAt": "2026-10-26T14:33:53.624Z",
-      "lastOkAt": "2026-10-26T14:33:53.624Z",
+      "fetchedAt": "2026-10-27T00:27:17.191Z",
+      "lastOkAt": "2026-10-27T00:27:17.191Z",
       "itemCount": 40,
       "items": [
         {
@@ -2202,12 +2202,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 256,
+      "ms": 316,
       "error": null,
-      "fetchedAt": "2026-10-26T14:33:53.624Z",
-      "lastOkAt": "2026-10-26T14:33:53.624Z",
+      "fetchedAt": "2026-10-27T00:27:17.191Z",
+      "lastOkAt": "2026-10-27T00:27:17.191Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Kid Rock's Halfway 2 Jesus is NOT GOOD",
+          "link": "https://www.youtube.com/watch?v=DZfj2JAsWqI",
+          "imageUrl": "https://i1.ytimg.com/vi/DZfj2JAsWqI/hqdefault.jpg",
+          "embedId": "DZfj2JAsWqI",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "Listen: https://www.youtube.com/watch?v=kxYTLagfy-4 Halfway 2 the Core More NOT GOODs: https://www.youtube.com/playlist?list=PLP4CSgl7K7orMz0p3u1uCedytfedxY9IG =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen (i sat thru this 70min kid rock album with Anthony; he insisted on running back that ai \"procession\" track 2 more times after the album was over 😭) =================================== KID ROCK - HALFWAY 2 JESUS / 2026 / TOP DOG / AMERICHRISTIAN SLOP NOT GOOD/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Olivia Rodrigo, Chappell Roan, Ecco2k, BICEP | Weekly Track Roundup: 10/25/26",
           "link": "https://www.youtube.com/watch?v=1YxOw8IxHQw",
@@ -2359,17 +2370,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-13",
           "description": "Listen: https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall Cameron manages to upstage a lot of his already great studio material in this raw and stripped-back live performance. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: IT ALL FELL IN THE RIVER, TRY AS I MAY, THE ROLLING STONES, LOVE TAKES MILES, DRINKING AGE, CANCER OF THE SKULL, IF YOU TURN BACK NOW, $0 LEAST FAV TRACK: NINA + FIELD OF COPS CAMERON WINTER - LIVE AT CARNEGIE HALL / 2026 / PARTISAN / SINGER-SONGWRITER, PIANO BALLADS 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Swans - Newly Sentient Being ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=9xsmpDaz-7k",
-          "imageUrl": "https://i2.ytimg.com/vi/9xsmpDaz-7k/hqdefault.jpg",
-          "embedId": "9xsmpDaz-7k",
-          "audioSrc": "",
-          "pubDate": "2026-10-11",
-          "description": "Listen: https://swans.bandcamp.com/album/newly-sentient-being This tremendous phase of Swans closes with a bang on Newly Sentient Being. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen (i love this album a lot; shoutout to Phil for eating the honey) =================================== FAV TRACKS: THE END OF FORGETTING, THE MERGE, PARADISE IS MINE, NEWLY SENTIENT BEING SWANS - NEWLY SENTIENT BEING / 2026 / YOUNG GOD / TRANSCENDENTAL ROCK, TOTALISM, CONDUCTED IMPROV 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

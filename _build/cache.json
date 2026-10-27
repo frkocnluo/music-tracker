@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-27T00:27:17.191Z",
+    "updatedAt": "2026-10-27T12:33:18.485Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 740,
+      "ms": 719,
       "error": null,
-      "fetchedAt": "2026-10-27T00:27:17.191Z",
-      "lastOkAt": "2026-10-27T00:27:17.191Z",
+      "fetchedAt": "2026-10-27T12:33:18.485Z",
+      "lastOkAt": "2026-10-27T12:33:18.485Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 575,
+      "ms": 681,
       "error": null,
-      "fetchedAt": "2026-10-27T00:27:17.191Z",
-      "lastOkAt": "2026-10-27T00:27:17.191Z",
+      "fetchedAt": "2026-10-27T12:33:18.485Z",
+      "lastOkAt": "2026-10-27T12:33:18.485Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Hyperspecific: Electronic Music for October Reviewed by Jaša Bužinel",
+          "link": "https://thequietus.com/quietus-reviews/electronic/electronic-music-reviews-marina-herlop-mia-koden-gyrofield-bftt-fatima-al-quadiri/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/03_DjaDjaPromo-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "Our electronic music editor tunes out the latest online culture war, and instead reviews 10 recent releases of an auteur-ish bent, spanning avant-pop, experimental electronics, fractured club music, dubwise mutations and form-bending DJing I've not yet jumped on the discourse bandwagon about 300SkullsAndCounting & Jenny Sparks, debates over whether its treatment of millennial aesthetics is an act of hackneyed recycling or innovative salvaging. Rather than participating in online battles (music heads love culture wars more than any other species), I spent most of early autumn listening to college rock trailblazers The Replacements. I somehow missed them in my formative years, but I am now all the more glad I did as I can savour their brilliance in my 30s. As they... The post Hyperspecific: Electronic Music for October Reviewed by Jaša Bužinel appeared first on The Quietus .",
+          "categories": [
+            "Electronic"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Johnny Marr – The Age of Everything",
+          "link": "https://thequietus.com/quietus-reviews/johnny-marr-the-age-of-everything-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/The_Age_Of_Everything_by_Johnny_Marr.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "Johnny Marr The Age of Everything Former Smiths guitarist settles some scores – with himself, and others When I spoke to Johnny Marr for Huck in 2019, all Morrissey talk was off the table. Marr is a very affable interviewee though, and given that the conversation was going so well, I couldn’t resist slipping in a cheeky question about how an unnamed “certain person” was chipping away at the legacy of The Smiths with his increasingly unhinged pronouncements. “Honestly? I’m not concerned, is the answer,” he replied, generously. “I’m just not. I’m concerned about so many other things in my day and in the living of my life, you know, that that just isn’t one of my concerns. I go out and play... The post Johnny Marr – The Age of Everything appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "@ – Autosmile",
+          "link": "https://thequietus.com/quietus-reviews/autosmile-at-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/autosmile-at.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "@ Autosmile Philadelphia duo with an ungoogleable name create dreamy psychedelic worlds with Waterboys flutes adn Beach Boys harmonies Autosmile by @ It’s a great time and a nightmarish time to be an @ (pronounced ‘at’) fan. It’s exciting that the Philadelphia art-folk band’s second album has just been released, but it’s also a faff trying to explain to friends who @ are. Victoria Rose and Stone Filipczak are making fresh, entrancing music that communicates places and mindsets in contemporary ways that can’t quite be reduced to any generic label or category. Selfishly, when you listen to the self-proclaimed SEO wet dream’s latest album Autosmile you almost want to keep them to yourself, to simply eat your comforting slice of @ pie, and sit there... The post @ – Autosmile appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "The Strange World Of… Jennifer Walshe",
           "link": "https://thequietus.com/interviews/strange-world-of/jennifer-walshe-best-music/",
@@ -572,49 +611,6 @@
             "Organic Intelligence"
           ],
           "author": "Luke Turner"
-        },
-        {
-          "title": "The Avalanches – No Bad Memories",
-          "link": "https://thequietus.com/quietus-reviews/the-avalanches-no-bad-memories-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/avalanches-bad-memories.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-16",
-          "description": "The Avalanches No Bad Memories Avalanches weave a satire on branding and tech enshittification complete with skits by Mike Patton and Haley Joel Osment On arrival, Australian plunderphonics crew The Avalanches only had eyes for record racks, bringing in armfuls of half-forgotten vinyl to harvest for the stunning sampledelic patchwork of 2000 debut album Since I Left You. Then they disappeared for 16 years. In the meantime, they apparently made more friends than music, finally coming back with the collaborator-heavy Wildflower (2016) and the even more convivial We Will Always Love You (2020). They never lost their skill with a sample, but now contributions were equally organic. No Bad Memories maintains that balance, stacking up guests and intriguing sonic finds alike. Returners from the... The post The Avalanches – No Bad Memories appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Orbital Detail New Album, ‘Other’",
-          "link": "https://thequietus.com/news/orbital-detail-new-album-other/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Orbital-Live-credit-Manja-Williams-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "The duo have also announced an extensive UK and European tour for spring 2027 Photo by Manja Williams Orbital have shared details of a new album, titled Other. Following on from 2023's Optical Delusion, the new record is preceded by lead cut 'Mother, Maiden & Crone'. The song, which you can listen to below, draws on influences from witchcraft and folklore, according to a press release, and features vocals from Maxine Peake. Other is Orbital's 11th studio album, and explores themes of otherness, as the title suggests. It draws on punk, ambient music, drum & bass and the duo's traditional electronic music origins. They will support the album with an extensive tour of the UK and Europe through April and into May, playing shows... The post Orbital Detail New Album, ‘Other’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Orbital"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Smalltown Supersound to Explore Norway’s 90s Minimal Noise Scene on New Compilation",
-          "link": "https://thequietus.com/news/smalltown-supersound-to-explore-norways-90s-minimal-noise-scene-on-new-compilation/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/09/Deathprod-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "Towards A Cosmic Music - Noise Minimalism, Norway, 1991-2001 features tracks by Deathprod, Lasse Marhaug and more Deathprod Smalltown Supersound will explore Norway's 90s minimal noise scene on a new compilation, Towards A Cosmic Music - Noise Minimalism, Norway, 1991-2001. Comprised of 10 tracks, the release features music by Deathprod, Lasse Marhaug, Supersilent, Elektro Nova and more. It will be released digitally and in a 2xLP vinyl edition. In a statement, Smalltown Supersound founder Joakim Haugland said: \"In many ways this compilation represents the start of the label Smalltown Supersound that I run and started in 1993 while in high school. I was in the middle of this scene when it happened and I released a lot of the music of the artists on... The post Smalltown Supersound to Explore Norway’s 90s Minimal Noise Scene on New Compilation appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Deathprod",
-            "Lasse Marhaug",
-            "Smalltown Supersound"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -631,10 +627,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 400,
+      "ms": 251,
       "error": null,
-      "fetchedAt": "2026-10-27T00:27:17.191Z",
-      "lastOkAt": "2026-10-27T00:27:17.191Z",
+      "fetchedAt": "2026-10-27T12:33:18.485Z",
+      "lastOkAt": "2026-10-27T12:33:18.485Z",
       "itemCount": 37,
       "items": [
         {
@@ -1133,12 +1129,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 206,
+      "ms": 188,
       "error": null,
-      "fetchedAt": "2026-10-27T00:27:17.191Z",
-      "lastOkAt": "2026-10-27T00:27:17.191Z",
+      "fetchedAt": "2026-10-27T12:33:18.485Z",
+      "lastOkAt": "2026-10-27T12:33:18.485Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "From the Toolkit of Lovers",
+          "link": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/",
+          "imageUrl": "https://media.pitchfork.com/photos/6adf80357100ccad9466ea62/master/pass/Loidis%20-%20From%20the%20Toolkit%20of%20Lovers.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The artist better known as Huerco S. nudges the minimal-house revival toward new extremes—of detail, duration, sensuousness—on a sprawling triple LP of hypnotic, late-night grooves.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Daniel Bromfield"
+        },
+        {
+          "title": "From the Dark",
+          "link": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/",
+          "imageUrl": "https://media.pitchfork.com/photos/6adf67212b9c0fcc1de155c3/master/pass/Tony%20Iommi%20From%20the%20Dark.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "Teaming with Norwegian vocalist Jørn Lande, the 78-year-old Black Sabbath guitarist gets back to heavy-metal basics on a proudly uncompromising new solo album.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Brad Sanders"
+        },
+        {
+          "title": "February’s Album",
+          "link": "https://pitchfork.com/reviews/albums/hysterical-love-project-februarys-album/",
+          "imageUrl": "https://media.pitchfork.com/photos/6adf629398bbebd5e51cd09c/master/pass/Hysterial%20Love%20Project%20-%20February",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The Melbourne duo taps into trip-hop’s essential strangeness on its latest album, trading the genre’s boilerplate languor for dejected moods, menacing auras, and slippery, all-consuming bass.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sam Goldner"
+        },
+        {
+          "title": "Blood & Oil",
+          "link": "https://pitchfork.com/reviews/albums/skino-blood-and-oil/",
+          "imageUrl": "https://media.pitchfork.com/photos/6adf8b34baf3c8bb4e224819/master/pass/Skino%20-%20Blood%20&amp;%20Oil%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The Washington, D.C. rapper’s new album epitomizes the best and worst of free car music: palatial experimental beats full of atmospheric drama and dull, interchangeable delivery.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Olivier Lafontant"
+        },
         {
           "title": "cantu of the sower EP",
           "link": "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/",
@@ -1476,58 +1524,6 @@
             "Reviews / Albums"
           ],
           "author": "Jeff Yerger"
-        },
-        {
-          "title": "The Perfect Prescription",
-          "link": "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad131e362c02f46ed1175c3/master/pass/Spacemen%203%20-%20The%20Perfect%20Prescription%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-18",
-          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we investigate J Spaceman and Sonic Boom’s 1987 psychedelic rock album, a mythically drugged-out method of divine transport.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Gabriel Szatan"
-        },
-        {
-          "title": "DJ-Kicks",
-          "link": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad0e91d056973d40b8be89e/master/pass/Djrum%20-%20DJ-Kicks.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-17",
-          "description": "The UK selector throws caution—and genre—to the winds on an audacious 82-minute set that careens between ambient, drill’n’bass, post-punk, breakcore, and more.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Ben Cardew"
-        },
-        {
-          "title": "Autosmile",
-          "link": "https://pitchfork.com/reviews/albums/at-sign-autosmile/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a3be91e393fc0fa5a7423cb/master/pass/@-Autosmile.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-16",
-          "description": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sophie Kemp"
-        },
-        {
-          "title": "I think I spoke too soon",
-          "link": "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab179d106bd4642732ccf88/master/pass/1200214614201.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-16",
-          "description": "The London pop singer mines the pitfalls of young womanhood for dramedy on her sleeker, more polished second record, finding a sweet spot where goofy melodrama and emotional realism meet.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Grace Robins-Somerville"
         }
       ]
     },
@@ -1544,10 +1540,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 629,
+      "ms": 483,
       "error": null,
-      "fetchedAt": "2026-10-27T00:27:17.191Z",
-      "lastOkAt": "2026-10-27T00:27:17.191Z",
+      "fetchedAt": "2026-10-27T12:33:18.485Z",
+      "lastOkAt": "2026-10-27T12:33:18.485Z",
       "itemCount": 40,
       "items": [
         {
@@ -2202,12 +2198,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 316,
+      "ms": 329,
       "error": null,
-      "fetchedAt": "2026-10-27T00:27:17.191Z",
-      "lastOkAt": "2026-10-27T00:27:17.191Z",
+      "fetchedAt": "2026-10-27T12:33:18.485Z",
+      "lastOkAt": "2026-10-27T12:33:18.485Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "All My JPEGMAFIA Ratings So Far",
+          "link": "https://www.youtube.com/shorts/_xcn007LUrs",
+          "imageUrl": "https://i4.ytimg.com/vi/_xcn007LUrs/hqdefault.jpg",
+          "embedId": "_xcn007LUrs",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "#music #jpegmafia #review #rap #hiphop",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Kid Rock's Halfway 2 Jesus is NOT GOOD",
           "link": "https://www.youtube.com/watch?v=DZfj2JAsWqI",
@@ -2361,38 +2368,11 @@
           "description": "Listen: https://godflesh.bandcamp.com/album/decay This penultimate album is signaling a consummate end for the Godflesh project. More metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: LIVING/ENDING, FERAL COLONY, FEAR OF MAN, CONSUME ME GODFLESH - DECAY / 2026 / RELAPSE / INDUSTRIAL METAL, ATMOSPHERIC SLUDGE METAL 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Cameron Winter - Live at Carnegie Hall ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=IB7GmiQm9xA",
-          "imageUrl": "https://i2.ytimg.com/vi/IB7GmiQm9xA/hqdefault.jpg",
-          "embedId": "IB7GmiQm9xA",
-          "audioSrc": "",
-          "pubDate": "2026-10-13",
-          "description": "Listen: https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall Cameron manages to upstage a lot of his already great studio material in this raw and stripped-back live performance. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: IT ALL FELL IN THE RIVER, TRY AS I MAY, THE ROLLING STONES, LOVE TAKES MILES, DRINKING AGE, CANCER OF THE SKULL, IF YOU TURN BACK NOW, $0 LEAST FAV TRACK: NINA + FIELD OF COPS CAMERON WINTER - LIVE AT CARNEGIE HALL / 2026 / PARTISAN / SINGER-SONGWRITER, PIANO BALLADS 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/at-sign-autosmile/": {
-      "artist": "@",
-      "album": "Autosmile"
-    },
-    "https://pitchfork.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon/": {
-      "artist": "Rachel Chinouriri",
-      "album": "I think I spoke too soon"
-    },
-    "https://pitchfork.com/reviews/albums/djrum-dj-kicks/": {
-      "artist": "Djrum",
-      "album": "DJ-Kicks"
-    },
-    "https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/": {
-      "artist": "Spacemen 3",
-      "album": "The Perfect Prescription"
-    },
     "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/": {
       "artist": "Worldpeace DMT",
       "album": "Stick Around for Tea"
@@ -2496,6 +2476,22 @@
     "https://pitchfork.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall/": {
       "artist": "Caroline Rose",
       "album": "Gentling the Horse at the Walt Whitman Mall"
+    },
+    "https://pitchfork.com/reviews/albums/skino-blood-and-oil/": {
+      "artist": "Skino",
+      "album": "Blood & Oil"
+    },
+    "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/": {
+      "artist": "Loidis",
+      "album": "From the Toolkit of Lovers"
+    },
+    "https://pitchfork.com/reviews/albums/hysterical-love-project-februarys-album/": {
+      "artist": "Hysterical Love Project",
+      "album": "February’s Album"
+    },
+    "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/": {
+      "artist": "Tony Iommi",
+      "album": "From the Dark"
     }
   }
 }

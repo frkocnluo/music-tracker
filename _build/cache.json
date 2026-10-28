@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-28T00:35:46.149Z",
+    "updatedAt": "2026-10-28T12:37:20.761Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 6,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 851,
+      "ms": 552,
       "error": null,
-      "fetchedAt": "2026-10-28T00:35:46.149Z",
-      "lastOkAt": "2026-10-28T00:35:46.149Z",
+      "fetchedAt": "2026-10-28T12:37:20.761Z",
+      "lastOkAt": "2026-10-28T12:37:20.761Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,53 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 656,
+      "ms": 520,
       "error": null,
-      "fetchedAt": "2026-10-28T00:35:46.149Z",
-      "lastOkAt": "2026-10-28T00:35:46.149Z",
+      "fetchedAt": "2026-10-28T12:37:20.761Z",
+      "lastOkAt": "2026-10-28T12:37:20.761Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Coming Up for Air: Andy Stott’s Favourite Albums",
+          "link": "https://thequietus.com/interviews/bakers-dozen/coming-up-for-air-andy-stotts-favourite-albums/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/1-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "From 80s synthpop and 90s trip hop through to mischievous, glitched-out electronics, Andy Stott talks through 13 records that hold significance to him ahead of the release of his new album, Late Loop Across a career that now spans more than two decades, Andy Stott’s name has become synonymous with a style of electronic music that is patient and understated. Early records like Passed Me By and Luxury Problems dealt in dubbed-out minimalism and hauntingly gritty chuggers, while albums like 2016’s Too Many Voices and 2019’s It Should Be Us retained some of those qualities while introducing shades of dream pop into his captivating oeuvre. On new record Late Loop, which is his first studio LP in five years, Stott explores those... The post Coming Up for Air: Andy Stott’s Favourite Albums appeared first on The Quietus .",
+          "categories": [
+            "Baker's Dozen",
+            "Andy Stott",
+            "Modern Love"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Dis Fig – What To Make Of These Mortal Hands",
+          "link": "https://thequietus.com/quietus-reviews/dis-fig-what-to-make-of-these-mortal-hands-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/dis-fig-hands.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "Dis Fig What To Make Of These Mortal Hands Her debut was called PURGE and it was about her. This one is about what people do to each other, and it is named after the part of the body that does it What To Make Of These Mortal Hands by Dis Fig The title tells you where to look. Hands make things and hands wreck them, and Felicia Chen has built her second solo album around that double function. Track ten is called ‘A Hundred Hands’. Track six is ‘The Snake You Built’. The third track is named after the psaltery, an instrument you have to pluck with your fingers to make a sound at all. None of this is decoration. What To Make... The post Dis Fig – What To Make Of These Mortal Hands appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Prepared for the Future: the Slow Reveal of Aphex Twin’s Drukqs",
+          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/aphex-twin-best-album-drukqs/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/a2683258024_10-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "Drukqs has long been one of John Doran's favourite LPs; with a reissue looming, he attempts to articulate why he loves this critically derided album so much Drukqs by Aphex Twin Rereading the contemporary reviews of Drukqs 25 years later is like rubbernecking the aftermath of a motorway crash. Just ahead of release in October 2001, it became wince-inducingly clear that some previously long-term supporters of Richard D. James were ready to start questioning the validity of his art if not gearing up to fully turn on him. His traditional allies in the leftfield press hated the album, that much was clear. “Too much cake and no nuts” was the stinging but memorable summary minted by Rob Young for The Wire, who... The post Prepared for the Future: the Slow Reveal of Aphex Twin’s Drukqs appeared first on The Quietus .",
+          "categories": [
+            "Black Sky Thinking"
+          ],
+          "author": "John Doran"
+        },
         {
           "title": "Nik Colk Void and More to Play Soho Electronic 2026",
           "link": "https://thequietus.com/news/nik-colk-void-and-more-to-play-soho-electronic-2026/",
@@ -576,47 +617,6 @@
             "A Quietus Interview"
           ],
           "author": "John Doran"
-        },
-        {
-          "title": "New Weird Britain in Review for October, by Noel Gardner",
-          "link": "https://thequietus.com/quietus-reviews/new-weird-britain/new-weird-britain-in-review-for-october-by-noel-gardner/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/vivek-pic1-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Your latest guide to the British underground comes with bananas mashcore from a huge crew of Rotherham children, a demonstration of the discombobulatory potential of the human voice, and much more V.I.V.E.K Unfathomable amounts of music are being recorded around the world daily, more than you could hear in a thousand lifetimes with access to a server bigger than the Ritz. And even then, not everything is getting captured. Think how many formalised music-making sessions are happening somewhere, as I write and you read. The participants are likely finding their feet and letting off steam, not attempting to create something for public consumption. But what if someone involved realises the cultural value of what they’re doing, and lets the tape roll? That’s what... The post New Weird Britain in Review for October, by Noel Gardner appeared first on The Quietus .",
-          "categories": [
-            "New Weird Britain"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Storefront Church – Blue Movie",
-          "link": "https://thequietus.com/quietus-reviews/storefront-church-blue-movie-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/storefront-church-blue-movie.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Storefront Church Blue Movie When he's not playing the session musician game, Lukas Frank is getting seedy with Storefront Church Blue Movie by Storefront Church God knows if they were handing out fivers for every time the phrase ‘it’s like a soundtrack to a film that hasn’t been made yet’ appeared in a press release or blurb, then no one would need to be writing reviews and instead they’d be lavishing it up in a bath of cash, but Los Angeles’ Storefront Church’s latest, and third album proper, Blue Movie, is just that. Frontman Lukas Frank has dabbled in soundtracks as well as having a few bits of acting on his CV, so if anyone knows what he’s doing, he does. Having stepped out from... The post Storefront Church – Blue Movie appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Hot Chip Return with New Album, ‘A Long Way From Kansas’",
-          "link": "https://thequietus.com/news/hot-chip-return-with-new-album-a-long-way-from-kansas/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Hot-Chip-PC-Fiona-Garden-8W0A0432-300dpi-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "The lead single, 'Random Violence', is a tribute to the late Optimo (Espacio) DJ JD Twitch Photo by Fiona Garden Hot Chip have shared details of their ninth studio album, A Long Way From Kansas. Spanning 11 tracks, the LP's title is a nod to towards The Wizard Of Oz, while Beth Ditto and Eddie Chaco have contributed guest vocals. In a statement, the band's Alexis Taylor said: \"In addition to myself and Joe, Owen and Felix are singing (Felix for the first time on a Hot Chip record). There’s also a choir and lots of group singing. I think we like opening out our interior world and bringing all these voices together.\" Opening up on the record's influences and themes explored its tracks,... The post Hot Chip Return with New Album, ‘A Long Way From Kansas’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Domino",
-            "Hot Chip"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -633,10 +633,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 382,
+      "ms": 217,
       "error": null,
-      "fetchedAt": "2026-10-28T00:35:46.149Z",
-      "lastOkAt": "2026-10-28T00:35:46.149Z",
+      "fetchedAt": "2026-10-28T12:37:20.761Z",
+      "lastOkAt": "2026-10-28T12:37:20.761Z",
       "itemCount": 37,
       "items": [
         {
@@ -1135,12 +1135,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 213,
+      "ms": 209,
       "error": null,
-      "fetchedAt": "2026-10-28T00:35:46.149Z",
-      "lastOkAt": "2026-10-28T00:35:46.149Z",
+      "fetchedAt": "2026-10-28T12:37:20.761Z",
+      "lastOkAt": "2026-10-28T12:37:20.761Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Watch Dis!",
+          "link": "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/",
+          "imageUrl": "https://media.pitchfork.com/photos/6abe76f0cfa7613edd653e56/master/pass/frontcover(noPA).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "The former City Girl’s solo LP is entertaining enough to overlook the weaker features and superfluous “Spend Dat” remixes. The song dedicated to Diddy, not so much.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alphonse Pierre"
+        },
+        {
+          "title": "Sigil",
+          "link": "https://pitchfork.com/reviews/albums/sour-widows-sigil/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a6a01cdfdd0ba9932ac17df/master/pass/Sour-Widows-Sigil.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "The California band channels uneasy dreams and looming threats into tense, slowcore-infused indie rock on a new album produced with Jay Som’s Melina Duterte.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Marissa Lorusso"
+        },
+        {
+          "title": "Believe You Me",
+          "link": "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae0db906448153e84a5459c/master/pass/Mackeeper%20Believe%20You%20Me.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "On their full-length debut, the buzzy NYC siblings pay tribute to the fuckboy charm of the aughts with their precocious, mischievous, and rapidly evolving pop music.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Samuel Hyland"
+        },
+        {
+          "title": "Revelations of Divine Love",
+          "link": "https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae0c1f701eb9afa5af3c088/master/pass/Susanne%20Sundfor-Revelations%20of%20Divine%20Love.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "On her eighth album, the Norwegian singer, backed by pipe organ, draws on a 14th-century Christian text for a record wholly devoted to the divine.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Emma Madden"
+        },
         {
           "title": "From the Toolkit of Lovers",
           "link": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/",
@@ -1478,58 +1530,6 @@
             "Reviews / Albums"
           ],
           "author": "Alex Robert Ross"
-        },
-        {
-          "title": "Stick Around for Tea",
-          "link": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad133ea47a15edc7845996a/master/pass/Worldpeace%20DMT%20-%20Stick%20Around%20for%20Tea%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Samuel Hyland"
-        },
-        {
-          "title": "KOOL FAITH / LOOSIES II",
-          "link": "https://pitchfork.com/reviews/albums/they-are-gutting-a-body-of-water-kool-faith-loosies-ii/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab3e168ad1203b50827a447/master/pass/They%20Are%20Gutting%20a%20Body%20of%20Water%20Kool%20Faith%20Loosies%20II.png",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "The Philly shoegaze band calls on friends from across genres for a wide-spanning compilation that’s equal parts label sampler, B-sides showcase, and assembly of rising stars.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Abby Jones"
-        },
-        {
-          "title": "NOAH",
-          "link": "https://pitchfork.com/reviews/albums/teller-banks-noah/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad27f1843dd5de235952ef5/master/pass/Teller%20Bank$%20-%20Noah%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "Teller Bank$ extends his visionary streak on his third album this year, a biblically inspired concept record that takes full advantage of his skillful pen and chimeric delivery.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Olivier Lafontant"
-        },
-        {
-          "title": "Uncle",
-          "link": "https://pitchfork.com/reviews/albums/fish-narc-uncle/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad275720dd1470351a8a233/master/pass/fish%20narc%20-%20Uncle%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "The Olympia, Washington songwriter known for underground rap production pivots to sunny, nostalgic power-pop with distinct affection for the college-rock era.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Jeff Yerger"
         }
       ]
     },
@@ -1546,10 +1546,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 463,
+      "ms": 859,
       "error": null,
-      "fetchedAt": "2026-10-28T00:35:46.149Z",
-      "lastOkAt": "2026-10-28T00:35:46.149Z",
+      "fetchedAt": "2026-10-28T12:37:20.761Z",
+      "lastOkAt": "2026-10-28T12:37:20.761Z",
       "itemCount": 40,
       "items": [
         {
@@ -2201,15 +2201,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-27T12:33:18.485Z",
-      "lastOkAt": "2026-10-27T12:33:18.485Z",
+      "ms": 187,
+      "error": null,
+      "fetchedAt": "2026-10-28T12:37:20.761Z",
+      "lastOkAt": "2026-10-28T12:37:20.761Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
+          "imageUrl": "https://i1.ytimg.com/vi/HAyEg997L3Q/hqdefault.jpg",
+          "embedId": "HAyEg997L3Q",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "Listen: https://shabazzpalaces.bandcamp.com/album/its-a-style-sport-1 SP's strongest showing since their first couple of albums. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: AHH WORLD (I WON THE ALPHA BET), FIELD NOTES, DEADSTOCK DUDE, TONGUE IN CHIC, HELIOCENTRIC IMMORTALITY MANIFESTO H.I.M. SHABAZZ PALACES - IT'S A STYLE SPORT / 2026 / SUB POP / ABSTRACT HIP HOP, SYNTH FUNK, AFROFUTURISM 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "All My JPEGMAFIA Ratings So Far",
           "link": "https://www.youtube.com/shorts/_xcn007LUrs",
@@ -2363,38 +2375,11 @@
           "description": "Listen: https://www.youtube.com/watch?v=JnqDGWp6CSM Sadly an underwhelming album from Remi. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TWIGGY, I WON'T CRY LEAST FAV TRACK: WINE DRUNK REMI WOLF - MUD / 2026 / ISLAND / POP ROCK, ALT-COUNTRY 4/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Godflesh - Decay ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=bhKypakZovQ",
-          "imageUrl": "https://i3.ytimg.com/vi/bhKypakZovQ/hqdefault.jpg",
-          "embedId": "bhKypakZovQ",
-          "audioSrc": "",
-          "pubDate": "2026-10-14",
-          "description": "Listen: https://godflesh.bandcamp.com/album/decay This penultimate album is signaling a consummate end for the Godflesh project. More metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: LIVING/ENDING, FERAL COLONY, FEAR OF MAN, CONSUME ME GODFLESH - DECAY / 2026 / RELAPSE / INDUSTRIAL METAL, ATMOSPHERIC SLUDGE METAL 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/": {
-      "artist": "Worldpeace DMT",
-      "album": "Stick Around for Tea"
-    },
-    "https://pitchfork.com/reviews/albums/fish-narc-uncle/": {
-      "artist": "fish narc",
-      "album": "Uncle"
-    },
-    "https://pitchfork.com/reviews/albums/they-are-gutting-a-body-of-water-kool-faith-loosies-ii/": {
-      "artist": "They Are Gutting a Body of Water",
-      "album": "KOOL FAITH / LOOSIES II"
-    },
-    "https://pitchfork.com/reviews/albums/teller-banks-noah/": {
-      "artist": "Teller Bank$",
-      "album": "NOAH"
-    },
     "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/": {
       "artist": "The Avalanches",
       "album": "No Bad Memories"
@@ -2498,6 +2483,22 @@
     "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/": {
       "artist": "Tony Iommi",
       "album": "From the Dark"
+    },
+    "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/": {
+      "artist": "Yung Miami",
+      "album": "Watch Dis!"
+    },
+    "https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/": {
+      "artist": "Susanne Sundfør",
+      "album": "Revelations of Divine Love"
+    },
+    "https://pitchfork.com/reviews/albums/sour-widows-sigil/": {
+      "artist": "Sour Widows",
+      "album": "Sigil"
+    },
+    "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/": {
+      "artist": "Mackeeper",
+      "album": "Believe You Me"
     }
   }
 }

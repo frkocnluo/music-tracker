@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-27T12:33:18.485Z",
+    "updatedAt": "2026-10-28T00:35:46.149Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 6,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 719,
+      "ms": 851,
       "error": null,
-      "fetchedAt": "2026-10-27T12:33:18.485Z",
-      "lastOkAt": "2026-10-27T12:33:18.485Z",
+      "fetchedAt": "2026-10-28T00:35:46.149Z",
+      "lastOkAt": "2026-10-28T00:35:46.149Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,56 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 681,
+      "ms": 656,
       "error": null,
-      "fetchedAt": "2026-10-27T12:33:18.485Z",
-      "lastOkAt": "2026-10-27T12:33:18.485Z",
+      "fetchedAt": "2026-10-28T00:35:46.149Z",
+      "lastOkAt": "2026-10-28T00:35:46.149Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Nik Colk Void and More to Play Soho Electronic 2026",
+          "link": "https://thequietus.com/news/nik-colk-void-and-more-to-play-soho-electronic-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/NIK-COLK-VOID-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The festival of leftfield electronic music returns to Central London next month for its second edition Soho Electronic, the Central London festival championing leftfield electronic music, will return for its second edition next month. More than 30 artists are scheduled to play across four stages on and around Dean Street, with the likes of Nik Colk Void and Mark Van Hoen, otherwise known as Locust, set to make appearances. The festival will also host sets from reel-to-reel tape manipulator Howlround, Sculpture, Sonny E (FKA Adamski) and Agnes Haus, in addition to our very own Reviews Editor, Bobby Barry. Alongside the aforementioned acts, the full lineup includes live sets from Axon, Death Magazine 52, Artificially Yours, Lifeloose, E.M.Arson, kWeRk + Ch20, Disinformation, Xuanni_Space, Dom... The post Nik Colk Void and More to Play Soho Electronic 2026 appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Nik Colk Void",
+            "Soho Electronic"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Factory Floor Detail First Album in 10 Years, ‘One Trip’",
+          "link": "https://thequietus.com/news/factory-floor-detail-first-album-in-10-years-one-trip/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Factory-Floor-press-shot-by-Harry-Ward-web-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "They've also shared two tracks from the LP Photo by Harry Ward Factory Floor have shared details of their first studio album in 10 years, titled One Trip. Spanning 10 tracks, it marks the first full-length release from the current formation of Gabe Gurnsey, Nik Colk Void and new member Joe Ward. The new record's foundations lie in a set that the group played at MUTEK in Montréal in 2024 after returning from an extended hiatus, with the performance providing a catalyst for a new chapter in the project. In a collective statement, the group said: \"After the MUTEK performance, we felt an appetite to work in a space where artists could connect emotionally and physically, both in the studio and on a live... The post Factory Floor Detail First Album in 10 Years, ‘One Trip’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Factory Floor"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Throwing Muses’ Debut Album Set for 40th Anniversary Reissue",
+          "link": "https://thequietus.com/news/throwing-muses-debut-album-set-for-40th-anniversary-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Throwing-Muses-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The album has been out-of-print for some time Photo by Andrew Catlin Throwing Muses' self-titled debut album is being reissued to mark its 40th anniversary. The album has been out-of-print for some time, in addition to not being available on streaming services. It marked the first release from the band on 4AD, with the group being the first American signees to the label. The release of Throwing Muses on 4AD in 1986 marked a shift in the label's direction going forward as it looked more significantly towards the American market and signed Pixies via their connection to Throwing Muses not long after. The album went out of print in the early 1990s when plans were made by the band's American label, Sire Records,... The post Throwing Muses’ Debut Album Set for 40th Anniversary Reissue appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "4AD",
+            "Throwing Muses"
+          ],
+          "author": "Christian Eede"
+        },
         {
           "title": "Hyperspecific: Electronic Music for October Reviewed by Jaša Bužinel",
           "link": "https://thequietus.com/quietus-reviews/electronic/electronic-music-reviews-marina-herlop-mia-koden-gyrofield-bftt-fatima-al-quadiri/",
@@ -221,6 +265,20 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "The Flaming Lips Reveal New Album, ‘The Teadrop Throbs’",
+          "link": "https://thequietus.com/news/the-flaming-lips-reveal-new-album-the-teadrop-throbs/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/image001-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-26",
+          "description": "It marks the band's first release for Jack White's Third Man Records The Flaming Lips have a new album on the way, titled The Teardrop Throbs. Featuring 13 tracks, the record marks the band's first release for Jack White's label, Third Man Records. It's the band's first album in seven years, and their first in 35 years to not feature multi-instrumentalist Steven Drozd, who is no longer a member of the band. In a lengthy statement about the album and each of its tracks, frontman Wayne Coyne said: \"Please keep in mind there are a thousand things that go into making a song. I don't really believe any song has a fixed meaning, and I don't want my songs to have a... The post The Flaming Lips Reveal New Album, ‘The Teadrop Throbs’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "The Flaming Lips"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "The Strange World Of… Jennifer Walshe",
@@ -559,58 +617,6 @@
             "Hot Chip"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Guest Playlist: Dis Fig",
-          "link": "https://thequietus.com/subscriber-area/playlists/guest-playlist-dis-fig/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Dis-Fig-©-Camille-Blake-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "From her deep roots in choral music to the \"fucking queen\" Mariah Carey, Dis Fig takes us through the vast range of influences behind new LP What To Make Of These Mortal Hands, and compile them into a special 20-track playlist available exclusively for tQ Subscriber Plus tier members Music journalists love to declare the influences that must have gone into a new album, but a lot of the time the artists responsible themselves are left baffled by such comparisons. We thought, why not go straight to the source? Dis Fig is a performer, producer, and vocalist who has collaborated with The Bug, The Body, and Asian Dope Boys. Her latest record, What To Make Of These Mortal Hands, is out on... The post Guest Playlist: Dis Fig appeared first on The Quietus .",
-          "categories": [
-            "Playlists"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Matthew Herbert – The UK Has More Food Banks Than Branches Of McDonalds",
-          "link": "https://thequietus.com/quietus-reviews/matthew-herbert-the-uk-has-more-food-banks-than-branches-of-mcdonalds-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/cover-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "Matthew Herbert The UK Has More Food Banks Than Branches Of McDonalds The British producer (fka Doctor Rockit, Wishmountain) returns to the politics of food with an album that doubles as a direct call to action theukhasmorefoodbanksthanbranchesofmcdonalds.com by Matthew Herbert Our relationship to food is the foundation upon which this civilization is built. It’s how we engage with the environment, with our bodies, with each other. It nurtures cultures and communities; it is fundamental to survival. Matthew Herbert has long been interested in the politics of food and the systems that govern its production, distribution and consumption. There is the controversial One Pig and Plat du Jour (2005), which employed augmented recordings of objects relating to industrial food production; and the lesser known documentary Listen... The post Matthew Herbert – The UK Has More Food Banks Than Branches Of McDonalds appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Northern Mantra: Cabaret Voltaire say Goodbye",
-          "link": "https://thequietus.com/interviews/cabaret-voltaire-interview/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Cabaret-Voltaire-2025-4042_credit_PaulHeartfield-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "Derek Walmsley asks Stephen Mallinder and Chris Watson some big questions before they hang up their hats for the last time. Main portrait: Paul Heartfield Stephen Mallinder and Chris Watson are on a video call finding all the different ways to say it’s over. “There will be no more Cabaret Voltaire. We’re not making new tracks,” insists Watson. For Mallinder, “we don’t want to be a tribute band. The end’s going to stagger a little bit, because we can’t stop at every territory within that period, but it will end. “It’s for Richard really,” he continues, namechecking the permanently absent third member of their gang. “I don’t want to take the piss, it has to be a finite thing.” The Cabs are in... The post Northern Mantra: Cabaret Voltaire say Goodbye appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Organic Intelligence LXI: Electronic Music From Iran",
-          "link": "https://thequietus.com/subscriber-area/organic-intelligence/electronic-music-from-iran/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Siavash-Amini-byAshkan-Norouzkhani-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-16",
-          "description": "In this month’s antidote to the algorithm, Kamyar Salavati explores the evolution of Iran’s experimental electronic music scene Siavash Amini by Ashkan Norouzkhani I regret not being there, but fellow music critics still remember the shock of buying a ticket for a small concert in central Tehran, only to discover that the artist doing visuals for the electronic musician Sote was none other than Radiohead collaborator Tarik Barr. His Wikipedia photo is from that trip, framed by a detail of the iconic Azadi Tower in the background. This surprising presence was a sign of how the Iranian electronic music scene had gained some remarkable international visibility despite the country’s isolation – a musical equivalent to the international prestige and critical success of Iranian... The post Organic Intelligence LXI: Electronic Music From Iran appeared first on The Quietus .",
-          "categories": [
-            "Organic Intelligence"
-          ],
-          "author": "Luke Turner"
         }
       ]
     },
@@ -627,12 +633,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 251,
+      "ms": 382,
       "error": null,
-      "fetchedAt": "2026-10-27T12:33:18.485Z",
-      "lastOkAt": "2026-10-27T12:33:18.485Z",
+      "fetchedAt": "2026-10-28T00:35:46.149Z",
+      "lastOkAt": "2026-10-28T00:35:46.149Z",
       "itemCount": 37,
       "items": [
+        {
+          "title": "Brian Eno Agrees: LEENALCHI Are Korea’s Best, Weirdest Band",
+          "link": "https://daily.bandcamp.com/features/leenalchi-sugungga-feature",
+          "imageUrl": "https://f4.bcbits.com/img/0048115463_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The septet combine pansori—an ancient form of Korean musical storytelling—with funky, off-kilter pop. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Features"
+          ],
+          "author": "Collin Smith"
+        },
+        {
+          "title": "Orchestra Baobab, “Made In Senegal”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/orchestra-baobab-made-in-senegal-review",
+          "imageUrl": "https://f4.bcbits.com/img/0048120329_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The biggest band in Senegal celebrate their 50th anniversary with an explosive, triumphant LP. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Marshall Gu"
+        },
         {
           "title": "How the Buddha Machine Built Modern Ambient",
           "link": "https://daily.bandcamp.com/features/the-buddha-machine-feature",
@@ -1087,32 +1119,6 @@
             "Underground Medicine"
           ],
           "author": "Erick Bradshaw"
-        },
-        {
-          "title": "Helen, “Linda’s Head”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/helen-lindas-head-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047696124_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "The first new record from Liz Harris of Grouper's rock trio plays at being primitive while keeping one eye on the transcend. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Will Ainsley"
-        },
-        {
-          "title": "Chyna Baejing Contains Multitudes",
-          "link": "https://daily.bandcamp.com/features/chyna-baejing-interview",
-          "imageUrl": "https://f4.bcbits.com/img/0047671330_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-06",
-          "description": "Assistant Principal by day, rapper by night, the Lynn artist weaves scholarship through everything she does. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Features"
-          ],
-          "author": "Indigo Phoenyx"
         }
       ]
     },
@@ -1129,10 +1135,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 188,
+      "ms": 213,
       "error": null,
-      "fetchedAt": "2026-10-27T12:33:18.485Z",
-      "lastOkAt": "2026-10-27T12:33:18.485Z",
+      "fetchedAt": "2026-10-28T00:35:46.149Z",
+      "lastOkAt": "2026-10-28T00:35:46.149Z",
       "itemCount": 30,
       "items": [
         {
@@ -1540,12 +1546,28 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 483,
+      "ms": 463,
       "error": null,
-      "fetchedAt": "2026-10-27T12:33:18.485Z",
-      "lastOkAt": "2026-10-27T12:33:18.485Z",
+      "fetchedAt": "2026-10-28T00:35:46.149Z",
+      "lastOkAt": "2026-10-28T00:35:46.149Z",
       "itemCount": 40,
       "items": [
+        {
+          "title": "Album Of The Week: DIIV ZIRP!",
+          "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/10/a3856471150_10_047c1d.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-27",
+          "description": "The post Album Of The Week: DIIV <em>ZIRP!</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "A. G. Cook",
+            "DIIV"
+          ],
+          "author": "Chris DeVille"
+        },
         {
           "title": "Album Of The Week: Josh Johnson Animative",
           "link": "https://stereogum.com/2515021/album-of-the-week-josh-johnson-animative/reviews/album-of-the-week/",
@@ -2167,21 +2189,6 @@
             "Joyce Manor"
           ],
           "author": "Danielle Chelosky"
-        },
-        {
-          "title": "Album Of The Week: Victoryland My Heart Is A Room With No Cameras In It",
-          "link": "https://stereogum.com/2485965/album-of-the-week-victoryland-my-heart-is-a-room-with-no-cameras-in-it/reviews/album-of-the-week/",
-          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/My-Heart-final-cover-1.jpg?w=564",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-01-20",
-          "description": "The post Album Of The Week: Victoryland <em>My Heart Is A Room With No Cameras In It</em> appeared first on Stereogum .",
-          "categories": [
-            "Album Of The Week",
-            "Reviews",
-            "Victoryland"
-          ],
-          "author": "Abby Jones"
         }
       ]
     },
@@ -2194,12 +2201,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 329,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-10-27T12:33:18.485Z",
       "lastOkAt": "2026-10-27T12:33:18.485Z",
       "itemCount": 15,

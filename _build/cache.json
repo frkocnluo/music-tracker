@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-29T00:35:18.426Z",
+    "updatedAt": "2026-10-29T12:38:18.063Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 911,
+      "ms": 596,
       "error": null,
-      "fetchedAt": "2026-10-29T00:35:18.426Z",
-      "lastOkAt": "2026-10-29T00:35:18.426Z",
+      "fetchedAt": "2026-10-29T12:38:18.063Z",
+      "lastOkAt": "2026-10-29T12:38:18.063Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 660,
+      "ms": 713,
       "error": null,
-      "fetchedAt": "2026-10-29T00:35:18.426Z",
-      "lastOkAt": "2026-10-29T00:35:18.426Z",
+      "fetchedAt": "2026-10-29T12:38:18.063Z",
+      "lastOkAt": "2026-10-29T12:38:18.063Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Audiovisual Phantasmagoria: Highlights from Semibreve 2026",
+          "link": "https://thequietus.com/quietus-reviews/live-reviews/semibreve-festival-braga-2026-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Malcolm-Pardon-_-Gustaf-Broms-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "Pedro João Santos reports from the latest edition of Portugal’s premiere festival for experimental music, where stellar sets from Noémi Büchi, Tygapaw, Marta Salogni and more lead the way Malcolm Pardon and Gustaf Broms, photo by Adriano Ferreira Borges / Semibreve A startled Jocy de Oliveira looks out at the sea: it’s well past time the grand piano should be brought ashore. She oversees a woman playing the ivories, drifting in the tide. “What do you expect to achieve this late?”, she blurts at the walkie-talkie, wrangling with the producers of her 2005 short film, Noturno De Um Piano. What starts off as an elegant allegory – the instrument set adrift in the ocean, a metaphor for the erosion of high culture... The post Audiovisual Phantasmagoria: Highlights from Semibreve 2026 appeared first on The Quietus .",
+          "categories": [
+            "Live Reviews"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "America’s Most Offensive? Ice Cube’s Death Certificate Revisited",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/ice-cube-death-certificate-2/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-29-at-09.28.33-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "Angus Batey looks back 35 years at the 360-degree attack of one of the most creatively independent yet offensive hip hop albums ever made. First published October 2011 Classic albums are supposed to be celebrated, but Death Certificate doesn't permit unqualified responses. It's a record made by a young man as talented at needling his listeners as he was at constructing and delivering some of the angriest lyrics in the hip hop canon, and is impossible to love without qualification. If you're not offended by a significant portion of it – no matter who you are, whatever your background – you're not listening properly. Just about the only universal reaction Death Certificate generates is one of awe at the 360-degree ferocity... The post America’s Most Offensive? Ice Cube’s Death Certificate Revisited appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Put Your Hands In The Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/leo-chadburn-phaedra-ensemble-english-dancing-master-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Shadows-2021-Credit-Leo-Chadburn-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to raving at Castlemorton Common English Dancing Master is a dance album, but not in the sense you would usually associate with the term. There is no “succession of repetitive beats” (the phrase used by the Criminal Justice and Public Order Act 1994 to criminalise outdoor raves), ribcage splintering bass or woozy toplines. Instead, we are treated to a reticent male narrator – voiced by Leo Chadburn – and the Phaedra Ensemble in conversation with each other. In fact, it’s not really an album at all but a singular radiophonic piece broken up into brief episodes that... The post Put Your Hands In The Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Maria W Horn – Melting Pillars of Snow",
+          "link": "https://thequietus.com/quietus-reviews/melting-pillars-of-snow-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/horn-melting-pillars.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "Maria W Horn Melting Pillars of Snow Melting Pillar of Snow is a dense exploration of time and decay that feels more like a static monument than a living listening experience Melting Pillars of Snow by Maria W Horn On Melting Pillars of Snow, Swedish composer Maria W Horn attempts to map the relentless passage of time across five expansive compositions. The record sets out to chart the friction between microscopic moments and deep historical time. Yet for all its conceptual weight and formal intent, the listening experience remains curiously remote, leaving the pieces sounding like static, glass-encased dioramas which may be meticulously assembled, but are emotionally lacking in power. Lead single ‘Scythe of Saturn’ sets the template. Built around slow-motion acoustic and electronic friction,... The post Maria W Horn – Melting Pillars of Snow appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Coming Up for Air: Andy Stott’s Favourite Albums",
           "link": "https://thequietus.com/interviews/bakers-dozen/coming-up-for-air-andy-stotts-favourite-albums/",
@@ -565,58 +617,6 @@
             "Reviews"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "The Electro Quartet – Nature’s World With Studio G",
-          "link": "https://thequietus.com/quietus-reviews/the-electro-quartet-natures-world-with-studio-g-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/studio-g-natures-world.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "The Electro Quartet Nature’s World With Studio G An album of electronic library music from the early 80s breaths the air of sunnier climes Nature's World With Studio G by Various Artists 1982 was an odd year. Ozzy Osbourne was treated for rabies after biting the head of a bat in the middle of a gig. The first ever computer virus was created by a 15-year old kid in Pittsburgh. Mary Whitehouse sued the National Theatre for obscenity. The Falklands War kicked off in the South Atlantic. Israel invaded Lebanon in a military campaign called Operation Peace. Abba split up. The first compact discs were produced in Germany. The most popular albums in Britain that year included Barbra Streisand’s schmaltzily nostalgic Memories, the soundtrack... The post The Electro Quartet – Nature’s World With Studio G appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Beyond The Pleasuredome: Frankie Goes To Hollywood’s Liverpool 40 Years On",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/frankie-goes-to-hollywood-liverpool/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Frankie-Goes-To-Hollywood-Liverpool-LP-Vinyl-1-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Wyndham Wallace looks at the oft-neglected follow-up to FGTH's debut, Liverpool which was released in 1986 Compare and contrast: \"The world is my oyster,\" the opening words to Frankie Goes To Hollywood's debut album, 1984's Welcome To The Pleasuredome. Delivered by Holly Johnson in the flippant style of a cartoon villain, a cackling laugh in their wake. \"I'm looking for something and I don't know what it is,\" the last words to Frankie Goes To Hollywood's second and final album, 1986's Liverpool. Delivered by Holly Johnson in the style of a man running on empty, almost bereft of hope. What a difference a couple of years can make. Frankie Goes To Hollywood first hit the top of the UK charts at the... The post Beyond The Pleasuredome: Frankie Goes To Hollywood’s Liverpool 40 Years On appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "An Evergreen Lodestar of all that is Abominable: How Reign in Blood Changed Metal",
-          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/slayer-reign-in-blood/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Slayer003-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Ian Winwood looks back 40 years to his first contact with an imperial and imperious Slayer and their third album's \"frenzied scream of wall-eyed mayhem\" On the weekend before Christmas, in 2020, I sent a friend a text message comprised of just three words. It read: Epidemic. Permanent disease. I had no doubt that my old familiar would recognise the bulletin as being a snippet of a lyric from Reign In Blood, by Slayer. Thirty-four years earlier, while listening for the first time to an import edition of the album dispatched by post from Shades Records, in Soho, the two of us had been forever conjoined by the fiercest musical experience of our teenage lives. We’d stood transfixed in the front row of... The post An Evergreen Lodestar of all that is Abominable: How Reign in Blood Changed Metal appeared first on The Quietus .",
-          "categories": [
-            "Black Sky Thinking"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Fisherman’s Blues: the Damning Indictment cast by All Rivers Spill Their Stories To The Sea",
-          "link": "https://thequietus.com/interviews/jeanie-finlay-interview/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/001.2_ALL-RIVERS-SPILL.-mainstill_lands_01_crop-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Claire Sawers talks to director Jeanie Finlay about her hard-hitting, emotionally resonant documentary about toxic pollution of UK waters, which doubles as love letter to the north east Stan Rennie takes a tea break, by Jeanie Finlay “I’m sick as a chip”, says Stan Rennie. He’s dressed in shiny orange fisherman’s bibs and lifejacket, sat aboard his blue and white boat, the Sarah Lynn, on the waters around Hartlepool. That particular Northernism nails his beyond fed up feeling. We’d say ‘seek’ in Scots. Flattened by the injustice of his situation and we’re right there with him. It’s at the end of the documentary All Rivers Spill Their Stories To The Sea and we’re glimpsing a rare moment of despondency from the... The post Fisherman’s Blues: the Damning Indictment cast by All Rivers Spill Their Stories To The Sea appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview"
-          ],
-          "author": "John Doran"
         }
       ]
     },
@@ -633,10 +633,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 348,
+      "ms": 292,
       "error": null,
-      "fetchedAt": "2026-10-29T00:35:18.426Z",
-      "lastOkAt": "2026-10-29T00:35:18.426Z",
+      "fetchedAt": "2026-10-29T12:38:18.063Z",
+      "lastOkAt": "2026-10-29T12:38:18.063Z",
       "itemCount": 37,
       "items": [
         {
@@ -1135,12 +1135,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 177,
+      "ms": 193,
       "error": null,
-      "fetchedAt": "2026-10-29T00:35:18.426Z",
-      "lastOkAt": "2026-10-29T00:35:18.426Z",
+      "fetchedAt": "2026-10-29T12:38:18.063Z",
+      "lastOkAt": "2026-10-29T12:38:18.063Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "The Same Place",
+          "link": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae22497903c0fd4dcfc1d19/master/pass/The%20Olivia%20Tremor%20Control%20The%20Same%20Place.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "Following the deaths of two founding members, the long-in-the-works final album from the Elephant 6 group is a dark, psychedelic epic that unfolds with eerie clairvoyance and intensity.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Patrick Lyons"
+        },
+        {
+          "title": "marroW",
+          "link": "https://pitchfork.com/reviews/albums/brakence-marrow/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad913bf0c92ad66cf11be07/master/pass/3000x3000bb-100%20(2).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "The Ohio artist’s first album in four years is paranoid, indulgent, and theatrical, unfolding like a dark romantasy novel.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Kieran Press-Reynolds"
+        },
+        {
+          "title": "Heavy Is the Crown",
+          "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/master/pass/Anderson-Paak-Heavy-Is-the-Crown.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "Anderson .Paak and Cordae kick back over a suite of boom-bap and trap-adjacent slappers on their lopsided but entertaining collaborative album.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Dylan Green"
+        },
+        {
+          "title": "Repair",
+          "link": "https://pitchfork.com/reviews/albums/water-damage-repair/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae21b827b487fd17701118a/master/pass/Water%20Damage-Repair.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "The Austin ensemble makes minimalism feel enveloping and unruly on its latest record, where new melodic details are always emerging from a swarming mass of sound.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Vanessa Ague"
+        },
         {
           "title": "Watch Dis!",
           "link": "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/",
@@ -1478,58 +1530,6 @@
             "Reviews / Albums"
           ],
           "author": "Narsimha Gour Chintaluri"
-        },
-        {
-          "title": "No Bad Memories",
-          "link": "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a74dae2af72977b209d59da/master/pass/No%20Bad%20Memories%20by%20the%20Avalanches.png",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Patching in audio logos and advertising dialog without interrupting the dreamlike sampledelic flow, the Australian band’s new album summons nostalgia for the era of truly mass media.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Philip Sherburne"
-        },
-        {
-          "title": "Young Manhood and Other Donatable Organs EP",
-          "link": "https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad28eea0dd1470351a8a266/master/pass/Zach%20Bryan%20-%20Young%20Manhood%20and%20Other%20Donatable%20Organs%20EP%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "On his first new music since getting sober, the prolific 30-year-old singer-songwriter offers a sense of adult clarity—and some welcome self-editing.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Grayson Haver Currin"
-        },
-        {
-          "title": "Massive Shoe",
-          "link": "https://pitchfork.com/reviews/albums/way-dynamic-massive-shoe/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad64354e6ca4759ddfe6b50/master/pass/Way%20Dynamic-Massive%20Shoe.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Dylan Young and his Melbourne group fill their third album with winsome and warm tracks whose best moments combine rambling guitars with tales of bruising regret.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Linnie Greene"
-        },
-        {
-          "title": "Split Second",
-          "link": "https://pitchfork.com/reviews/albums/renny-conti-split-second/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad63ada92212513baf7ebae/master/pass/Renny%20Conti-Split%20Second.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "The singer-songwriter’s hushed meditations on grief unfold like a series of hazy recollections, occasionally punctured by vivid descriptions and urgent arrangements.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Alex Robert Ross"
         }
       ]
     },
@@ -1546,10 +1546,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 596,
+      "ms": 517,
       "error": null,
-      "fetchedAt": "2026-10-29T00:35:18.426Z",
-      "lastOkAt": "2026-10-29T00:35:18.426Z",
+      "fetchedAt": "2026-10-29T12:38:18.063Z",
+      "lastOkAt": "2026-10-29T12:38:18.063Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,10 +2205,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 202,
+      "ms": 273,
       "error": null,
-      "fetchedAt": "2026-10-29T00:35:18.426Z",
-      "lastOkAt": "2026-10-29T00:35:18.426Z",
+      "fetchedAt": "2026-10-29T12:38:18.063Z",
+      "lastOkAt": "2026-10-29T12:38:18.063Z",
       "itemCount": 15,
       "items": [
         {
@@ -2380,22 +2380,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/the-avalanches-no-bad-memories/": {
-      "artist": "The Avalanches",
-      "album": "No Bad Memories"
-    },
-    "https://pitchfork.com/reviews/albums/renny-conti-split-second/": {
-      "artist": "Renny Conti",
-      "album": "Split Second"
-    },
-    "https://pitchfork.com/reviews/albums/way-dynamic-massive-shoe/": {
-      "artist": "Way Dynamic",
-      "album": "Massive Shoe"
-    },
-    "https://pitchfork.com/reviews/albums/zach-bryan-young-manhood-and-other-donatable-organs-ep/": {
-      "artist": "Zach Bryan",
-      "album": "Young Manhood and Other Donatable Organs EP"
-    },
     "https://pitchfork.com/reviews/albums/sophia-stel-the-greatest-album-of-all-time/": {
       "artist": "Sophia Stel",
       "album": "the greatest album of all time"
@@ -2499,6 +2483,22 @@
     "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/": {
       "artist": "Mackeeper",
       "album": "Believe You Me"
+    },
+    "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/": {
+      "artist": "The Olivia Tremor Control",
+      "album": "The Same Place"
+    },
+    "https://pitchfork.com/reviews/albums/water-damage-repair/": {
+      "artist": "Water Damage",
+      "album": "Repair"
+    },
+    "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/": {
+      "artist": "Anderson .Paak / Cordae",
+      "album": "Heavy Is the Crown"
+    },
+    "https://pitchfork.com/reviews/albums/brakence-marrow/": {
+      "artist": "brakence",
+      "album": "marroW"
     }
   }
 }

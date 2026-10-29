@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-28T12:37:20.761Z",
+    "updatedAt": "2026-10-29T00:35:18.426Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 552,
+      "ms": 911,
       "error": null,
-      "fetchedAt": "2026-10-28T12:37:20.761Z",
-      "lastOkAt": "2026-10-28T12:37:20.761Z",
+      "fetchedAt": "2026-10-29T00:35:18.426Z",
+      "lastOkAt": "2026-10-29T00:35:18.426Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 520,
+      "ms": 660,
       "error": null,
-      "fetchedAt": "2026-10-28T12:37:20.761Z",
-      "lastOkAt": "2026-10-28T12:37:20.761Z",
+      "fetchedAt": "2026-10-29T00:35:18.426Z",
+      "lastOkAt": "2026-10-29T00:35:18.426Z",
       "itemCount": 32,
       "items": [
         {
@@ -190,7 +190,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-10-28",
-          "description": "From 80s synthpop and 90s trip hop through to mischievous, glitched-out electronics, Andy Stott talks through 13 records that hold significance to him ahead of the release of his new album, Late Loop Across a career that now spans more than two decades, Andy Stott’s name has become synonymous with a style of electronic music that is patient and understated. Early records like Passed Me By and Luxury Problems dealt in dubbed-out minimalism and hauntingly gritty chuggers, while albums like 2016’s Too Many Voices and 2019’s It Should Be Us retained some of those qualities while introducing shades of dream pop into his captivating oeuvre. On new record Late Loop, which is his first studio LP in five years, Stott explores those... The post Coming Up for Air: Andy Stott’s Favourite Albums appeared first on The Quietus .",
+          "description": "From 80s synth pop and 90s trip hop through to mischievous, glitched-out electronics, Andy Stott talks through 13 records that hold significance to him ahead of the release of his new album, Late Loop Across a career that now spans more than two decades, Andy Stott’s name has become synonymous with a style of electronic music that is patient and understated. Early records like Passed Me By and Luxury Problems dealt in dubbed-out minimalism and hauntingly gritty chuggers, while albums like 2016’s Too Many Voices and 2019’s It Should Be Us retained some of those qualities while introducing shades of dream pop into his captivating oeuvre. On new record Late Loop, which is his first studio LP in five years, Stott explores... The post Coming Up for Air: Andy Stott’s Favourite Albums appeared first on The Quietus .",
           "categories": [
             "Baker's Dozen",
             "Andy Stott",
@@ -301,7 +301,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-10-27",
-          "description": "@ Autosmile Philadelphia duo with an ungoogleable name create dreamy psychedelic worlds with Waterboys flutes adn Beach Boys harmonies Autosmile by @ It’s a great time and a nightmarish time to be an @ (pronounced ‘at’) fan. It’s exciting that the Philadelphia art-folk band’s second album has just been released, but it’s also a faff trying to explain to friends who @ are. Victoria Rose and Stone Filipczak are making fresh, entrancing music that communicates places and mindsets in contemporary ways that can’t quite be reduced to any generic label or category. Selfishly, when you listen to the self-proclaimed SEO wet dream’s latest album Autosmile you almost want to keep them to yourself, to simply eat your comforting slice of @ pie, and sit there... The post @ – Autosmile appeared first on The Quietus .",
+          "description": "@ Autosmile Philadelphia duo with an ungoogleable name create dreamy psychedelic worlds with Waterboys flutes and Beach Boys harmonies Autosmile by @ It’s a great time and a nightmarish time to be an @ (pronounced ‘at’) fan. It’s exciting that the Philadelphia art-folk band’s second album has just been released, but it’s also a faff trying to explain to friends who @ are. Victoria Rose and Stone Filipczak are making fresh, entrancing music that communicates places and mindsets in contemporary ways that can’t quite be reduced to any generic label or category. Selfishly, when you listen to the self-proclaimed SEO wet dream’s latest album Autosmile you almost want to keep them to yourself, to simply eat your comforting slice of @ pie, and sit there... The post @ – Autosmile appeared first on The Quietus .",
           "categories": [
             "Reviews"
           ],
@@ -633,12 +633,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 217,
+      "ms": 348,
       "error": null,
-      "fetchedAt": "2026-10-28T12:37:20.761Z",
-      "lastOkAt": "2026-10-28T12:37:20.761Z",
+      "fetchedAt": "2026-10-29T00:35:18.426Z",
+      "lastOkAt": "2026-10-29T00:35:18.426Z",
       "itemCount": 37,
       "items": [
+        {
+          "title": "Wishy Pick Their Bandcamp Favorites",
+          "link": "https://daily.bandcamp.com/big-ups/wishy-big-ups",
+          "imageUrl": "https://f4.bcbits.com/img/0048137274_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "From R&B to indie pop, here's what the ascendant Indiana rockers are listening to right now. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Big Ups"
+          ],
+          "author": "Spencer Hughes"
+        },
+        {
+          "title": "Josh Johnson, “Animative”",
+          "link": "https://daily.bandcamp.com/album-of-the-day/josh-johnson-animative-review",
+          "imageUrl": "https://f4.bcbits.com/img/0048139808_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "A dazzling showcase for jazz’s endless possibilities. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Album of the Day"
+          ],
+          "author": "Britt Robson"
+        },
+        {
+          "title": "Rock and Opposition: A Guide to ReR Megacorp",
+          "link": "https://daily.bandcamp.com/label-profile/rer-megacorp-label-profile",
+          "imageUrl": "https://f4.bcbits.com/img/0048193890_10.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-28",
+          "description": "Henry Cow drummer Chris Cutler's label has been giving decidedly noncommercial music international reach for five decades. Read full story on the Bandcamp Daily .",
+          "categories": [
+            "Label Profile"
+          ],
+          "author": "Erick Bradshaw"
+        },
         {
           "title": "Brian Eno Agrees: LEENALCHI Are Korea’s Best, Weirdest Band",
           "link": "https://daily.bandcamp.com/features/leenalchi-sugungga-feature",
@@ -1080,45 +1119,6 @@
             "Features"
           ],
           "author": "Britt Robson"
-        },
-        {
-          "title": "Various Artists, “Antiyano Progresivo: Musical Experiments from the Former Dutch Caribbean, 1968-1986”",
-          "link": "https://daily.bandcamp.com/album-of-the-day/various-artists-antiyano-progresivo-review",
-          "imageUrl": "https://f4.bcbits.com/img/0047728487_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-08",
-          "description": "A new comp from Soundway unearths the Caribbean’s psychedelic underground. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Album of the Day"
-          ],
-          "author": "Louis Pattison"
-        },
-        {
-          "title": "wherethetimegoes and the Sound of Celtic Futurism",
-          "link": "https://daily.bandcamp.com/label-profile/wherethetimegoes-label-profile",
-          "imageUrl": "https://f4.bcbits.com/img/0047701619_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "The Dublin label looks back on the records, relationships, and restless experimentation that shaped its first decade. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Label Profile"
-          ],
-          "author": "Mike McGrath-Bryan"
-        },
-        {
-          "title": "Underground Medicine #7: Region Rock, USA",
-          "link": "https://daily.bandcamp.com/underground-medicine/underground-medicine-7",
-          "imageUrl": "https://f4.bcbits.com/img/0047723252_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-07",
-          "description": "Mapping out punk scenes archives from around the United States, alive and well on Bandcamp. Read full story on the Bandcamp Daily .",
-          "categories": [
-            "Underground Medicine"
-          ],
-          "author": "Erick Bradshaw"
         }
       ]
     },
@@ -1135,10 +1135,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 209,
+      "ms": 177,
       "error": null,
-      "fetchedAt": "2026-10-28T12:37:20.761Z",
-      "lastOkAt": "2026-10-28T12:37:20.761Z",
+      "fetchedAt": "2026-10-29T00:35:18.426Z",
+      "lastOkAt": "2026-10-29T00:35:18.426Z",
       "itemCount": 30,
       "items": [
         {
@@ -1546,10 +1546,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 859,
+      "ms": 596,
       "error": null,
-      "fetchedAt": "2026-10-28T12:37:20.761Z",
-      "lastOkAt": "2026-10-28T12:37:20.761Z",
+      "fetchedAt": "2026-10-29T00:35:18.426Z",
+      "lastOkAt": "2026-10-29T00:35:18.426Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,10 +2205,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 187,
+      "ms": 202,
       "error": null,
-      "fetchedAt": "2026-10-28T12:37:20.761Z",
-      "lastOkAt": "2026-10-28T12:37:20.761Z",
+      "fetchedAt": "2026-10-29T00:35:18.426Z",
+      "lastOkAt": "2026-10-29T00:35:18.426Z",
       "itemCount": 15,
       "items": [
         {

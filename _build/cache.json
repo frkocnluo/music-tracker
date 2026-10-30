@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-30T00:36:45.631Z",
+    "updatedAt": "2026-10-30T12:38:06.920Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 930,
+      "ms": 792,
       "error": null,
-      "fetchedAt": "2026-10-30T00:36:45.631Z",
-      "lastOkAt": "2026-10-30T00:36:45.631Z",
+      "fetchedAt": "2026-10-30T12:38:06.920Z",
+      "lastOkAt": "2026-10-30T12:38:06.920Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 642,
+      "ms": 646,
       "error": null,
-      "fetchedAt": "2026-10-30T00:36:45.631Z",
-      "lastOkAt": "2026-10-30T00:36:45.631Z",
+      "fetchedAt": "2026-10-30T12:38:06.920Z",
+      "lastOkAt": "2026-10-30T12:38:06.920Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/carcas-necroticism-descanting-the-insalubrious-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/carcass-necroticism-descanting-the-insalubrious-uk-vinyl-lp-album-record-mosh042fdrus-823130.jpg-700x700.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-30",
+          "description": "Keith Kahn-Harris looks back at a landmark release full of surprises and possibilities To push back a genre label is, all too often, a reliably generic move by artists desperately seeking to differentiate themselves from other artists who sound much the same. Occasionally though, pushing back against genre label is a more subversive move, the mark of an artist pushing against anything that would close off their creative development. Such is the case with Carcass. It didn’t take them long at the start of their career to reject the grindcore label, they are currently rebelling against the extreme metal label, and on Necroticism: Descanting The Insalubrious they were reluctant to be labelled as death metal, preferring ‘progressive’. And however much one might... The post Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35 appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Music of the Month: The Best Albums and Tracks of October 2026",
+          "link": "https://thequietus.com/tq-charts/music-of-the-month/music-of-the-month-the-best-albums-and-tracks-of-october-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Untitled2-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-30",
+          "description": "As we hurtle through the final months of 2026, tQ's staffers select another round-up of everything we've loved over the last few weeks We are only a few weeks away from end-of-year chartmageddon, the point at which we will be forced, whether we like it or not, to put on the record what defined our 2026. Given that a person's relationship with music is constantly-shifting – I find that the side of bed I've woken up on can determine whether a song makes me feel ecstatic or annoyed – I've always found the idea of making a permanent declaration of what's 'best' slightly daunting. I have a soft spot, by contrast, for the simplicity these more casual roundups, presented unranked and ad... The post Music of the Month: The Best Albums and Tracks of October 2026 appeared first on The Quietus .",
+          "categories": [
+            "Music of the Month"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Andy Stott – Late Loop",
+          "link": "https://thequietus.com/quietus-reviews/andy-stott-late-loop-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/andy-stott-late-loop-700x700.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-30",
+          "description": "Andy Stott Late Loop The British electronic music producer proves himself, once again, a consummate perfectionist – but it's the subtle imperfections that make his music really sing It didn’t take Andy Stott long to find himself drawn towards the frayed edges, to wear and imperfections. Less concerned with gleaming dancefloor patterns than the accumulation of hiss and grit, he made his name with slower tempos, tracks that went a little wonky, marked by age and rust. A sound in love with the ‘stuff’ of sound, the sense it had a physical surface that got under your fingernails, that carried the marks of time. On Late Loop it settles to a stillness, a richly emotive minimalism under the slow shroud of attic dust. It’s... The post Andy Stott – Late Loop appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Audiovisual Phantasmagoria: Highlights from Semibreve 2026",
           "link": "https://thequietus.com/quietus-reviews/live-reviews/semibreve-festival-braga-2026-review/",
@@ -210,13 +249,13 @@
           "author": "John Doran"
         },
         {
-          "title": "Put Your Hands In The Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble",
+          "title": "Put Your Hands In the Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble",
           "link": "https://thequietus.com/quietus-reviews/album-of-the-week/leo-chadburn-phaedra-ensemble-english-dancing-master-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/Shadows-2021-Credit-Leo-Chadburn-700x466.jpg",
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-10-29",
-          "description": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to raving at Castlemorton Common English Dancing Master is a dance album, but not in the sense you would usually associate with the term. There is no “succession of repetitive beats” (the phrase used by the Criminal Justice and Public Order Act 1994 to criminalise outdoor raves), ribcage splintering bass or woozy toplines. Instead, we are treated to a reticent male narrator – voiced by Leo Chadburn – and the Phaedra Ensemble in conversation with each other. In fact, it’s not really an album at all but a singular radiophonic piece broken up into brief episodes that... The post Put Your Hands In The Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble appeared first on The Quietus .",
+          "description": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to raving at Castlemorton Common English Dancing Master is a dance album, but not in the sense you would usually associate with the term. There is no “succession of repetitive beats” (the phrase used by the Criminal Justice and Public Order Act 1994 to criminalise outdoor raves), ribcage splintering bass or woozy toplines. Instead, we are treated to a reticent male narrator – voiced by Leo Chadburn – and the Phaedra Ensemble in conversation with each other. In fact, it’s not really an album at all but a singular radiophonic piece broken up into brief episodes that... The post Put Your Hands In the Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble appeared first on The Quietus .",
           "categories": [
             "Album of the Week"
           ],
@@ -576,47 +615,6 @@
             "Wendy Eisenberg"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "FKA twigs to Curate Meltdown 2027",
-          "link": "https://thequietus.com/news/fka-twigs-to-curate-meltdown-2027/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/FKA-twigs-curator-of-Meltdown-festival-2027-c-Jordan-Hemingway-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "The UK artist will oversee the programming for next year's edition of the event at London's Southbank Centre Photo by Jordan Hemingway FKA twigs has been confirmed as the curator of next year's Meltdown festival. Returning once again to London's Southbank Centre, the lineup for next year's event will be overseen by the UK artist, who will also play a headline set as part of the 11-day event. The full lineup will be announced in the coming months, but a press release promised that she will bring together an array of musical genre and artists working across various creative disciplines to reflect her influences. In a statement, FKA twigs said: \"I am honoured and excited to be curating Meltdown at the Southbank Centre. The... The post FKA twigs to Curate Meltdown 2027 appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "FKA twigs",
-            "Meltdown"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Matt Carmichael on New Album and EFG London Jazz Festival Appearance",
-          "link": "https://thequietus.com/news/matt-carmichael-on-new-album-and-london-jazz-festival-appearance/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/matt-solo-bnw-camille-lemoine--700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "Matt Carmichael speaks to Gail Tasker about his lush combination of jazz and folk, Held In The Dark, which will be performed with a full septet at three shows next month including a set for EFG London Jazz Festival Photo by Camille Lemoine Matt Carmichael is an artist whose deep and introspective relationship with music belies his years. Based in Glasgow, he forms part of a cohort of young music graduates who have steadily yet organically been pushing against the boundaries of learned traditions. Carmichael’s latest album, Held In The Dark, is his fourth, and a further iteration of the lush combination of folk and jazz which characterises his music. In some ways, Held In The Dark is familiar territory for Carmichael. It... The post Matt Carmichael on New Album and EFG London Jazz Festival Appearance appeared first on The Quietus .",
-          "categories": [
-            "News"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Ye Gods – Los",
-          "link": "https://thequietus.com/quietus-reviews/ye-gods-los/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/ye-gods-los.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "Ye Gods Los Visited by the ghost of gothmas past, Antoni Maiovvi whips out his magic circle for a true grimoire of an album Los by Ye Gods When Killing Joke’s Jaz Coleman tells you to do something, you should probably do it. Even if it’s only in a dream. In the case of British composer Antoni Maiovvi (AKA AD Goodfellow), the post-punk vocalist’s mid-slumber visit guided him back to the ritual magick practice he had let slide. To further atone for this oversight, Coleman suggested the name Ye Gods. Seven years and 12 releases later (by my abacus twiddling) and this “occult devotional electronics project” arrives at the William Blake-referencing Los. Over the years, Maiovvi’s compositional approach has evolved. The electronics are still scrambled,... The post Ye Gods – Los appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -1134,12 +1132,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 279,
+      "ms": 247,
       "error": null,
-      "fetchedAt": "2026-10-30T00:36:45.631Z",
-      "lastOkAt": "2026-10-30T00:36:45.631Z",
+      "fetchedAt": "2026-10-30T12:38:06.920Z",
+      "lastOkAt": "2026-10-30T12:38:06.920Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "ZIRP!",
+          "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a73e45ad12418ea88fa0f4d/master/pass/diiv-zirp!-cover-3k-rgb.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-30",
+          "description": "The shoegaze band teams with producer A. G. Cook for its most pop-leaning record yet. Despite some welcome shifts in tone, the best moments sound like no one but DIIV.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Larry Fitzmaurice"
+        },
+        {
+          "title": "Awesome",
+          "link": "https://pitchfork.com/reviews/albums/heathers-awesome/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae368415ab3de1a43c5f859/master/pass/Heathers%20-%20Awesome%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-30",
+          "description": "Upstart guitarist Heath Michael Thomas’ shaggy, groove-heavy garage rock captures the raucous interplay of a much more practiced band.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sam Goldner"
+        },
+        {
+          "title": "Dead Deities",
+          "link": "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae36a8ea7a049e9e3b0e7e9/master/pass/Satanic%20Planet%20Dead%20Deities.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-30",
+          "description": "The metal supergroup led by the co-founder and spokesperson of the Satanic Temple returns with a provocative, maximalist, and pretty solid second album.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sadie Sartini Garner"
+        },
+        {
+          "title": "valley and structure",
+          "link": "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae36eae95988ef7e2e81f6c/master/pass/More%20Eaze-valley%20and%20structure.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-30",
+          "description": "The experimental musician refines her approach to structured repetition on her second solo album of the year, finding melancholic beauty by subtly transforming Americana-inflected loops and patterns.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Henry Ivry"
+        },
         {
           "title": "The Same Place",
           "link": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/",
@@ -1477,58 +1527,6 @@
             "Reviews / Albums"
           ],
           "author": "Sue Park"
-        },
-        {
-          "title": "the greatest album of all time",
-          "link": "https://pitchfork.com/reviews/albums/sophia-stel-the-greatest-album-of-all-time/",
-          "imageUrl": "https://media.pitchfork.com/photos/6acfa1617b620b9086574c22/master/pass/600x600bb%20(88).jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "Casual but never unconsidered, the Canadian songwriter’s porous blend of pop, trip-hop, and hip-hop evokes late-night group hangs and intense body highs.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Walden Green"
-        },
-        {
-          "title": "The Party (10th Anniversary Edition)",
-          "link": "https://pitchfork.com/reviews/albums/andy-shauf-the-party-10th-anniversary-edition/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad7c55a0684aacfe7e8b107/master/pass/TheParty_AndyShauf_1600x1600.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "Tracing the events of a single evening, the Canadian songwriter’s cult-favorite concept album gets a new reissue with demos and outtakes that add darker shades to its intimate, soft-rock vignettes.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Lily Goldberg"
-        },
-        {
-          "title": "Antione’s Son",
-          "link": "https://pitchfork.com/reviews/albums/seventhirtyatmorning-antiones-son/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad769a607793ccccc6d6ac5/master/pass/Seventhirtyatmorning%20-%20Antione",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "The core elements—airy melodies, drug talk, copious ad-libs—are old hat, but frank tales of suburban ennui and romantic strife give the Minneapolis rapper’s latest album a refreshingly personal air.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Alphonse Pierre"
-        },
-        {
-          "title": "BLUNTS & BLADES",
-          "link": "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab41534f7ef2378a6776d57/master/pass/Zukenee-%20Blunts%20and%20Blades.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "Zukenee’s acrobatic performances and appreciation for Atlanta rap history outshine even his suit of medieval armor.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Narsimha Gour Chintaluri"
         }
       ]
     },
@@ -1545,10 +1543,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 679,
+      "ms": 686,
       "error": null,
-      "fetchedAt": "2026-10-30T00:36:45.631Z",
-      "lastOkAt": "2026-10-30T00:36:45.631Z",
+      "fetchedAt": "2026-10-30T12:38:06.920Z",
+      "lastOkAt": "2026-10-30T12:38:06.920Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,15 +2198,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-29T12:38:18.063Z",
-      "lastOkAt": "2026-10-29T12:38:18.063Z",
+      "ms": 422,
+      "error": null,
+      "fetchedAt": "2026-10-30T12:38:06.920Z",
+      "lastOkAt": "2026-10-30T12:38:06.920Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "HMLTD - FANGS ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=YGFqOLufncA",
+          "imageUrl": "https://i2.ytimg.com/vi/YGFqOLufncA/hqdefault.jpg",
+          "embedId": "YGFqOLufncA",
+          "audioSrc": "",
+          "pubDate": "2026-10-29",
+          "description": "Listen: https://hmltd.bandcamp.com/album/fangs At the very least, FANGS isn’t a boring listen. More rock reviews: https://youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_&si=o5yDT--LSzLPLA8_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: UMAMI, CLOSE TO YOU, SHUDDER LEAST FAV TRACK: CHATEAU VAMP FREESTYLE HMLTD - FANGS / 2026 / LUCKY NUMBER / ART ROCK, DARKWAVE, NEW RAVE 5/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
@@ -2362,38 +2372,11 @@
           "description": "#music #stellalefty #lifeisahighway #cars #song",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Remi Wolf - Mud ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=k3G3YpdV1gw",
-          "imageUrl": "https://i4.ytimg.com/vi/k3G3YpdV1gw/hqdefault.jpg",
-          "embedId": "k3G3YpdV1gw",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "Listen: https://www.youtube.com/watch?v=JnqDGWp6CSM Sadly an underwhelming album from Remi. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TWIGGY, I WON'T CRY LEAST FAV TRACK: WINE DRUNK REMI WOLF - MUD / 2026 / ISLAND / POP ROCK, ALT-COUNTRY 4/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/sophia-stel-the-greatest-album-of-all-time/": {
-      "artist": "Sophia Stel",
-      "album": "the greatest album of all time"
-    },
-    "https://pitchfork.com/reviews/albums/andy-shauf-the-party-10th-anniversary-edition/": {
-      "artist": "Andy Shauf",
-      "album": "The Party (10th Anniversary Edition)"
-    },
-    "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/": {
-      "artist": "Zukenee",
-      "album": "BLUNTS & BLADES"
-    },
-    "https://pitchfork.com/reviews/albums/seventhirtyatmorning-antiones-son/": {
-      "artist": "Seventhirtyatmorning",
-      "album": "Antione’s Son"
-    },
     "https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/": {
       "artist": "Dummy",
       "album": "do you love the color of the sky?"
@@ -2497,6 +2480,22 @@
     "https://pitchfork.com/reviews/albums/brakence-marrow/": {
       "artist": "brakence",
       "album": "marroW"
+    },
+    "https://pitchfork.com/reviews/albums/diiv-zirp/": {
+      "artist": "DIIV",
+      "album": "ZIRP!"
+    },
+    "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/": {
+      "artist": "more eaze",
+      "album": "valley and structure"
+    },
+    "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/": {
+      "artist": "Satanic Planet",
+      "album": "Dead Deities"
+    },
+    "https://pitchfork.com/reviews/albums/heathers-awesome/": {
+      "artist": "Heathers",
+      "album": "Awesome"
     }
   }
 }

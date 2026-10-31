@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-31T00:41:25.778Z",
+    "updatedAt": "2026-10-31T12:34:56.986Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 750,
+      "ms": 771,
       "error": null,
-      "fetchedAt": "2026-10-31T00:41:25.778Z",
-      "lastOkAt": "2026-10-31T00:41:25.778Z",
+      "fetchedAt": "2026-10-31T12:34:56.986Z",
+      "lastOkAt": "2026-10-31T12:34:56.986Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 557,
+      "ms": 683,
       "error": null,
-      "fetchedAt": "2026-10-31T00:41:25.778Z",
-      "lastOkAt": "2026-10-31T00:41:25.778Z",
+      "fetchedAt": "2026-10-31T12:34:56.986Z",
+      "lastOkAt": "2026-10-31T12:34:56.986Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/sunn-o-boris-altar-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/s-l1600-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-31",
+          "description": "Where do you go, what do you do, after you have created a riff for the ages? For Keith Kahn-Harris, that's the question that Boris & Sunn O)))'s Altar seems to ask By any objective standard, the riff that dominates 'Etna', the opener to the Boris / Sunn O))) collaboration Altar, should be as celebrated as 'Walk', 'Whole Lotta Love' or 'Symptom Of The Universe'. As a song, there is little else to it but the riff – an extended intro that builds and locks into an audaciously simple chord sequence, eventually giving way to a lavishly elongated breakdown into a squall of guitar noise. It's 9 minutes and 50 seconds of metallic perfection, the apotheosis of focused guitar power, without... The post Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O))) appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Enemies Within: Derek Jarman’s Kicking the Pricks and The Last of England",
+          "link": "https://thequietus.com/culture/books/enemies-within-derek-jarmans-kicking-the-pricks-and-the-last-of-england/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/The-Last-of-England-1987-pic-4-Courtesy-BFI-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-31",
+          "description": "Republished for the first time in nearly thirty years, Derek Jarman's book Kicking the Pricks, including the director's notes and diaries from the making of his seminal film The Last of England, offers a portal into a rotting UK that feels all too familiar The Last of England (Derek Jarman, 1987). All images courtesy: British Film Institute In Kicking The Pricks Derek Jarman poses the question: what use is a film, book or artwork that presents a nostalgic future warning for an unloved and thwarted isle? A companion piece to Jarman’s most overtly political film, The Last Of England, the book is part memoir, part production diary, and a scattering of interviews. Taken together, the two works show Jarman drawn into a... The post Enemies Within: Derek Jarman’s Kicking the Pricks and The Last of England appeared first on The Quietus .",
+          "categories": [
+            "Books"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35",
           "link": "https://thequietus.com/opinion-and-essays/anniversary/carcas-necroticism-descanting-the-insalubrious-review/",
@@ -587,34 +613,6 @@
             "Reviews"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "Talking Heads Reveal Book, ‘Talking Heads: New Feeling’",
-          "link": "https://thequietus.com/news/talking-heads-reveal-book-talking-heads-new-feeling/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Talking-Heads-1-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "It features archival visual material and original essay from the band's members, in addition to contributions by Debbie Harry, Lorde and others Talking Heads are publishing a book that will look back over their history and impact on the music world. Talking Heads: New Feeling will be released to mark the 50th anniversary of the band's debut album, Talking Heads: 77. \"For this book, we pulled out handwritten lyrics, original album sketches and private photos, some of which haven't left our archive in over 40 years,” the band's Jerry Harrison said. It also takes in original essays from all four members of the band, plus contributions by Debbie Harry, Lorde, Jeff Bridges and others. Among the visual material featured are behind-the-scenes photos from... The post Talking Heads Reveal Book, ‘Talking Heads: New Feeling’ appeared first on The Quietus .",
-          "categories": [
-            "News"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Wendy Eisenberg Reveals Surprise Release and New Project with More Eaze",
-          "link": "https://thequietus.com/news/wendy-eisenberg-reveals-surprise-release-and-new-project-with-more-eaze/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/unnamed-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "The band, Whait, will put their first album out in February Photo by Eleanor Petry Wendy Eisenberg has surprise released a companion album to their self-titled LP from earlier this year. Titled Wweennddyy Eeiisseennbbeerrgg, it collects extended live versions of the tracks 'Meaning Business' and 'The Walls' from Eisenberg's 2026 album. They recorded the new versions of the tracks with Mr. Bungle bassist Trevor Dunn, drummer Ryan Sawyer and violinist Mari Rubio, otherwise known as More Eaze. Speaking about their decision to record and share the expanded takes on these tracks, Eisenberg said: \"I want to write songs that feel infinite. I want to write songs that transcend their production, that can weather the changes. It’s probably a holdover from my jazz training, the... The post Wendy Eisenberg Reveals Surprise Release and New Project with More Eaze appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "More Eaze",
-            "Wendy Eisenberg"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1132,12 +1130,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 173,
+      "ms": 246,
       "error": null,
-      "fetchedAt": "2026-10-31T00:41:25.778Z",
-      "lastOkAt": "2026-10-31T00:41:25.778Z",
+      "fetchedAt": "2026-10-31T12:34:56.986Z",
+      "lastOkAt": "2026-10-31T12:34:56.986Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Drukqs (25th Anniversary Edition)",
+          "link": "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae377d7efb3062cf478c6cd/master/pass/Aphex%20Twin%20-%20Drukqs%202026.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-10-31",
+          "description": "Richard D. James’ once divisive 2001 album today looks, with 25 years of hindsight, like the keystone of his career, joining rave mischief and academic rigor in a sprawling, 100-minute package.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andy Cush"
+        },
         {
           "title": "ZIRP!",
           "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
@@ -1514,19 +1525,6 @@
             "Reviews / Albums"
           ],
           "author": "Harry Thorfinn-George"
-        },
-        {
-          "title": "do you love the color of the sky?",
-          "link": "https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a7dd69bca14a077a056d363/master/pass/unnamed%20-%202026-08-13T103639.912.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "The Los Angeles band dials up the hazy distortion and synthetic sheen surrounding its spacey blend of shoegaze guitars and breakbeats.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sue Park"
         }
       ]
     },
@@ -1543,10 +1541,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 498,
+      "ms": 480,
       "error": null,
-      "fetchedAt": "2026-10-31T00:41:25.778Z",
-      "lastOkAt": "2026-10-31T00:41:25.778Z",
+      "fetchedAt": "2026-10-31T12:34:56.986Z",
+      "lastOkAt": "2026-10-31T12:34:56.986Z",
       "itemCount": 40,
       "items": [
         {
@@ -2198,15 +2196,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
-      "attempts": 3,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-30T12:38:06.920Z",
-      "lastOkAt": "2026-10-30T12:38:06.920Z",
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 564,
+      "error": null,
+      "fetchedAt": "2026-10-31T12:34:56.986Z",
+      "lastOkAt": "2026-10-31T12:34:56.986Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "J. COLE IS NOT RETIRING NOW 😒",
+          "link": "https://www.youtube.com/shorts/SNqixcQEJYo",
+          "imageUrl": "https://i4.ytimg.com/vi/SNqixcQEJYo/hqdefault.jpg",
+          "embedId": "SNqixcQEJYo",
+          "audioSrc": "",
+          "pubDate": "2026-10-31",
+          "description": "#music #jcole #rap #hiphop",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "HMLTD - FANGS ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=YGFqOLufncA",
@@ -2360,26 +2370,11 @@
           "description": "Listen: https://www.youtube.com/watch?v=qB8bqpVn_SA Alabama Shakes' comeback album is kind of carried by its great singles. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ANOTHER LIFE, GARDEN, I FEEL HOPE COMING, HOW LOVE'S SUPPOSED TO GO, AMERICAN DREAM LEAST FAV TRACK: TEA TIME ALABAMA SHAKES - I MUST BE DREAMING / 2026 / ISLAND / PSYCH SOUL, BLUES ROCK 6/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "WHAT IS SHE DOING 😭",
-          "link": "https://www.youtube.com/shorts/lwrSLWhn4iE",
-          "imageUrl": "https://i1.ytimg.com/vi/lwrSLWhn4iE/hqdefault.jpg",
-          "embedId": "lwrSLWhn4iE",
-          "audioSrc": "",
-          "pubDate": "2026-10-15",
-          "description": "#music #stellalefty #lifeisahighway #cars #song",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/": {
-      "artist": "Dummy",
-      "album": "do you love the color of the sky?"
-    },
     "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/": {
       "artist": "Alchemical Sisters",
       "album": "Alchemical Sisters"
@@ -2495,6 +2490,10 @@
     "https://pitchfork.com/reviews/albums/heathers-awesome/": {
       "artist": "Heathers",
       "album": "Awesome"
+    },
+    "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/": {
+      "artist": "Aphex Twin",
+      "album": "Drukqs (25th Anniversary Edition)"
     }
   }
 }

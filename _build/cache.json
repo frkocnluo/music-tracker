@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-01T00:41:02.237Z",
+    "updatedAt": "2026-11-01T12:36:41.464Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 774,
+      "ms": 661,
       "error": null,
-      "fetchedAt": "2026-11-01T00:41:02.237Z",
-      "lastOkAt": "2026-11-01T00:41:02.237Z",
+      "fetchedAt": "2026-11-01T12:36:41.464Z",
+      "lastOkAt": "2026-11-01T12:36:41.464Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 1047,
+      "ms": 586,
       "error": null,
-      "fetchedAt": "2026-11-01T00:41:02.237Z",
-      "lastOkAt": "2026-11-01T00:41:02.237Z",
+      "fetchedAt": "2026-11-01T12:36:41.464Z",
+      "lastOkAt": "2026-11-01T12:36:41.464Z",
       "itemCount": 32,
       "items": [
         {
@@ -1130,12 +1130,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 342,
+      "ms": 259,
       "error": null,
-      "fetchedAt": "2026-11-01T00:41:02.237Z",
-      "lastOkAt": "2026-11-01T00:41:02.237Z",
+      "fetchedAt": "2026-11-01T12:36:41.464Z",
+      "lastOkAt": "2026-11-01T12:36:41.464Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Katamari Fortissimo Damacy",
+          "link": "https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae36f01c138238a931e34e7/master/pass/Various%20-%20Katamari%20Fortissimo%20Damacy%20(original).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-01",
+          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we reconnect with a 2004 cult-classic game whose postmodernist soundtrack doubles as a treatise on the meaning of life.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Billie Bugara"
+        },
         {
           "title": "Drukqs (25th Anniversary Edition)",
           "link": "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/",
@@ -1512,19 +1525,6 @@
             "Reviews / Albums"
           ],
           "author": "Mehan Jayasuriya"
-        },
-        {
-          "title": "Totally",
-          "link": "https://pitchfork.com/reviews/albums/baba-stiltz-totally/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/master/pass/Baba%20Stiltz%20Totally.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "The Swedish polymath explores the sounds, language, and imagery of Americana on a drolly observational singer-songwriter album.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Harry Thorfinn-George"
         }
       ]
     },
@@ -1541,10 +1541,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 672,
+      "ms": 520,
       "error": null,
-      "fetchedAt": "2026-11-01T00:41:02.237Z",
-      "lastOkAt": "2026-11-01T00:41:02.237Z",
+      "fetchedAt": "2026-11-01T12:36:41.464Z",
+      "lastOkAt": "2026-11-01T12:36:41.464Z",
       "itemCount": 40,
       "items": [
         {
@@ -2196,15 +2196,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-10-31T12:34:56.986Z",
-      "lastOkAt": "2026-10-31T12:34:56.986Z",
+      "ms": 367,
+      "error": null,
+      "fetchedAt": "2026-11-01T12:36:41.464Z",
+      "lastOkAt": "2026-11-01T12:36:41.464Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "The Olivia Tremor Control - The Same Place ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=DnG3IkbkGQ0",
+          "imageUrl": "https://i1.ytimg.com/vi/DnG3IkbkGQ0/hqdefault.jpg",
+          "embedId": "DnG3IkbkGQ0",
+          "audioSrc": "",
+          "pubDate": "2026-11-01",
+          "description": "Listen: https://oliviatremorcontrol.bandcamp.com/album/the-same-place After 27 years, the Olivia Tremor Control are back in the Same Place. Review by Giggens: https://www.youtube.com/user/Giggens More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== THE OLIVIA TREMOR CONTROL - THE SAME PLACE / 2026 / ELEPHANT 6 / '60S PSYCH THROWBACK, SOUND COLLAGE GIGGENS LOVES IT/10 Y'all know this is just his opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "J. COLE IS NOT RETIRING NOW 😒",
           "link": "https://www.youtube.com/shorts/SNqixcQEJYo",
@@ -2358,17 +2370,6 @@
           "description": "#music #vinyl #album",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Alabama Shakes - I Must Be Dreaming ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=Ypyau5YSZgU",
-          "imageUrl": "https://i2.ytimg.com/vi/Ypyau5YSZgU/hqdefault.jpg",
-          "embedId": "Ypyau5YSZgU",
-          "audioSrc": "",
-          "pubDate": "2026-10-16",
-          "description": "Listen: https://www.youtube.com/watch?v=qB8bqpVn_SA Alabama Shakes' comeback album is kind of carried by its great singles. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ANOTHER LIFE, GARDEN, I FEEL HOPE COMING, HOW LOVE'S SUPPOSED TO GO, AMERICAN DREAM LEAST FAV TRACK: TEA TIME ALABAMA SHAKES - I MUST BE DREAMING / 2026 / ISLAND / PSYCH SOUL, BLUES ROCK 6/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2381,10 +2382,6 @@
     "https://pitchfork.com/reviews/albums/ryan-hemsworth-numbskull/": {
       "artist": "Ryan Hemsworth",
       "album": "Numbskull"
-    },
-    "https://pitchfork.com/reviews/albums/baba-stiltz-totally/": {
-      "artist": "Baba Stiltz",
-      "album": "Totally"
     },
     "https://pitchfork.com/reviews/albums/fine-jazz-dreams/": {
       "artist": "Fine",
@@ -2493,6 +2490,10 @@
     "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/": {
       "artist": "Aphex Twin",
       "album": "Drukqs (25th Anniversary Edition)"
+    },
+    "https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/": {
+      "artist": "Various Artists",
+      "album": "Katamari Fortissimo Damacy"
     }
   }
 }

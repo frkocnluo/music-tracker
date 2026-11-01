@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-10-31T12:34:56.986Z",
+    "updatedAt": "2026-11-01T00:41:02.237Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 771,
+      "ms": 774,
       "error": null,
-      "fetchedAt": "2026-10-31T12:34:56.986Z",
-      "lastOkAt": "2026-10-31T12:34:56.986Z",
+      "fetchedAt": "2026-11-01T00:41:02.237Z",
+      "lastOkAt": "2026-11-01T00:41:02.237Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 683,
+      "ms": 1047,
       "error": null,
-      "fetchedAt": "2026-10-31T12:34:56.986Z",
-      "lastOkAt": "2026-10-31T12:34:56.986Z",
+      "fetchedAt": "2026-11-01T00:41:02.237Z",
+      "lastOkAt": "2026-11-01T00:41:02.237Z",
       "itemCount": 32,
       "items": [
         {
@@ -1130,10 +1130,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 246,
+      "ms": 342,
       "error": null,
-      "fetchedAt": "2026-10-31T12:34:56.986Z",
-      "lastOkAt": "2026-10-31T12:34:56.986Z",
+      "fetchedAt": "2026-11-01T00:41:02.237Z",
+      "lastOkAt": "2026-11-01T00:41:02.237Z",
       "itemCount": 30,
       "items": [
         {
@@ -1541,10 +1541,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 480,
+      "ms": 672,
       "error": null,
-      "fetchedAt": "2026-10-31T12:34:56.986Z",
-      "lastOkAt": "2026-10-31T12:34:56.986Z",
+      "fetchedAt": "2026-11-01T00:41:02.237Z",
+      "lastOkAt": "2026-11-01T00:41:02.237Z",
       "itemCount": 40,
       "items": [
         {
@@ -2196,12 +2196,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 564,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-10-31T12:34:56.986Z",
       "lastOkAt": "2026-10-31T12:34:56.986Z",
       "itemCount": 15,

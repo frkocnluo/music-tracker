@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-02T00:43:05.223Z",
+    "updatedAt": "2026-11-02T12:50:37.024Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 773,
+      "ms": 548,
       "error": null,
-      "fetchedAt": "2026-11-02T00:43:05.223Z",
-      "lastOkAt": "2026-11-02T00:43:05.223Z",
+      "fetchedAt": "2026-11-02T12:50:37.024Z",
+      "lastOkAt": "2026-11-02T12:50:37.024Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,77 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 638,
+      "ms": 622,
       "error": null,
-      "fetchedAt": "2026-11-02T00:43:05.223Z",
-      "lastOkAt": "2026-11-02T00:43:05.223Z",
+      "fetchedAt": "2026-11-02T12:50:37.024Z",
+      "lastOkAt": "2026-11-02T12:50:37.024Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Remember Them: The Incalculable Legacy of Juan Atkins",
+          "link": "https://thequietus.com/news/remember-them/juan-atkins-obituary/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Capture-decran-2026-01-23-a-15.49.30-e1769179789478-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Alex Maiolo salutes a visionary musician – \"The Originator\" of techno – who died on Saturday night Juan Atkins was born in Detroit, Michigan in 1962. His parents split when he was a teen. The plan was for him and his father to move to California, but his grandparents made the case for them to take up residence down the street in the Detroit suburb of Belleville. This was only the first time Juan’s grandmother, Lily, had a direct effect on the history of electronic music.The second was when she helped the 15-year-old buy a monosynth. Already playing in funk bands, Atkins took note of Bernie Worrell’s work in Funkadelic. Apparently Lily could absolutely tear it up on the Hammond B3... The post Remember Them: The Incalculable Legacy of Juan Atkins appeared first on The Quietus .",
+          "categories": [
+            "Remember Them…"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "A Form of Utopianism: Cluster’s Sowiesoso at 50",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/cluster-sowiesoso-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/12541217-700x700.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "From avant garde beginnings to ambient endings, Cluster reconfigured rock music as much as Kraftwerk, says Toby Manning. In the late 70s and early 80s, British music took a distinctly European turn, from Bowie’s “Heroes” in 1977 to Ultravox’s ‘Vienna’ in 1981, peaking with Kraftwerk’s ‘The Model’ hitting UK no. 1 the following year. Whether it was the after-effects of the EEC referendum or a growing anti-Americanism in the wake of Watergate and Vietnam, this new Europeanism temporarily sidelined music’s traditional Transatlantic passage for the artier terrain over the Channel. Chart hits like Visage’s ‘Fade To Grey’ in 1980, The Passions’ 1981 ‘I’m In Love With A German Film Star’, or The Mobiles’ ‘Drowning in Berlin’ from the same year were... The post A Form of Utopianism: Cluster’s Sowiesoso at 50 appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "How Pete Doherty’s Mega-Breakfast Predicted GB Music Radio",
+          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/how-pete-dohertys-mega-breakfast-predicted-gb-news-radio/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-30-at-18.06.11-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Pete Paphides reaches for the Gaviscon as he considers national identity, large plates of fried food, and what would be on the playlist were he celebrating British culture on the airwaves Pete Doherty eating his breakfast at the Dalby Cafe, via Instagram It’s been ten years since, over a Muswell Hill cuppa, my pop-loving compañero Bob Stanley floated a theory that was, on the face of things, a mite fanciful. He suggested that a key factor in the outcome of the 2016 referendum on leaving the EU was the similarity between the words ‘Brexit’ and ‘breakfast’. Bob contended that those of us who wanted Britain to remain in the EU didn’t have a comparably snappy word to which we could align our... The post How Pete Doherty’s Mega-Breakfast Predicted GB Music Radio appeared first on The Quietus .",
+          "categories": [
+            "Black Sky Thinking"
+          ],
+          "author": "Luke Turner"
+        },
+        {
+          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
+          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
+          "categories": [
+            "Monthly Playlists"
+          ],
+          "author": "Luke Turner"
+        },
+        {
+          "title": "The Last Path – Blunt Synopsis",
+          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
           "link": "https://thequietus.com/opinion-and-essays/anniversary/sunn-o-boris-altar-review/",
@@ -544,71 +609,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-23",
           "description": "Shit And Shine 0 aa Riot The ever-prolific Craig Clouse gives us four tracks of skipping needles and sporadic glitches, but it's the subtle details and small shifts that prove most beguiling for JR Moores 0 aa RIOT by SHIT AND SHINE Paul Du Noyer compared Paul McCartney’s “stylistic breadth” to Pablo Picasso. Will Gompertz eulogised David Bowie as “the Picasso of pop”. Leonard Cohen saw Bob Dylan as “the Picasso” and considered himself a lower-rung Matisse. Kanye West and Madonna have likened themselves to the great master. Mike Skinner said he was “the Pablo Picasso of geezer garage”. Notwithstanding this painter’s stranglehold over Western aesthetic thinking and ignoring his personal shortcomings for a moment, whose output can truly be hailed as the musical... The post Shit And Shine – 0 aa Riot appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Discrepant and Keroxen Plan Three-Day Cafe OTO Takeover",
-          "link": "https://thequietus.com/news/discrepant-keroxen-cafe-oto-festival-goncalo-f-cardoso-interview/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Alejandra-alehop-pic-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "Discrepant founder Gonçalo F. Cardoso tells tQ about a stacked lineup celebrating the underground scene of the Canary Islands and beyond Alejandra Cárdenas, aka Ale Hop The last three days of October will see London's experimental music lodestar Cafe OTO host a three day program organised by Tenerife-based DIY label Discrepant and the annual Canary Islands festival Keroxen. Taking place on 29, 30 and 31 October, a rammed schedule will see performances from more than a dozen acts. They include representatives from the thriving Canarian underground like psych rockers GAF Y La Estrella De La Muerte, experimental guitarist Paul Pèrrim, leftfield pop songwriter Akane and more. International representation comes from the likes of Japanese turntablist DJ Sniff, making a rare appearance in the... The post Discrepant and Keroxen Plan Three-Day Cafe OTO Takeover appeared first on The Quietus .",
-          "categories": [
-            "News"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Picking a Quarrel: The death of Edward Burra and the birth of British punk",
-          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/edward-burra-the-damned-1976/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Picture1-1.jpg-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "Richard Foster considers the life of an artist who died on the day that The Damned's 'New rose' was released, and considers an unusual continuum in weird British culture Those familiar with the popular British TV series Doctor Who will be aware that the unnamed Timelord protagonist occasionally transforms, 'dying' and reemerging alive once more within seconds, now portrayed by a new actor. This pareidolic process, alongside the sometimes ectoplasmic visual effects found in the programme’s opening and closing credits (especially those seen in the mid-1970s) suggests astral travel and spiritual regeneration; new possibilities that nevertheless draw on old hinterlands. On 22 October 1976, the English watercolour painter Edward Burra died in the Royal East Sussex hospital in Hastings. A happier and... The post Picking a Quarrel: The death of Edward Burra and the birth of British punk appeared first on The Quietus .",
-          "categories": [
-            "Black Sky Thinking"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Reframing our Environment: Pulp’s We Love Life at 25",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/pulp-we-love-life-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/711BphS6tL._AC_SL1063_-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "Darran Anderson looks at Pulp's (one-time) farewell LP, as fine as any of their others, and asks, why did it fall by the wayside? In Die Technik des Dramas (1863), Gustav Freytag argued for an ideal five act structure in storytelling. The problem was Freytag, for all his talent and success, was a racist Prussian supremacist and had, to put it mildly, something of a questionable world-view. Another problem was that life, with all its messy tangents and inconvenient loose ends, does not necessarily unfold in five acts. Though the structure existed in practise before then, it took off after Freytag formalised it, and it’s easy to see why; audiences, theatre producers, and political and religious moralists were all flattered by... The post Reframing our Environment: Pulp’s We Love Life at 25 appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Tally Ho! Hark Away! Everything in Readiness by Shovel Dance Collective",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/everything-in-readiness-shovel-dance-collective-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Shovel-Dance-Collective-by-Brad-Gilbert-horizontal-03-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "The London experimental folk outliers’ triumphant third album is a demonstration of traditional music at its most progressive, outward-looking and migratory Photo credit: Brad Gilbert The hammered dulcimer originated in Persia as the santur, perhaps as many as 5,000 years ago. From there it travelled in all directions, adapting and mutating as it went. It moved southwards to India, where it became the santoor, played by ancient Sufi mystics as an accompaniment to hymns, and then moved eastwards via China to become the Korean yanggeum. In Hungary it has grown bigger and turned into the cimbalom, the national instrument. In Spain, it can be found depicted on the relief of a 12th century cathedral. It England it became popular with street performers... The post Tally Ho! Hark Away! Everything in Readiness by Shovel Dance Collective appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Reigns – Antigeist",
-          "link": "https://thequietus.com/quietus-reviews/reigns-antigeist-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/reigns-antigeist.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "Reigns Antigeist Wessex duo grow into a quartet, get amped, still full of doom The Antigeist by Reigns Somerset is a real epicentre of modern druidry and all things occult. The Stanton Drew Stone Circles are there and Glastonbury Tor is there, both generating plenty of neo-pagan energy. It is also the mystical home county of sibling duo Reigns (Roo and Tim Farthing) who since their 2004 debut have consistently welded horror-flavoured storytelling and a trippy electro-folk sound to create a discography that could serve a spiritual companion to Fernando Pessoa’s The Book of Disquiet Reigns’ signature is mining the darker side of humanity through their work, offering the audience scant relief from these terrifying realities. But whereas the duo worked alone on previous albums,... The post Reigns – Antigeist appeared first on The Quietus .",
           "categories": [
             "Reviews"
           ],
@@ -1130,12 +1130,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 217,
+      "ms": 237,
       "error": null,
-      "fetchedAt": "2026-11-02T00:43:05.223Z",
-      "lastOkAt": "2026-11-02T00:43:05.223Z",
+      "fetchedAt": "2026-11-02T12:50:37.024Z",
+      "lastOkAt": "2026-11-02T12:50:37.024Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Late Loop",
+          "link": "https://pitchfork.com/reviews/albums/andy-stott-late-loop/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab17549f99f7bf88c241c73/master/pass/5060165488810.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Featuring heartbroken vocal performances and stripped of frills like basslines or reverb, the Manchester producer’s latest album of bruised electronica is his starkest and most forlorn yet.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Chal Ravens"
+        },
+        {
+          "title": "The Girl of Your Dreams",
+          "link": "https://pitchfork.com/reviews/albums/ashe-the-girl-of-your-dreams/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae3b9afdd353d3745bb9abf/master/pass/Ashe%20-%20The%20Girl%20of%20Your%20Dreams%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "The “Stop the Wedding!” singer’s vintage-styled new album combines stately pop classicism and exuberant ’70s pastiche.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Molly Mary O’Brien"
+        },
+        {
+          "title": "Passing the Cup of Sorrows",
+          "link": "https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae4bc8c00019c3ef93fb729/master/pass/William%20Basinski%20-%20Passing%20the%20Cup%20of%20Sorrows.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "The Disintegration Loops made the composer’s name synonymous with weighty meditations on memory and loss, but his latest album—calm, focused, tender—is a reminder of his fondness for beauty.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Brian Howe"
+        },
+        {
+          "title": "Everything in Readiness",
+          "link": "https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae36bbdd83a22061522fc42/master/pass/Shovel%20Dance%20Collective%20-%20Everything%20in%20Readiness%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Marrying lush arrangements and field-recording experiments, the English revivalists honor folk music’s radical tradition by reinforcing its contemporary significance.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alastair Shuttleworth"
+        },
         {
           "title": "Katamari Fortissimo Damacy",
           "link": "https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/",
@@ -1473,58 +1525,6 @@
             "Reviews / Albums"
           ],
           "author": "Kiana Mickles"
-        },
-        {
-          "title": "It’s a Style Sport",
-          "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ada59e651345c8f17678d01/master/pass/Shabazz%20Palaces%20It",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Ishmael Butler explores the cosmos within on a shadowy and uncharacteristically introspective new album.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Dash Lewis"
-        },
-        {
-          "title": "Beirut City Pop",
-          "link": "https://pitchfork.com/reviews/albums/various-artists-beirut-city-pop/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad8ffeb96279ee60f9f9373/master/pass/Beirut%20City%20Pop.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Habibi Funk’s latest compilation shines a spotlight on the vintage soul, disco, and jazz that sprang up as a homegrown response to Lebanon’s brutal civil war.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Shy Clara Thompson"
-        },
-        {
-          "title": "Alchemical Sisters",
-          "link": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a885e2c3ebe66b3901a13cd/master/pass/Eris-Drew-Octo-Octa-Alchemical-Sisters.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "For their collaborative full-length debut, Eris Drew and Octo Octa hunkered down in their New Hampshire cabin to craft a celebratory, sample-heavy tribute to the maximalist dance music of yore.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Andrew Ryce"
-        },
-        {
-          "title": "Numbskull",
-          "link": "https://pitchfork.com/reviews/albums/ryan-hemsworth-numbskull/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a7b8a52050964276156a80d/master/pass/Numbskull%20album%20art_credit_CoreySchmitz.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "On his first album in eight years, the Canadian DJ and producer reconnects with the guitar music of his youth, drawing on punk, emo, and shoegaze for an album that plays like a handmade mixtape.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Mehan Jayasuriya"
         }
       ]
     },
@@ -1541,10 +1541,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 629,
+      "ms": 583,
       "error": null,
-      "fetchedAt": "2026-11-02T00:43:05.223Z",
-      "lastOkAt": "2026-11-02T00:43:05.223Z",
+      "fetchedAt": "2026-11-02T12:50:37.024Z",
+      "lastOkAt": "2026-11-02T12:50:37.024Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,12 +2200,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 296,
+      "ms": 171,
       "error": null,
-      "fetchedAt": "2026-11-02T00:43:05.223Z",
-      "lastOkAt": "2026-11-02T00:43:05.223Z",
+      "fetchedAt": "2026-11-02T12:50:37.024Z",
+      "lastOkAt": "2026-11-02T12:50:37.024Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Rachel Chinouriri - I think I spoke too soon ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=GNr-xuIL6m8",
+          "imageUrl": "https://i4.ytimg.com/vi/GNr-xuIL6m8/hqdefault.jpg",
+          "embedId": "GNr-xuIL6m8",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Listen: https://www.youtube.com/watch?v=Ewf11NeIMIQ There're some great highlights and a lot to appreciate about 'I think I spoke too soon.' More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BABY STEPS, I'M A STAR, AAAHHH!!!, BROKEN CHAIR, SHIVER RACHEL CHINOURIRI - I THINK I SPOKE TOO SOON / 2026 / PARLOPHONE / SYNTHPOP, POP ROCK 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "WHAT'S IN MY BAG?!!",
           "link": "https://www.youtube.com/shorts/1x6nObGXO40",
@@ -2359,30 +2370,11 @@
           "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! LustSickPuppy - SHAKER https://www.youtube.com/watch?v=xly1kfOATxI Danny L Harle - Starlight ft. PinkPantheress (Skrillex & ring noord Remix) https://www.youtube.com/watch?v=lM1bydMNMHA fakemink & Skepta - Chiltern Firehouse . https://www.youtube.com/watch?v=3FqzoaWq4wc femtanyl - ALL THE TIME https://www.youtube.com/watch?v=ZlKSjeYIxr8 Power Trip - Precinct 3 https://www.youtube.com/watch?v=N4u9M1eXxq0 Michael Kiwanuka - Sing https://www.youtube.com/watch?v=7esTGcAwxcM Undeath - Arterial Bombardment https://www.youtube.com/watch?v=ZJObtup-6qY Silvana Estrada - Todo Baila ft. M. Ward https://www.youtube.com/watch?v=bGerVl-wRLo PISS - Rote Zora. “Resistance is Possible.” Emma, no. 6, June 1984, pp. 39-41. https://www.youtube.com/watch?v=6TiFlIIijPA The Drums & Genesis Owusu - Blackstar https://www.youtube.com/watch?v=Bennl_HdXmU Aesop Rock & Blockhead - Coyote Summer ft. Hanni El Khatib https://www.youtube.com/watch?v=br2IbQW1BRo …meh… Matt Proxy - iphone https://www.youtube.com/watch?v=L2gNCPt6HKo Tiffany Day & glaive - MEANT TO BE https://www.youtube.com/watch?v=a8kQFgp9Oy4 Zach Bryan - Lies ft. Lana Del Rey https://www.youtube.com/watch?v=nhR-Ka-aKUs Justice - Flower in a Hurricane ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard https://www.youtube.com/watch?v=5dPwBWvmcbQ A$AP Rocky - Shroom Clouds ft. reggie & Jeremih https://www.youtube.com/watch?v=kfBW-Hj-yrA bleood - how many https://www.youtube.com/watch?v=REdY7AKUGYI KASTEYE - Unloveu https://www.youtube.com/watch?v=bRrjcdad2Zg Twisted Teens - Stalks https://www.youtube.com/watch?v=0J6qF477cPc !!!WORST TRACKS THIS WEEK!!! Grimes - ACCELERANDO ft. VADAKIN https://www.youtube.com/watch?v=AVu5p2DMIf8 Taylor Swift - Patient Zero (Acoustic Version) https://www.youtube.com/watch?v=ZnR9AtSBwvk brakence - bitE https://www.youtube.com/watch?v=-WQep3y_Tm8 Tate McRae - Housewife https://www.youtube.com/watch?v=DPEodkHzH-s U2 - The Greatest Show on Earth https://www.youtube.com/watch?v=TUuVOW7XogA =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "GREAT ALBUMS: October 2026",
-          "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
-          "imageUrl": "https://i2.ytimg.com/vi/qvjpRLaeA5Y/hqdefault.jpg",
-          "embedId": "qvjpRLaeA5Y",
-          "audioSrc": "",
-          "pubDate": "2026-10-18",
-          "description": "A roundup of Anthony's favorite albums from the past month or so. The music and reviews are linked below in order of appearance. Alex Cameron - Late to Set Review: https://www.youtube.com/watch?v=hDKUNgce03g Listen: https://www.youtube.com/watch?v=AU6KPj5xCX0&list=OLAK5uy_lOXH_3WglGUjM6mfTPRAHcXN0ghMawBdM&index=1 Cameron Winter Live at Carnegie Hall Review: https://www.youtube.com/watch?v=IB7GmiQm9xA Listen: https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall Godflesh - Decay Review: https://www.youtube.com/watch?v=bhKypakZovQ Listen: https://godflesh.bandcamp.com/album/decay Chat Pile - Who Loves the Sun Review: https://www.youtube.com/watch?v=xivxvPzEWhA Listen: https://chatpile.bandcamp.com/album/who-loves-the-sun Protomartyr - Hotel Usona Review: https://www.youtube.com/watch?v=uIolbXfsg6Q Listen: https://protomartyr.bandcamp.com/album/hotel-usona Interview: https://www.youtube.com/watch?v=U-7WNPIFkCc Standing on the Corner \"II\" Review: https://www.youtube.com/watch?v=E7jOCrmHrvw Listen: https://standingonthecorner.bandcamp.com/album/standing-on-the-corner-ii Swans - Newly Sentient Being Review: https://www.youtube.com/watch?v=9xsmpDaz-7k Listen: https://swans.bandcamp.com/album/newly-sentient-being Tinashe - Popstar Review: https://www.youtube.com/watch?v=ZYxjZiNfZQc Listen: https://tinashe.lnk.to/popstar Deafheaven - At Work in the Fields of the Bomb EP Listen: https://www.youtube.com/watch?v=rbpZPrT4Jqw&list=OLAK5uy_nTV2WjlENpAbZWxgKpx0EGr2yVRIsFUXc NEKRA - Is It Really Living? EP Listen: https://nekra.bandcamp.com/album/is-it-really-living Full 2026 Loved List: https://theneedledrop.com/loved-list/2026/ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/": {
-      "artist": "Alchemical Sisters",
-      "album": "Alchemical Sisters"
-    },
-    "https://pitchfork.com/reviews/albums/ryan-hemsworth-numbskull/": {
-      "artist": "Ryan Hemsworth",
-      "album": "Numbskull"
-    },
     "https://pitchfork.com/reviews/albums/fine-jazz-dreams/": {
       "artist": "Fine",
       "album": "Jazz dreams"
@@ -2390,14 +2382,6 @@
     "https://pitchfork.com/reviews/albums/jacques-greene-jg/": {
       "artist": "Jacques Greene",
       "album": "jg"
-    },
-    "https://pitchfork.com/reviews/albums/various-artists-beirut-city-pop/": {
-      "artist": "Various Artists",
-      "album": "Beirut City Pop"
-    },
-    "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/": {
-      "artist": "Shabazz Palaces",
-      "album": "It’s a Style Sport"
     },
     "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/": {
       "artist": "Amy Winehouse",
@@ -2494,6 +2478,22 @@
     "https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/": {
       "artist": "Various Artists",
       "album": "Katamari Fortissimo Damacy"
+    },
+    "https://pitchfork.com/reviews/albums/andy-stott-late-loop/": {
+      "artist": "Andy Stott",
+      "album": "Late Loop"
+    },
+    "https://pitchfork.com/reviews/albums/ashe-the-girl-of-your-dreams/": {
+      "artist": "Ashe",
+      "album": "The Girl of Your Dreams"
+    },
+    "https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/": {
+      "artist": "Shovel Dance Collective",
+      "album": "Everything in Readiness"
+    },
+    "https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/": {
+      "artist": "William Basinski",
+      "album": "Passing the Cup of Sorrows"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-01T12:36:41.464Z",
+    "updatedAt": "2026-11-02T00:43:05.223Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 661,
+      "ms": 773,
       "error": null,
-      "fetchedAt": "2026-11-01T12:36:41.464Z",
-      "lastOkAt": "2026-11-01T12:36:41.464Z",
+      "fetchedAt": "2026-11-02T00:43:05.223Z",
+      "lastOkAt": "2026-11-02T00:43:05.223Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 586,
+      "ms": 638,
       "error": null,
-      "fetchedAt": "2026-11-01T12:36:41.464Z",
-      "lastOkAt": "2026-11-01T12:36:41.464Z",
+      "fetchedAt": "2026-11-02T00:43:05.223Z",
+      "lastOkAt": "2026-11-02T00:43:05.223Z",
       "itemCount": 32,
       "items": [
         {
@@ -1130,10 +1130,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 259,
+      "ms": 217,
       "error": null,
-      "fetchedAt": "2026-11-01T12:36:41.464Z",
-      "lastOkAt": "2026-11-01T12:36:41.464Z",
+      "fetchedAt": "2026-11-02T00:43:05.223Z",
+      "lastOkAt": "2026-11-02T00:43:05.223Z",
       "itemCount": 30,
       "items": [
         {
@@ -1541,10 +1541,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 520,
+      "ms": 629,
       "error": null,
-      "fetchedAt": "2026-11-01T12:36:41.464Z",
-      "lastOkAt": "2026-11-01T12:36:41.464Z",
+      "fetchedAt": "2026-11-02T00:43:05.223Z",
+      "lastOkAt": "2026-11-02T00:43:05.223Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,12 +2200,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 367,
+      "ms": 296,
       "error": null,
-      "fetchedAt": "2026-11-01T12:36:41.464Z",
-      "lastOkAt": "2026-11-01T12:36:41.464Z",
+      "fetchedAt": "2026-11-02T00:43:05.223Z",
+      "lastOkAt": "2026-11-02T00:43:05.223Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "WHAT'S IN MY BAG?!!",
+          "link": "https://www.youtube.com/shorts/1x6nObGXO40",
+          "imageUrl": "https://i2.ytimg.com/vi/1x6nObGXO40/hqdefault.jpg",
+          "embedId": "1x6nObGXO40",
+          "audioSrc": "",
+          "pubDate": "2026-11-01",
+          "description": "#music #cds #recordstore #collection",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "The Olivia Tremor Control - The Same Place ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=DnG3IkbkGQ0",
@@ -2357,17 +2368,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-18",
           "description": "A roundup of Anthony's favorite albums from the past month or so. The music and reviews are linked below in order of appearance. Alex Cameron - Late to Set Review: https://www.youtube.com/watch?v=hDKUNgce03g Listen: https://www.youtube.com/watch?v=AU6KPj5xCX0&list=OLAK5uy_lOXH_3WglGUjM6mfTPRAHcXN0ghMawBdM&index=1 Cameron Winter Live at Carnegie Hall Review: https://www.youtube.com/watch?v=IB7GmiQm9xA Listen: https://cameronwinter.bandcamp.com/album/live-at-carnegie-hall Godflesh - Decay Review: https://www.youtube.com/watch?v=bhKypakZovQ Listen: https://godflesh.bandcamp.com/album/decay Chat Pile - Who Loves the Sun Review: https://www.youtube.com/watch?v=xivxvPzEWhA Listen: https://chatpile.bandcamp.com/album/who-loves-the-sun Protomartyr - Hotel Usona Review: https://www.youtube.com/watch?v=uIolbXfsg6Q Listen: https://protomartyr.bandcamp.com/album/hotel-usona Interview: https://www.youtube.com/watch?v=U-7WNPIFkCc Standing on the Corner \"II\" Review: https://www.youtube.com/watch?v=E7jOCrmHrvw Listen: https://standingonthecorner.bandcamp.com/album/standing-on-the-corner-ii Swans - Newly Sentient Being Review: https://www.youtube.com/watch?v=9xsmpDaz-7k Listen: https://swans.bandcamp.com/album/newly-sentient-being Tinashe - Popstar Review: https://www.youtube.com/watch?v=ZYxjZiNfZQc Listen: https://tinashe.lnk.to/popstar Deafheaven - At Work in the Fields of the Bomb EP Listen: https://www.youtube.com/watch?v=rbpZPrT4Jqw&list=OLAK5uy_nTV2WjlENpAbZWxgKpx0EGr2yVRIsFUXc NEKRA - Is It Really Living? EP Listen: https://nekra.bandcamp.com/album/is-it-really-living Full 2026 Loved List: https://theneedledrop.com/loved-list/2026/ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "NO SKIP ALBUMS 🔥💿💯",
-          "link": "https://www.youtube.com/shorts/NrOWZLtILeU",
-          "imageUrl": "https://i3.ytimg.com/vi/NrOWZLtILeU/hqdefault.jpg",
-          "embedId": "NrOWZLtILeU",
-          "audioSrc": "",
-          "pubDate": "2026-10-18",
-          "description": "#music #vinyl #album",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

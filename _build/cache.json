@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-03T00:43:28.135Z",
+    "updatedAt": "2026-11-03T12:50:10.608Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 658,
+      "ms": 552,
       "error": null,
-      "fetchedAt": "2026-11-03T00:43:28.135Z",
-      "lastOkAt": "2026-11-03T00:43:28.135Z",
+      "fetchedAt": "2026-11-03T12:50:10.608Z",
+      "lastOkAt": "2026-11-03T12:50:10.608Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 672,
+      "ms": 1504,
       "error": null,
-      "fetchedAt": "2026-11-03T00:43:28.135Z",
-      "lastOkAt": "2026-11-03T00:43:28.135Z",
+      "fetchedAt": "2026-11-03T12:50:10.608Z",
+      "lastOkAt": "2026-11-03T12:50:10.608Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence",
+          "link": "https://thequietus.com/news/daphne-oram-at-100-bradford-influence-hannah-peel-annea-lockwood/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Oram1-copy-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "As celebrations of Daphne Oram's centenary culminate with an all-day celebration in Bradford, Claire Biddles speaks to a host of artists, from her contemporaries to previous Oram Award winners, to get a measure of her immense contribution to electronic music Photo © Daphne Oram Trust The pioneering work of Daphne Oram was not fully recognised until after her death in 2003 – but now, over 20 years later, she is rightly recognised as one of the most important electronic musicians of the 20th century. A co-founder of the BBC’s legendary Radiophonic Workshop in 1958, Oram was one of the first composers to use electronic sound in her work, and is known for her early use of electronic tape, turntablism, and musique concrète... The post Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Spool’s Out: Cassette Reviews for November by Daryl Worthington",
+          "link": "https://thequietus.com/quietus-reviews/cassettes/spools-out-cassette-reviews-for-november-by-daryl-worthington/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/ROXANNE-HARRIS-Copia-de-Foto-_-SonarD-_-ROXANNE-STAGED-_-PHOTO-©-Cecilia-Diaz-Betz-_-Carrusuel-_-20260619_0484-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "Daryl Worthington considers the extent to which Spool’s Out offers investment advice, and reviews a crop of tapes including a footwork legend from Japan going ultra-crisp, mesmerising live code improvisations, ferocious eco-pop and more Roxanne Harris, photo by Cecilia Díaz Betz Five thousand dollars. That’s how much an original copy of Prince’s The Versace Experience on cassette could be worth, according to Finance Buzz, a website which offers “the resources and support necessary to navigate the complexities of personal finance”. That Prince tape, which contained previews of tracks from his then forthcoming The Gold Experience, was issued in 1995 and given to attendees at a fashion show in Paris. It tops the Finance Buzz ’10 Cassette Tapes From The 90s Worth A Small... The post Spool’s Out: Cassette Reviews for November by Daryl Worthington appeared first on The Quietus .",
+          "categories": [
+            "Cassettes"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Marta Salogni & Stefano Pilia – Phren",
+          "link": "https://thequietus.com/quietus-reviews/marta-salogni-stefano-pilia-phren-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/salogni-pilia-phren.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "Marta Salogni & Stefano Pilia Phren Spooky sounds from two Italian masters of modern electro-acoustic composition Phren by Marta Salogni & Stefano Pilia Marta Salogni and Stefano Pilia’s Phren is music of accretion. Inputs are fed through Pilia’s chain of filters and tape echo and on into Salogni’s Revox reel-to-reel tape machine for further manipulation and modulation, the signals absorbing new layers and mutations as they go. According to the release notes, that initial input is often Pilia’s guitar, but the pair’s plastic approach to sound makes that far from obvious. They telescope the act of mediation, mottling, shading and bending signals as they pass from sound source to ears. ‘Sopra l’acque scavate’ opens with distorted notes sparking like a frosty firework display. The more... The post Marta Salogni & Stefano Pilia – Phren appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Remember Them: The Incalculable Legacy of Juan Atkins",
           "link": "https://thequietus.com/news/remember-them/juan-atkins-obituary/",
@@ -223,19 +262,6 @@
           "author": "Luke Turner"
         },
         {
-          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
-          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
-          "categories": [
-            "Monthly Playlists"
-          ],
-          "author": "Luke Turner"
-        },
-        {
           "title": "The Last Path – Blunt Synopsis",
           "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
@@ -247,6 +273,19 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
+          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
+          "categories": [
+            "Monthly Playlists"
+          ],
+          "author": "Luke Turner"
         },
         {
           "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
@@ -574,45 +613,6 @@
             "SQUARE"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Cracked Actor: Robbie Williams’ Rudebox at 20",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/robbie-williams-rudebox-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/0x1900-000000-80-0-0-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Robbie Williams’ hip hop pivot is widely seen as one of the most obnoxious failures in pop. Claire Biddles & Fergal Kinney deal with an LP which is experimental outlier, outsider art & baffling mess all at once There’s a moment in 2016 captured in Chris Heath’s bestselling journalistic portrait of Robbie Williams where the singer is struggling with his infant child emotionally pushing his father away. “Maybe,” offers his wife Ayda Field-Williams, “she’s finally heard Rudebox.” The September 2006 release of the ‘Rudebox’ single remains the most controversial moment in Robbie Williams career, a turning point that decisively ended his imperial phase as Britain’s biggest pop star that he had sustained since the 1997 release of Life Thru A Lens. Where... The post Cracked Actor: Robbie Williams’ Rudebox at 20 appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Low Culture Essay: Sophie Sleigh-Johnson on The Indoor League",
-          "link": "https://thequietus.com/subscriber-area/low-culture-essay/low-culture-essay-sophie-sleigh-johnson-on-the-indoor-league/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/indor-league-trueman-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Rising Damp expert Sophie Sleigh-Johnson tunes in to the 70s pub sports telly series that celebrated regional specificity through a fug of cig smoke and the rituals of indoor combat Something was afoot in the corridors of Yorkshire TV during the early 70s, fuelled by crates of Double Diamond beer. The chipboard sets of Rising Damp, a luridly claustrophobic set piece transmitted into the country’s living rooms, shared production space (if not a specific studio) at Kirkstall Road Studios, Leeds with another domesticated strain of British culture: the pub. Long before Luke Littler brought darts to the TikTok generation and Sky homogenised the arrows’ presentation, The Indoor League brought pub-based sports to British living rooms. In 1972 audiences had been able to watch the... The post Low Culture Essay: Sophie Sleigh-Johnson on The Indoor League appeared first on The Quietus .",
-          "categories": [
-            "Low Culture Essay"
-          ],
-          "author": "Luke Turner"
-        },
-        {
-          "title": "Shit And Shine – 0 aa Riot",
-          "link": "https://thequietus.com/quietus-reviews/shit-and-shine-0-aa-riot-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/shit-and-shine-o-aa-riot.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Shit And Shine 0 aa Riot The ever-prolific Craig Clouse gives us four tracks of skipping needles and sporadic glitches, but it's the subtle details and small shifts that prove most beguiling for JR Moores 0 aa RIOT by SHIT AND SHINE Paul Du Noyer compared Paul McCartney’s “stylistic breadth” to Pablo Picasso. Will Gompertz eulogised David Bowie as “the Picasso of pop”. Leonard Cohen saw Bob Dylan as “the Picasso” and considered himself a lower-rung Matisse. Kanye West and Madonna have likened themselves to the great master. Mike Skinner said he was “the Pablo Picasso of geezer garage”. Notwithstanding this painter’s stranglehold over Western aesthetic thinking and ignoring his personal shortcomings for a moment, whose output can truly be hailed as the musical... The post Shit And Shine – 0 aa Riot appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -1130,12 +1130,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 216,
+      "ms": 130,
       "error": null,
-      "fetchedAt": "2026-11-03T00:43:28.135Z",
-      "lastOkAt": "2026-11-03T00:43:28.135Z",
+      "fetchedAt": "2026-11-03T12:50:10.608Z",
+      "lastOkAt": "2026-11-03T12:50:10.608Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Burning Song",
+          "link": "https://pitchfork.com/reviews/albums/kali-malone-burning-song/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae8b6b76f5468feebccc392/master/pass/Kali%20Malone%20-%20Burning%20Song.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "Unlike the composer’s typically massive, sprawling drones, these pieces for pipe organ—accompanied by guitarist Stephen O’Malley and cellist Lucy Railton—are finely filigreed miniatures.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sasha Geffen"
+        },
+        {
+          "title": "Accolades EP",
+          "link": "https://pitchfork.com/reviews/albums/lydia-loveless-accolades-ep/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae49e061534acc465ada843/master/pass/Lydia%20Loveless-Accolades.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "On a new EP, the Ohio singer-songwriter writes with focus and immediacy, their lyrics blending a love of chaos with an eye toward long-term stability.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Stephen M. Deusner"
+        },
+        {
+          "title": "Infinite Now",
+          "link": "https://pitchfork.com/reviews/albums/two-shell-infinite-now/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae8add83ad14b0f5282eace/master/pass/Two%20Shell%20-%20Infinite%20Now.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "The perennially unserious duo’s embrace of AI is the least of the problems weighing down its latest album (and 55-track bonus compendium) of post-ironic club pop.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andrew Ryce"
+        },
+        {
+          "title": "Live at the KiMo Theater Albuquerque 1979",
+          "link": "https://pitchfork.com/reviews/albums/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae4de958cc155b23b3f707a/master/pass/Cecil%20Taylor%20Unit%20Live%20at%20the%20KiMo%20Theater%20Albuquerque%201979.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "A newly unearthed live performance, originally intended for broadcast on NPR, showcases a unique and transitional moment for the free-jazz pianist's ensemble.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Levi Dayan"
+        },
         {
           "title": "Late Loop",
           "link": "https://pitchfork.com/reviews/albums/andy-stott-late-loop/",
@@ -1473,58 +1525,6 @@
             "Reviews / Albums"
           ],
           "author": "Ryan Meehan"
-        },
-        {
-          "title": "In My Own Words",
-          "link": "https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ada6e3198461794d4a4a34f/master/pass/Ne-Yo%20-%20In%20My%20Own%20Words%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-25",
-          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the 2006 debut from Ne-Yo, a gifted young songwriter whose suave, supportive love songs put ladies first.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Clover Hope"
-        },
-        {
-          "title": "Back to Black (20th Anniversary Edition)",
-          "link": "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ada38d1f00eb0165f8135ae/master/pass/Amy%20Winehouse%20-%20Back%20to%20Black%2020th%20anniversary%20edition%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-24",
-          "description": "Even with unreleased demos on the tracklist, there’s hardly anything to add to Amy Winehouse’s 2006 blockbuster, one of the all-time great breakup albums.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Rich Juzwiak"
-        },
-        {
-          "title": "Jazz dreams",
-          "link": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab1771595d5696b67afdb2c/master/pass/a0271857415_10.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Hattie Lindert"
-        },
-        {
-          "title": "jg",
-          "link": "https://pitchfork.com/reviews/albums/jacques-greene-jg/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad9c65110f23c4740171808/master/pass/Jacques%20Greene%20-%20jg.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "A year after his moody collab with Nosaj Thing, the Montreal producer returns with his clubbiest album yet. But even when it bangs, his music still sounds as dreamy as ever.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Kiana Mickles"
         }
       ]
     },
@@ -1541,10 +1541,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 521,
+      "ms": 443,
       "error": null,
-      "fetchedAt": "2026-11-03T00:43:28.135Z",
-      "lastOkAt": "2026-11-03T00:43:28.135Z",
+      "fetchedAt": "2026-11-03T12:50:10.608Z",
+      "lastOkAt": "2026-11-03T12:50:10.608Z",
       "itemCount": 40,
       "items": [
         {
@@ -2196,15 +2196,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-02T12:50:37.024Z",
-      "lastOkAt": "2026-11-02T12:50:37.024Z",
+      "ms": 262,
+      "error": null,
+      "fetchedAt": "2026-11-03T12:50:10.608Z",
+      "lastOkAt": "2026-11-03T12:50:10.608Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Queens of the Stone Age - Perfecth ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=KouRFIOyqws",
+          "imageUrl": "https://i4.ytimg.com/vi/KouRFIOyqws/hqdefault.jpg",
+          "embedId": "KouRFIOyqws",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "Listen: https://qotsa.bandcamp.com/album/perfecth Sadly this is QOTSA's weakest album by a wide margin. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: EASY STREET LEAST FAV TRACK: MONO QUEENS OF THE STONE AGE - PERFECTH / 2026 / MATADOR / ALT ROCK 3/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Rachel Chinouriri - I think I spoke too soon ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=GNr-xuIL6m8",
@@ -2358,38 +2370,11 @@
           "description": "Albums getting added to Anthony's collection (in order of mention): Frank Zappa / The Mothers of Invention - Freak Out! 60th Anniversary Box Set The Beatles - Rubber Soul 60th Anniversary Box Set Mos Def - The Ecstatic Photo Book Vinyl Nails - \"Fear Based Life\" 7\" Henson Cargill - What's My Name The Jimi Hendrix Experience - Electric Ladyland Interpol - This Mirror Weighs a Ton Earth Tongue - Dungeon Vision (CD) & Floating Being Ty Segall - Chrome Scientist - Scientific Dub SML - Spontaneous Music Live Carlos Santana & Mahavishnu John McLaughlin - Love Devotion Surrender Minnie Ripperton - Adventures in Paradise Melvins - Joe Preston Natalia Lafourcade - Cancionera More vinyl collection vids: https://www.youtube.com/playlist?list=PL41246372C72A479B Turntable Lab link: http://turntablelab.com/theneedledrop =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Taylor Swift, Grimes, femtanyl, A$AP Rocky | Weekly Track Roundup: 10/18/26",
-          "link": "https://www.youtube.com/watch?v=kChEOoG-uCM",
-          "imageUrl": "https://i4.ytimg.com/vi/kChEOoG-uCM/hqdefault.jpg",
-          "embedId": "kChEOoG-uCM",
-          "audioSrc": "",
-          "pubDate": "2026-10-19",
-          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! LustSickPuppy - SHAKER https://www.youtube.com/watch?v=xly1kfOATxI Danny L Harle - Starlight ft. PinkPantheress (Skrillex & ring noord Remix) https://www.youtube.com/watch?v=lM1bydMNMHA fakemink & Skepta - Chiltern Firehouse . https://www.youtube.com/watch?v=3FqzoaWq4wc femtanyl - ALL THE TIME https://www.youtube.com/watch?v=ZlKSjeYIxr8 Power Trip - Precinct 3 https://www.youtube.com/watch?v=N4u9M1eXxq0 Michael Kiwanuka - Sing https://www.youtube.com/watch?v=7esTGcAwxcM Undeath - Arterial Bombardment https://www.youtube.com/watch?v=ZJObtup-6qY Silvana Estrada - Todo Baila ft. M. Ward https://www.youtube.com/watch?v=bGerVl-wRLo PISS - Rote Zora. “Resistance is Possible.” Emma, no. 6, June 1984, pp. 39-41. https://www.youtube.com/watch?v=6TiFlIIijPA The Drums & Genesis Owusu - Blackstar https://www.youtube.com/watch?v=Bennl_HdXmU Aesop Rock & Blockhead - Coyote Summer ft. Hanni El Khatib https://www.youtube.com/watch?v=br2IbQW1BRo …meh… Matt Proxy - iphone https://www.youtube.com/watch?v=L2gNCPt6HKo Tiffany Day & glaive - MEANT TO BE https://www.youtube.com/watch?v=a8kQFgp9Oy4 Zach Bryan - Lies ft. Lana Del Rey https://www.youtube.com/watch?v=nhR-Ka-aKUs Justice - Flower in a Hurricane ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard https://www.youtube.com/watch?v=5dPwBWvmcbQ A$AP Rocky - Shroom Clouds ft. reggie & Jeremih https://www.youtube.com/watch?v=kfBW-Hj-yrA bleood - how many https://www.youtube.com/watch?v=REdY7AKUGYI KASTEYE - Unloveu https://www.youtube.com/watch?v=bRrjcdad2Zg Twisted Teens - Stalks https://www.youtube.com/watch?v=0J6qF477cPc !!!WORST TRACKS THIS WEEK!!! Grimes - ACCELERANDO ft. VADAKIN https://www.youtube.com/watch?v=AVu5p2DMIf8 Taylor Swift - Patient Zero (Acoustic Version) https://www.youtube.com/watch?v=ZnR9AtSBwvk brakence - bitE https://www.youtube.com/watch?v=-WQep3y_Tm8 Tate McRae - Housewife https://www.youtube.com/watch?v=DPEodkHzH-s U2 - The Greatest Show on Earth https://www.youtube.com/watch?v=TUuVOW7XogA =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/fine-jazz-dreams/": {
-      "artist": "Fine",
-      "album": "Jazz dreams"
-    },
-    "https://pitchfork.com/reviews/albums/jacques-greene-jg/": {
-      "artist": "Jacques Greene",
-      "album": "jg"
-    },
-    "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/": {
-      "artist": "Amy Winehouse",
-      "album": "Back to Black (20th Anniversary Edition)"
-    },
-    "https://pitchfork.com/reviews/albums/ne-yo-in-my-own-words/": {
-      "artist": "Ne-Yo",
-      "album": "In My Own Words"
-    },
     "https://pitchfork.com/reviews/albums/andy-boay-doomed/": {
       "artist": "Andy Boay",
       "album": "Doomed"
@@ -2493,6 +2478,22 @@
     "https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/": {
       "artist": "William Basinski",
       "album": "Passing the Cup of Sorrows"
+    },
+    "https://pitchfork.com/reviews/albums/two-shell-infinite-now/": {
+      "artist": "Two Shell",
+      "album": "Infinite Now"
+    },
+    "https://pitchfork.com/reviews/albums/kali-malone-burning-song/": {
+      "artist": "Kali Malone",
+      "album": "Burning Song"
+    },
+    "https://pitchfork.com/reviews/albums/lydia-loveless-accolades-ep/": {
+      "artist": "Lydia Loveless",
+      "album": "Accolades EP"
+    },
+    "https://pitchfork.com/reviews/albums/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979/": {
+      "artist": "Cecil Taylor Unit",
+      "album": "Live at the KiMo Theater Albuquerque 1979"
     }
   }
 }

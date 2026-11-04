@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-04T00:42:16.625Z",
+    "updatedAt": "2026-11-04T12:49:21.747Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 837,
+      "ms": 798,
       "error": null,
-      "fetchedAt": "2026-11-04T00:42:16.625Z",
-      "lastOkAt": "2026-11-04T00:42:16.625Z",
+      "fetchedAt": "2026-11-04T12:49:21.747Z",
+      "lastOkAt": "2026-11-04T12:49:21.747Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 698,
+      "ms": 631,
       "error": null,
-      "fetchedAt": "2026-11-04T00:42:16.625Z",
-      "lastOkAt": "2026-11-04T00:42:16.625Z",
+      "fetchedAt": "2026-11-04T12:49:21.747Z",
+      "lastOkAt": "2026-11-04T12:49:21.747Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Andy Ingamells – Vanity Project",
+          "link": "https://thequietus.com/quietus-reviews/andy-ingamells-vanity-project/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/BRC031_cover_720x-ingamells-700x700.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "Andy Ingamells Vanity Project The solo debut album by the British composer-performer is full of fun – and no shortage of questions “Search for fun, types of fun, source of fun, apply for fun, awarded fun, get fun, have fun,” enumerates Andy Ingamells in the opener of his first solo album Vanity Project. It would indeed be fun, were it not for the call bell that keeps cutting in, turning fun into fun-ding – a never-ending, soul-sucking loop. Silence falls after ‘decision pen-ding’. This semantic, even conceptual playfulness of ‘Ding’ permeates Vanity Project, which gathers pieces from 2008 to 2026. Ingamells is the sole musician on all but one track, speaking, singing, playing melodica, pipe organ and more. Central to his practice is the intersection... The post Andy Ingamells – Vanity Project appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Funny Games: Aphex Twin’s Richard D. James Album 30 years on",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/aphex-twin-richard-d-james-album-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/a1664460568_10-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "With a manic grin leering from the cover, Aphex Twin's fourth was readily incorporated into blather about drill & bass but his best, most cohesive album was neither wacky nor a novelty, says Toby Manning Richard D. James Album by Aphex Twin The year is 1996, the era of Britpop and lads’ mags, of Euro 96 and ‘Three Lions’, the retro complacency of which has seemingly no connection to the restlessly innovative Aphex Twin’s fifth album. Yet the depthless positivity of Cool Britannia didn’t just produce Britpop but ‘comedy is the new rock & roll’, the wipe-clean irony of Chris Evans and the music weeklies’ suffusion with puns, gags and exclamations of ‘arse!’ This comedification of culture hence predicated the media presentation... The post Funny Games: Aphex Twin’s Richard D. James Album 30 years on appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
         {
           "title": "Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence",
           "link": "https://thequietus.com/news/daphne-oram-at-100-bradford-influence-hannah-peel-annea-lockwood/",
@@ -262,19 +288,6 @@
           "author": "Luke Turner"
         },
         {
-          "title": "The Last Path – Blunt Synopsis",
-          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
           "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
           "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
@@ -286,6 +299,19 @@
             "Monthly Playlists"
           ],
           "author": "Luke Turner"
+        },
+        {
+          "title": "The Last Path – Blunt Synopsis",
+          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
         },
         {
           "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
@@ -581,36 +607,6 @@
             "GOD",
             "Kevin Martin",
             "The Bug"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Lost Pursues 24-Hour License for New Oxford Street Venue",
-          "link": "https://thequietus.com/news/lost-pursues-24-hour-license-for-new-oxford-street-venue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Lost-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "The London party series is aiming to take over a complex formerly used by London College of Fashion Lost, the secretive London party series famed for its big-name lineups, has revealed its pursuing a 24-hour license for a new venue in the heart of Oxford Street. Taking to Instagram yesterday (22 October), the team behind the party revealed that they had secured use of a building complex formerly used by London College of Fashion. Writing on social media, they said: \"An entire block on Oxford Street to reimagine the heart of London, we want to build this with you.\" In a further update to email subscribers issued today (23 October), Lost encouraged people to contact Westminster Council in order to support them in... The post Lost Pursues 24-Hour License for New Oxford Street Venue appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Lost"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Portugal’s SQUARE Festival Reveals First Name for Conference Programme",
-          "link": "https://thequietus.com/news/portugals-square-festival-reveals-first-name-for-conference-programme/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/DJ-Marfox_photo-credit-Marta-Pina-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Exploring the theme of Continuity, it will feature contributions from affiliates of the Príncipe label and tQ's own Jennifer Lucy Allan DJ Marfox, photo by Marta Pina Portuguese festival SQUARE has revealed the first details of the conference programme for its 2027 edition. Returning to Braga for its third edition in January, SQUARE will host a number of panel discussions and artist interviews for the second consecutive year. The programming will revolve around the theme of Continuity. One session will explore 15 years of Portuguese label Príncipe, with key affiliates DJ Marfox and Helviofox set to be interviewed. tQ's own Jennifer Lucy Allan will also moderate a panel discussion called Archives And Memory: Exploring The Unfamiliar, which will explore the practice of recovering sound... The post Portugal’s SQUARE Festival Reveals First Name for Conference Programme appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "DJ Marfox",
-            "Príncipe",
-            "SQUARE"
           ],
           "author": "Christian Eede"
         }
@@ -1130,12 +1126,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 179,
+      "ms": 132,
       "error": null,
-      "fetchedAt": "2026-11-04T00:42:16.625Z",
-      "lastOkAt": "2026-11-04T00:42:16.625Z",
+      "fetchedAt": "2026-11-04T12:49:21.747Z",
+      "lastOkAt": "2026-11-04T12:49:21.747Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "On Tha Run",
+          "link": "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aea06e6b2a4ae06c18ac614/master/pass/Baby%20Osamaa%20-%20On%20Tha%20Run%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "With delirious melodic instincts, the Bronx rapper’s new tape evokes Young Money-era swag on a SoundCloud budget.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alphonse Pierre"
+        },
+        {
+          "title": "Catedral Gótica",
+          "link": "https://pitchfork.com/reviews/albums/niagara-catedral-gotica/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae9fa49a678072465a4a4ae/master/pass/Niagara%20-%20Catedral%20Go%CC%81tica.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "The Lisbon trio trades the laid-back feel of its earlier, more disco-indebted work for skeletal machine minimalism, twisted sequencer fugues, and lo-fi ambient that conceals more than it reveals.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Shaad D’Souza"
+        },
+        {
+          "title": "Follow the Light",
+          "link": "https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aea1ce888ed135c4885e5cd/master/pass/June%20McDoom-Follow%20the%20Light.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "On her debut album, the musician combines her family’s Jamaican mento legacy with her personal love of folk for a set of graceful, winningly direct songs.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Emma Madden"
+        },
+        {
+          "title": "What to Make of These Mortal Hands",
+          "link": "https://pitchfork.com/reviews/albums/dis-fig-what-to-make-of-these-mortal-hands/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae3b8af13936ee9eac88b6a/master/pass/Dis%20Fig%20-%20What%20to%20Make%20of%20These%20Mortal%20Hands.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "Experimental artist Felicia Chen’s high-contrast compositions unite whispers and shrieks, intimate acoustics and inhuman distortion.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "James Gui"
+        },
         {
           "title": "Burning Song",
           "link": "https://pitchfork.com/reviews/albums/kali-malone-burning-song/",
@@ -1473,58 +1521,6 @@
             "Reviews / Albums"
           ],
           "author": "Olivier Lafontant"
-        },
-        {
-          "title": "cantu of the sower EP",
-          "link": "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/",
-          "imageUrl": "https://media.pitchfork.com/photos/6adb85c8eb79c260502e90fb/master/pass/heavensouls%20Cantu%20of%20the%20sower.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "An album-length EP by the 20-year-old producer is a dizzying and boundless collage of collages, using free-jazz logic and digital overload to chart new emotional terrain.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Kieran Press-Reynolds"
-        },
-        {
-          "title": "Gentling the Horse at the Walt Whitman Mall",
-          "link": "https://pitchfork.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad9138a99efacf8991d37c0/master/pass/3000x3000bb-100%20(1).jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "The singer-songwriter’s seventh album is their wackiest and funniest to date, with a madcap gleam coursing through its portraits of lovable weirdos and suburban dread.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Zach Schonfeld"
-        },
-        {
-          "title": "How to Count to Five",
-          "link": "https://pitchfork.com/reviews/albums/holidays-in-united-states-how-to-count-to-five/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad910aff6a56a2545c47504/master/pass/Holidays%20in%20United%20States%20-%20How%20to%20Count%20to%20Five%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "The New York City emo band’s debut LP splits the difference between the genre’s first and second waves with sincerity and self-deprecating charm.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Nick Laskin"
-        },
-        {
-          "title": "Doomed",
-          "link": "https://pitchfork.com/reviews/albums/andy-boay-doomed/",
-          "imageUrl": "https://media.pitchfork.com/photos/6adb8c090ac26c3bad94e14d/master/pass/Andy%20Boay%20Doomed.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "On his latest solo album, the Tonstartssbandht guitarist/vocalist crafts a serene, psychedelic opus that invites us to become immersed.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Ryan Meehan"
         }
       ]
     },
@@ -1541,10 +1537,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 335,
+      "ms": 302,
       "error": null,
-      "fetchedAt": "2026-11-04T00:42:16.625Z",
-      "lastOkAt": "2026-11-04T00:42:16.625Z",
+      "fetchedAt": "2026-11-04T12:49:21.747Z",
+      "lastOkAt": "2026-11-04T12:49:21.747Z",
       "itemCount": 40,
       "items": [
         {
@@ -2197,15 +2193,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-03T12:50:10.608Z",
-      "lastOkAt": "2026-11-03T12:50:10.608Z",
+      "ms": 147,
+      "error": null,
+      "fetchedAt": "2026-11-04T12:49:21.747Z",
+      "lastOkAt": "2026-11-04T12:49:21.747Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "PISS - you made me / skin on linen ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=nAxDHd-r3YQ",
+          "imageUrl": "https://i3.ytimg.com/vi/nAxDHd-r3YQ/hqdefault.jpg",
+          "embedId": "nAxDHd-r3YQ",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "Listen: https://pisstheband.bandcamp.com/album/you-made-me-skin-on-linen One of the best debuts not only of the year, but this decade. More hardcore reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: I WANTED TO BE A SINGER, TIME LOOP AT HOT SLIT, A LITTLE GIRL'S HORSE CRAZE BETRAYS HER, THERE WAS A DOOR, HOW CAN YOU ACT OPPOSITE TO THIS EMOTION?, BLOCKING A SCENE YOU CAN'T REMEMBER, ROTE ZORA. \"RESISTANCE IS POSSIBLE.\" EMMA NO. 6 JUNE 1984 PP. 39-41. PISS - YOU MADE ME / SKIN ON LINEN \\ 2026 \\ SUB POP \\ NOISECORE, POST-ROCK, SPOKEN WORD, SOUND COLLAGE 9/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Queens of the Stone Age - Perfecth ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=KouRFIOyqws",
@@ -2359,38 +2367,11 @@
           "description": "Listen: https://fontainesdc.bandcamp.com/album/dopamine-chamber Fontaines D.C. take their sound in a darker, more ethereal direction that works for them on Dopamine Chamber. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SIX SHOT MORNING, MARIANNE, TONGUE, WHERE IS GONE?, JAPAN LEAST FAV TRACK: MIMESIS FONTAINES D.C. - DOPAMINE CHAMBER / 2026 / XL / DARKWAVE, DREAM POP 7/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "MASSIVE VINYL UPDATE",
-          "link": "https://www.youtube.com/watch?v=huYP-3TUgs8",
-          "imageUrl": "https://i1.ytimg.com/vi/huYP-3TUgs8/hqdefault.jpg",
-          "embedId": "huYP-3TUgs8",
-          "audioSrc": "",
-          "pubDate": "2026-10-20",
-          "description": "Albums getting added to Anthony's collection (in order of mention): Frank Zappa / The Mothers of Invention - Freak Out! 60th Anniversary Box Set The Beatles - Rubber Soul 60th Anniversary Box Set Mos Def - The Ecstatic Photo Book Vinyl Nails - \"Fear Based Life\" 7\" Henson Cargill - What's My Name The Jimi Hendrix Experience - Electric Ladyland Interpol - This Mirror Weighs a Ton Earth Tongue - Dungeon Vision (CD) & Floating Being Ty Segall - Chrome Scientist - Scientific Dub SML - Spontaneous Music Live Carlos Santana & Mahavishnu John McLaughlin - Love Devotion Surrender Minnie Ripperton - Adventures in Paradise Melvins - Joe Preston Natalia Lafourcade - Cancionera More vinyl collection vids: https://www.youtube.com/playlist?list=PL41246372C72A479B Turntable Lab link: http://turntablelab.com/theneedledrop =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/andy-boay-doomed/": {
-      "artist": "Andy Boay",
-      "album": "Doomed"
-    },
-    "https://pitchfork.com/reviews/albums/holidays-in-united-states-how-to-count-to-five/": {
-      "artist": "Holidays in United States",
-      "album": "How to Count to Five"
-    },
-    "https://pitchfork.com/reviews/albums/heavensouls-cantu-of-the-sower-ep/": {
-      "artist": "heavensouls",
-      "album": "cantu of the sower EP"
-    },
-    "https://pitchfork.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall/": {
-      "artist": "Caroline Rose",
-      "album": "Gentling the Horse at the Walt Whitman Mall"
-    },
     "https://pitchfork.com/reviews/albums/skino-blood-and-oil/": {
       "artist": "Skino",
       "album": "Blood & Oil"
@@ -2494,6 +2475,22 @@
     "https://pitchfork.com/reviews/albums/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979/": {
       "artist": "Cecil Taylor Unit",
       "album": "Live at the KiMo Theater Albuquerque 1979"
+    },
+    "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/": {
+      "artist": "Baby Osamaa",
+      "album": "On Tha Run"
+    },
+    "https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/": {
+      "artist": "June McDoom",
+      "album": "Follow the Light"
+    },
+    "https://pitchfork.com/reviews/albums/dis-fig-what-to-make-of-these-mortal-hands/": {
+      "artist": "Dis Fig",
+      "album": "What to Make of These Mortal Hands"
+    },
+    "https://pitchfork.com/reviews/albums/niagara-catedral-gotica/": {
+      "artist": "Niagara",
+      "album": "Catedral Gótica"
     }
   }
 }

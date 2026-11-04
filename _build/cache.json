@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-03T12:50:10.608Z",
+    "updatedAt": "2026-11-04T00:42:16.625Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 552,
+      "ms": 837,
       "error": null,
-      "fetchedAt": "2026-11-03T12:50:10.608Z",
-      "lastOkAt": "2026-11-03T12:50:10.608Z",
+      "fetchedAt": "2026-11-04T00:42:16.625Z",
+      "lastOkAt": "2026-11-04T00:42:16.625Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 1504,
+      "ms": 698,
       "error": null,
-      "fetchedAt": "2026-11-03T12:50:10.608Z",
-      "lastOkAt": "2026-11-03T12:50:10.608Z",
+      "fetchedAt": "2026-11-04T00:42:16.625Z",
+      "lastOkAt": "2026-11-04T00:42:16.625Z",
       "itemCount": 32,
       "items": [
         {
@@ -1130,10 +1130,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 130,
+      "ms": 179,
       "error": null,
-      "fetchedAt": "2026-11-03T12:50:10.608Z",
-      "lastOkAt": "2026-11-03T12:50:10.608Z",
+      "fetchedAt": "2026-11-04T00:42:16.625Z",
+      "lastOkAt": "2026-11-04T00:42:16.625Z",
       "itemCount": 30,
       "items": [
         {
@@ -1541,12 +1541,28 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 443,
+      "ms": 335,
       "error": null,
-      "fetchedAt": "2026-11-03T12:50:10.608Z",
-      "lastOkAt": "2026-11-03T12:50:10.608Z",
+      "fetchedAt": "2026-11-04T00:42:16.625Z",
+      "lastOkAt": "2026-11-04T00:42:16.625Z",
       "itemCount": 40,
       "items": [
+        {
+          "title": "Album Of The Week: Willi Carlisle The Universal Bubba",
+          "link": "https://stereogum.com/2516368/album-of-the-week-willi-carlisle-the-universal-bubba/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/TheUniversalBubba_Cover.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "“It’s a record that should sound like getting drunk at the civil war re-enactment, cruising for tail at the cattle auction, dropping acid at the square dance.” That’s Willi Carlisle, in song-by-song notes accompanying his new The Universal Bubba , explaining his intentions for the project. Out this Friday, it’s the most ambitious work yet from the Arkansas country-rocker and “big tent folksinger” — a double album co-produced by Americana superstar Tyler Childers, meant to celebrate and subvert Southern culture in all its glory. It works like it’s supposed to. The post Album Of The Week: Willi Carlisle <em>The Universal Bubba</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Tyler Childers",
+            "Willi Carlisle"
+          ],
+          "author": "Chris DeVille"
+        },
         {
           "title": "Album Of The Week: DIIV ZIRP!",
           "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
@@ -2169,21 +2185,6 @@
             "Mandy Indiana"
           ],
           "author": "Chris DeVille"
-        },
-        {
-          "title": "Album Of The Week: Joyce Manor I Used To Go To This Bar",
-          "link": "https://stereogum.com/2486605/album-of-the-week-joyce-manor-i-used-to-go-to-this-bar/reviews/album-of-the-week/",
-          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2025/10/joyce-manor-1759755999.jpg?w=564",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-01-27",
-          "description": "The post Album Of The Week: Joyce Manor <em>I Used To Go To This Bar</em> appeared first on Stereogum .",
-          "categories": [
-            "Album Of The Week",
-            "Reviews",
-            "Joyce Manor"
-          ],
-          "author": "Danielle Chelosky"
         }
       ]
     },
@@ -2196,12 +2197,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 262,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-11-03T12:50:10.608Z",
       "lastOkAt": "2026-11-03T12:50:10.608Z",
       "itemCount": 15,

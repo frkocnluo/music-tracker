@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-05T00:47:29.150Z",
+    "updatedAt": "2026-11-05T12:53:30.696Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 922,
+      "ms": 778,
       "error": null,
-      "fetchedAt": "2026-11-05T00:47:29.150Z",
-      "lastOkAt": "2026-11-05T00:47:29.150Z",
+      "fetchedAt": "2026-11-05T12:53:30.696Z",
+      "lastOkAt": "2026-11-05T12:53:30.696Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 703,
+      "ms": 690,
       "error": null,
-      "fetchedAt": "2026-11-05T00:47:29.150Z",
-      "lastOkAt": "2026-11-05T00:47:29.150Z",
+      "fetchedAt": "2026-11-05T12:53:30.696Z",
+      "lastOkAt": "2026-11-05T12:53:30.696Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Open Mind, Open Planet: Gigi Masin’s Favourite Albums",
+          "link": "https://thequietus.com/interviews/bakers-dozen/open-mind-open-planet-gigi-masins-favourite-albums/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/GigiMasinPic-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "As his cult classic 1986 album Wind receives an expanded reissue, Italian composer and ambient pioneer Gigi Masin takes Siobhan Kane through his life in 13 records The renewed interest in Gigi Masin’s 1986 album Wind has taken the Venetian by surprise. He sees it as “strange and wonderful… I am really happy and honoured”. The expanded album, reissued by Numero Uno 40 years later, recontextualises Wind as an ambient gem, but an appreciation for Masin started some time ago, with artists such as Björk referencing his work, sampling ‘Clouds’ on her 2002 song ‘It’s In Our Hands’. Growing up in Italy, playing the guitar and working in radio, Masin was exposed to lots of different kinds of music, but his life... The post Open Mind, Open Planet: Gigi Masin’s Favourite Albums appeared first on The Quietus .",
+          "categories": [
+            "Baker's Dozen"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "A Dream Within a Dream: Manifold of Partially Actualized Realities by Randall Dunn",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/randall-dunn-manifold-of-partially-actualized-realities-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/KOU015_Randall-Dunn_Artist-Image-3_-Charmaine-Lee-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "The American composer, producer and audio engineer warps time and space on a slow-burning album that riffs on Philip K. Dick's \"orthogonal\" temporalities Photo credit Charmaine Lee Imagine your entire life, your entire world, being dreamed into existence by a creator who, night after night, gradually gives shape to your being, only to discover that he, too, is someone else’s dream. This is the premise of Jorge Luis Borges’ short story ‘The Circular Ruins’, after which Randall Dunn christened his Brooklyn studio. He’s the man behind the production of some of the highest peaks in experimental metal, from Earth’s The Bees Made Honey in the Lion’s Skull to Sunn O)))’s monumental Monoliths & Dimensions, via Old Man Gloom’s Light of Meaning and... The post A Dream Within a Dream: Manifold of Partially Actualized Realities by Randall Dunn appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Silverwingkiller – Desperate Struggle",
+          "link": "https://thequietus.com/quietus-reviews/silverwingkiller-desperate-struggle/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/silverwingkiller-desperate.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "Silverwingkiller Desperate Struggle Manchester duo's second album feels like inhabiting a video game – from the perspective of a non-player character DESPERATE STRUGGLE by SILVERWINGKILLER On ‘Worldstar’, Silverwingkiller’s arpeggiators resemble the swirl of evil slot machines, a rigged jackpot ringing above breakbeats and blown-out electronics. The duo say its pulse comes from a loop of 1970s Somali disco. Across five tracks, Desperate Struggle feels less like a collection of regular songs than a series of playable locations: stations, street corners and checkpoints. It’s a post-cyberpunk carnival, closer to the multicultural streets of the video game Jet Set Radio Future than an exoticised East reflected in Western mirrorshades, with those once reduced to scenery grabbing hold of the camera in the Reality Studio. There’s a particular... The post Silverwingkiller – Desperate Struggle appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Liars Share New Track, ‘Beat Creep Some Eyes’",
           "link": "https://thequietus.com/news/liars-share-new-track-beat-creep-some-eyes/",
@@ -333,19 +372,6 @@
           "author": "Luke Turner"
         },
         {
-          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
-          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
-          "categories": [
-            "Monthly Playlists"
-          ],
-          "author": "Luke Turner"
-        },
-        {
           "title": "The Last Path – Blunt Synopsis",
           "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
@@ -357,6 +383,19 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
+          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
+          "categories": [
+            "Monthly Playlists"
+          ],
+          "author": "Luke Turner"
         },
         {
           "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
@@ -572,46 +611,6 @@
             "Electronic"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Johnny Marr – The Age of Everything",
-          "link": "https://thequietus.com/quietus-reviews/johnny-marr-the-age-of-everything-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/The_Age_Of_Everything_by_Johnny_Marr.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "Johnny Marr The Age of Everything Former Smiths guitarist settles some scores – with himself, and others When I spoke to Johnny Marr for Huck in 2019, all Morrissey talk was off the table. Marr is a very affable interviewee though, and given that the conversation was going so well, I couldn’t resist slipping in a cheeky question about how an unnamed “certain person” was chipping away at the legacy of The Smiths with his increasingly unhinged pronouncements. “Honestly? I’m not concerned, is the answer,” he replied, generously. “I’m just not. I’m concerned about so many other things in my day and in the living of my life, you know, that that just isn’t one of my concerns. I go out and play... The post Johnny Marr – The Age of Everything appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "@ – Autosmile",
-          "link": "https://thequietus.com/quietus-reviews/autosmile-at-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/autosmile-at.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "@ Autosmile Philadelphia duo with an ungoogleable name create dreamy psychedelic worlds with Waterboys flutes and Beach Boys harmonies Autosmile by @ It’s a great time and a nightmarish time to be an @ (pronounced ‘at’) fan. It’s exciting that the Philadelphia art-folk band’s second album has just been released, but it’s also a faff trying to explain to friends who @ are. Victoria Rose and Stone Filipczak are making fresh, entrancing music that communicates places and mindsets in contemporary ways that can’t quite be reduced to any generic label or category. Selfishly, when you listen to the self-proclaimed SEO wet dream’s latest album Autosmile you almost want to keep them to yourself, to simply eat your comforting slice of @ pie, and sit there... The post @ – Autosmile appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "The Flaming Lips Reveal New Album, ‘The Teadrop Throbs’",
-          "link": "https://thequietus.com/news/the-flaming-lips-reveal-new-album-the-teadrop-throbs/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/image001-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "It marks the band's first release for Jack White's Third Man Records The Flaming Lips have a new album on the way, titled The Teardrop Throbs. Featuring 13 tracks, the record marks the band's first release for Jack White's label, Third Man Records. It's the band's first album in seven years, and their first in 35 years to not feature multi-instrumentalist Steven Drozd, who is no longer a member of the band. In a lengthy statement about the album and each of its tracks, frontman Wayne Coyne said: \"Please keep in mind there are a thousand things that go into making a song. I don't really believe any song has a fixed meaning, and I don't want my songs to have a... The post The Flaming Lips Reveal New Album, ‘The Teadrop Throbs’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "The Flaming Lips"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1129,12 +1128,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 288,
+      "ms": 244,
       "error": null,
-      "fetchedAt": "2026-11-05T00:47:29.150Z",
-      "lastOkAt": "2026-11-05T00:47:29.150Z",
+      "fetchedAt": "2026-11-05T12:53:30.696Z",
+      "lastOkAt": "2026-11-05T12:53:30.696Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "The Holy Cross Tigers",
+          "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aeb5fe71d58dfb46e474b86/master/pass/Twisted%20Teens%20-%20The%20Holy%20Cross%20Tigers.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "On their third album this year, the New Orleans garage rockers embrace conflicting emotions and clashing sounds, balancing hard-charging rave-ups with exploratory tape experiments.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Stuart Berman"
+        },
+        {
+          "title": "Hidden in Pieces: Live at the Royal Albert Hall",
+          "link": "https://pitchfork.com/reviews/albums/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aeb86b471a068f3a6c90517/master/pass/Yeah%20Yeah%20Yeahs-Hidden%20in%20Pieces%20Live%20at%20the%20Royal%20Albert%20Hall.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "On its first live album, the New York trio recasts a quarter-century of rock songs for strings, piano, and acoustic guitar, highlighting the ache and vulnerability at the heart of its music.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Megan Buerger"
+        },
+        {
+          "title": "Southern Ontario Gothic",
+          "link": "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/master/pass/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "So post-ironic it’s deadass, the Toronto songwriter’s debut renders a thoroughly modern affect with rare authenticity.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Hattie Lindert"
+        },
+        {
+          "title": "Damage",
+          "link": "https://pitchfork.com/reviews/albums/john-errol-damage/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aeb5ef792285c714cb83d91/master/pass/John%20Errol%20-%20Damage%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "Too challenging to qualify as radio rock, the Los Angeles songwriter’s cloudy, lo-fi grunge is stuffed with ’90s references and opaque secrets.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Hannah Jocelyn"
+        },
         {
           "title": "On Tha Run",
           "link": "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/",
@@ -1472,58 +1523,6 @@
             "Reviews / Albums"
           ],
           "author": "Emma Madden"
-        },
-        {
-          "title": "From the Toolkit of Lovers",
-          "link": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/",
-          "imageUrl": "https://media.pitchfork.com/photos/6adf80357100ccad9466ea62/master/pass/Loidis%20-%20From%20the%20Toolkit%20of%20Lovers.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "The artist better known as Huerco S. nudges the minimal-house revival toward new extremes—of detail, duration, sensuousness—on a sprawling triple LP of hypnotic, late-night grooves.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Daniel Bromfield"
-        },
-        {
-          "title": "From the Dark",
-          "link": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/",
-          "imageUrl": "https://media.pitchfork.com/photos/6adf67212b9c0fcc1de155c3/master/pass/Tony%20Iommi%20From%20the%20Dark.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "Teaming with Norwegian vocalist Jørn Lande, the 78-year-old Black Sabbath guitarist gets back to heavy-metal basics on a proudly uncompromising new solo album.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Brad Sanders"
-        },
-        {
-          "title": "February’s Album",
-          "link": "https://pitchfork.com/reviews/albums/hysterical-love-project-februarys-album/",
-          "imageUrl": "https://media.pitchfork.com/photos/6adf629398bbebd5e51cd09c/master/pass/Hysterial%20Love%20Project%20-%20February",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "The Melbourne duo taps into trip-hop’s essential strangeness on its latest album, trading the genre’s boilerplate languor for dejected moods, menacing auras, and slippery, all-consuming bass.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sam Goldner"
-        },
-        {
-          "title": "Blood & Oil",
-          "link": "https://pitchfork.com/reviews/albums/skino-blood-and-oil/",
-          "imageUrl": "https://media.pitchfork.com/photos/6adf8b34baf3c8bb4e224819/master/pass/Skino%20-%20Blood%20&amp;%20Oil%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "The Washington, D.C. rapper’s new album epitomizes the best and worst of free car music: palatial experimental beats full of atmospheric drama and dull, interchangeable delivery.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Olivier Lafontant"
         }
       ]
     },
@@ -1540,10 +1539,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 642,
+      "ms": 733,
       "error": null,
-      "fetchedAt": "2026-11-05T00:47:29.150Z",
-      "lastOkAt": "2026-11-05T00:47:29.150Z",
+      "fetchedAt": "2026-11-05T12:53:30.696Z",
+      "lastOkAt": "2026-11-05T12:53:30.696Z",
       "itemCount": 40,
       "items": [
         {
@@ -2196,15 +2195,38 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-04T12:49:21.747Z",
-      "lastOkAt": "2026-11-04T12:49:21.747Z",
+      "ms": 557,
+      "error": null,
+      "fetchedAt": "2026-11-05T12:53:30.696Z",
+      "lastOkAt": "2026-11-05T12:53:30.696Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "brakence - marroW ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=IHAqnk-D6NY",
+          "imageUrl": "https://i2.ytimg.com/vi/IHAqnk-D6NY/hqdefault.jpg",
+          "embedId": "IHAqnk-D6NY",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "Listen: https://www.youtube.com/watch?v=adAuew652Dw brakence returns with an even more abrasive album than hypochondriac. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen (i just disagree lol) =================================== BRAKENCE - MARROW / 2026 / COLUMBIA / EXPERIMENTAL R&B, EMO RAP, GLITCH POP 2/10 austen loves the album tho: https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "BEST MUSIC FOR FALL 🍂🍁",
+          "link": "https://www.youtube.com/shorts/084FsEIb0K0",
+          "imageUrl": "https://i1.ytimg.com/vi/084FsEIb0K0/hqdefault.jpg",
+          "embedId": "084FsEIb0K0",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "#music",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "PISS - you made me / skin on linen ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=nAxDHd-r3YQ",
@@ -2347,49 +2369,11 @@
           "description": "Listen: https://www.youtube.com/watch?v=EpNSk8qu_Vo The most fun album of The Avalanches' comeback so far. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TOGETHER, I GIVE EVERYTHING I HAVE 2 U, EVERY SINGLE WEEKEND, LIKE CLOCKWORK / HIT BY TRAFFIC, VIDA, CAN'T GET OVER LOSING YOU, HIGHFIELD, UNDER YR POWER, ONE MORE FANTASY, NO BAD MEMORIES, FINAL CREDITS, THE PAVEMENTS LIGHT THE AVALANCHES - NO BAD MEMORIES / 2026 / MODULAR / EDM, PLUNDERPHONICS, SOUND COLLAGE, CHILLWAVE 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Zach Bryan - Young Manhood and Other Donatable Organs EP REVIEW",
-          "link": "https://www.youtube.com/watch?v=_J79mLaklF0",
-          "imageUrl": "https://i4.ytimg.com/vi/_J79mLaklF0/hqdefault.jpg",
-          "embedId": "_J79mLaklF0",
-          "audioSrc": "",
-          "pubDate": "2026-10-22",
-          "description": "Listen: https://www.youtube.com/watch?v=nhR-Ka-aKUs Zach Bryan takes a step in the right direction on this new EP. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: LODI WHEN, BACKWARDS, YOU'LL GET BY LEAST FAV TRACK: IS THE BLUE TANGLED IN YOU? ZACH BRYAN - YOUNG MANHOOD AND OTHER DONATABLE ORGANS / 2026 / WARNER / COUNTRY ROCK, AMERICANA, SINGER-SONGWRITER 6/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Fontaines D.C. - Dopamine Chamber ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=UzvthnAU6nc",
-          "imageUrl": "https://i2.ytimg.com/vi/UzvthnAU6nc/hqdefault.jpg",
-          "embedId": "UzvthnAU6nc",
-          "audioSrc": "",
-          "pubDate": "2026-10-21",
-          "description": "Listen: https://fontainesdc.bandcamp.com/album/dopamine-chamber Fontaines D.C. take their sound in a darker, more ethereal direction that works for them on Dopamine Chamber. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SIX SHOT MORNING, MARIANNE, TONGUE, WHERE IS GONE?, JAPAN LEAST FAV TRACK: MIMESIS FONTAINES D.C. - DOPAMINE CHAMBER / 2026 / XL / DARKWAVE, DREAM POP 7/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/skino-blood-and-oil/": {
-      "artist": "Skino",
-      "album": "Blood & Oil"
-    },
-    "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/": {
-      "artist": "Loidis",
-      "album": "From the Toolkit of Lovers"
-    },
-    "https://pitchfork.com/reviews/albums/hysterical-love-project-februarys-album/": {
-      "artist": "Hysterical Love Project",
-      "album": "February’s Album"
-    },
-    "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/": {
-      "artist": "Tony Iommi",
-      "album": "From the Dark"
-    },
     "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/": {
       "artist": "Yung Miami",
       "album": "Watch Dis!"
@@ -2493,6 +2477,22 @@
     "https://pitchfork.com/reviews/albums/niagara-catedral-gotica/": {
       "artist": "Niagara",
       "album": "Catedral Gótica"
+    },
+    "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/": {
+      "artist": "Twisted Teens",
+      "album": "The Holy Cross Tigers"
+    },
+    "https://pitchfork.com/reviews/albums/john-errol-damage/": {
+      "artist": "John Errol",
+      "album": "Damage"
+    },
+    "https://pitchfork.com/reviews/albums/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall/": {
+      "artist": "Yeah Yeah Yeahs",
+      "album": "Hidden in Pieces: Live at the Royal Albert Hall"
+    },
+    "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/": {
+      "artist": "Brat Star",
+      "album": "Southern Ontario Gothic"
     }
   }
 }

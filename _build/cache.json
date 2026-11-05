@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-04T12:49:21.747Z",
+    "updatedAt": "2026-11-05T00:47:29.150Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 798,
+      "ms": 922,
       "error": null,
-      "fetchedAt": "2026-11-04T12:49:21.747Z",
-      "lastOkAt": "2026-11-04T12:49:21.747Z",
+      "fetchedAt": "2026-11-05T00:47:29.150Z",
+      "lastOkAt": "2026-11-05T00:47:29.150Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,42 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 631,
+      "ms": 703,
       "error": null,
-      "fetchedAt": "2026-11-04T12:49:21.747Z",
-      "lastOkAt": "2026-11-04T12:49:21.747Z",
+      "fetchedAt": "2026-11-05T00:47:29.150Z",
+      "lastOkAt": "2026-11-05T00:47:29.150Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Liars Share New Track, ‘Beat Creep Some Eyes’",
+          "link": "https://thequietus.com/news/liars-share-new-track-beat-creep-some-eyes/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Liars_credit_Clemens_Habicht_0350-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "It's the second cut to be unveiled from forthcoming album A Ban On Plastic Bag Bans Photo by Clemens Habicht Liars have shared a new song, titled 'Beat Creep Some Eyes'. It's the second cut to be unveiled from forthcoming album A Ban On Plastic Bag Bans, which was announced in September with lead track 'Ice Pick, Kalamazoo'. Liars' Angus Andrew recorded the album between the US and Australia, where he now lives, with jazz drummer Laurence Pike and multi-instrumentalist Cameron Deyell, who also both worked on 2021 LP The Apple Drop. In a statement about 'Beat Creep Some Eyes', Andrew said: \"Sometimes I think the strangest thing isn't that the world is absurd, but how quickly we get used to it. You can... The post Liars Share New Track, ‘Beat Creep Some Eyes’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Liars",
+            "Mute"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Four Tet Shares Remix of The Durutti Column",
+          "link": "https://thequietus.com/news/four-tet-shares-remix-of-the-durutti-column/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-04-at-14.58.10-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "The UK artist has taken on Vini Reilly's 'Your Shadow At Morning' Vini Reilly, AKA The Durutti Column, photo by Michael Stef Four Tet has shared a remix of The Durutti Column's track 'Your Shadow At Morning'. Clocking in at almost 10 minutes, Four Tet's rework of the track from Vini Reilly's recent album, Renascent, pushes the original cut into dance floor-ready territory, while retaining the delicate, understated touches and vocals of the source material. In a statement about The Durutti Column's past work, Four Tet, real name Kieran Hebden, said: \"It's had a big impact on me so I was thrilled when a new album was announced, and then when I was asked to do a remix it felt like the universe was... The post Four Tet Shares Remix of The Durutti Column appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Four Tet",
+            "The Durutti Column"
+          ],
+          "author": "Christian Eede"
+        },
         {
           "title": "Andy Ingamells – Vanity Project",
           "link": "https://thequietus.com/quietus-reviews/andy-ingamells-vanity-project/",
@@ -208,6 +238,21 @@
             "Anniversary"
           ],
           "author": "John Doran"
+        },
+        {
+          "title": "Four Rare Pixies Songs Given First-Time Digital Release",
+          "link": "https://thequietus.com/news/four-rare-pixies-songs-given-first-time-digital-release/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-04-at-15.08.53-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-03",
+          "description": "The tracks, dating from 1987 to 1991, have been made available on streaming platforms Photo by Renaud Monfourny Four rare Pixies songs originally recorded between 1987 and 1991 have been shared on streaming platforms for the first time. The tracks – 'Dig For Fire (Albini Version)', 'Go Man Go', 'Brackish Boy', and 'Punk Loop' – had previously only been made available on two bonus 7-inch singles included in the recent limited-edition remastered vinyl pressings of Pixies' albums Bossanova and Trompe le Monde. The Steve Albini recording of 'Dig For Fire' is from 1987 when Pixies were doing recording sessions for debut album Surfer Rosa, and is significantly different from the version that was officially released three years later. 'Go Man Go' was co-written by Black... The post Four Rare Pixies Songs Given First-Time Digital Release appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "4AD",
+            "Pixies"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence",
@@ -565,48 +610,6 @@
           "categories": [
             "News",
             "The Flaming Lips"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "The Strange World Of… Jennifer Walshe",
-          "link": "https://thequietus.com/interviews/strange-world-of/jennifer-walshe-best-music/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Jennifer-Walshe-by-Blackie-Bouffant-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "Ahead of her curation of this year's Deep Time Festival, the Irish experimentalist gives Alastair Shuttleworth 10 entry points into a back catalogue which includes an opera with Barbie dolls, 12 fictional aliases and a board game for them to play Jennifer Walshe by Blackie Bouffant Flann O’Brien, one of Jennifer Walshe’s favourite Irish writers, once wrote of speaking Irish “when it was neither profitable nor popular.” Walshe has been ahead of the curve herself in speaking about the rise of AI, which brought her career-spanning questions about art, truth and technology into focus. A prolific improviser, composer and researcher, she is one of the most celebrated figures working in contemporary classical music today – but the scope of her catalogue may... The post The Strange World Of… Jennifer Walshe appeared first on The Quietus .",
-          "categories": [
-            "Strange World Of..."
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Oliver Leith – Doom and the Dooms",
-          "link": "https://thequietus.com/quietus-reviews/oliver-leith-doom-and-the-dooms-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Doom-and-the-Dooms-WP_featured-image-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "Oliver Leith Doom and the Dooms Based on transcriptions direct from tapes found at a jumble sale, the latest from Oliver Leith may be the ideal entry point to the British composer's oeuvre Steady pulse, parallel melodies. Strings undulating with opulent vibrato. Percussive garnish that, clinking and clattering, sounds just like a five-year-old breaking a piggy bank. Endless vacillation between hope and despair. Endless vacillation between stately ceremony and soft frolicking. All processed as if through a stereo-widening plug-in. This is Oliver Leith’s signature style, and it’s easy to start taking it for granted – mostly because of how effortless he makes it sound. Commissioned by Wigmore Hall, where it received its debonair premiere in June 2024, Doom and the Dooms offers a half-hour... The post Oliver Leith – Doom and the Dooms appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Kevin Martin Blocks Unlicensed GOD Reissue",
-          "link": "https://thequietus.com/news/kevin-martin-blocks-unlicensed-god-reissue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/GOD-Band.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "He revealed that he is now in talks with a record label to produce an official box set of the group's material Kevin Martin has taken to Instagram to reveal that he's successfully blocked an unlicensed reissue of Possession, a 1992 album by GOD, the band that he was part of from 1987 until 1996. Updating his social media followers, Martin thanked people who had offered him legal advice on the matter and said he'd fought back against the planned reissue on \"legal and moral grounds\". He added that the process of blocking the release had been \"difficult and stressful\", but ultimately successful, and that none of the members of GOD had approved the reissue. The dispute was over a planned new edition... The post Kevin Martin Blocks Unlicensed GOD Reissue appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "GOD",
-            "Kevin Martin",
-            "The Bug"
           ],
           "author": "Christian Eede"
         }
@@ -1126,10 +1129,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 132,
+      "ms": 288,
       "error": null,
-      "fetchedAt": "2026-11-04T12:49:21.747Z",
-      "lastOkAt": "2026-11-04T12:49:21.747Z",
+      "fetchedAt": "2026-11-05T00:47:29.150Z",
+      "lastOkAt": "2026-11-05T00:47:29.150Z",
       "itemCount": 30,
       "items": [
         {
@@ -1537,10 +1540,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 302,
+      "ms": 642,
       "error": null,
-      "fetchedAt": "2026-11-04T12:49:21.747Z",
-      "lastOkAt": "2026-11-04T12:49:21.747Z",
+      "fetchedAt": "2026-11-05T00:47:29.150Z",
+      "lastOkAt": "2026-11-05T00:47:29.150Z",
       "itemCount": 40,
       "items": [
         {
@@ -2193,12 +2196,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 147,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-11-04T12:49:21.747Z",
       "lastOkAt": "2026-11-04T12:49:21.747Z",
       "itemCount": 15,

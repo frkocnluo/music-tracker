@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-06T05:21:20.841Z",
+    "updatedAt": "2026-11-06T18:56:16.079Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 706,
+      "ms": 1093,
       "error": null,
-      "fetchedAt": "2026-11-06T05:21:20.841Z",
-      "lastOkAt": "2026-11-06T05:21:20.841Z",
+      "fetchedAt": "2026-11-06T18:56:16.079Z",
+      "lastOkAt": "2026-11-06T18:56:16.079Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,77 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 1461,
+      "ms": 1016,
       "error": null,
-      "fetchedAt": "2026-11-06T05:21:20.841Z",
-      "lastOkAt": "2026-11-06T05:21:20.841Z",
+      "fetchedAt": "2026-11-06T18:56:16.079Z",
+      "lastOkAt": "2026-11-06T18:56:16.079Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "English Folk Dance and Song Society Changes Name",
+          "link": "https://thequietus.com/news/english-folk-dance-and-song-society-name-change-folk-england/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Cecil-Sharp-House-featuring-old-EFDSS-sign-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "It marks a major shift as the organisation approaches its centenary Cecil Sharp House The English Folk Dance and Song Society has formally changed its trading name to Folk England, a decision it says aligns with a mission to \"make folk music, song, and dance inclusive for all.\" Founded in 1932 following the merger of the Folk-Song Society and the English Folk Dance Society, the decision represents one of the biggest change in the organisation's history. Katy Spicer, Chief Executive & Artistic Director of Folk England, said of the decision: “For some years we have recognised that the breadth and ambition of the organisation’s work has far outgrown the confined and outdated previous name and acronym. For more than a decade, we have strived... The post English Folk Dance and Song Society Changes Name appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Into The Risk Area: Factory Floor Interviewed",
+          "link": "https://thequietus.com/interviews/factory-floor-interview-2/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-04-at-10.55.41-2-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "Jim Osman talks to a newly revitalised Factory Floor on the eve of the release of their first album in ten years, One Trip. All portraits: Harry Ward One Trip by Factory Floor What catches Nik Colk Void’s eye is not the dramatic landscape itself but evidence that somebody has been there before her: tape torn from a wall, scratches in a surface, cables worn through years of use. She finds a similar fascination in the photograph that graces the sleeve of One Trip, Factory Floor’s first album in ten years. Taken by their longtime associate Georg Gatsas, it presents the odd image of blocks of ice deposited on a road beside temporary emergency barriers. Something extreme has happened just outside of... The post Into The Risk Area: Factory Floor Interviewed appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "45 Years On: OMD’s Architecture & Morality Remembered",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/omd-architecture-morality-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/OMD-Architecture-and-Morality-album-cover-820.jpg-700x700.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "Orchestral Manoeuvres In The Dark released one of the Quietus' favourite albums in 1981. John Doran reflects on the warmth of Architecture & Morality and talks to Andy McCluskey A lazy but widespread criticism of the English synth pop scene of the early 80s was that it was soulless or lacking in human warmth. While there certainly were acts who came across as detached or alienated (Cabaret Voltaire, The Normal, John Foxx) if anything, the opposite was generally true. There is an almost baroque level of (exquisitely judged) romantic melodrama to Soft Cell's 'Say Hello Wave Goodbye'; despite Gary Numan's dead-eyed automaton image, Tubeway Army's 'Are \"Friends\" Electric?' is quite clearly a very fragile and keenly felt song about heartbreak; and... The post 45 Years On: OMD’s Architecture & Morality Remembered appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Reissue of the Week: Henning Christiansen’s Symphony Natura",
+          "link": "https://thequietus.com/quietus-reviews/reissue-of-the-week/henning-christiansen-symphony-natura-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/a4259900867_10-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "Why Listen to Animals? asks Francis Gooding after immersing himself in some questionable musique concrète Symphony Natura by Henning Christiansen and Lorenzo Mammi \"The zoo\", wrote John Berger in a 1977 essay called 'Why Look At Animals?', \"cannot but disappoint\". The purpose of the visit is to see the animals, to look at them, but the animals always avoid being seen: they are bunched up at the edge of their enclosures, they are lethargic, they are hidden in their sleeping quarters, they are indifferent to the visitor. Berger was writing about the scopic regime of the zoological garden: it is a place where one goes to look at animals, and no matter the real or imagined conservation functions of the modern zoo,... The post Reissue of the Week: Henning Christiansen’s Symphony Natura appeared first on The Quietus .",
+          "categories": [
+            "Reissue of the Week"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Rizan Said – Ma Waraa Al-Shaabi (ما وراء الشعبي) / Beyond Shaabi",
+          "link": "https://thequietus.com/quietus-reviews/rizan-said/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/riza-said-beyond-shaabi.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "Rizan Said Ma Waraa Al-Shaabi (ما وراء الشعبي) / Beyond Shaabi On his third solo outing, Syrian keyboard king Rizan Said preserves regional musical traditions by driving them forward Ma Waraa Al-Shaabi (ما وراء الشعبي) – Beyond Shaabi by Rizan Said Despite the fact that I have only been to two weddings in my entire life, I have actually been to a Syrian one. Meridian Water, 2024, sometime in the Spring. The food was to die for. Mountains of tabouleh and vats of houmous (“I never eat anything without houmous,” said a panic-stricken man while they changed the vats). But it was the sounds of the evening, the music that sticks in my mind the most. My dear friend, the groom, arrived with noisy... The post Rizan Said – Ma Waraa Al-Shaabi (ما وراء الشعبي) / Beyond Shaabi appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Tim Reaper’s Debut Solo Album Set for Release via Hyperdub",
           "link": "https://thequietus.com/news/tim-reapers-debut-solo-album-set-for-release-via-hyperdub/",
@@ -256,7 +321,7 @@
         {
           "title": "Book Collecting Photography by Peter ‘Sleazy’ Christopherson Published",
           "link": "https://thequietus.com/news/book-collecting-photography-by-peter-sleazy-christopherson-published/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-05-at-18.57.56-700x466.jpg",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Couv-GORBALS-700x466.jpg",
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-04",
@@ -462,19 +527,6 @@
           "author": "Luke Turner"
         },
         {
-          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
-          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
-          "categories": [
-            "Monthly Playlists"
-          ],
-          "author": "Luke Turner"
-        },
-        {
           "title": "The Last Path – Blunt Synopsis",
           "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
@@ -486,6 +538,19 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
+          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
+          "categories": [
+            "Monthly Playlists"
+          ],
+          "author": "Luke Turner"
         },
         {
           "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
@@ -551,73 +616,6 @@
             "Reviews"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "Audiovisual Phantasmagoria: Highlights from Semibreve 2026",
-          "link": "https://thequietus.com/quietus-reviews/live-reviews/semibreve-festival-braga-2026-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Malcolm-Pardon-_-Gustaf-Broms-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "Pedro João Santos reports from the latest edition of Portugal’s premiere festival for experimental music, where stellar sets from Noémi Büchi, Tygapaw, Marta Salogni and more lead the way Malcolm Pardon and Gustaf Broms, photo by Adriano Ferreira Borges / Semibreve A startled Jocy de Oliveira looks out at the sea: it’s well past time the grand piano should be brought ashore. She oversees a woman playing the ivories, drifting in the tide. “What do you expect to achieve this late?”, she blurts at the walkie-talkie, wrangling with the producers of her 2005 short film, Noturno De Um Piano. What starts off as an elegant allegory – the instrument set adrift in the ocean, a metaphor for the erosion of high culture... The post Audiovisual Phantasmagoria: Highlights from Semibreve 2026 appeared first on The Quietus .",
-          "categories": [
-            "Live Reviews"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "America’s Most Offensive? Ice Cube’s Death Certificate Revisited",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/ice-cube-death-certificate-2/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-29-at-09.28.33-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "Angus Batey looks back 35 years at the 360-degree attack of one of the most creatively independent yet offensive hip hop albums ever made. First published October 2011 Classic albums are supposed to be celebrated, but Death Certificate doesn't permit unqualified responses. It's a record made by a young man as talented at needling his listeners as he was at constructing and delivering some of the angriest lyrics in the hip hop canon, and is impossible to love without qualification. If you're not offended by a significant portion of it – no matter who you are, whatever your background – you're not listening properly. Just about the only universal reaction Death Certificate generates is one of awe at the 360-degree ferocity... The post America’s Most Offensive? Ice Cube’s Death Certificate Revisited appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Put Your Hands In the Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/leo-chadburn-phaedra-ensemble-english-dancing-master-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Shadows-2021-Credit-Leo-Chadburn-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "Leo Chadburn's latest work expands outwards from a seventeenth-century manual of folk dances to a kinetic exploration of human movement, from St Vitus' chorea to raving at Castlemorton Common English Dancing Master is a dance album, but not in the sense you would usually associate with the term. There is no “succession of repetitive beats” (the phrase used by the Criminal Justice and Public Order Act 1994 to criminalise outdoor raves), ribcage splintering bass or woozy toplines. Instead, we are treated to a reticent male narrator – voiced by Leo Chadburn – and the Phaedra Ensemble in conversation with each other. In fact, it’s not really an album at all but a singular radiophonic piece broken up into brief episodes that... The post Put Your Hands In the Air: English Dancing Master by Leo Chadburn & Phaedra Ensemble appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Maria W Horn – Melting Pillars of Snow",
-          "link": "https://thequietus.com/quietus-reviews/melting-pillars-of-snow-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/horn-melting-pillars.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "Maria W Horn Melting Pillars of Snow Melting Pillar of Snow is a dense exploration of time and decay that feels more like a static monument than a living listening experience Melting Pillars of Snow by Maria W Horn On Melting Pillars of Snow, Swedish composer Maria W Horn attempts to map the relentless passage of time across five expansive compositions. The record sets out to chart the friction between microscopic moments and deep historical time. Yet for all its conceptual weight and formal intent, the listening experience remains curiously remote, leaving the pieces sounding like static, glass-encased dioramas which may be meticulously assembled, but are emotionally lacking in power. Lead single ‘Scythe of Saturn’ sets the template. Built around slow-motion acoustic and electronic friction,... The post Maria W Horn – Melting Pillars of Snow appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Coming Up for Air: Andy Stott’s Favourite Albums",
-          "link": "https://thequietus.com/interviews/bakers-dozen/coming-up-for-air-andy-stotts-favourite-albums/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/1-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "From 80s synth pop and 90s trip hop through to mischievous, glitched-out electronics, Andy Stott talks through 13 records that hold significance to him ahead of the release of his new album, Late Loop Across a career that now spans more than two decades, Andy Stott’s name has become synonymous with a style of electronic music that is patient and understated. Early records like Passed Me By and Luxury Problems dealt in dubbed-out minimalism and hauntingly gritty chuggers, while albums like 2016’s Too Many Voices and 2019’s It Should Be Us retained some of those qualities while introducing shades of dream pop into his captivating oeuvre. On new record Late Loop, which is his first studio LP in five years, Stott explores... The post Coming Up for Air: Andy Stott’s Favourite Albums appeared first on The Quietus .",
-          "categories": [
-            "Baker's Dozen",
-            "Andy Stott",
-            "Modern Love"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1135,10 +1133,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 161,
+      "ms": 390,
       "error": null,
-      "fetchedAt": "2026-11-06T05:21:20.841Z",
-      "lastOkAt": "2026-11-06T05:21:20.841Z",
+      "fetchedAt": "2026-11-06T18:56:16.079Z",
+      "lastOkAt": "2026-11-06T18:56:16.079Z",
       "itemCount": 30,
       "items": [
         {
@@ -1546,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 854,
+      "ms": 568,
       "error": null,
-      "fetchedAt": "2026-11-06T05:21:20.841Z",
-      "lastOkAt": "2026-11-06T05:21:20.841Z",
+      "fetchedAt": "2026-11-06T18:56:16.079Z",
+      "lastOkAt": "2026-11-06T18:56:16.079Z",
       "itemCount": 40,
       "items": [
         {
@@ -2202,15 +2200,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-05T12:53:30.696Z",
-      "lastOkAt": "2026-11-05T12:53:30.696Z",
+      "ms": 466,
+      "error": null,
+      "fetchedAt": "2026-11-06T18:56:16.079Z",
+      "lastOkAt": "2026-11-06T18:56:16.079Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Michael Kiwanuka - FUDGE ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=CfeYy7IBx0Q",
+          "imageUrl": "https://i4.ytimg.com/vi/CfeYy7IBx0Q/hqdefault.jpg",
+          "embedId": "CfeYy7IBx0Q",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "Listen: https://www.youtube.com/watch?v=gyv7buFhdvk Michael's most beautiful and moving album so far. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: CALIFORNIA, JUST ANOTHER MOMENT, LOVE IN MY HEART, ACROSS THE SKY, STARS, MOVE IN MY DIRECTION, SING LEAST FAV TRACK: YOU SENT ME FLYING MICHAEL KIWANUKA - FUDGE / 2026 / POLYDOR / PROG SOUL, SINGER-SONGWRITER 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "brakence - marroW ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=IHAqnk-D6NY",
@@ -2362,17 +2372,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-23",
           "description": "Listen: https://officialauthks.bandcamp.com/album/cantu-of-the-sower heavensouls strikes an impressive balance of meticulous and freewheeling on \"cantu\" of the sower. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TODAY IS MY FAVORITE, MODEL HOUSING, STAR BALCONY, SHIPPING TIMES AND QUIET STREETS HEAVENSOULS - \"CANTU\" OF THE SOWER / 2026 / NTS / IDEK 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "The Avalanches - No Bad Memories ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
-          "imageUrl": "https://i3.ytimg.com/vi/ZAHEPtclKOg/hqdefault.jpg",
-          "embedId": "ZAHEPtclKOg",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Listen: https://www.youtube.com/watch?v=EpNSk8qu_Vo The most fun album of The Avalanches' comeback so far. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TOGETHER, I GIVE EVERYTHING I HAVE 2 U, EVERY SINGLE WEEKEND, LIKE CLOCKWORK / HIT BY TRAFFIC, VIDA, CAN'T GET OVER LOSING YOU, HIGHFIELD, UNDER YR POWER, ONE MORE FANTASY, NO BAD MEMORIES, FINAL CREDITS, THE PAVEMENTS LIGHT THE AVALANCHES - NO BAD MEMORIES / 2026 / MODULAR / EDM, PLUNDERPHONICS, SOUND COLLAGE, CHILLWAVE 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

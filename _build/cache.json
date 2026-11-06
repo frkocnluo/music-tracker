@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-05T12:53:30.696Z",
+    "updatedAt": "2026-11-06T05:21:20.841Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 778,
+      "ms": 706,
       "error": null,
-      "fetchedAt": "2026-11-05T12:53:30.696Z",
-      "lastOkAt": "2026-11-05T12:53:30.696Z",
+      "fetchedAt": "2026-11-06T05:21:20.841Z",
+      "lastOkAt": "2026-11-06T05:21:20.841Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,43 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 690,
+      "ms": 1461,
       "error": null,
-      "fetchedAt": "2026-11-05T12:53:30.696Z",
-      "lastOkAt": "2026-11-05T12:53:30.696Z",
+      "fetchedAt": "2026-11-06T05:21:20.841Z",
+      "lastOkAt": "2026-11-06T05:21:20.841Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Tim Reaper’s Debut Solo Album Set for Release via Hyperdub",
+          "link": "https://thequietus.com/news/tim-reapers-debut-solo-album-set-for-release-via-hyperdub/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/1Tim-Reaper-Credit-Jimmy-Mould_LEAD-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "World's End is out in February Photo by Jimmy Mould Tim Reaper will release his debut solo album, World's End, via Hyperdub early next year. Featuring 11 tracks, the LP follows the jungle producer's previous collaborative album with Kloke, In Full Effect, which Hyperdub put out in 2024. In recent years, he's continued to put out EPs at a steady rate via labels such as FABRICLIVE, Rinse, Astrophonica and his own Future Retro London. World's End naturally explores various shades of jungle, as well as footwork, drill and gqom. The producer was inspired to fold other sub-genres into his sound after experimenting more on his 2024 EP Scorched Earth. In a statement, he said: \"Scorched Earth EP was inspired by a conversation I had... The post Tim Reaper’s Debut Solo Album Set for Release via Hyperdub appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Hyperdub",
+            "Tim Reaper"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Scritti Politti’s ‘Provision’ Set for Reissue",
+          "link": "https://thequietus.com/news/scritti-polittis-provision-set-for-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-05-at-16.47.24-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-05",
+          "description": "The updated edition of the band's third album comes with new sleeve notes by band members Green Gartside and David Gamson Scritti Politti's Green Gartside with Miles Davis, photo by Ebett Roberts Scritti Politti's third album, Provision, is being reissued. Back in press for the first time in many years, the updated edition of the LP will be made available across vinyl and CD formats, and comes with new sleeve notes written by band members Green Gartside and David Gamson. The vinyl edition features the album's core nine tracks, while the CD comes with two extras: a dub version of ‘Boom! There She Was’, and an extended version of ‘Oh Patti (Don't Feel Sorry For Loverboy)’. Originally released in 1988, Provision features Miles Davis playing... The post Scritti Politti’s ‘Provision’ Set for Reissue appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Miles Davis",
+            "Rough Trade",
+            "Scritti Politti"
+          ],
+          "author": "Christian Eede"
+        },
         {
           "title": "Open Mind, Open Planet: Gigi Masin’s Favourite Albums",
           "link": "https://thequietus.com/interviews/bakers-dozen/open-mind-open-planet-gigi-masins-favourite-albums/",
@@ -221,6 +252,51 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Book Collecting Photography by Peter ‘Sleazy’ Christopherson Published",
+          "link": "https://thequietus.com/news/book-collecting-photography-by-peter-sleazy-christopherson-published/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-05-at-18.57.56-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "GORBALS collects images that the one-time Throbbing Gristle and Coil member took of working class Glasgow in the 70s A book collecting photography by the late Throbbing Gristle and Coil member Peter 'Sleazy' Christopherson has been published. GORBALS collects black-and-white images of working class Glasgow taken by Christopherson in the 70s. It takes its name from the inner-city neighbourhood that was a hub for post-war public housing in Glasgow. The book is the first in a new series which will explore different sides of Christopherson’s photography. Publishing house Timeless Editions said these books would also explore how his photography connected to the visuals he would later develop as part of his work as an industrial musician. Purchase a copy of GORBALS here. ... The post Book Collecting Photography by Peter ‘Sleazy’ Christopherson Published appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Coil",
+            "Peter 'Sleazy' Christopherson",
+            "Throbbing Gristle"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Seefeel Detail New EP, ‘Loz.s’",
+          "link": "https://thequietus.com/news/seefeel-detail-new-ep-loz-s/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-05-at-16.35.50-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "It's a companion release to the group's recent album Sol.Hz Photo by Jeff Pitcher Seefeel are releasing a new EP, titled Loz.s. Comprised of three tracks, the EP will initially be made available only on vinyl later this month, with a digital release set to follow on 15 January. No music has yet been made available for preview, but a press release details one extended beatless, drone-based piece, and two rhythmic cuts that are techno-adjacent. Loz.s is a companion EP to Seefeel's latest album, Sol.Hz, which was released in May of this year. Warp Records will release Loz.s on 27 November 2026. ... The post Seefeel Detail New EP, ‘Loz.s’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Seefeel",
+            "Warp Records"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "London Mayor Sadiq Khan Given New Licensing Powers",
+          "link": "https://thequietus.com/news/london-mayor-sadiq-khan-given-new-licensing-powers/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/FOLD-London-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-04",
+          "description": "Khan can now make decisions on licensing applications for new venues, major events and festivals in the city London Mayor Sadiq Khan has attained a new set of licensing powers that it's hoped will make the licensing system in the city run more smoothly. The mayor can now make decisions on licensing applications for new venues, major events and festivals that are deemed important to London's culture. He will also have a say on issues surrounding local licensing and opening hours for venues and outdoor events across the city. “As Mayor I have always tried to be pro-jobs and pro-business and I’m determined to build on this,\" Khan said in a press statement. \"These new licensing powers create an opportunity to further champion... The post London Mayor Sadiq Khan Given New Licensing Powers appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Sadiq Khan"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Liars Share New Track, ‘Beat Creep Some Eyes’",
@@ -333,6 +409,20 @@
           "author": "Robert Barry"
         },
         {
+          "title": "Everything But The Girl Unveil New Album, ‘Blue Reservoir’",
+          "link": "https://thequietus.com/news/everything-but-the-girl-unveil-new-album-blue-reservoir/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/unnamed-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "It follows 2023's Fuse, which was the duo's first LP in 24 years Photo by Edward Bishop Everything But The Girl have shared details of a new album, titled Blue Reservoir. Spanning 10 tracks, it follows on from 2023's Fuse, which was Tracey Thorn and Ben Watt's first LP in 24 years. The upcoming LP was inspired by the duo's return to live performing in 2025, when they embarked on a residency at 300-capacity London venue MOTH Club. “There was an intensity and simplicity to the MOTH shows that took us back to how we started out,” said Thorn in a statement. “Direct, rooted in guitar and voice, a few extra colours. We hadn’t been in that world for a long time and... The post Everything But The Girl Unveil New Album, ‘Blue Reservoir’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Everything But The Girl"
+          ],
+          "author": "Christian Eede"
+        },
+        {
           "title": "Remember Them: The Incalculable Legacy of Juan Atkins",
           "link": "https://thequietus.com/news/remember-them/juan-atkins-obituary/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/Capture-decran-2026-01-23-a-15.49.30-e1769179789478-700x466.jpg",
@@ -372,19 +462,6 @@
           "author": "Luke Turner"
         },
         {
-          "title": "The Last Path – Blunt Synopsis",
-          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
           "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
           "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
@@ -396,6 +473,19 @@
             "Monthly Playlists"
           ],
           "author": "Luke Turner"
+        },
+        {
+          "title": "The Last Path – Blunt Synopsis",
+          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
         },
         {
           "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
@@ -528,89 +618,6 @@
             "Modern Love"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Dis Fig – What To Make Of These Mortal Hands",
-          "link": "https://thequietus.com/quietus-reviews/dis-fig-what-to-make-of-these-mortal-hands-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/dis-fig-hands.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "Dis Fig What To Make Of These Mortal Hands Her debut was called PURGE and it was about her. This one is about what people do to each other, and it is named after the part of the body that does it What To Make Of These Mortal Hands by Dis Fig The title tells you where to look. Hands make things and hands wreck them, and Felicia Chen has built her second solo album around that double function. Track ten is called ‘A Hundred Hands’. Track six is ‘The Snake You Built’. The third track is named after the psaltery, an instrument you have to pluck with your fingers to make a sound at all. None of this is decoration. What To Make... The post Dis Fig – What To Make Of These Mortal Hands appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Prepared for the Future: the Slow Reveal of Aphex Twin’s Drukqs",
-          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/aphex-twin-best-album-drukqs/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/a2683258024_10-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "Drukqs has long been one of John Doran's favourite LPs; with a reissue looming, he attempts to articulate why he loves this critically derided album so much Drukqs by Aphex Twin Rereading the contemporary reviews of Drukqs 25 years later is like rubbernecking the aftermath of a motorway crash. Just ahead of release in October 2001, it became wince-inducingly clear that some previously long-term supporters of Richard D. James were ready to start questioning the validity of his art if not gearing up to fully turn on him. His traditional allies in the leftfield press hated the album, that much was clear. “Too much cake and no nuts” was the stinging but memorable summary minted by Rob Young for The Wire, who... The post Prepared for the Future: the Slow Reveal of Aphex Twin’s Drukqs appeared first on The Quietus .",
-          "categories": [
-            "Black Sky Thinking"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Nik Colk Void and More to Play Soho Electronic 2026",
-          "link": "https://thequietus.com/news/nik-colk-void-and-more-to-play-soho-electronic-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/NIK-COLK-VOID-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "The festival of leftfield electronic music returns to Central London next month for its second edition Soho Electronic, the Central London festival championing leftfield electronic music, will return for its second edition next month. More than 30 artists are scheduled to play across four stages on and around Dean Street, with the likes of Nik Colk Void and Mark Van Hoen, otherwise known as Locust, set to make appearances. The festival will also host sets from reel-to-reel tape manipulator Howlround, Sculpture, Sonny E (FKA Adamski) and Agnes Haus, in addition to our very own Reviews Editor, Bobby Barry. Alongside the aforementioned acts, the full lineup includes live sets from Axon, Death Magazine 52, Artificially Yours, Lifeloose, E.M.Arson, kWeRk + Ch20, Disinformation, Xuanni_Space, Dom... The post Nik Colk Void and More to Play Soho Electronic 2026 appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Nik Colk Void",
-            "Soho Electronic"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Factory Floor Detail First Album in 10 Years, ‘One Trip’",
-          "link": "https://thequietus.com/news/factory-floor-detail-first-album-in-10-years-one-trip/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Factory-Floor-press-shot-by-Harry-Ward-web-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "They've also shared two tracks from the LP Photo by Harry Ward Factory Floor have shared details of their first studio album in 10 years, titled One Trip. Spanning 10 tracks, it marks the first full-length release from the current formation of Gabe Gurnsey, Nik Colk Void and new member Joe Ward. The new record's foundations lie in a set that the group played at MUTEK in Montréal in 2024 after returning from an extended hiatus, with the performance providing a catalyst for a new chapter in the project. In a collective statement, the group said: \"After the MUTEK performance, we felt an appetite to work in a space where artists could connect emotionally and physically, both in the studio and on a live... The post Factory Floor Detail First Album in 10 Years, ‘One Trip’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Factory Floor"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Throwing Muses’ Debut Album Set for 40th Anniversary Reissue",
-          "link": "https://thequietus.com/news/throwing-muses-debut-album-set-for-40th-anniversary-reissue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Throwing-Muses-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "The album has been out-of-print for some time Photo by Andrew Catlin Throwing Muses' self-titled debut album is being reissued to mark its 40th anniversary. The album has been out-of-print for some time, in addition to not being available on streaming services. It marked the first release from the band on 4AD, with the group being the first American signees to the label. The release of Throwing Muses on 4AD in 1986 marked a shift in the label's direction going forward as it looked more significantly towards the American market and signed Pixies via their connection to Throwing Muses not long after. The album went out of print in the early 1990s when plans were made by the band's American label, Sire Records,... The post Throwing Muses’ Debut Album Set for 40th Anniversary Reissue appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "4AD",
-            "Throwing Muses"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Hyperspecific: Electronic Music for October Reviewed by Jaša Bužinel",
-          "link": "https://thequietus.com/quietus-reviews/electronic/electronic-music-reviews-marina-herlop-mia-koden-gyrofield-bftt-fatima-al-quadiri/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/03_DjaDjaPromo-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "Our electronic music editor tunes out the latest online culture war, and instead reviews 10 recent releases of an auteur-ish bent, spanning avant-pop, experimental electronics, fractured club music, dubwise mutations and form-bending DJing I've not yet jumped on the discourse bandwagon about 300SkullsAndCounting & Jenny Sparks, debates over whether its treatment of millennial aesthetics is an act of hackneyed recycling or innovative salvaging. Rather than participating in online battles (music heads love culture wars more than any other species), I spent most of early autumn listening to college rock trailblazers The Replacements. I somehow missed them in my formative years, but I am now all the more glad I did as I can savour their brilliance in my 30s. As they... The post Hyperspecific: Electronic Music for October Reviewed by Jaša Bužinel appeared first on The Quietus .",
-          "categories": [
-            "Electronic"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -1128,12 +1135,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 244,
+      "ms": 161,
       "error": null,
-      "fetchedAt": "2026-11-05T12:53:30.696Z",
-      "lastOkAt": "2026-11-05T12:53:30.696Z",
+      "fetchedAt": "2026-11-06T05:21:20.841Z",
+      "lastOkAt": "2026-11-06T05:21:20.841Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "untitled (halo)",
+          "link": "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aecc0946de58f9ada4bfd2a/master/pass/untitled%20(halo)%20-%20untitled%20(halo)%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "The Los Angeles band’s debut puts an appealing studio gloss on the sullen, ambiguous sound of cloud rock, and the mystery doesn’t go much deeper than that.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sam Goldner"
+        },
+        {
+          "title": "We’ll Never Be This Young Again",
+          "link": "https://pitchfork.com/reviews/albums/laila-well-never-be-this-young-again/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aecd91478d0dfa19820dd27/master/pass/Laila-We%E2%80%99ll%20Never%20Be%20This%20Young%20Again.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "The New York songwriter and producer’s second album meditates on the passage of time, with immersive, lush songs that balance the optimism and anxiety of young adulthood.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Vrinda Jagota"
+        },
+        {
+          "title": "this wolf may cry",
+          "link": "https://pitchfork.com/reviews/albums/nomi-this-wolf-may-cry/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aecc416d1ad83d11d55727e/master/pass/nomi.%20-%20this%20wolf%20may%20cry%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "The upcoming R&B singer’s debut is a showcase for unique beats with bedroom-pop intimacy, but her restrained vocal style keeps the feelings in reserve.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Precious Fondren"
+        },
+        {
+          "title": "Great Jobs",
+          "link": "https://pitchfork.com/reviews/albums/gyrofield-great-jobs/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aeca9b677ca41c6e0456d40/master/pass/gyrofield%20-%20Great%20Jobs.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-06",
+          "description": "The Hong Kong-born producer moves far beyond their drum’n’bass and club-music roots, twisting dubby pulses and psychedelic sound design into shapes both introspective and exploratory.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Lisle Younger"
+        },
         {
           "title": "The Holy Cross Tigers",
           "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
@@ -1471,58 +1530,6 @@
             "Reviews / Albums"
           ],
           "author": "Vanessa Ague"
-        },
-        {
-          "title": "Watch Dis!",
-          "link": "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/",
-          "imageUrl": "https://media.pitchfork.com/photos/6abe76f0cfa7613edd653e56/master/pass/frontcover(noPA).jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "The former City Girl’s solo LP is entertaining enough to overlook the weaker features and superfluous “Spend Dat” remixes. The song dedicated to Diddy, not so much.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Alphonse Pierre"
-        },
-        {
-          "title": "Sigil",
-          "link": "https://pitchfork.com/reviews/albums/sour-widows-sigil/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a6a01cdfdd0ba9932ac17df/master/pass/Sour-Widows-Sigil.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "The California band channels uneasy dreams and looming threats into tense, slowcore-infused indie rock on a new album produced with Jay Som’s Melina Duterte.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Marissa Lorusso"
-        },
-        {
-          "title": "Believe You Me",
-          "link": "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae0db906448153e84a5459c/master/pass/Mackeeper%20Believe%20You%20Me.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "On their full-length debut, the buzzy NYC siblings pay tribute to the fuckboy charm of the aughts with their precocious, mischievous, and rapidly evolving pop music.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Samuel Hyland"
-        },
-        {
-          "title": "Revelations of Divine Love",
-          "link": "https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae0c1f701eb9afa5af3c088/master/pass/Susanne%20Sundfor-Revelations%20of%20Divine%20Love.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "On her eighth album, the Norwegian singer, backed by pipe organ, draws on a 14th-century Christian text for a record wholly devoted to the divine.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Emma Madden"
         }
       ]
     },
@@ -1539,10 +1546,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 733,
+      "ms": 854,
       "error": null,
-      "fetchedAt": "2026-11-05T12:53:30.696Z",
-      "lastOkAt": "2026-11-05T12:53:30.696Z",
+      "fetchedAt": "2026-11-06T05:21:20.841Z",
+      "lastOkAt": "2026-11-06T05:21:20.841Z",
       "itemCount": 40,
       "items": [
         {
@@ -2195,12 +2202,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 557,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-11-05T12:53:30.696Z",
       "lastOkAt": "2026-11-05T12:53:30.696Z",
       "itemCount": 15,
@@ -2374,22 +2380,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/": {
-      "artist": "Yung Miami",
-      "album": "Watch Dis!"
-    },
-    "https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/": {
-      "artist": "Susanne Sundfør",
-      "album": "Revelations of Divine Love"
-    },
-    "https://pitchfork.com/reviews/albums/sour-widows-sigil/": {
-      "artist": "Sour Widows",
-      "album": "Sigil"
-    },
-    "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/": {
-      "artist": "Mackeeper",
-      "album": "Believe You Me"
-    },
     "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/": {
       "artist": "The Olivia Tremor Control",
       "album": "The Same Place"
@@ -2493,6 +2483,22 @@
     "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/": {
       "artist": "Brat Star",
       "album": "Southern Ontario Gothic"
+    },
+    "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/": {
+      "artist": "untitled (halo)",
+      "album": "untitled (halo)"
+    },
+    "https://pitchfork.com/reviews/albums/nomi-this-wolf-may-cry/": {
+      "artist": "nomi.",
+      "album": "this wolf may cry"
+    },
+    "https://pitchfork.com/reviews/albums/gyrofield-great-jobs/": {
+      "artist": "gyrofield",
+      "album": "Great Jobs"
+    },
+    "https://pitchfork.com/reviews/albums/laila-well-never-be-this-young-again/": {
+      "artist": "Laila!",
+      "album": "We’ll Never Be This Young Again"
     }
   }
 }

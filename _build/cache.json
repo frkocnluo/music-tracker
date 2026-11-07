@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-07T04:50:13.749Z",
+    "updatedAt": "2026-11-07T17:28:44.172Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 959,
+      "ms": 581,
       "error": null,
-      "fetchedAt": "2026-11-07T04:50:13.749Z",
-      "lastOkAt": "2026-11-07T04:50:13.749Z",
+      "fetchedAt": "2026-11-07T17:28:44.172Z",
+      "lastOkAt": "2026-11-07T17:28:44.172Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 652,
+      "ms": 659,
       "error": null,
-      "fetchedAt": "2026-11-07T04:50:13.749Z",
-      "lastOkAt": "2026-11-07T04:50:13.749Z",
+      "fetchedAt": "2026-11-07T17:28:44.172Z",
+      "lastOkAt": "2026-11-07T17:28:44.172Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "From Langley Park to Mendips: Driving Through the Prefab Sprout Back Catalogue",
+          "link": "https://thequietus.com/culture/books/truly-gifted-kids-prefab-sprout-nige-tassell/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/10681-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-07",
+          "description": "As he was putting the finishing touches to his new book about Prefab Sprout, Truly Gifted Kids, author Nige Tassell drove across Britain listening to their albums from start to finish. This is what he learned It’s last autumn, 12 months back. I’ve just completed my last research trip to north-east England where I’ve been delving deep into the life and times of Prefab Sprout for my book Truly Gifted Kids. Now it’s time to leave County Durham, to head back to the hill country of Somerset, back home to the Mendips. It’ll take the best part of the day. On the passenger seat sits an old shoebox. Inside it are the ten studio albums released to date under the name Prefab... The post From Langley Park to Mendips: Driving Through the Prefab Sprout Back Catalogue appeared first on The Quietus .",
+          "categories": [
+            "Books"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "English Folk Dance and Song Society Changes Name",
           "link": "https://thequietus.com/news/english-folk-dance-and-song-society-name-change-folk-england/",
@@ -603,19 +616,6 @@
             "Music of the Month"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Andy Stott – Late Loop",
-          "link": "https://thequietus.com/quietus-reviews/andy-stott-late-loop-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/andy-stott-late-loop-700x700.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-30",
-          "description": "Andy Stott Late Loop The British electronic music producer proves himself, once again, a consummate perfectionist – but it's the subtle imperfections that make his music really sing It didn’t take Andy Stott long to find himself drawn towards the frayed edges, to wear and imperfections. Less concerned with gleaming dancefloor patterns than the accumulation of hiss and grit, he made his name with slower tempos, tracks that went a little wonky, marked by age and rust. A sound in love with the ‘stuff’ of sound, the sense it had a physical surface that got under your fingernails, that carried the marks of time. On Late Loop it settles to a stillness, a richly emotive minimalism under the slow shroud of attic dust. It’s... The post Andy Stott – Late Loop appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -1133,12 +1133,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 187,
+      "ms": 172,
       "error": null,
-      "fetchedAt": "2026-11-07T04:50:13.749Z",
-      "lastOkAt": "2026-11-07T04:50:13.749Z",
+      "fetchedAt": "2026-11-07T17:28:44.172Z",
+      "lastOkAt": "2026-11-07T17:28:44.172Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "The Rolling Thunder Revue: The 1976 Live Recordings",
+          "link": "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aedeca0c1e973346d7a4d75/master/pass/Bob%20Dylan%20-%20The%20Rolling%20Thunder%20Review%20.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-07",
+          "description": "For half a century, the spring 1976 leg of the Rolling Thunder Revue was overshadowed by the mayhem of the year before. An electrifying 39-disc box set corrects the record.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Grayson Haver Currin"
+        },
         {
           "title": "untitled (halo)",
           "link": "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/",
@@ -1515,19 +1528,6 @@
             "Reviews / Albums"
           ],
           "author": "Dylan Green"
-        },
-        {
-          "title": "Repair",
-          "link": "https://pitchfork.com/reviews/albums/water-damage-repair/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae21b827b487fd17701118a/master/pass/Water%20Damage-Repair.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "The Austin ensemble makes minimalism feel enveloping and unruly on its latest record, where new melodic details are always emerging from a swarming mass of sound.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Vanessa Ague"
         }
       ]
     },
@@ -1544,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 562,
+      "ms": 486,
       "error": null,
-      "fetchedAt": "2026-11-07T04:50:13.749Z",
-      "lastOkAt": "2026-11-07T04:50:13.749Z",
+      "fetchedAt": "2026-11-07T17:28:44.172Z",
+      "lastOkAt": "2026-11-07T17:28:44.172Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,13 +2200,14 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-06T18:56:16.079Z",
-      "lastOkAt": "2026-11-06T18:56:16.079Z",
+      "ms": 202,
+      "error": null,
+      "fetchedAt": "2026-11-07T17:28:44.172Z",
+      "lastOkAt": "2026-11-07T17:28:44.172Z",
       "itemCount": 15,
       "items": [
         {
@@ -2382,10 +2383,6 @@
       "artist": "The Olivia Tremor Control",
       "album": "The Same Place"
     },
-    "https://pitchfork.com/reviews/albums/water-damage-repair/": {
-      "artist": "Water Damage",
-      "album": "Repair"
-    },
     "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/": {
       "artist": "Anderson .Paak / Cordae",
       "album": "Heavy Is the Crown"
@@ -2497,6 +2494,10 @@
     "https://pitchfork.com/reviews/albums/laila-well-never-be-this-young-again/": {
       "artist": "Laila!",
       "album": "We’ll Never Be This Young Again"
+    },
+    "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/": {
+      "artist": "Bob Dylan",
+      "album": "The Rolling Thunder Revue: The 1976 Live Recordings"
     }
   }
 }

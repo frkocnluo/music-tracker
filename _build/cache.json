@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-08T04:41:13.115Z",
+    "updatedAt": "2026-11-08T17:39:31.978Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 542,
+      "ms": 760,
       "error": null,
-      "fetchedAt": "2026-11-08T04:41:13.115Z",
-      "lastOkAt": "2026-11-08T04:41:13.115Z",
+      "fetchedAt": "2026-11-08T17:39:31.978Z",
+      "lastOkAt": "2026-11-08T17:39:31.978Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 485,
+      "ms": 590,
       "error": null,
-      "fetchedAt": "2026-11-08T04:41:13.115Z",
-      "lastOkAt": "2026-11-08T04:41:13.115Z",
+      "fetchedAt": "2026-11-08T17:39:31.978Z",
+      "lastOkAt": "2026-11-08T17:39:31.978Z",
       "itemCount": 32,
       "items": [
         {
@@ -1133,12 +1133,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 135,
+      "ms": 246,
       "error": null,
-      "fetchedAt": "2026-11-08T04:41:13.115Z",
-      "lastOkAt": "2026-11-08T04:41:13.115Z",
+      "fetchedAt": "2026-11-08T17:39:31.978Z",
+      "lastOkAt": "2026-11-08T17:39:31.978Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "The Nightfly",
+          "link": "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aee25d6d19586adfe8e3537/master/pass/Donald%20Fagen%20-%20The%20Nightfly%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-08",
+          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Tonight, we join Steely Dan’s Donald Fagen under cover as an after-hours radio DJ, bringing studio perfection to the music of his adolescent dreams.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Mark Richardson"
+        },
         {
           "title": "The Rolling Thunder Revue: The 1976 Live Recordings",
           "link": "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/",
@@ -1515,19 +1528,6 @@
             "Reviews / Albums"
           ],
           "author": "Kieran Press-Reynolds"
-        },
-        {
-          "title": "Heavy Is the Crown",
-          "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/master/pass/Anderson-Paak-Heavy-Is-the-Crown.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "Anderson .Paak and Cordae kick back over a suite of boom-bap and trap-adjacent slappers on their lopsided but entertaining collaborative album.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Dylan Green"
         }
       ]
     },
@@ -1544,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 473,
+      "ms": 567,
       "error": null,
-      "fetchedAt": "2026-11-08T04:41:13.115Z",
-      "lastOkAt": "2026-11-08T04:41:13.115Z",
+      "fetchedAt": "2026-11-08T17:39:31.978Z",
+      "lastOkAt": "2026-11-08T17:39:31.978Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,13 +2200,14 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-07T17:28:44.172Z",
-      "lastOkAt": "2026-11-07T17:28:44.172Z",
+      "ms": 419,
+      "error": null,
+      "fetchedAt": "2026-11-08T17:39:31.978Z",
+      "lastOkAt": "2026-11-08T17:39:31.978Z",
       "itemCount": 15,
       "items": [
         {
@@ -2382,10 +2383,6 @@
       "artist": "The Olivia Tremor Control",
       "album": "The Same Place"
     },
-    "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/": {
-      "artist": "Anderson .Paak / Cordae",
-      "album": "Heavy Is the Crown"
-    },
     "https://pitchfork.com/reviews/albums/brakence-marrow/": {
       "artist": "brakence",
       "album": "marroW"
@@ -2497,6 +2494,10 @@
     "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/": {
       "artist": "Bob Dylan",
       "album": "The Rolling Thunder Revue: The 1976 Live Recordings"
+    },
+    "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/": {
+      "artist": "Donald Fagen",
+      "album": "The Nightfly"
     }
   }
 }

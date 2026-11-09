@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-09T04:51:31.101Z",
+    "updatedAt": "2026-11-09T21:58:31.686Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 874,
+      "ms": 875,
       "error": null,
-      "fetchedAt": "2026-11-09T04:51:31.101Z",
-      "lastOkAt": "2026-11-09T04:51:31.101Z",
+      "fetchedAt": "2026-11-09T21:58:31.686Z",
+      "lastOkAt": "2026-11-09T21:58:31.686Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 660,
+      "ms": 710,
       "error": null,
-      "fetchedAt": "2026-11-09T04:51:31.101Z",
-      "lastOkAt": "2026-11-09T04:51:31.101Z",
+      "fetchedAt": "2026-11-09T21:58:31.686Z",
+      "lastOkAt": "2026-11-09T21:58:31.686Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "A Hymn of Selfishness: Sheherazaad Interviewed",
+          "link": "https://thequietus.com/interviews/sheherazaad-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/sheherazaad_khudgarzi-zayiraray-07957-COLOR-copy-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "Khudgarzi is the debut album of Sheherazaad; the ghostly sound of female resistance in experimental pop and gothic folk. Words: Arusa Qureshi. Portraits: Zayira Ray Khudgarzi by Sheherazaad “There’s this fantastical, romanticised thing of being in grief and being dark and depressed, and then doing your best work,” American composer and theatre artist Sheherazaad tells me. A mere two months ago, she lost her grandmother, who was herself a music producer and, in many ways, the only other woman she knew who shared her intense, sometimes isolating relationship with music. “In my experience historically, it has to pass a little bit,” she continues. “Right now, I can’t even imagine it, but of course, any time we go through these periods, it’s a deepening,... The post A Hymn of Selfishness: Sheherazaad Interviewed appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Ana Lua Caiano – Devagar Que A Vida É Curta",
+          "link": "https://thequietus.com/quietus-reviews/ana-lua-caiano-devagar-que-a-vida-e-curta-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/ana-lua-caiano-devager.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "Ana Lua Caiano Devagar Que A Vida É Curta Portuguese singer-producer draws on Zeca Afonso and modern digital production techniques to produce a thrilling call to action Devagar Que A Vida É Curta by Ana Lua Caiano Devagar Que A Vida É Curta translates loosely as ‘Go slowly as life is short’. The title track does anything but go slowly, a frantic 43 seconds where Ana Lua Caiano’s assertive, multitracked vocals get in as much information as possible before the proverbial window closes. In Portuguese, she gasps: “Life is beautiful, beautiful, beautiful / Oh life, run slowly… Death is near, move fast…” This second album by the singer and visual artist confronts the process of death and renewal with a vigour, bringing pathos and even... The post Ana Lua Caiano – Devagar Que A Vida É Curta appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "From Langley Park to Mendips: Driving Through the Prefab Sprout Back Catalogue",
           "link": "https://thequietus.com/culture/books/truly-gifted-kids-prefab-sprout-nige-tassell/",
@@ -540,19 +566,6 @@
           "author": "Luke Turner"
         },
         {
-          "title": "The Last Path – Blunt Synopsis",
-          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
           "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
           "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
@@ -564,6 +577,19 @@
             "Monthly Playlists"
           ],
           "author": "Luke Turner"
+        },
+        {
+          "title": "The Last Path – Blunt Synopsis",
+          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-02",
+          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
         },
         {
           "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
@@ -590,32 +616,6 @@
             "Books"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/carcas-necroticism-descanting-the-insalubrious-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/carcass-necroticism-descanting-the-insalubrious-uk-vinyl-lp-album-record-mosh042fdrus-823130.jpg-700x700.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-30",
-          "description": "Keith Kahn-Harris looks back at a landmark release full of surprises and possibilities To push back a genre label is, all too often, a reliably generic move by artists desperately seeking to differentiate themselves from other artists who sound much the same. Occasionally though, pushing back against genre label is a more subversive move, the mark of an artist pushing against anything that would close off their creative development. Such is the case with Carcass. It didn’t take them long at the start of their career to reject the grindcore label, they are currently rebelling against the extreme metal label, and on Necroticism: Descanting The Insalubrious they were reluctant to be labelled as death metal, preferring ‘progressive’. And however much one might... The post Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35 appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Music of the Month: The Best Albums and Tracks of October 2026",
-          "link": "https://thequietus.com/tq-charts/music-of-the-month/music-of-the-month-the-best-albums-and-tracks-of-october-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Untitled2-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-30",
-          "description": "As we hurtle through the final months of 2026, tQ's staffers select another round-up of everything we've loved over the last few weeks We are only a few weeks away from end-of-year chartmageddon, the point at which we will be forced, whether we like it or not, to put on the record what defined our 2026. Given that a person's relationship with music is constantly-shifting – I find that the side of bed I've woken up on can determine whether a song makes me feel ecstatic or annoyed – I've always found the idea of making a permanent declaration of what's 'best' slightly daunting. I have a soft spot, by contrast, for the simplicity these more casual roundups, presented unranked and ad... The post Music of the Month: The Best Albums and Tracks of October 2026 appeared first on The Quietus .",
-          "categories": [
-            "Music of the Month"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -1133,12 +1133,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 248,
+      "ms": 281,
       "error": null,
-      "fetchedAt": "2026-11-09T04:51:31.101Z",
-      "lastOkAt": "2026-11-09T04:51:31.101Z",
+      "fetchedAt": "2026-11-09T21:58:31.686Z",
+      "lastOkAt": "2026-11-09T21:58:31.686Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "The Fork and Knife",
+          "link": "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aee20aa78d0dfa19820ee36/master/pass/Skepta%20-%20The%20Fork%20and%20Knife%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "After a slightly creaky start, Skepta’s first album in seven years takes shape as a mature reflection on legacy from an icon of UK grime and a face of modern Britain.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Will Pritchard"
+        },
+        {
+          "title": "O My Beloved",
+          "link": "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aee2440d1ad83d11d557f80/master/pass/Kings%20of%20Leon%20-%20O%20My%20Beloved%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "The band’s 10th album is a shocking and largely impressive reinvention that’s also the loosest they’ve sounded in decades.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Larry Fitzmaurice"
+        },
+        {
+          "title": "Róisín",
+          "link": "https://pitchfork.com/reviews/ciaran-roisin/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aee21e806e89e006e0fae99/master/pass/Ciara%CC%81n%20-%20Ro%CC%81isi%CC%81n%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "The former Bearface of Brockhampton emerges for a solo album of slouchy bedroom pop-soul whose cramped pileup of influences guards a promising sensitivity.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "H.D. Angel"
+        },
+        {
+          "title": "Certain Uncertainties",
+          "link": "https://pitchfork.com/reviews/albums/dream-unending-certain-uncertainties/",
+          "imageUrl": "https://media.pitchfork.com/photos/6adfc8e8baf3c8bb4e224a64/master/pass/3000x3000bb-100%20(7).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "On its third album, the dream-doom duo continues to tip the scales of its sound towards psychedelia, with a cowboy jazz record dotted with references to its creators’ metal roots.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Patrick Lyons"
+        },
         {
           "title": "The Nightfly",
           "link": "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/",
@@ -1476,58 +1528,6 @@
             "Reviews / Albums"
           ],
           "author": "Sam Goldner"
-        },
-        {
-          "title": "Dead Deities",
-          "link": "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae36a8ea7a049e9e3b0e7e9/master/pass/Satanic%20Planet%20Dead%20Deities.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-30",
-          "description": "The metal supergroup led by the co-founder and spokesperson of the Satanic Temple returns with a provocative, maximalist, and pretty solid second album.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sadie Sartini Garner"
-        },
-        {
-          "title": "valley and structure",
-          "link": "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae36eae95988ef7e2e81f6c/master/pass/More%20Eaze-valley%20and%20structure.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-30",
-          "description": "The experimental musician refines her approach to structured repetition on her second solo album of the year, finding melancholic beauty by subtly transforming Americana-inflected loops and patterns.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Henry Ivry"
-        },
-        {
-          "title": "The Same Place",
-          "link": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae22497903c0fd4dcfc1d19/master/pass/The%20Olivia%20Tremor%20Control%20The%20Same%20Place.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "Following the deaths of two founding members, the long-in-the-works final album from the Elephant 6 group is a dark, psychedelic epic that unfolds with eerie clairvoyance and intensity.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Patrick Lyons"
-        },
-        {
-          "title": "marroW",
-          "link": "https://pitchfork.com/reviews/albums/brakence-marrow/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad913bf0c92ad66cf11be07/master/pass/3000x3000bb-100%20(2).jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "The Ohio artist’s first album in four years is paranoid, indulgent, and theatrical, unfolding like a dark romantasy novel.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Kieran Press-Reynolds"
         }
       ]
     },
@@ -1544,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 405,
+      "ms": 536,
       "error": null,
-      "fetchedAt": "2026-11-09T04:51:31.101Z",
-      "lastOkAt": "2026-11-09T04:51:31.101Z",
+      "fetchedAt": "2026-11-09T21:58:31.686Z",
+      "lastOkAt": "2026-11-09T21:58:31.686Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,15 +2200,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-08T17:39:31.978Z",
-      "lastOkAt": "2026-11-08T17:39:31.978Z",
+      "ms": 424,
+      "error": null,
+      "fetchedAt": "2026-11-09T21:58:31.686Z",
+      "lastOkAt": "2026-11-09T21:58:31.686Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Olivia Rodrigo, Slayyyter, The Flaming Lips, Justice | Weekly Track Roundup: 11/8/26",
+          "link": "https://www.youtube.com/watch?v=xuI1f9CMNB8",
+          "imageUrl": "https://i1.ytimg.com/vi/xuI1f9CMNB8/hqdefault.jpg",
+          "embedId": "xuI1f9CMNB8",
+          "audioSrc": "",
+          "pubDate": "2026-11-08",
+          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Meiv - No Future Pt. 1 & 2 ft. Armand Hammer https://www.youtube.com/watch?v=TZGM3uRMfuU Justice - Pusher ft. Gesaffelstein https://www.youtube.com/watch?v=Ip_Kc3EQiOI The Flaming Lips - God Will Control The Werewolves https://www.youtube.com/watch?v=AIEU9qKbwQA CHVRCHES - Overthinker https://www.youtube.com/watch?v=1MOlCPAF5qk Boys Noize & Brutalismus 3000 - Nächstenliebe https://www.youtube.com/watch?v=u2KCYAYZvpA Slayyyter - hey boyyy https://www.youtube.com/watch?v=CY_mohRjzqM Olivia Rodrigo - take me home (4 Christmas) https://www.youtube.com/watch?v=uXymCnWk9LI Pixies - Punk Loop https://www.youtube.com/watch?v=dFw2NWZ9M0Q test plan - Signal https://www.youtube.com/watch?v=5l3FOrFcTHo Yaeji - ddr https://www.youtube.com/watch?v=kz0q5m0381k Psychedelic Porn Crumpets - Beam Me Up Then! https://www.youtube.com/watch?v=nFf9iu7IdJA SWAVAY - 2MUCH ft. Kai Ca$h https://www.youtube.com/watch?v=u_1zez7Ez_4 Fire-Toolz - Clustered Around My Opening! https://www.youtube.com/watch?v=_uqc0sBbPTo …meh… The Chats - Off It https://www.youtube.com/watch?v=wTNQgiglQEM Conway the Machine - Diggwutumsayn! https://www.youtube.com/watch?v=I8MrZ0TNvqg Cage the Elephant - Make It Easy https://www.youtube.com/watch?v=g8ARJgfVYJM Everything Everything - Poison Pop https://www.youtube.com/watch?v=p4owhYtVIE0 Charlotte Adigéry & Bolis Pupul - From Healer to Dealer https://www.youtube.com/watch?v=rHndTsCSXdc Ecco2k - Sky Burial https://www.youtube.com/watch?v=Cdi2BECVxBk Liars - Beat Creep Some Eyes https://www.youtube.com/watch?v=DCrP13rw0aI !!!WORST TRACKS THIS WEEK!!! Anamanaguchi - Sucker Punch https://www.youtube.com/watch?v=cwzwQuBUEIo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Michael Kiwanuka - FUDGE ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=CfeYy7IBx0Q",
@@ -2362,41 +2374,14 @@
           "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Olivia Rodrigo & Chappell Roan - expectations (Remix) https://www.youtube.com/watch?v=gsZauX8gwxo BICEP - Gas ft. Lauren Duffus & SOARR https://www.youtube.com/watch?v=ydRyOr3KYD0 Lambrini Girls - The Basement https://www.youtube.com/watch?v=84g1HvosClI Bassvictim - White Flag https://www.youtube.com/watch?v=M_G7-eYnqmc Kacey Musgraves - Weekend in Texas https://www.youtube.com/watch?v=Yu19gwnmlw8 Boldy James - Love Me Now https://www.youtube.com/watch?v=qc6lR_g2dXY Hannah Frances - Circadian Heart https://www.youtube.com/watch?v=b7rcoeVoBwA Erick the Architect - YERR ft. Ghostface Killah & Fergie Baby https://www.youtube.com/watch?v=wVnaN-44O1I Deki Alem - Pretty Toes https://www.youtube.com/watch?v=BIum-_IKEY0 Soul Glo - Ppl Worried https://www.youtube.com/watch?v=X975wXnStWw Ho99o9 - War Bait ft. Slay Squad https://www.youtube.com/watch?v=1Ro1xDsqriw …meh… Cloud Nothings - Death Keeps Me Alive https://www.youtube.com/watch?v=N6kcmzMowik Westside Gunn - ZILLA https://www.youtube.com/watch?v=eZxEOfwlhJc Ecco2k - Aldehydes and Ketones https://www.youtube.com/watch?v=25A5Y0_qHCc Haru Nemuri - Watermelon https://www.youtube.com/watch?v=N3feyKuTKaM girl in red - missing person https://www.youtube.com/watch?v=z3xQSfUSc28 Artificial Brain - Planet: Carrion https://www.youtube.com/watch?v=Z5E732KCe44 Circle Jerks - Revenge https://www.youtube.com/watch?v=DPhEuO_P_lA Skepta - Pandora’s Box https://www.youtube.com/watch?v=tVy_4Ney03U John Legend - Bodies on the Floor ft. Clipse https://www.youtube.com/watch?v=wW8rxQkInhQ !!!WORST TRACKS THIS WEEK!!! Hot Chip - Random Violence https://www.youtube.com/watch?v=I4f5T7IyA20 Current Joys - HOLE https://www.youtube.com/watch?v=sUBwbqDsjBc =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "heavensouls - \"cantu\" of the sower ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=Z88G-jkrf78",
-          "imageUrl": "https://i3.ytimg.com/vi/Z88G-jkrf78/hqdefault.jpg",
-          "embedId": "Z88G-jkrf78",
-          "audioSrc": "",
-          "pubDate": "2026-10-23",
-          "description": "Listen: https://officialauthks.bandcamp.com/album/cantu-of-the-sower heavensouls strikes an impressive balance of meticulous and freewheeling on \"cantu\" of the sower. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TODAY IS MY FAVORITE, MODEL HOUSING, STAR BALCONY, SHIPPING TIMES AND QUIET STREETS HEAVENSOULS - \"CANTU\" OF THE SOWER / 2026 / NTS / IDEK 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/": {
-      "artist": "The Olivia Tremor Control",
-      "album": "The Same Place"
-    },
-    "https://pitchfork.com/reviews/albums/brakence-marrow/": {
-      "artist": "brakence",
-      "album": "marroW"
-    },
     "https://pitchfork.com/reviews/albums/diiv-zirp/": {
       "artist": "DIIV",
       "album": "ZIRP!"
-    },
-    "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/": {
-      "artist": "more eaze",
-      "album": "valley and structure"
-    },
-    "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/": {
-      "artist": "Satanic Planet",
-      "album": "Dead Deities"
     },
     "https://pitchfork.com/reviews/albums/heathers-awesome/": {
       "artist": "Heathers",
@@ -2497,6 +2482,22 @@
     "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/": {
       "artist": "Donald Fagen",
       "album": "The Nightfly"
+    },
+    "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/": {
+      "artist": "Skepta",
+      "album": "The Fork and Knife"
+    },
+    "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/": {
+      "artist": "Kings of Leon",
+      "album": "O My Beloved"
+    },
+    "https://pitchfork.com/reviews/albums/dream-unending-certain-uncertainties/": {
+      "artist": "Dream Unending",
+      "album": "Certain Uncertainties"
+    },
+    "https://pitchfork.com/reviews/ciaran-roisin/": {
+      "artist": "Ciarán",
+      "album": "Róisín"
     }
   }
 }

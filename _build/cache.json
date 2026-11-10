@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-09T21:58:31.686Z",
+    "updatedAt": "2026-11-10T06:06:08.641Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 875,
+      "ms": 481,
       "error": null,
-      "fetchedAt": "2026-11-09T21:58:31.686Z",
-      "lastOkAt": "2026-11-09T21:58:31.686Z",
+      "fetchedAt": "2026-11-10T06:06:08.641Z",
+      "lastOkAt": "2026-11-10T06:06:08.641Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 710,
+      "ms": 547,
       "error": null,
-      "fetchedAt": "2026-11-09T21:58:31.686Z",
-      "lastOkAt": "2026-11-09T21:58:31.686Z",
+      "fetchedAt": "2026-11-10T06:06:08.641Z",
+      "lastOkAt": "2026-11-10T06:06:08.641Z",
       "itemCount": 32,
       "items": [
         {
@@ -1133,12 +1133,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 281,
+      "ms": 100,
       "error": null,
-      "fetchedAt": "2026-11-09T21:58:31.686Z",
-      "lastOkAt": "2026-11-09T21:58:31.686Z",
+      "fetchedAt": "2026-11-10T06:06:08.641Z",
+      "lastOkAt": "2026-11-10T06:06:08.641Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "PEACE + WAR",
+          "link": "https://pitchfork.com/reviews/albums/bassvictim-peace-and-war/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ad8c722307e18bf9f5d1583/master/pass/bassvictim-peace-war-album-art.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "The impish, fluorescent collages of beats and electronics on the duo’s new album capture something ineffable yet unfocused.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Olivier Lafontant"
+        },
+        {
+          "title": "Cktriz",
+          "link": "https://pitchfork.com/reviews/albums/corridos-ketamina-cktriz/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af2024f101779a2910f677c/master/pass/Corridos%20Ketamina%20-%20Cktriz.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "The Pomona/Phoenix duo’s latest record meshes corridos tumbados with rap, emo, and slow-burning guitar ballads, balancing unabashed sex talk with candid reflections on fame and identity.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Marcos Sanoja"
+        },
+        {
+          "title": "Texture Songs",
+          "link": "https://pitchfork.com/reviews/albums/chuck-roth-texture-songs/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af20dfd20df5d7ac144d99e/master/pass/Chuck%20Roth%20-%20Texture%20Songs.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "The New York guitarist’s latest album combines bracing extended techniques and dulcet, understated vocals; it’s a dazzlingly inventive fusion of singer-songwriter forms and free-improv energy.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andy Cush"
+        },
+        {
+          "title": "PROXIMA CENTAURI",
+          "link": "https://pitchfork.com/reviews/albums/boundary-proxima-centauri/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af225a1101779a2910f6d6f/master/pass/Boundary%20Proxima%20Centauri.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "With a heady concept based in the cosmos, the latest record from the Dominican producer builds grand, emotional payoffs from stark arrangements inspired by vintage video games.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Philip Sherburne"
+        },
         {
           "title": "The Fork and Knife",
           "link": "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/",
@@ -1476,58 +1528,6 @@
             "Reviews / Albums"
           ],
           "author": "Alastair Shuttleworth"
-        },
-        {
-          "title": "Katamari Fortissimo Damacy",
-          "link": "https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae36f01c138238a931e34e7/master/pass/Various%20-%20Katamari%20Fortissimo%20Damacy%20(original).jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-01",
-          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we reconnect with a 2004 cult-classic game whose postmodernist soundtrack doubles as a treatise on the meaning of life.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Billie Bugara"
-        },
-        {
-          "title": "Drukqs (25th Anniversary Edition)",
-          "link": "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae377d7efb3062cf478c6cd/master/pass/Aphex%20Twin%20-%20Drukqs%202026.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-31",
-          "description": "Richard D. James’ once divisive 2001 album today looks, with 25 years of hindsight, like the keystone of his career, joining rave mischief and academic rigor in a sprawling, 100-minute package.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Andy Cush"
-        },
-        {
-          "title": "ZIRP!",
-          "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
-          "imageUrl": "https://media.pitchfork.com/photos/6a73e45ad12418ea88fa0f4d/master/pass/diiv-zirp!-cover-3k-rgb.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-30",
-          "description": "The shoegaze band teams with producer A. G. Cook for its most pop-leaning record yet. Despite some welcome shifts in tone, the best moments sound like no one but DIIV.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Larry Fitzmaurice"
-        },
-        {
-          "title": "Awesome",
-          "link": "https://pitchfork.com/reviews/albums/heathers-awesome/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae368415ab3de1a43c5f859/master/pass/Heathers%20-%20Awesome%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-30",
-          "description": "Upstart guitarist Heath Michael Thomas’ shaggy, groove-heavy garage rock captures the raucous interplay of a much more practiced band.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sam Goldner"
         }
       ]
     },
@@ -1544,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 536,
+      "ms": 333,
       "error": null,
-      "fetchedAt": "2026-11-09T21:58:31.686Z",
-      "lastOkAt": "2026-11-09T21:58:31.686Z",
+      "fetchedAt": "2026-11-10T06:06:08.641Z",
+      "lastOkAt": "2026-11-10T06:06:08.641Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,12 +2200,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
-      "attempts": 1,
-      "ms": 424,
-      "error": null,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
+      "attempts": 2,
+      "error": "HTTP 404",
       "fetchedAt": "2026-11-09T21:58:31.686Z",
       "lastOkAt": "2026-11-09T21:58:31.686Z",
       "itemCount": 15,
@@ -2379,22 +2378,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/diiv-zirp/": {
-      "artist": "DIIV",
-      "album": "ZIRP!"
-    },
-    "https://pitchfork.com/reviews/albums/heathers-awesome/": {
-      "artist": "Heathers",
-      "album": "Awesome"
-    },
-    "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/": {
-      "artist": "Aphex Twin",
-      "album": "Drukqs (25th Anniversary Edition)"
-    },
-    "https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/": {
-      "artist": "Various Artists",
-      "album": "Katamari Fortissimo Damacy"
-    },
     "https://pitchfork.com/reviews/albums/andy-stott-late-loop/": {
       "artist": "Andy Stott",
       "album": "Late Loop"
@@ -2498,6 +2481,22 @@
     "https://pitchfork.com/reviews/ciaran-roisin/": {
       "artist": "Ciarán",
       "album": "Róisín"
+    },
+    "https://pitchfork.com/reviews/albums/boundary-proxima-centauri/": {
+      "artist": "Boundary",
+      "album": "PROXIMA CENTAURI"
+    },
+    "https://pitchfork.com/reviews/albums/bassvictim-peace-and-war/": {
+      "artist": "Bassvictim",
+      "album": "PEACE + WAR"
+    },
+    "https://pitchfork.com/reviews/albums/corridos-ketamina-cktriz/": {
+      "artist": "Corridos Ketamina",
+      "album": "Cktriz"
+    },
+    "https://pitchfork.com/reviews/albums/chuck-roth-texture-songs/": {
+      "artist": "Chuck Roth",
+      "album": "Texture Songs"
     }
   }
 }

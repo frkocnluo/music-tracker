@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-10T06:06:08.641Z",
+    "updatedAt": "2026-11-10T19:22:27.509Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 481,
+      "ms": 677,
       "error": null,
-      "fetchedAt": "2026-11-10T06:06:08.641Z",
-      "lastOkAt": "2026-11-10T06:06:08.641Z",
+      "fetchedAt": "2026-11-10T19:22:27.509Z",
+      "lastOkAt": "2026-11-10T19:22:27.509Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 547,
+      "ms": 676,
       "error": null,
-      "fetchedAt": "2026-11-10T06:06:08.641Z",
-      "lastOkAt": "2026-11-10T06:06:08.641Z",
+      "fetchedAt": "2026-11-10T19:22:27.509Z",
+      "lastOkAt": "2026-11-10T19:22:27.509Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "International Feel: Highlights from Le Guess Who? 2026",
+          "link": "https://thequietus.com/quietus-reviews/live-reviews/international-feel-highlights-from-le-guess-who-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Bethlehem-by-Maarten-Mooijman-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "Celebrating its 20th year, with a lineup focussed on bypassing arbitrary boundaries, Utrecht's flagship experimental festival forces even the most eclectic listener to go beyond, says Patrick Clarke Bethlehem's Lawrence Sammour, photo by Maarten Mooijman We start Le Guess Who? 2026 with Tortoise, who treat an enormous crowd to the cavernous Ronda space within Utrecht’s TivoliVredenburg complex. They offer a masterful display of how the subtlest shifts can produce the biggest effects, a tiny buzz of synth blooming slowly into something majestic and warm; a small nudge of bass snowballing until it’s an avalanche. Then, a trek up several flights of stairs to the much smaller Pandora, passing More Eaze as they soundcheck in a foyer, where the immensely charismatic Manaus-born musician... The post International Feel: Highlights from Le Guess Who? 2026 appeared first on The Quietus .",
+          "categories": [
+            "Live Reviews"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Straight Hedge! Noel Gardner Reviews Punk & HC for November",
+          "link": "https://thequietus.com/quietus-reviews/punk/straight-hedge-punk-hardcore-new-music-review-november-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/834839-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "From charge-the-enemy, knife-down-boot, shoelace-round-head hardcore to some gleaming and nasty Lima death rock, Noel Gardner's guide to the best in punk returns Funeral, photo by Satanist Madness Welcome (back) to what many are calling “the tersest column on the Quietus dot com”, not because of the windbag who writes it but on account of the belligerent barkers the windbag chooses to feature in it. Come lap up short songs of blunt aggression from bands with short names, the better to reflect the terseness in the presentation. Oakland’s Cell Rot have been at it for about a decade and get further away from hardcore generica with each release – while, significantly, never giving the impression they’re becoming bored of being a hardcore band. Their... The post Straight Hedge! Noel Gardner Reviews Punk & HC for November appeared first on The Quietus .",
+          "categories": [
+            "Punk"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Claire Cronin – The Bruise",
+          "link": "https://thequietus.com/quietus-reviews/claire-cronin-the-bruise-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/cronin-bruise.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "Claire Cronin The Bruise The folk horror Sandy Denny sees the horror of it all all too clearly The Bruise by Claire Cronin “Female singer songwriter” is a designation packed full of dated assumptions male singer songwriters have not had to contend with since the 60s. The category not only fails to illuminate, but flattens all difference, forcing artists who have very little in common to seem more similar than they are. Claire Cronin is too touched by the uncanny to succumb to any such kookiness-at-all-costs shoehorning. Which isn’t to say The Bruise doesn’t have points of comparison, it’s just they are not Fiona Apple or Norah Jones, rather a folk horror Sandy Denny that cut her teeth on Twin Peaks and Carrie instead of... The post Claire Cronin – The Bruise appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "A Hymn of Selfishness: Sheherazaad Interviewed",
           "link": "https://thequietus.com/interviews/sheherazaad-interview/",
@@ -577,45 +616,6 @@
             "Monthly Playlists"
           ],
           "author": "Luke Turner"
-        },
-        {
-          "title": "The Last Path – Blunt Synopsis",
-          "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-last-path-blunt.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/sunn-o-boris-altar-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/s-l1600-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-31",
-          "description": "Where do you go, what do you do, after you have created a riff for the ages? For Keith Kahn-Harris, that's the question that Boris & Sunn O)))'s Altar seems to ask By any objective standard, the riff that dominates 'Etna', the opener to the Boris / Sunn O))) collaboration Altar, should be as celebrated as 'Walk', 'Whole Lotta Love' or 'Symptom Of The Universe'. As a song, there is little else to it but the riff – an extended intro that builds and locks into an audaciously simple chord sequence, eventually giving way to a lavishly elongated breakdown into a squall of guitar noise. It's 9 minutes and 50 seconds of metallic perfection, the apotheosis of focused guitar power, without... The post Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O))) appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Enemies Within: Derek Jarman’s Kicking the Pricks and The Last of England",
-          "link": "https://thequietus.com/culture/books/enemies-within-derek-jarmans-kicking-the-pricks-and-the-last-of-england/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/The-Last-of-England-1987-pic-4-Courtesy-BFI-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-10-31",
-          "description": "Republished for the first time in nearly thirty years, Derek Jarman's book Kicking the Pricks, including the director's notes and diaries from the making of his seminal film The Last of England, offers a portal into a rotting UK that feels all too familiar The Last of England (Derek Jarman, 1987). All images courtesy: British Film Institute In Kicking The Pricks Derek Jarman poses the question: what use is a film, book or artwork that presents a nostalgic future warning for an unloved and thwarted isle? A companion piece to Jarman’s most overtly political film, The Last Of England, the book is part memoir, part production diary, and a scattering of interviews. Taken together, the two works show Jarman drawn into a... The post Enemies Within: Derek Jarman’s Kicking the Pricks and The Last of England appeared first on The Quietus .",
-          "categories": [
-            "Books"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -1133,10 +1133,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 100,
+      "ms": 216,
       "error": null,
-      "fetchedAt": "2026-11-10T06:06:08.641Z",
-      "lastOkAt": "2026-11-10T06:06:08.641Z",
+      "fetchedAt": "2026-11-10T19:22:27.509Z",
+      "lastOkAt": "2026-11-10T19:22:27.509Z",
       "itemCount": 30,
       "items": [
         {
@@ -1544,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 333,
+      "ms": 711,
       "error": null,
-      "fetchedAt": "2026-11-10T06:06:08.641Z",
-      "lastOkAt": "2026-11-10T06:06:08.641Z",
+      "fetchedAt": "2026-11-10T19:22:27.509Z",
+      "lastOkAt": "2026-11-10T19:22:27.509Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,15 +2200,38 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
-      "attempts": 2,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-09T21:58:31.686Z",
-      "lastOkAt": "2026-11-09T21:58:31.686Z",
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 289,
+      "error": null,
+      "fetchedAt": "2026-11-10T19:22:27.509Z",
+      "lastOkAt": "2026-11-10T19:22:27.509Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "A Perfect Interview with Anthony Fantano",
+          "link": "https://www.youtube.com/watch?v=fXRfHhWrJVg",
+          "imageUrl": "https://i3.ytimg.com/vi/fXRfHhWrJVg/hqdefault.jpg",
+          "embedId": "fXRfHhWrJVg",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "Introducing A Perfect Interview with Anthony Fantano, the only show featuring perfect conversations with the musicians who matter today. A production from The Needle Drop and Talkhouse. 1st episode featuring Jane Remover coming soon. TRAILER CREDITS: ON-CAMERA TALENT: Anthony Fantano, Jane Remover PRODUCED BY: Emilie Friedlander, Drew Millard, Sam Blumenfeld DIRECTED BY: Conner Schuurmans, Sam Blumenfeld WRITTEN BY: Anthony Fantano, Drew Millard, Sam Blumenfeld, Emilie Friedlander DIRECTOR OF PHOTOGRAPHY & GAFFER: Conner Schuurmans CAMERA OPERATORS: William Kenton, Thomas Huerta, Steven Zambon EDITOR: Zach Galsky SET DESIGN: Isa Castro-Cota, Lindsey Lieberman COLORIST: Steven Zambon GRAPHIC DESIGN: Michael Quick ORIGINAL THEME MUSIC: Andrew Veres SOUND RECORDING, MIXING, AND ADDITIONAL MUSIC: Nick Fopeano Y'all know this is just my new interview show, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Wolves in the Throne Room - Estuary ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=ZD4mD0Jhuuc",
+          "imageUrl": "https://i3.ytimg.com/vi/ZD4mD0Jhuuc/hqdefault.jpg",
+          "embedId": "ZD4mD0Jhuuc",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "Listen: https://wolvesinthethroneroom.bandcamp.com/album/estuary-north-america-edition Wolves' best since Celestial Lineage. More metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: KNIGHTS OF TIAMAT; FORETOLD IN REFLECTIONS; THE ORCA CLIFFS; WRETCHED SPIRITS, LAND OF LIGHT LEAST FAV TRACK: GHOSTS AMONG THE OBELISKS WOLVES IN THE THRONE ROOM - ESTUARY / 2026 / CENTURY MEDIA, RELAPSE / ATMOSPHERIC BLACK METAL 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Olivia Rodrigo, Slayyyter, The Flaming Lips, Justice | Weekly Track Roundup: 11/8/26",
           "link": "https://www.youtube.com/watch?v=xuI1f9CMNB8",
@@ -2349,28 +2372,6 @@
           "audioSrc": "",
           "pubDate": "2026-10-27",
           "description": "#music #jpegmafia #review #rap #hiphop",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Kid Rock's Halfway 2 Jesus is NOT GOOD",
-          "link": "https://www.youtube.com/watch?v=DZfj2JAsWqI",
-          "imageUrl": "https://i1.ytimg.com/vi/DZfj2JAsWqI/hqdefault.jpg",
-          "embedId": "DZfj2JAsWqI",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "Listen: https://www.youtube.com/watch?v=kxYTLagfy-4 Halfway 2 the Core More NOT GOODs: https://www.youtube.com/playlist?list=PLP4CSgl7K7orMz0p3u1uCedytfedxY9IG =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen (i sat thru this 70min kid rock album with Anthony; he insisted on running back that ai \"procession\" track 2 more times after the album was over 😭) =================================== KID ROCK - HALFWAY 2 JESUS / 2026 / TOP DOG / AMERICHRISTIAN SLOP NOT GOOD/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Olivia Rodrigo, Chappell Roan, Ecco2k, BICEP | Weekly Track Roundup: 10/25/26",
-          "link": "https://www.youtube.com/watch?v=1YxOw8IxHQw",
-          "imageUrl": "https://i2.ytimg.com/vi/1YxOw8IxHQw/hqdefault.jpg",
-          "embedId": "1YxOw8IxHQw",
-          "audioSrc": "",
-          "pubDate": "2026-10-26",
-          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Olivia Rodrigo & Chappell Roan - expectations (Remix) https://www.youtube.com/watch?v=gsZauX8gwxo BICEP - Gas ft. Lauren Duffus & SOARR https://www.youtube.com/watch?v=ydRyOr3KYD0 Lambrini Girls - The Basement https://www.youtube.com/watch?v=84g1HvosClI Bassvictim - White Flag https://www.youtube.com/watch?v=M_G7-eYnqmc Kacey Musgraves - Weekend in Texas https://www.youtube.com/watch?v=Yu19gwnmlw8 Boldy James - Love Me Now https://www.youtube.com/watch?v=qc6lR_g2dXY Hannah Frances - Circadian Heart https://www.youtube.com/watch?v=b7rcoeVoBwA Erick the Architect - YERR ft. Ghostface Killah & Fergie Baby https://www.youtube.com/watch?v=wVnaN-44O1I Deki Alem - Pretty Toes https://www.youtube.com/watch?v=BIum-_IKEY0 Soul Glo - Ppl Worried https://www.youtube.com/watch?v=X975wXnStWw Ho99o9 - War Bait ft. Slay Squad https://www.youtube.com/watch?v=1Ro1xDsqriw …meh… Cloud Nothings - Death Keeps Me Alive https://www.youtube.com/watch?v=N6kcmzMowik Westside Gunn - ZILLA https://www.youtube.com/watch?v=eZxEOfwlhJc Ecco2k - Aldehydes and Ketones https://www.youtube.com/watch?v=25A5Y0_qHCc Haru Nemuri - Watermelon https://www.youtube.com/watch?v=N3feyKuTKaM girl in red - missing person https://www.youtube.com/watch?v=z3xQSfUSc28 Artificial Brain - Planet: Carrion https://www.youtube.com/watch?v=Z5E732KCe44 Circle Jerks - Revenge https://www.youtube.com/watch?v=DPhEuO_P_lA Skepta - Pandora’s Box https://www.youtube.com/watch?v=tVy_4Ney03U John Legend - Bodies on the Floor ft. Clipse https://www.youtube.com/watch?v=wW8rxQkInhQ !!!WORST TRACKS THIS WEEK!!! Hot Chip - Random Violence https://www.youtube.com/watch?v=I4f5T7IyA20 Current Joys - HOLE https://www.youtube.com/watch?v=sUBwbqDsjBc =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

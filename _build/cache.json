@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-10T19:22:27.509Z",
+    "updatedAt": "2026-11-11T04:53:31.630Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 677,
+      "ms": 646,
       "error": null,
-      "fetchedAt": "2026-11-10T19:22:27.509Z",
-      "lastOkAt": "2026-11-10T19:22:27.509Z",
+      "fetchedAt": "2026-11-11T04:53:31.630Z",
+      "lastOkAt": "2026-11-11T04:53:31.630Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 676,
+      "ms": 546,
       "error": null,
-      "fetchedAt": "2026-11-10T19:22:27.509Z",
-      "lastOkAt": "2026-11-10T19:22:27.509Z",
+      "fetchedAt": "2026-11-11T04:53:31.630Z",
+      "lastOkAt": "2026-11-11T04:53:31.630Z",
       "itemCount": 32,
       "items": [
         {
@@ -195,6 +195,36 @@
             "Live Reviews"
           ],
           "author": "Patrick Clarke"
+        },
+        {
+          "title": "Squid Release Live Album, ‘CROWDS’",
+          "link": "https://thequietus.com/news/squid-release-live-album-crowds/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/SQUIDFIRST-19-2-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "It was captured over the course of the band's UK headline tour for 2025 LP Cowards Photo by Caroline Sanfran Squid have released a live album, titled CROWDS. Recorded over the course of their UK headline tour for 2025 LP Cowards, the 11-track album features live renditions of songs from that record, as well as previous albums Bright Green Field and O Monolith. Initially available as a digital-only release, a double-vinyl pressing is set to follow, with fans able to pre-order a copy between now and 4 December. You can reserve a copy here. A handful of test pressings will also be put up for sale to the first fans at the merch stand at the band’s Barbican headline show on 5 December. In... The post Squid Release Live Album, ‘CROWDS’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Squid",
+            "Warp Records"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Kelela and More to Play RALLY 2027",
+          "link": "https://thequietus.com/news/kelela-and-more-to-play-rally-2027/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/@seb.gardner_Rally_Landscape-19-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "The headline set will mark her only London performance of next year Photo by Seb Gardner London festival RALLY has revealed the first wave of acts playing its 2027 edition. Returning to Southwark Park for its fifth edition, next year's event will take in a headline set from Kelela. It will mark her only London performance of 2027, and follows on from her recent UK and European tour in support of 2026 album new avatar. Also confirmed to play are Chanel Beads, ABRA, Fine, RÓIS and Helen Sun. Repping electronic music sounds will be Loidis, playing live, as well as Shanti Celeste, Rhadoo and OK Williams. More acts will be added to the bill in the coming months. Presale registration for 2027 tickets is open... The post Kelela and More to Play RALLY 2027 appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Kelela",
+            "RALLY"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Straight Hedge! Noel Gardner Reviews Punk & HC for November",
@@ -221,6 +251,34 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Dirty Projectors Share New Song, ‘Jumbotron’",
+          "link": "https://thequietus.com/news/dirty-projectors-share-new-song-jumbotron/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Dirty-Projectors-David-Longstreth-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "Its release marks their signing to Indiana label Joyful Noise, and the founding of their own imprint, Well-Tempered Zealot Dirty Projectors have released a new song, called 'Jumbotron'. It comes amid a flurry of activity from the project, which is led by David Longstreth. They've newly signed to Indiana label Joyful Noise, and launched their own imprint, Well-Tempered Zealot. Speaking about 'Jumbotron', Longstreth said: \"I was thinking about the big screen and the small screen. The big tent and the kind of tent you can make in the living room with a couple couch cushions and a blanket or two. Life and entertainment; attention and volume; focus and detail; quality and value. Listen to the song!\" Longstreth is set to take Dirty Projectors out... The post Dirty Projectors Share New Song, ‘Jumbotron’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Dirty Projectors"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Nick Cave Announces Talk and Music Tour of North America",
+          "link": "https://thequietus.com/news/nick-cave-announces-talk-and-music-tour-of-north-america/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Nick-Cave-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-09",
+          "description": "The Australian artist is refreshing the concept for his popular 2019 tour for a new 2027 run next spring Photo by Venetia Scott Nick Cave has announced an extensive tour of North America for 2027. Conversations With Nick Cave will offer up a night of talk and music from the Australian artist, refreshing the concept for a popular tour run that he rolled out across the same continent in 2019. Each show will take in a mixture of unvetted audience questions and intimate piano performances of tracks from across Cave's extensive back catalogue. In a statement, Cave said: \"Years ago, in a peculiar state of mind, I travelled across the US, stepped onto stages in different cities, and fielded questions from the audience. It... The post Nick Cave Announces Talk and Music Tour of North America appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Nick Cave"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "A Hymn of Selfishness: Sheherazaad Interviewed",
@@ -564,58 +622,6 @@
             "Everything But The Girl"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Remember Them: The Incalculable Legacy of Juan Atkins",
-          "link": "https://thequietus.com/news/remember-them/juan-atkins-obituary/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Capture-decran-2026-01-23-a-15.49.30-e1769179789478-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Alex Maiolo salutes a visionary musician – \"The Originator\" of techno – who died on Saturday night Juan Atkins was born in Detroit, Michigan in 1962. His parents split when he was a teen. The plan was for him and his father to move to California, but his grandparents made the case for them to take up residence down the street in the Detroit suburb of Belleville. This was only the first time Juan’s grandmother, Lily, had a direct effect on the history of electronic music.The second was when she helped the 15-year-old buy a monosynth. Already playing in funk bands, Atkins took note of Bernie Worrell’s work in Funkadelic. Apparently Lily could absolutely tear it up on the Hammond B3... The post Remember Them: The Incalculable Legacy of Juan Atkins appeared first on The Quietus .",
-          "categories": [
-            "Remember Them…"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "A Form of Utopianism: Cluster’s Sowiesoso at 50",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/cluster-sowiesoso-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/12541217-700x700.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "From avant garde beginnings to ambient endings, Cluster reconfigured rock music as much as Kraftwerk, says Toby Manning. In the late 70s and early 80s, British music took a distinctly European turn, from Bowie’s “Heroes” in 1977 to Ultravox’s ‘Vienna’ in 1981, peaking with Kraftwerk’s ‘The Model’ hitting UK no. 1 the following year. Whether it was the after-effects of the EEC referendum or a growing anti-Americanism in the wake of Watergate and Vietnam, this new Europeanism temporarily sidelined music’s traditional Transatlantic passage for the artier terrain over the Channel. Chart hits like Visage’s ‘Fade To Grey’ in 1980, The Passions’ 1981 ‘I’m In Love With A German Film Star’, or The Mobiles’ ‘Drowning in Berlin’ from the same year were... The post A Form of Utopianism: Cluster’s Sowiesoso at 50 appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "How Pete Doherty’s Mega-Breakfast Predicted GB Music Radio",
-          "link": "https://thequietus.com/opinion-and-essays/black-sky-thinking/how-pete-dohertys-mega-breakfast-predicted-gb-news-radio/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/Screenshot-2026-10-30-at-18.06.11-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Pete Paphides reaches for the Gaviscon as he considers national identity, large plates of fried food, and what would be on the playlist were he celebrating British culture on the airwaves Pete Doherty eating his breakfast at the Dalby Cafe, via Instagram It’s been ten years since, over a Muswell Hill cuppa, my pop-loving compañero Bob Stanley floated a theory that was, on the face of things, a mite fanciful. He suggested that a key factor in the outcome of the 2016 referendum on leaving the EU was the similarity between the words ‘Brexit’ and ‘breakfast’. Bob contended that those of us who wanted Britain to remain in the EU didn’t have a comparably snappy word to which we could align our... The post How Pete Doherty’s Mega-Breakfast Predicted GB Music Radio appeared first on The Quietus .",
-          "categories": [
-            "Black Sky Thinking"
-          ],
-          "author": "Luke Turner"
-        },
-        {
-          "title": "Subscriber Exclusive Playlist & Perks Round-up: October 2026",
-          "link": "https://thequietus.com/subscriber-area/monthly-playlists/subscriber-exclusive-playlist-perks-round-up-october-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/10/2026_10_October-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Here's everything our Subscribers had last month, including over four hours of listening treasure in the multi-platform playlist It’s that time of the month when we take the heavy lifting from our Subscribers' ears and keep them on top of all that is new and good in tQ’s world. Before we give the Subscriber and Subscriber Plus tier members the links to their playlist on the various streaming platforms, here’s a bit of a catch-up on what we’ve sent out to our top two subs tiers in October. In the Low Culture Podcast, John and Luke discussed the original 1954 film that kicked off the Godzilla series, as well as the recent Godzilla Minus One. The Low Culture Essay was on... The post Subscriber Exclusive Playlist & Perks Round-up: October 2026 appeared first on The Quietus .",
-          "categories": [
-            "Monthly Playlists"
-          ],
-          "author": "Luke Turner"
         }
       ]
     },
@@ -1133,10 +1139,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 216,
+      "ms": 219,
       "error": null,
-      "fetchedAt": "2026-11-10T19:22:27.509Z",
-      "lastOkAt": "2026-11-10T19:22:27.509Z",
+      "fetchedAt": "2026-11-11T04:53:31.630Z",
+      "lastOkAt": "2026-11-11T04:53:31.630Z",
       "itemCount": 30,
       "items": [
         {
@@ -1544,12 +1550,27 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 711,
+      "ms": 795,
       "error": null,
-      "fetchedAt": "2026-11-10T19:22:27.509Z",
-      "lastOkAt": "2026-11-10T19:22:27.509Z",
+      "fetchedAt": "2026-11-11T04:53:31.630Z",
+      "lastOkAt": "2026-11-11T04:53:31.630Z",
       "itemCount": 40,
       "items": [
+        {
+          "title": "Album Of The Week: Krill Secret Language",
+          "link": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/krill_secretlanguage_3000.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-10",
+          "description": "The post Album Of The Week: Krill <em>Secret Language</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Krill"
+          ],
+          "author": "Chris DeVille"
+        },
         {
           "title": "Album Of The Week: Willi Carlisle The Universal Bubba",
           "link": "https://stereogum.com/2516368/album-of-the-week-willi-carlisle-the-universal-bubba/reviews/album-of-the-week/",
@@ -2171,23 +2192,6 @@
             "Hemlocke Springs"
           ],
           "author": "Margaret Farrell"
-        },
-        {
-          "title": "Album Of The Week: Mandy, Indiana URGH",
-          "link": "https://stereogum.com/2487243/album-of-the-week-mandy-indiana-urgh/reviews/album-of-the-week/",
-          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/01/Mandy-Indiana-URGH-album-art.jpg?w=564",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-02-03",
-          "description": "The post Album Of The Week: Mandy, Indiana <em>URGH</em> appeared first on Stereogum .",
-          "categories": [
-            "Album Of The Week",
-            "Reviews",
-            "billy woods",
-            "Daniel Fox",
-            "Mandy Indiana"
-          ],
-          "author": "Chris DeVille"
         }
       ]
     },
@@ -2200,12 +2204,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
-      "attempts": 1,
-      "ms": 289,
-      "error": null,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
+      "attempts": 2,
+      "error": "HTTP 404",
       "fetchedAt": "2026-11-10T19:22:27.509Z",
       "lastOkAt": "2026-11-10T19:22:27.509Z",
       "itemCount": 15,

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-11T04:53:31.630Z",
+    "updatedAt": "2026-11-11T19:17:21.236Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 646,
+      "ms": 664,
       "error": null,
-      "fetchedAt": "2026-11-11T04:53:31.630Z",
-      "lastOkAt": "2026-11-11T04:53:31.630Z",
+      "fetchedAt": "2026-11-11T19:17:21.236Z",
+      "lastOkAt": "2026-11-11T19:17:21.236Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,113 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 546,
+      "ms": 628,
       "error": null,
-      "fetchedAt": "2026-11-11T04:53:31.630Z",
-      "lastOkAt": "2026-11-11T04:53:31.630Z",
+      "fetchedAt": "2026-11-11T19:17:21.236Z",
+      "lastOkAt": "2026-11-11T19:17:21.236Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Tehran Contemporary Sounds Festival Takes Place in Berlin",
+          "link": "https://thequietus.com/news/tehran-contemporary-sounds-festival-takes-place-in-berlin/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Abdullah-Miniawy-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "The latest edition of the event takes in performances from Abdullah Miniawy, Gnäw and more Abdullah Miniawy Tehran Contemporary Sounds Festival is taking place in Berlin this week. Stretching out across six days, the seventh edition of the event brings together live performances, film screenings, talks and audiovisual presentations. The programming, which largely celebrates work by the Iranian diaspora, is spread across Berlin's Silent Green Kulturquartier venue, while film screenings are taking place at Moviemento Kino. The bulk of the music programming appears across this week, from 13 to 15 November. It will feature performances from Abdullah Miniawy, Gnäw, Ava Rasti and the duo Tehran, among others. Check out the full schedule of events here. Tehran Contemporary Sounds Festival takes place from 10 to... The post Tehran Contemporary Sounds Festival Takes Place in Berlin appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Abdullah Miniawy",
+            "Gnäw",
+            "Tehran Contemporary Sounds Festival"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Armand Hammer Surprise Release New Album, ‘Snakes & Ladders’",
+          "link": "https://thequietus.com/news/armand-hammer-surprise-release-new-album-snakes-ladders/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/unnamed-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "It features guest appearances from DJ Haram and $ilkmoney Armand Hammer, the duo of billy woods and ELUCID, have released a surprise new album, Snakes & Ladders. Featuring 16 tracks, it follows on from last year's Mercy LP, and features guest appearances from DJ Haram and $ilkmoney. There is also production from clipping., and frequent collaborators such as Kenny Segal, Preservation, Child Actor and Sebb Bash. The album was written and recorded by Armand Hammer and their collaborators in the winter of 2025 into 2026. Its release comes as the duo round off their tour of North America this week, with the final show scheduled for Sunday (15 November) at New York's Music Hall of Williamsburg. Listen to Snakes & Ladders below. Snakes & Ladders... The post Armand Hammer Surprise Release New Album, ‘Snakes & Ladders’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Armand Hammer",
+            "billy woods",
+            "ELUCID"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Coachella Reveals 2027 Lineup",
+          "link": "https://thequietus.com/news/coachella-reveals-2027-lineup/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Coachella-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "Madonna, SZA and Giorgio Moroder are among the artists playing next year's festival in California Coachella has revealed its full 2027 lineup. The California festival will be headlined by SZA, Dua Lipa and Tame Impala, while Madonna is also listed to play a special set in the Sahara dance music tent, following a 2006 appearance she did there after putting out her album Confessions On A Dance Floor. Next year's set will come after the release this past summer of that album's sequel. Also listed to play Coachella are Giorgio Moroder, Underworld, Four Tet, Weezer, Kelela, Shygirl, Steve Lacy, Social Distortion, Boy Harsher, underscores and Chanel Beads, among many others. Justice are scheduled to debut a new project titled Blinded By The Lights... The post Coachella Reveals 2027 Lineup appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Coachella",
+            "Giorgio Moroder",
+            "Madonna",
+            "SZA"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "It Never Went Away: Radie Peat’s Favourite Albums",
+          "link": "https://thequietus.com/interviews/bakers-dozen/radie-peat-lankum-oxn-interview-favourite-albums/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Radie-Peat-Credit-Dave-Smith--700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "On the verge of her debut solo album, Radie Peat of Lankum and ØXN presents 13 records that have held sway over her life and work, from Nico to Beak > Photo by Dave Smith Radie Peat is rightly known as a generational talent in traditional folk music. With all-conquering Lankum and doomy supergroup ØXN (with Katie Kim, Eleanor Myler and John 'Spud' Murphy) she has proved herself as dazzling an instrumentalist (playing concertina, accordion, harmonium, tin whistle and much more) as she is a singer; her voice never fails to imbue her material with an elemental power. Peat's masterful debut solo album No Human Tongue Can Tell, centred on songs united by themes of female struggle and endurance, only furthers that status.... The post It Never Went Away: Radie Peat’s Favourite Albums appeared first on The Quietus .",
+          "categories": [
+            "Baker's Dozen"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Coil – Gold is the Metal (with the Broadest Shoulders)",
+          "link": "https://thequietus.com/quietus-reviews/coil/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/coil-gold-is-the-metal.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "Coil Gold is the Metal (with the Broadest Shoulders) Assembled from the discarded off-cuts from Horse Rotorvator and the group's unused Hellraiser score, Coil's third album proves far more than the sum of its parts Gold Is The Metal (With The Broadest Shoulders) by Coil Alchemy. The protoscientific transmutation of base materials into “noble metals” such as gold is a well documented theory more closely aligned with philosophical and spiritual traditions than tangible science. In Alejandro Jodorowsky’s cult work of psychedelic cinema, The Holy Mountain, the protagonist defecates in a bell jar and inhales the rotting fumes in a bid to turn himself into gold. For Coil’s third album, Peter ‘Sleazy’ Christopherson and Geoff Rushton (AKA John Balance), joined by Stephen Thrower, scratched around on... The post Coil – Gold is the Metal (with the Broadest Shoulders) appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Far Beyond & Non-Existent: Wipers’ Youth Of America Revisited",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/wipers-youth-of-america-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-11-at-07.45.44-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "Wipers would have been huge if they hadn't asked so many questions. John Calvert writes about an essential punk album from 45 years ago On Portland Punk Live At The Earth 10-29-79, a live-on-the-night document of local bands released warts'n'all by Wipers' Greg Sage on his own label, Trap, Sage can be heard introducing his band's 'Same Old Thing'. Overwrought with stage adrenaline and demonstrating the compassion and obsessive conviction that made him a hero to the bullshit-intolerant, the frontman blurts out: “This is about the far beyond and the non-existent and all that and in between, because I don't really know about it but I'm gonna try to explain it...\" In Sage's outburst is contained everything that was the Portlandians'... The post Far Beyond & Non-Existent: Wipers’ Youth Of America Revisited appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "More Eaze – Valley and Structure",
+          "link": "https://thequietus.com/quietus-reviews/more-eaze-valley-and-structure-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/more-eaze-valley-and.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "More Eaze Valley and Structure The latest from Mari Rubio builds complex scaffolding from the simplest of motifs valley and structure by more eaze Over the last few years, I’ve seen More Eaze (aka Mari Rubio) twice. At Rewire in 2022, she performed as -----__, a digital, detail-laden project created in collaboration with Seth Graham. Three years later, at the Supersonic Festival, I saw her with Water Damage. They played a single suite lasting almost fifty minutes. Rubio contributed long, bourdon violin parts, whilst the whole band stubbornly stuck to a motif that might just as easily have lasted ten minutes or several hours. Not much seemed to be happening, but the music kept shifting: the proportions, tension and weight of the sound changed,... The post More Eaze – Valley and Structure appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "International Feel: Highlights from Le Guess Who? 2026",
           "link": "https://thequietus.com/quietus-reviews/live-reviews/international-feel-highlights-from-le-guess-who-2026/",
@@ -190,7 +291,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-10",
-          "description": "Celebrating its 20th year, with a lineup focussed on bypassing arbitrary boundaries, Utrecht's flagship experimental festival forces even the most eclectic listener to go beyond, says Patrick Clarke Bethlehem's Lawrence Sammour, photo by Maarten Mooijman We start Le Guess Who? 2026 with Tortoise, who treat an enormous crowd to the cavernous Ronda space within Utrecht’s TivoliVredenburg complex. They offer a masterful display of how the subtlest shifts can produce the biggest effects, a tiny buzz of synth blooming slowly into something majestic and warm; a small nudge of bass snowballing until it’s an avalanche. Then, a trek up several flights of stairs to the much smaller Pandora, passing More Eaze as they soundcheck in a foyer, where the immensely charismatic Manaus-born musician... The post International Feel: Highlights from Le Guess Who? 2026 appeared first on The Quietus .",
+          "description": "Celebrating its 20th year, with a lineup focussed on bypassing arbitrary boundaries, Utrecht's flagship experimental festival forces even the most eclectic listener to go beyond, says Patrick Clarke Bethlehem's Lawrence Sammour, photo by Maarten Mooijman We start Le Guess Who? 2026 with Tortoise, who draw an enormous crowd in the cavernous Ronda space within Utrecht’s TivoliVredenburg complex. They offer a masterful display of how the subtlest shifts can produce the biggest effects, a tiny buzz of synth blooming slowly into something majestic and warm; a small nudge of bass snowballing until it’s an avalanche. Then, a trek up several flights of stairs to the much smaller Pandora, passing More Eaze as they soundcheck in a foyer, where the immensely charismatic Manaus-born musician... The post International Feel: Highlights from Le Guess Who? 2026 appeared first on The Quietus .",
           "categories": [
             "Live Reviews"
           ],
@@ -526,100 +627,6 @@
             "News",
             "Four Tet",
             "The Durutti Column"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Andy Ingamells – Vanity Project",
-          "link": "https://thequietus.com/quietus-reviews/andy-ingamells-vanity-project/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/BRC031_cover_720x-ingamells-700x700.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-04",
-          "description": "Andy Ingamells Vanity Project The solo debut album by the British composer-performer is full of fun – and no shortage of questions “Search for fun, types of fun, source of fun, apply for fun, awarded fun, get fun, have fun,” enumerates Andy Ingamells in the opener of his first solo album Vanity Project. It would indeed be fun, were it not for the call bell that keeps cutting in, turning fun into fun-ding – a never-ending, soul-sucking loop. Silence falls after ‘decision pen-ding’. This semantic, even conceptual playfulness of ‘Ding’ permeates Vanity Project, which gathers pieces from 2008 to 2026. Ingamells is the sole musician on all but one track, speaking, singing, playing melodica, pipe organ and more. Central to his practice is the intersection... The post Andy Ingamells – Vanity Project appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Funny Games: Aphex Twin’s Richard D. James Album 30 years on",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/aphex-twin-richard-d-james-album-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/a1664460568_10-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-04",
-          "description": "With a manic grin leering from the cover, Aphex Twin's fourth was readily incorporated into blather about drill & bass but his best, most cohesive album was neither wacky nor a novelty, says Toby Manning Richard D. James Album by Aphex Twin The year is 1996, the era of Britpop and lads’ mags, of Euro 96 and ‘Three Lions’, the retro complacency of which has seemingly no connection to the restlessly innovative Aphex Twin’s fifth album. Yet the depthless positivity of Cool Britannia didn’t just produce Britpop but ‘comedy is the new rock & roll’, the wipe-clean irony of Chris Evans and the music weeklies’ suffusion with puns, gags and exclamations of ‘arse!’ This comedification of culture hence predicated the media presentation... The post Funny Games: Aphex Twin’s Richard D. James Album 30 years on appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Four Rare Pixies Songs Given First-Time Digital Release",
-          "link": "https://thequietus.com/news/four-rare-pixies-songs-given-first-time-digital-release/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-04-at-15.08.53-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "The tracks, dating from 1987 to 1991, have been made available on streaming platforms Photo by Renaud Monfourny Four rare Pixies songs originally recorded between 1987 and 1991 have been shared on streaming platforms for the first time. The tracks – 'Dig For Fire (Albini Version)', 'Go Man Go', 'Brackish Boy', and 'Punk Loop' – had previously only been made available on two bonus 7-inch singles included in the recent limited-edition remastered vinyl pressings of Pixies' albums Bossanova and Trompe le Monde. The Steve Albini recording of 'Dig For Fire' is from 1987 when Pixies were doing recording sessions for debut album Surfer Rosa, and is significantly different from the version that was officially released three years later. 'Go Man Go' was co-written by Black... The post Four Rare Pixies Songs Given First-Time Digital Release appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "4AD",
-            "Pixies"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence",
-          "link": "https://thequietus.com/news/daphne-oram-at-100-bradford-influence-hannah-peel-annea-lockwood/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Oram1-copy-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "As celebrations of Daphne Oram's centenary culminate with an all-day celebration in Bradford, Claire Biddles speaks to a host of artists, from her contemporaries to previous Oram Award winners, to get a measure of her immense contribution to electronic music Photo © Daphne Oram Trust The pioneering work of Daphne Oram was not fully recognised until after her death in 2003 – but now, over 20 years later, she is rightly recognised as one of the most important electronic musicians of the 20th century. A co-founder of the BBC’s legendary Radiophonic Workshop in 1958, Oram was one of the first composers to use electronic sound in her work, and is known for her early use of electronic tape, turntablism, and musique concrète... The post Daphne Oram at 100: Nine Artists on the Pioneer’s Enduring Influence appeared first on The Quietus .",
-          "categories": [
-            "News"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Spool’s Out: Cassette Reviews for November by Daryl Worthington",
-          "link": "https://thequietus.com/quietus-reviews/cassettes/spools-out-cassette-reviews-for-november-by-daryl-worthington/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/ROXANNE-HARRIS-Copia-de-Foto-_-SonarD-_-ROXANNE-STAGED-_-PHOTO-©-Cecilia-Diaz-Betz-_-Carrusuel-_-20260619_0484-1-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "Daryl Worthington considers the extent to which Spool’s Out offers investment advice, and reviews a crop of tapes including a footwork legend from Japan going ultra-crisp, mesmerising live code improvisations, ferocious eco-pop and more Roxanne Harris, photo by Cecilia Díaz Betz Five thousand dollars. That’s how much an original copy of Prince’s The Versace Experience on cassette could be worth, according to Finance Buzz, a website which offers “the resources and support necessary to navigate the complexities of personal finance”. That Prince tape, which contained previews of tracks from his then forthcoming The Gold Experience, was issued in 1995 and given to attendees at a fashion show in Paris. It tops the Finance Buzz ’10 Cassette Tapes From The 90s Worth A Small... The post Spool’s Out: Cassette Reviews for November by Daryl Worthington appeared first on The Quietus .",
-          "categories": [
-            "Cassettes"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Marta Salogni & Stefano Pilia – Phren",
-          "link": "https://thequietus.com/quietus-reviews/marta-salogni-stefano-pilia-phren-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/salogni-pilia-phren.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "Marta Salogni & Stefano Pilia Phren Spooky sounds from two Italian masters of modern electro-acoustic composition Phren by Marta Salogni & Stefano Pilia Marta Salogni and Stefano Pilia’s Phren is music of accretion. Inputs are fed through Pilia’s chain of filters and tape echo and on into Salogni’s Revox reel-to-reel tape machine for further manipulation and modulation, the signals absorbing new layers and mutations as they go. According to the release notes, that initial input is often Pilia’s guitar, but the pair’s plastic approach to sound makes that far from obvious. They telescope the act of mediation, mottling, shading and bending signals as they pass from sound source to ears. ‘Sopra l’acque scavate’ opens with distorted notes sparking like a frosty firework display. The more... The post Marta Salogni & Stefano Pilia – Phren appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Everything But The Girl Unveil New Album, ‘Blue Reservoir’",
-          "link": "https://thequietus.com/news/everything-but-the-girl-unveil-new-album-blue-reservoir/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/unnamed-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "It follows 2023's Fuse, which was the duo's first LP in 24 years Photo by Edward Bishop Everything But The Girl have shared details of a new album, titled Blue Reservoir. Spanning 10 tracks, it follows on from 2023's Fuse, which was Tracey Thorn and Ben Watt's first LP in 24 years. The upcoming LP was inspired by the duo's return to live performing in 2025, when they embarked on a residency at 300-capacity London venue MOTH Club. “There was an intensity and simplicity to the MOTH shows that took us back to how we started out,” said Thorn in a statement. “Direct, rooted in guitar and voice, a few extra colours. We hadn’t been in that world for a long time and... The post Everything But The Girl Unveil New Album, ‘Blue Reservoir’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Everything But The Girl"
           ],
           "author": "Christian Eede"
         }
@@ -1139,12 +1146,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 219,
+      "ms": 179,
       "error": null,
-      "fetchedAt": "2026-11-11T04:53:31.630Z",
-      "lastOkAt": "2026-11-11T04:53:31.630Z",
+      "fetchedAt": "2026-11-11T19:17:21.236Z",
+      "lastOkAt": "2026-11-11T19:17:21.236Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Worst Christmas Ever!",
+          "link": "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae8a8893ad14b0f5282e9b6/master/pass/sufjan-worst-christmas-ever-art.JPG",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "In the great tradition of Christmas CD repackagings, Sufjan has plucked an album’s worth of material from his many volumes of holiday fare—plus one new song—for an eccentric yet charming compilation.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Jayson Greene"
+        },
+        {
+          "title": "SWALLOW!",
+          "link": "https://pitchfork.com/reviews/albums/shygirl-swallow/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aa2ae550d473e45f673155a/master/pass/Swallow!%20by%20Shygirl.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "In palpitating trip-hop and wind-tunnel big beat, the producer’s lovestruck second album seeks a softer, more romantic home on the dancefloor.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Walden Green"
+        },
+        {
+          "title": "In Endless Awe & Agony",
+          "link": "https://pitchfork.com/reviews/albums/daine/in-endless-awe-and-agony/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab1765953bdeef50ce58d0e/master/pass/612891028300.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "The Australian singer’s debut cultivates a joyful button-bashing feeling as it toggles between power-, hyper-, and synth-pop.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Aimee Cliff"
+        },
+        {
+          "title": "When You Smiled and Turned Away",
+          "link": "https://pitchfork.com/reviews/albums/the-cats-miaow-when-you-smiled-and-turned-away/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af35d925b5e04c971470712/master/pass/The%20Cat",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "More than 30 years after forming, the Melbourne indie-pop greats issue their full-length debut: a pristine collection that adds newfound wisdom and clarity to their intimate sound.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "David Glickman"
+        },
         {
           "title": "PEACE + WAR",
           "link": "https://pitchfork.com/reviews/albums/bassvictim-peace-and-war/",
@@ -1482,58 +1541,6 @@
             "Reviews / Albums"
           ],
           "author": "Levi Dayan"
-        },
-        {
-          "title": "Late Loop",
-          "link": "https://pitchfork.com/reviews/albums/andy-stott-late-loop/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab17549f99f7bf88c241c73/master/pass/5060165488810.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Featuring heartbroken vocal performances and stripped of frills like basslines or reverb, the Manchester producer’s latest album of bruised electronica is his starkest and most forlorn yet.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Chal Ravens"
-        },
-        {
-          "title": "The Girl of Your Dreams",
-          "link": "https://pitchfork.com/reviews/albums/ashe-the-girl-of-your-dreams/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae3b9afdd353d3745bb9abf/master/pass/Ashe%20-%20The%20Girl%20of%20Your%20Dreams%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "The “Stop the Wedding!” singer’s vintage-styled new album combines stately pop classicism and exuberant ’70s pastiche.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Molly Mary O’Brien"
-        },
-        {
-          "title": "Passing the Cup of Sorrows",
-          "link": "https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae4bc8c00019c3ef93fb729/master/pass/William%20Basinski%20-%20Passing%20the%20Cup%20of%20Sorrows.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "The Disintegration Loops made the composer’s name synonymous with weighty meditations on memory and loss, but his latest album—calm, focused, tender—is a reminder of his fondness for beauty.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Brian Howe"
-        },
-        {
-          "title": "Everything in Readiness",
-          "link": "https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae36bbdd83a22061522fc42/master/pass/Shovel%20Dance%20Collective%20-%20Everything%20in%20Readiness%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Marrying lush arrangements and field-recording experiments, the English revivalists honor folk music’s radical tradition by reinforcing its contemporary significance.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Alastair Shuttleworth"
         }
       ]
     },
@@ -1550,10 +1557,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 795,
+      "ms": 773,
       "error": null,
-      "fetchedAt": "2026-11-11T04:53:31.630Z",
-      "lastOkAt": "2026-11-11T04:53:31.630Z",
+      "fetchedAt": "2026-11-11T19:17:21.236Z",
+      "lastOkAt": "2026-11-11T19:17:21.236Z",
       "itemCount": 40,
       "items": [
         {
@@ -2204,15 +2211,38 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
-      "attempts": 2,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-10T19:22:27.509Z",
-      "lastOkAt": "2026-11-10T19:22:27.509Z",
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 293,
+      "error": null,
+      "fetchedAt": "2026-11-11T19:17:21.236Z",
+      "lastOkAt": "2026-11-11T19:17:21.236Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Twisted Teens - The Holy Cross Tigers ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=heZNib1guM8",
+          "imageUrl": "https://i1.ytimg.com/vi/heZNib1guM8/hqdefault.jpg",
+          "embedId": "heZNib1guM8",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "Listen: https://twistedteens.bandcamp.com/album/the-holy-cross-tigers The weakest of the three albums Twisted Teens have dropped this year is still very solid. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony =================================== FAV TRACKS: WHEN WE FIRST MET, I SPEND MY TIME CRYING, I BRING, LOCK AND KEY, EVERY FLOWER, DARKER THE NIGHT IS THE BRIGHTER I SEE LEAST FAV TRACK: BE AN ANGEL TWISTED TEENS - THE HOLY CROSS TIGERS / 2026 / SUB POP / GARAGE ROCK, COUNTRY PUNK 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "THE STROKES PUT ME IN THE MUSIC VIDEO 😭",
+          "link": "https://www.youtube.com/shorts/YGtuIfeWe-E",
+          "imageUrl": "https://i2.ytimg.com/vi/YGtuIfeWe-E/hqdefault.jpg",
+          "embedId": "YGtuIfeWe-E",
+          "audioSrc": "",
+          "pubDate": "2026-11-11",
+          "description": "#music #thestrokes #rock #musicvideo #reaction",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "A Perfect Interview with Anthony Fantano",
           "link": "https://www.youtube.com/watch?v=fXRfHhWrJVg",
@@ -2220,7 +2250,7 @@
           "embedId": "fXRfHhWrJVg",
           "audioSrc": "",
           "pubDate": "2026-11-10",
-          "description": "Introducing A Perfect Interview with Anthony Fantano, the only show featuring perfect conversations with the musicians who matter today. A production from The Needle Drop and Talkhouse. 1st episode featuring Jane Remover coming soon. TRAILER CREDITS: ON-CAMERA TALENT: Anthony Fantano, Jane Remover PRODUCED BY: Emilie Friedlander, Drew Millard, Sam Blumenfeld DIRECTED BY: Conner Schuurmans, Sam Blumenfeld WRITTEN BY: Anthony Fantano, Drew Millard, Sam Blumenfeld, Emilie Friedlander DIRECTOR OF PHOTOGRAPHY & GAFFER: Conner Schuurmans CAMERA OPERATORS: William Kenton, Thomas Huerta, Steven Zambon EDITOR: Zach Galsky SET DESIGN: Isa Castro-Cota, Lindsey Lieberman COLORIST: Steven Zambon GRAPHIC DESIGN: Michael Quick ORIGINAL THEME MUSIC: Andrew Veres SOUND RECORDING, MIXING, AND ADDITIONAL MUSIC: Nick Fopeano Y'all know this is just my new interview show, right?",
+          "description": "Introducing A Perfect Interview with Anthony Fantano, the only show featuring perfect conversations with the musicians who matter today. A production from The Needle Drop and Talkhouse. 1st episode featuring Jane Remover coming soon. TRAILER CREDITS: ON-CAMERA TALENT: Anthony Fantano, Jane Remover PRODUCED BY: Emilie Friedlander, Drew Millard, Sam Blumenfeld DIRECTED BY: Conner Schuurmans, Sam Blumenfeld WRITTEN BY: Anthony Fantano, Drew Millard, Sam Blumenfeld, Emilie Friedlander DIRECTOR OF PHOTOGRAPHY & GAFFER: Conner Schuurmans CAMERA OPERATORS: William Kenton, Thomas Huerta, Steven Zambon EDITOR: Zach Galsky SET DESIGN CONSULTING: Isa Castro-Cota, Lindsey Lieberman COLORIST: Steven Zambon GRAPHIC DESIGN: Michael Quick ORIGINAL THEME MUSIC: Andrew Veres SOUND RECORDING, MIXING, AND ADDITIONAL MUSIC: Nick Fopeano Y'all know this is just my new interview show, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         },
@@ -2355,49 +2385,11 @@
           "description": "Listen: https://hmltd.bandcamp.com/album/fangs At the very least, FANGS isn’t a boring listen. More rock reviews: https://youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_&si=o5yDT--LSzLPLA8_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: UMAMI, CLOSE TO YOU, SHUDDER LEAST FAV TRACK: CHATEAU VAMP FREESTYLE HMLTD - FANGS / 2026 / LUCKY NUMBER / ART ROCK, DARKWAVE, NEW RAVE 5/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
-          "imageUrl": "https://i1.ytimg.com/vi/HAyEg997L3Q/hqdefault.jpg",
-          "embedId": "HAyEg997L3Q",
-          "audioSrc": "",
-          "pubDate": "2026-10-28",
-          "description": "Listen: https://shabazzpalaces.bandcamp.com/album/its-a-style-sport-1 SP's strongest showing since their first couple of albums. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: AHH WORLD (I WON THE ALPHA BET), FIELD NOTES, DEADSTOCK DUDE, TONGUE IN CHIC, HELIOCENTRIC IMMORTALITY MANIFESTO H.I.M. SHABAZZ PALACES - IT'S A STYLE SPORT / 2026 / SUB POP / ABSTRACT HIP HOP, SYNTH FUNK, AFROFUTURISM 7/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "All My JPEGMAFIA Ratings So Far",
-          "link": "https://www.youtube.com/shorts/_xcn007LUrs",
-          "imageUrl": "https://i4.ytimg.com/vi/_xcn007LUrs/hqdefault.jpg",
-          "embedId": "_xcn007LUrs",
-          "audioSrc": "",
-          "pubDate": "2026-10-27",
-          "description": "#music #jpegmafia #review #rap #hiphop",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/andy-stott-late-loop/": {
-      "artist": "Andy Stott",
-      "album": "Late Loop"
-    },
-    "https://pitchfork.com/reviews/albums/ashe-the-girl-of-your-dreams/": {
-      "artist": "Ashe",
-      "album": "The Girl of Your Dreams"
-    },
-    "https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/": {
-      "artist": "Shovel Dance Collective",
-      "album": "Everything in Readiness"
-    },
-    "https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/": {
-      "artist": "William Basinski",
-      "album": "Passing the Cup of Sorrows"
-    },
     "https://pitchfork.com/reviews/albums/two-shell-infinite-now/": {
       "artist": "Two Shell",
       "album": "Infinite Now"
@@ -2501,6 +2493,22 @@
     "https://pitchfork.com/reviews/albums/chuck-roth-texture-songs/": {
       "artist": "Chuck Roth",
       "album": "Texture Songs"
+    },
+    "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/": {
+      "artist": "Sufjan Stevens",
+      "album": "Worst Christmas Ever!"
+    },
+    "https://pitchfork.com/reviews/albums/shygirl-swallow/": {
+      "artist": "Shygirl",
+      "album": "SWALLOW!"
+    },
+    "https://pitchfork.com/reviews/albums/daine/in-endless-awe-and-agony/": {
+      "artist": "daine",
+      "album": "In Endless Awe & Agony"
+    },
+    "https://pitchfork.com/reviews/albums/the-cats-miaow-when-you-smiled-and-turned-away/": {
+      "artist": "The Cat’s Miaow",
+      "album": "When You Smiled and Turned Away"
     }
   }
 }

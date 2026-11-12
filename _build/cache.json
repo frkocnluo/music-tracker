@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-11T19:17:21.236Z",
+    "updatedAt": "2026-11-12T05:55:48.180Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 664,
+      "ms": 9094,
       "error": null,
-      "fetchedAt": "2026-11-11T19:17:21.236Z",
-      "lastOkAt": "2026-11-11T19:17:21.236Z",
+      "fetchedAt": "2026-11-12T05:55:48.180Z",
+      "lastOkAt": "2026-11-12T05:55:48.180Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 628,
+      "ms": 610,
       "error": null,
-      "fetchedAt": "2026-11-11T19:17:21.236Z",
-      "lastOkAt": "2026-11-11T19:17:21.236Z",
+      "fetchedAt": "2026-11-12T05:55:48.180Z",
+      "lastOkAt": "2026-11-12T05:55:48.180Z",
       "itemCount": 32,
       "items": [
         {
@@ -1146,12 +1146,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 179,
+      "ms": 207,
       "error": null,
-      "fetchedAt": "2026-11-11T19:17:21.236Z",
-      "lastOkAt": "2026-11-11T19:17:21.236Z",
+      "fetchedAt": "2026-11-12T05:55:48.180Z",
+      "lastOkAt": "2026-11-12T05:55:48.180Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Carnaval De Luz",
+          "link": "https://pitchfork.com/reviews/alums/u2-carnaval-de-luz/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ab55679b4d4f67701eb12f2/master/pass/U2-%20Carnaval%20De%20Luz%20.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-12",
+          "description": "With a sense of appreciation for their own longevity, U2 return with their first new album in nearly a decade to ask: What if rock’n’roll is the friends we made along the way?",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Sam Sodomsky"
+        },
+        {
+          "title": "Pirouette",
+          "link": "https://pitchfork.com/reviews/albums/2hollis-pirouette/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af4c94ec1e733ba34a283c6/master/pass/2hollis%20Pirouette.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-12",
+          "description": "The underground star’s new album sands off the EDM-pop sheen, revealing ragged-edged rave beats full of romantic declarations and kitchen-sink experimentation.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Hattie Lindert"
+        },
+        {
+          "title": "Love’s Arp",
+          "link": "https://pitchfork.com/reviews/albums/dawuna-loves-arp/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af4ad8bfaf63d904aab75b9/master/pass/Dawuna-Love",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-12",
+          "description": "On his fourth album, the Baltimore artist offers a work of devotion to both a particular romantic connection and the history of Black music, relayed through muted, experimental R&B.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Alex Robert Ross"
+        },
+        {
+          "title": "Rapid Response EP",
+          "link": "https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af4c3dceb628381272f78c9/master/pass/Sun%20Araw%20Rapid%20Response%20EP.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-12",
+          "description": "A heady new 12\" from the psychedelic artist continues his career-long journey into the dark outer reaches of new age.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Daniel Bromfield"
+        },
         {
           "title": "Worst Christmas Ever!",
           "link": "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/",
@@ -1489,58 +1541,6 @@
             "Reviews / Albums"
           ],
           "author": "James Gui"
-        },
-        {
-          "title": "Burning Song",
-          "link": "https://pitchfork.com/reviews/albums/kali-malone-burning-song/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae8b6b76f5468feebccc392/master/pass/Kali%20Malone%20-%20Burning%20Song.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "Unlike the composer’s typically massive, sprawling drones, these pieces for pipe organ—accompanied by guitarist Stephen O’Malley and cellist Lucy Railton—are finely filigreed miniatures.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sasha Geffen"
-        },
-        {
-          "title": "Accolades EP",
-          "link": "https://pitchfork.com/reviews/albums/lydia-loveless-accolades-ep/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae49e061534acc465ada843/master/pass/Lydia%20Loveless-Accolades.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "On a new EP, the Ohio singer-songwriter writes with focus and immediacy, their lyrics blending a love of chaos with an eye toward long-term stability.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Stephen M. Deusner"
-        },
-        {
-          "title": "Infinite Now",
-          "link": "https://pitchfork.com/reviews/albums/two-shell-infinite-now/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae8add83ad14b0f5282eace/master/pass/Two%20Shell%20-%20Infinite%20Now.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "The perennially unserious duo’s embrace of AI is the least of the problems weighing down its latest album (and 55-track bonus compendium) of post-ironic club pop.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Andrew Ryce"
-        },
-        {
-          "title": "Live at the KiMo Theater Albuquerque 1979",
-          "link": "https://pitchfork.com/reviews/albums/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae4de958cc155b23b3f707a/master/pass/Cecil%20Taylor%20Unit%20Live%20at%20the%20KiMo%20Theater%20Albuquerque%201979.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "A newly unearthed live performance, originally intended for broadcast on NPR, showcases a unique and transitional moment for the free-jazz pianist's ensemble.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Levi Dayan"
         }
       ]
     },
@@ -1557,10 +1557,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 773,
+      "ms": 466,
       "error": null,
-      "fetchedAt": "2026-11-11T19:17:21.236Z",
-      "lastOkAt": "2026-11-11T19:17:21.236Z",
+      "fetchedAt": "2026-11-12T05:55:48.180Z",
+      "lastOkAt": "2026-11-12T05:55:48.180Z",
       "itemCount": 40,
       "items": [
         {
@@ -2211,12 +2211,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 293,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-11-11T19:17:21.236Z",
       "lastOkAt": "2026-11-11T19:17:21.236Z",
       "itemCount": 15,
@@ -2390,22 +2389,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/two-shell-infinite-now/": {
-      "artist": "Two Shell",
-      "album": "Infinite Now"
-    },
-    "https://pitchfork.com/reviews/albums/kali-malone-burning-song/": {
-      "artist": "Kali Malone",
-      "album": "Burning Song"
-    },
-    "https://pitchfork.com/reviews/albums/lydia-loveless-accolades-ep/": {
-      "artist": "Lydia Loveless",
-      "album": "Accolades EP"
-    },
-    "https://pitchfork.com/reviews/albums/cecil-taylor-unit-live-at-the-kimo-theater-albuquerque-1979/": {
-      "artist": "Cecil Taylor Unit",
-      "album": "Live at the KiMo Theater Albuquerque 1979"
-    },
     "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/": {
       "artist": "Baby Osamaa",
       "album": "On Tha Run"
@@ -2509,6 +2492,22 @@
     "https://pitchfork.com/reviews/albums/the-cats-miaow-when-you-smiled-and-turned-away/": {
       "artist": "The Cat’s Miaow",
       "album": "When You Smiled and Turned Away"
+    },
+    "https://pitchfork.com/reviews/albums/dawuna-loves-arp/": {
+      "artist": "Dawuna",
+      "album": "Love’s Arp"
+    },
+    "https://pitchfork.com/reviews/albums/2hollis-pirouette/": {
+      "artist": "2hollis",
+      "album": "Pirouette"
+    },
+    "https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/": {
+      "artist": "Sun Araw",
+      "album": "Rapid Response EP"
+    },
+    "https://pitchfork.com/reviews/alums/u2-carnaval-de-luz/": {
+      "artist": "U2",
+      "album": "Carnaval De Luz"
     }
   }
 }

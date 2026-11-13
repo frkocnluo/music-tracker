@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-13T05:18:33.371Z",
+    "updatedAt": "2026-11-13T19:15:09.744Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 804,
+      "ms": 798,
       "error": null,
-      "fetchedAt": "2026-11-13T05:18:33.371Z",
-      "lastOkAt": "2026-11-13T05:18:33.371Z",
+      "fetchedAt": "2026-11-13T19:15:09.744Z",
+      "lastOkAt": "2026-11-13T19:15:09.744Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,54 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 537,
+      "ms": 724,
       "error": null,
-      "fetchedAt": "2026-11-13T05:18:33.371Z",
-      "lastOkAt": "2026-11-13T05:18:33.371Z",
+      "fetchedAt": "2026-11-13T19:15:09.744Z",
+      "lastOkAt": "2026-11-13T19:15:09.744Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "UK Cultural Organisations Call on Andy Burnham to Address EU Touring Issues",
+          "link": "https://thequietus.com/news/uk-cultural-organisations-call-on-andy-burnham-to-address-eu-touring-issues/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/EU-Touring-Issues-Live-Performance-Shot-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-13",
+          "description": "Artists have faced visa issues, increased transportation costs and more since the UK's exit from the European Union Over 300 live music and cultural organisations have signed an open letter calling on Prime Minister Andy Burnham to address continued issues that UK artists face when touring countries in the European Union (EU). Artists, performers and other cultural figures have faced \"major barriers\" to touring in the area since the UK left the EU in January 2020, according to the letter. These include issues surrounding visas, and increased costs in transporting instruments and other equipment, as well as various other logistical problems. The letter was put together and submitted to Burnham by the Cultural Exchange Coalition (CEC), a coalition that represents organisations such as UK... The post UK Cultural Organisations Call on Andy Burnham to Address EU Touring Issues appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Cultural Exchange Coalition",
+            "UK government",
+            "UK Music"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "The Strange World of… Suzanne Ciani",
+          "link": "https://thequietus.com/interviews/strange-world-of/suzanne-ciani-best-music/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/RBMA_Montreal_DanWilton_HighRes-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-13",
+          "description": "In her eightieth year, during her first ever trip to Scotland to close Sonica festival in Glasgow, electronic music pioneer Suzanne Ciani looks back on her career with Claire Sawers. Main portrait: Dan Wilton From her early days studying classical composition, to her game-changing friendship with the electronic instrument designer Don Buchla, Suzanne Ciani was always interested in world building. Her ability to create vast, echoing dreamscapes or equally impactful sonic miniatures has gained her huge respect and a broad, multi-generational fanbase; one that didn’t exist at the outset, as the technologies she used were initially only known to a handful. Ciani persevered with her progressive approach through the 1970s and 80s, strategically funding her creative projects with lucrative corporate work, which... The post The Strange World of… Suzanne Ciani appeared first on The Quietus .",
+          "categories": [
+            "Strange World Of..."
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Tara Cunningham – Warm Ground",
+          "link": "https://thequietus.com/quietus-reviews/tara-cunningham-warm-ground-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/cunningham-warm-ground.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-13",
+          "description": "Tara Cunningham Warm Ground Tara Cunningham’s latest mini-LP of small wonders proves a perfect counterpoint to our outsized era, says Bernie Brooks Warm Ground by Tara Cunningham We’re living through an era of apocalyptic sizing, of catastrophic scale. El Niño, high temperatures, glacier melt, funding cuts, deregulation, wealth inequality, the AI bubble, etc. Even the good stuff is epochal. In the US, the Democrat win a week or so ago was Texas-sized. If all this XXXL news were as peachy as that, that’d be one thing, but it isn’t. It mostly isn’t. And that’s more than mostly exhausting. So, imagine my delight when the new Tara Cunningham record, Warm Ground, described in the presser as a mini-LP of miniatures, appeared – as if by providence... The post Tara Cunningham – Warm Ground appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Brokeback Return with First Album in Over 10 Years",
           "link": "https://thequietus.com/news/brokeback-return-with-first-album-in-over-10-years/",
@@ -582,48 +624,6 @@
             "Baker's Dozen"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "A Dream Within a Dream: Manifold of Partially Actualized Realities by Randall Dunn",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/randall-dunn-manifold-of-partially-actualized-realities-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/KOU015_Randall-Dunn_Artist-Image-3_-Charmaine-Lee-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "The American composer, producer and audio engineer warps time and space on a slow-burning album that riffs on Philip K. Dick's \"orthogonal\" temporalities Photo credit Charmaine Lee Imagine your entire life, your entire world, being dreamed into existence by a creator who, night after night, gradually gives shape to your being, only to discover that he, too, is someone else’s dream. This is the premise of Jorge Luis Borges’ short story ‘The Circular Ruins’, after which Randall Dunn christened his Brooklyn studio. He’s the man behind the production of some of the highest peaks in experimental metal, from Earth’s The Bees Made Honey in the Lion’s Skull to Sunn O)))’s monumental Monoliths & Dimensions, via Old Man Gloom’s Light of Meaning and... The post A Dream Within a Dream: Manifold of Partially Actualized Realities by Randall Dunn appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Silverwingkiller – Desperate Struggle",
-          "link": "https://thequietus.com/quietus-reviews/silverwingkiller-desperate-struggle/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/silverwingkiller-desperate.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "Silverwingkiller Desperate Struggle Manchester duo's second album feels like inhabiting a video game – from the perspective of a non-player character DESPERATE STRUGGLE by SILVERWINGKILLER On ‘Worldstar’, Silverwingkiller’s arpeggiators resemble the swirl of evil slot machines, a rigged jackpot ringing above breakbeats and blown-out electronics. The duo say its pulse comes from a loop of 1970s Somali disco. Across five tracks, Desperate Struggle feels less like a collection of regular songs than a series of playable locations: stations, street corners and checkpoints. It’s a post-cyberpunk carnival, closer to the multicultural streets of the video game Jet Set Radio Future than an exoticised East reflected in Western mirrorshades, with those once reduced to scenery grabbing hold of the camera in the Reality Studio. There’s a particular... The post Silverwingkiller – Desperate Struggle appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Book Collecting Photography by Peter ‘Sleazy’ Christopherson Published",
-          "link": "https://thequietus.com/news/book-collecting-photography-by-peter-sleazy-christopherson-published/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Couv-GORBALS-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-04",
-          "description": "GORBALS collects images that the one-time Throbbing Gristle and Coil member took of working class Glasgow in the 70s A book collecting photography by the late Throbbing Gristle and Coil member Peter 'Sleazy' Christopherson has been published. GORBALS collects black-and-white images of working class Glasgow taken by Christopherson in the 70s. It takes its name from the inner-city neighbourhood that was a hub for post-war public housing in Glasgow. The book is the first in a new series which will explore different sides of Christopherson’s photography. Publishing house Timeless Editions said these books would also explore how his photography connected to the visuals he would later develop as part of his work as an industrial musician. Purchase a copy of GORBALS here. ... The post Book Collecting Photography by Peter ‘Sleazy’ Christopherson Published appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Coil",
-            "Peter 'Sleazy' Christopherson",
-            "Throbbing Gristle"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1141,10 +1141,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 183,
+      "ms": 340,
       "error": null,
-      "fetchedAt": "2026-11-13T05:18:33.371Z",
-      "lastOkAt": "2026-11-13T05:18:33.371Z",
+      "fetchedAt": "2026-11-13T19:15:09.744Z",
+      "lastOkAt": "2026-11-13T19:15:09.744Z",
       "itemCount": 30,
       "items": [
         {
@@ -1201,7 +1201,7 @@
         },
         {
           "title": "Carnaval De Luz",
-          "link": "https://pitchfork.com/reviews/alums/u2-carnaval-de-luz/",
+          "link": "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/",
           "imageUrl": "https://media.pitchfork.com/photos/6ab55679b4d4f67701eb12f2/master/pass/U2-%20Carnaval%20De%20Luz%20.jpg",
           "embedId": "",
           "audioSrc": "",
@@ -1552,10 +1552,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 428,
+      "ms": 538,
       "error": null,
-      "fetchedAt": "2026-11-13T05:18:33.371Z",
-      "lastOkAt": "2026-11-13T05:18:33.371Z",
+      "fetchedAt": "2026-11-13T19:15:09.744Z",
+      "lastOkAt": "2026-11-13T19:15:09.744Z",
       "itemCount": 40,
       "items": [
         {
@@ -2206,15 +2206,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-12T19:35:37.731Z",
-      "lastOkAt": "2026-11-12T19:35:37.731Z",
+      "ms": 416,
+      "error": null,
+      "fetchedAt": "2026-11-13T19:15:09.744Z",
+      "lastOkAt": "2026-11-13T19:15:09.744Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Bassvictim - PEACE + WAR ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=7iWhoWlMsWs",
+          "imageUrl": "https://i4.ytimg.com/vi/7iWhoWlMsWs/hqdefault.jpg",
+          "embedId": "7iWhoWlMsWs",
+          "audioSrc": "",
+          "pubDate": "2026-11-13",
+          "description": "Listen: https://www.youtube.com/watch?v=v2vWlWkoUWE There's a good EP or album in here somewhere. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: HAPPYSAD, GIRL WARS, I DON'T KNOW, GO FASTER, WHITE FLAG LEAST FAV TRACK: GOD I WONDER BASSVICTIM - PEACE + WAR / 2026 / WARNER / INDIE SLEAZE REVIVAL, INDIETRONIC 5/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Twisted Teens - The Holy Cross Tigers ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=heZNib1guM8",
@@ -2368,17 +2380,6 @@
           "description": "#music #jcole #rap #hiphop",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "HMLTD - FANGS ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=YGFqOLufncA",
-          "imageUrl": "https://i2.ytimg.com/vi/YGFqOLufncA/hqdefault.jpg",
-          "embedId": "YGFqOLufncA",
-          "audioSrc": "",
-          "pubDate": "2026-10-29",
-          "description": "Listen: https://hmltd.bandcamp.com/album/fangs At the very least, FANGS isn’t a boring listen. More rock reviews: https://youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_&si=o5yDT--LSzLPLA8_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: UMAMI, CLOSE TO YOU, SHUDDER LEAST FAV TRACK: CHATEAU VAMP FREESTYLE HMLTD - FANGS / 2026 / LUCKY NUMBER / ART ROCK, DARKWAVE, NEW RAVE 5/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2484,10 +2485,6 @@
       "artist": "Sun Araw",
       "album": "Rapid Response EP"
     },
-    "https://pitchfork.com/reviews/alums/u2-carnaval-de-luz/": {
-      "artist": "U2",
-      "album": "Carnaval De Luz"
-    },
     "https://pitchfork.com/reviews/albums/grumpy-unfindable-ring/": {
       "artist": "Grumpy",
       "album": "Unfindable Ring"
@@ -2503,6 +2500,10 @@
     "https://pitchfork.com/reviews/albums/wavves-cherry-soda/": {
       "artist": "Wavves",
       "album": "Cherry Soda"
+    },
+    "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/": {
+      "artist": "U2",
+      "album": "Carnaval De Luz"
     }
   }
 }

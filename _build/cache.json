@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-14T05:08:00.816Z",
+    "updatedAt": "2026-11-14T17:41:39.011Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 895,
+      "ms": 711,
       "error": null,
-      "fetchedAt": "2026-11-14T05:08:00.816Z",
-      "lastOkAt": "2026-11-14T05:08:00.816Z",
+      "fetchedAt": "2026-11-14T17:41:39.011Z",
+      "lastOkAt": "2026-11-14T17:41:39.011Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 884,
+      "ms": 596,
       "error": null,
-      "fetchedAt": "2026-11-14T05:08:00.816Z",
-      "lastOkAt": "2026-11-14T05:08:00.816Z",
+      "fetchedAt": "2026-11-14T17:41:39.011Z",
+      "lastOkAt": "2026-11-14T17:41:39.011Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "The Sadness of Things: The Life And Art Of Ryuichi Sakamoto",
+          "link": "https://thequietus.com/culture/art/the-sadness-of-things-the-life-and-art-of-ryuichi-sakamoto/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/ryuichi-sakamoto_xl-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-14",
+          "description": "The English publication of Ryuichi Sakamoto's memoir, Music Sets you Free, coincides with an exhition at Hamburger Bahnhof in Berlin. Together, they prove a fitting testament to one of the great musical minds of the twentieth century Portrait of Ryuichi Sakamoto © 2020 KAB Inc. , Photo: Neo Sora Ryuichi Sakamoto’s first memoir, Music Sets You Free, sees four banal words recalling the old John Miles hit from 1976, that cheesy overblown pop tune (you know the one) with its line about music being his first love and last. “Music of the future, music of the past”. Trite for sure, but simultaneously – annoyingly – honest and true. Sakamoto likewise was never afraid of romantic cliché. The book underlines his passions and... The post The Sadness of Things: The Life And Art Of Ryuichi Sakamoto appeared first on The Quietus .",
+          "categories": [
+            "Art"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "UK Cultural Organisations Call on Andy Burnham to Address EU Touring Issues",
           "link": "https://thequietus.com/news/uk-cultural-organisations-call-on-andy-burnham-to-address-eu-touring-issues/",
@@ -611,19 +624,6 @@
             "Scritti Politti"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Open Mind, Open Planet: Gigi Masin’s Favourite Albums",
-          "link": "https://thequietus.com/interviews/bakers-dozen/open-mind-open-planet-gigi-masins-favourite-albums/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/GigiMasinPic-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "As his cult classic 1986 album Wind receives an expanded reissue, Italian composer and ambient pioneer Gigi Masin takes Siobhan Kane through his life in 13 records The renewed interest in Gigi Masin’s 1986 album Wind has taken the Venetian by surprise. He sees it as “strange and wonderful… I am really happy and honoured”. The expanded album, reissued by Numero Uno 40 years later, recontextualises Wind as an ambient gem, but an appreciation for Masin started some time ago, with artists such as Björk referencing his work, sampling ‘Clouds’ on her 2002 song ‘It’s In Our Hands’. Growing up in Italy, playing the guitar and working in radio, Masin was exposed to lots of different kinds of music, but his life... The post Open Mind, Open Planet: Gigi Masin’s Favourite Albums appeared first on The Quietus .",
-          "categories": [
-            "Baker's Dozen"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -1141,10 +1141,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 271,
+      "ms": 164,
       "error": null,
-      "fetchedAt": "2026-11-14T05:08:00.816Z",
-      "lastOkAt": "2026-11-14T05:08:00.816Z",
+      "fetchedAt": "2026-11-14T17:41:39.011Z",
+      "lastOkAt": "2026-11-14T17:41:39.011Z",
       "itemCount": 30,
       "items": [
         {
@@ -1552,10 +1552,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 857,
+      "ms": 729,
       "error": null,
-      "fetchedAt": "2026-11-14T05:08:00.816Z",
-      "lastOkAt": "2026-11-14T05:08:00.816Z",
+      "fetchedAt": "2026-11-14T17:41:39.011Z",
+      "lastOkAt": "2026-11-14T17:41:39.011Z",
       "itemCount": 40,
       "items": [
         {
@@ -2206,15 +2206,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-13T19:15:09.744Z",
-      "lastOkAt": "2026-11-13T19:15:09.744Z",
+      "ms": 159,
+      "error": null,
+      "fetchedAt": "2026-11-14T17:41:39.011Z",
+      "lastOkAt": "2026-11-14T17:41:39.011Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "2hollis - Pirouette ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=6BWzUyeO_Fs",
+          "imageUrl": "https://i3.ytimg.com/vi/6BWzUyeO_Fs/hqdefault.jpg",
+          "embedId": "6BWzUyeO_Fs",
+          "audioSrc": "",
+          "pubDate": "2026-11-14",
+          "description": "Listen: https://www.youtube.com/watch?v=fZOQrZszU24 Pirouette is a genuinely multi-faceted album that shows off 2hollis' potential as a songwriter and producer. More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: SPRING (LOVE ME), THE LADY IN RED, HUMAN AFTER ALL, HURT, EYES WIDE CLOSED, I2I, DAISY LEAST FAV TRACK: SEX 2HOLLIS - PIROUETTE / 2026 / INTERSCOPE / ELECTROPOP, DIGICORE, HARD DANCE, RAGE 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Bassvictim - PEACE + WAR ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=7iWhoWlMsWs",
@@ -2366,17 +2378,6 @@
           "audioSrc": "",
           "pubDate": "2026-11-01",
           "description": "Listen: https://oliviatremorcontrol.bandcamp.com/album/the-same-place After 27 years, the Olivia Tremor Control are back in the Same Place. Review by Giggens: https://www.youtube.com/user/Giggens More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== THE OLIVIA TREMOR CONTROL - THE SAME PLACE / 2026 / ELEPHANT 6 / '60S PSYCH THROWBACK, SOUND COLLAGE GIGGENS LOVES IT/10 Y'all know this is just his opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "J. COLE IS NOT RETIRING NOW 😒",
-          "link": "https://www.youtube.com/shorts/SNqixcQEJYo",
-          "imageUrl": "https://i4.ytimg.com/vi/SNqixcQEJYo/hqdefault.jpg",
-          "embedId": "SNqixcQEJYo",
-          "audioSrc": "",
-          "pubDate": "2026-10-31",
-          "description": "#music #jcole #rap #hiphop",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

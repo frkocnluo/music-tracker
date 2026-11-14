@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-13T19:15:09.744Z",
+    "updatedAt": "2026-11-14T05:08:00.816Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 798,
+      "ms": 895,
       "error": null,
-      "fetchedAt": "2026-11-13T19:15:09.744Z",
-      "lastOkAt": "2026-11-13T19:15:09.744Z",
+      "fetchedAt": "2026-11-14T05:08:00.816Z",
+      "lastOkAt": "2026-11-14T05:08:00.816Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 724,
+      "ms": 884,
       "error": null,
-      "fetchedAt": "2026-11-13T19:15:09.744Z",
-      "lastOkAt": "2026-11-13T19:15:09.744Z",
+      "fetchedAt": "2026-11-14T05:08:00.816Z",
+      "lastOkAt": "2026-11-14T05:08:00.816Z",
       "itemCount": 32,
       "items": [
         {
@@ -1141,12 +1141,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 340,
+      "ms": 271,
       "error": null,
-      "fetchedAt": "2026-11-13T19:15:09.744Z",
-      "lastOkAt": "2026-11-13T19:15:09.744Z",
+      "fetchedAt": "2026-11-14T05:08:00.816Z",
+      "lastOkAt": "2026-11-14T05:08:00.816Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Quiet Forest",
+          "link": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/master/pass/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-14",
+          "description": "Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Shy Clara Thompson"
+        },
         {
           "title": "Snakes & Ladders",
           "link": "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/",
@@ -1523,19 +1536,6 @@
             "Reviews / Albums"
           ],
           "author": "Hattie Lindert"
-        },
-        {
-          "title": "Damage",
-          "link": "https://pitchfork.com/reviews/albums/john-errol-damage/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aeb5ef792285c714cb83d91/master/pass/John%20Errol%20-%20Damage%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "Too challenging to qualify as radio rock, the Los Angeles songwriter’s cloudy, lo-fi grunge is stuffed with ’90s references and opaque secrets.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Hannah Jocelyn"
         }
       ]
     },
@@ -1552,10 +1552,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 538,
+      "ms": 857,
       "error": null,
-      "fetchedAt": "2026-11-13T19:15:09.744Z",
-      "lastOkAt": "2026-11-13T19:15:09.744Z",
+      "fetchedAt": "2026-11-14T05:08:00.816Z",
+      "lastOkAt": "2026-11-14T05:08:00.816Z",
       "itemCount": 40,
       "items": [
         {
@@ -2206,12 +2206,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
+      "ok": false,
+      "status": "http-404",
+      "httpStatus": 404,
       "attempts": 1,
-      "ms": 416,
-      "error": null,
+      "error": "HTTP 404",
       "fetchedAt": "2026-11-13T19:15:09.744Z",
       "lastOkAt": "2026-11-13T19:15:09.744Z",
       "itemCount": 15,
@@ -2389,10 +2388,6 @@
       "artist": "Twisted Teens",
       "album": "The Holy Cross Tigers"
     },
-    "https://pitchfork.com/reviews/albums/john-errol-damage/": {
-      "artist": "John Errol",
-      "album": "Damage"
-    },
     "https://pitchfork.com/reviews/albums/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall/": {
       "artist": "Yeah Yeah Yeahs",
       "album": "Hidden in Pieces: Live at the Royal Albert Hall"
@@ -2504,6 +2499,10 @@
     "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/": {
       "artist": "U2",
       "album": "Carnaval De Luz"
+    },
+    "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/": {
+      "artist": "Hiroshi Yoshimura",
+      "album": "Quiet Forest"
     }
   }
 }

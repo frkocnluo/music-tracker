@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-15T04:59:56.292Z",
+    "updatedAt": "2026-11-15T18:30:38.265Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 670,
+      "ms": 715,
       "error": null,
-      "fetchedAt": "2026-11-15T04:59:56.292Z",
-      "lastOkAt": "2026-11-15T04:59:56.292Z",
+      "fetchedAt": "2026-11-15T18:30:38.265Z",
+      "lastOkAt": "2026-11-15T18:30:38.265Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 855,
+      "ms": 789,
       "error": null,
-      "fetchedAt": "2026-11-15T04:59:56.292Z",
-      "lastOkAt": "2026-11-15T04:59:56.292Z",
+      "fetchedAt": "2026-11-15T18:30:38.265Z",
+      "lastOkAt": "2026-11-15T18:30:38.265Z",
       "itemCount": 32,
       "items": [
         {
@@ -1141,12 +1141,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 246,
+      "ms": 243,
       "error": null,
-      "fetchedAt": "2026-11-15T04:59:56.292Z",
-      "lastOkAt": "2026-11-15T04:59:56.292Z",
+      "fetchedAt": "2026-11-15T18:30:38.265Z",
+      "lastOkAt": "2026-11-15T18:30:38.265Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Yield",
+          "link": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/master/pass/Pearl%20Jam%20-%20Yield%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-15",
+          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Grayson Haver Currin"
+        },
         {
           "title": "Quiet Forest",
           "link": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
@@ -1523,19 +1536,6 @@
             "Reviews / Albums"
           ],
           "author": "Megan Buerger"
-        },
-        {
-          "title": "Southern Ontario Gothic",
-          "link": "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/master/pass/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "So post-ironic it’s deadass, the Toronto songwriter’s debut renders a thoroughly modern affect with rare authenticity.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Hattie Lindert"
         }
       ]
     },
@@ -1552,10 +1552,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 576,
+      "ms": 393,
       "error": null,
-      "fetchedAt": "2026-11-15T04:59:56.292Z",
-      "lastOkAt": "2026-11-15T04:59:56.292Z",
+      "fetchedAt": "2026-11-15T18:30:38.265Z",
+      "lastOkAt": "2026-11-15T18:30:38.265Z",
       "itemCount": 40,
       "items": [
         {
@@ -2206,13 +2206,14 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-14T17:41:39.011Z",
-      "lastOkAt": "2026-11-14T17:41:39.011Z",
+      "ms": 288,
+      "error": null,
+      "fetchedAt": "2026-11-15T18:30:38.265Z",
+      "lastOkAt": "2026-11-15T18:30:38.265Z",
       "itemCount": 15,
       "items": [
         {
@@ -2392,10 +2393,6 @@
       "artist": "Yeah Yeah Yeahs",
       "album": "Hidden in Pieces: Live at the Royal Albert Hall"
     },
-    "https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/": {
-      "artist": "Brat Star",
-      "album": "Southern Ontario Gothic"
-    },
     "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/": {
       "artist": "untitled (halo)",
       "album": "untitled (halo)"
@@ -2503,6 +2500,10 @@
     "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/": {
       "artist": "Hiroshi Yoshimura",
       "album": "Quiet Forest"
+    },
+    "https://pitchfork.com/reviews/albums/pearl-jam-yield/": {
+      "artist": "Pearl Jam",
+      "album": "Yield"
     }
   }
 }

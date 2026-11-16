@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-16T04:58:11.232Z",
+    "updatedAt": "2026-11-16T21:40:44.094Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 693,
+      "ms": 811,
       "error": null,
-      "fetchedAt": "2026-11-16T04:58:11.232Z",
-      "lastOkAt": "2026-11-16T04:58:11.232Z",
+      "fetchedAt": "2026-11-16T21:40:44.094Z",
+      "lastOkAt": "2026-11-16T21:40:44.094Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 594,
+      "ms": 720,
       "error": null,
-      "fetchedAt": "2026-11-16T04:58:11.232Z",
-      "lastOkAt": "2026-11-16T04:58:11.232Z",
+      "fetchedAt": "2026-11-16T21:40:44.094Z",
+      "lastOkAt": "2026-11-16T21:40:44.094Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "The Arrow Storms of Love & Death: Ken Russell’s The Devils",
+          "link": "https://thequietus.com/culture/film/ken-russell-the-devils/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Ken-Russells-The-Devils_012_16x9_Courtesy-Warner-Bros.-Clockwork-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-16",
+          "description": "Darran Anderson considers a 'masterpiece' and what it tells us about contemporary power, corruption and lies One sign of a true writer is that there is no event so grim that they cannot convert it into material. In the ruthlessly competitive, sometimes deadly environment of Elizabethan theatre, the playwright Thomas Dekker came in for much derision, though he had moments of inspiration. (If he’s remembered today, it’s for inspiring The Beatles’ ‘Golden Slumbers’ on the Abbey Road medley.) When the Black Death revisited London and the playhouses were shut down, Dekker turned his hand to writing plague pamphlets to survive. They remain valuable records of a cursed time, when social order collapsed and the fleeing elites betrayed the capital, “In this... The post The Arrow Storms of Love & Death: Ken Russell’s The Devils appeared first on The Quietus .",
+          "categories": [
+            "Film"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "The Body & Cel Genesis – Whole Wide World",
+          "link": "https://thequietus.com/quietus-reviews/the-body-cel-genesis-whole-wide-world-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-body-whole-wide-world.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-16",
+          "description": "The Body & Cel Genesis Whole Wide World The Body's latest collaborative album pairs the duo with Oakland experimental band Cel Genesis for a record of ethereal production and drum'n'bass tendencies Whole Wide World by The Body & Cel Genesis Part metal, part experimental, Whole Wide World is the collaborative work of sludge/metal duo The Body and hardcore gabber group Cel Genesis. Over the years, The Body have been no stranger to expanding their world with avant-garde collaborations, having released the climactic Ascending a Mountain of Heavy Light with Full of Hell in 2017 and Was I Good Enough? with Intensive Care last year, among others. An album two years in the making, Whole Wide World comes only a year after The Body's last offering... The post The Body & Cel Genesis – Whole Wide World appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "The Sadness of Things: The Life And Art Of Ryuichi Sakamoto",
           "link": "https://thequietus.com/culture/art/the-sadness-of-things-the-life-and-art-of-ryuichi-sakamoto/",
@@ -593,37 +619,6 @@
             "Reviews"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "Tim Reaper’s Debut Solo Album Set for Release via Hyperdub",
-          "link": "https://thequietus.com/news/tim-reapers-debut-solo-album-set-for-release-via-hyperdub/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/1Tim-Reaper-Credit-Jimmy-Mould_LEAD-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "World's End is out in February Photo by Jimmy Mould Tim Reaper will release his debut solo album, World's End, via Hyperdub early next year. Featuring 11 tracks, the LP follows the jungle producer's previous collaborative album with Kloke, In Full Effect, which Hyperdub put out in 2024. In recent years, he's continued to put out EPs at a steady rate via labels such as FABRICLIVE, Rinse, Astrophonica and his own Future Retro London. World's End naturally explores various shades of jungle, as well as footwork, drill and gqom. The producer was inspired to fold other sub-genres into his sound after experimenting more on his 2024 EP Scorched Earth. In a statement, he said: \"Scorched Earth EP was inspired by a conversation I had... The post Tim Reaper’s Debut Solo Album Set for Release via Hyperdub appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Hyperdub",
-            "Tim Reaper"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Scritti Politti’s ‘Provision’ Set for Reissue",
-          "link": "https://thequietus.com/news/scritti-polittis-provision-set-for-reissue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-05-at-16.47.24-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "The updated edition of the band's third album comes with new sleeve notes by band members Green Gartside and David Gamson Scritti Politti's Green Gartside with Miles Davis, photo by Ebett Roberts Scritti Politti's third album, Provision, is being reissued. Back in press for the first time in many years, the updated edition of the LP will be made available across vinyl and CD formats, and comes with new sleeve notes written by band members Green Gartside and David Gamson. The vinyl edition features the album's core nine tracks, while the CD comes with two extras: a dub version of ‘Boom! There She Was’, and an extended version of ‘Oh Patti (Don't Feel Sorry For Loverboy)’. Originally released in 1988, Provision features Miles Davis playing... The post Scritti Politti’s ‘Provision’ Set for Reissue appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Miles Davis",
-            "Rough Trade",
-            "Scritti Politti"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1141,12 +1136,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 261,
+      "ms": 884,
       "error": null,
-      "fetchedAt": "2026-11-16T04:58:11.232Z",
-      "lastOkAt": "2026-11-16T04:58:11.232Z",
+      "fetchedAt": "2026-11-16T21:40:44.094Z",
+      "lastOkAt": "2026-11-16T21:40:44.094Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Trouble Mountain",
+          "link": "https://pitchfork.com/reviews/albums/aesop-rock-blockhead-trouble-mountain/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aaac624ad0fe83d03e9ab40/master/pass/unnamed%20-%202026-09-16T123102.621.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-16",
+          "description": "Aesop Rock is a maverick solo traveler in the craggy cartography of Blockhead’s sample-rich beats on the duo’s second full-length collaboration.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Stephen Kearse"
+        },
+        {
+          "title": "Music for Empty Stadiums",
+          "link": "https://pitchfork.com/reviews/albums/or-music-for-empty-stadiums/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af72b09df86836dcc15cc34/master/pass/OR%20-%20Music%20for%20Empty%20Stadiums%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-16",
+          "description": "Producer John Talabot’s pandemic peak-time tracks envision the vacant dancefloors of spring 2020 with serrated supersaws and endlessly cycling arpeggios that feel like climbing the walls.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Philip Sherburne"
+        },
+        {
+          "title": "Advanced White Trash",
+          "link": "https://pitchfork.com/reviews/albums/sam-gendel-advanced-white-trash/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af743ede1ccc152eeb10913/master/pass/Sam%20Gendel%20-%20Advanced%20White%20Trash.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-16",
+          "description": "The prolific Los Angeles saxophonist’s latest album is a curveball, trading his typically jazz-adjacent turf for a fantasy land of Auto-Tuned sing-rapping, hip-hop beats, and dragon slaying.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Linnie Greene"
+        },
+        {
+          "title": "Saints in the Wethouse",
+          "link": "https://pitchfork.com/reviews/albums/blackhaine-saints-in-the-wethouse/",
+          "imageUrl": "https://media.pitchfork.com/photos/6af72a073b980032c8f00453/master/pass/Blackhaine%20-%20Saints%20in%20the%20Wethous.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-16",
+          "description": "The Lancashire rapper’s debut album is a noise-rap juggernaut of overwhelming bass and anguished bloodletting, the fullest expression yet of his theatrical sensibility.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Hugh Morris"
+        },
         {
           "title": "Yield",
           "link": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
@@ -1484,58 +1531,6 @@
             "Reviews / Albums"
           ],
           "author": "Vrinda Jagota"
-        },
-        {
-          "title": "this wolf may cry",
-          "link": "https://pitchfork.com/reviews/albums/nomi-this-wolf-may-cry/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aecc416d1ad83d11d55727e/master/pass/nomi.%20-%20this%20wolf%20may%20cry%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "The upcoming R&B singer’s debut is a showcase for unique beats with bedroom-pop intimacy, but her restrained vocal style keeps the feelings in reserve.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Precious Fondren"
-        },
-        {
-          "title": "Great Jobs",
-          "link": "https://pitchfork.com/reviews/albums/gyrofield-great-jobs/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aeca9b677ca41c6e0456d40/master/pass/gyrofield%20-%20Great%20Jobs.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "The Hong Kong-born producer moves far beyond their drum’n’bass and club-music roots, twisting dubby pulses and psychedelic sound design into shapes both introspective and exploratory.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Lisle Younger"
-        },
-        {
-          "title": "The Holy Cross Tigers",
-          "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aeb5fe71d58dfb46e474b86/master/pass/Twisted%20Teens%20-%20The%20Holy%20Cross%20Tigers.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "On their third album this year, the New Orleans garage rockers embrace conflicting emotions and clashing sounds, balancing hard-charging rave-ups with exploratory tape experiments.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Stuart Berman"
-        },
-        {
-          "title": "Hidden in Pieces: Live at the Royal Albert Hall",
-          "link": "https://pitchfork.com/reviews/albums/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aeb86b471a068f3a6c90517/master/pass/Yeah%20Yeah%20Yeahs-Hidden%20in%20Pieces%20Live%20at%20the%20Royal%20Albert%20Hall.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "On its first live album, the New York trio recasts a quarter-century of rock songs for strings, piano, and acoustic guitar, highlighting the ache and vulnerability at the heart of its music.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Megan Buerger"
         }
       ]
     },
@@ -1552,10 +1547,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 578,
+      "ms": 301,
       "error": null,
-      "fetchedAt": "2026-11-16T04:58:11.232Z",
-      "lastOkAt": "2026-11-16T04:58:11.232Z",
+      "fetchedAt": "2026-11-16T21:40:44.094Z",
+      "lastOkAt": "2026-11-16T21:40:44.094Z",
       "itemCount": 40,
       "items": [
         {
@@ -2206,15 +2201,27 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-404",
-      "httpStatus": 404,
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
       "attempts": 1,
-      "error": "HTTP 404",
-      "fetchedAt": "2026-11-15T18:30:38.265Z",
-      "lastOkAt": "2026-11-15T18:30:38.265Z",
+      "ms": 239,
+      "error": null,
+      "fetchedAt": "2026-11-16T21:40:44.094Z",
+      "lastOkAt": "2026-11-16T21:40:44.094Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Armand Hammer - Snakes & Ladders ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=1kXXkUaN-ek",
+          "imageUrl": "https://i2.ytimg.com/vi/1kXXkUaN-ek/hqdefault.jpg",
+          "embedId": "1kXXkUaN-ek",
+          "audioSrc": "",
+          "pubDate": "2026-11-16",
+          "description": "Listen: https://armandhammer.bandcamp.com/album/snakes-ladders Probably Armand Hammer's most eclectic and \"playful\" album so far. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: DEADBOLTS, SEND FOR ME, JET MAGAZINE, NIGHTSWIM, DON'T SAY IT IF IT ISN'T TRUE, VESPERS, GRAVESIDE, DOGVILLE, ASSEMBLY LINES, RISK LEAST FAV TRACK: LOCK OUT/TAG OUT ARMAND HAMMER - SNAKES & LADDERS / 2026 / BACKWOODZ STUDIOZ / ABSTRACT HIP HOP, POLITICAL HIP HOP 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "2hollis - Pirouette ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=6BWzUyeO_Fs",
@@ -2368,41 +2375,14 @@
           "description": "#music #cds #recordstore #collection",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "The Olivia Tremor Control - The Same Place ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=DnG3IkbkGQ0",
-          "imageUrl": "https://i1.ytimg.com/vi/DnG3IkbkGQ0/hqdefault.jpg",
-          "embedId": "DnG3IkbkGQ0",
-          "audioSrc": "",
-          "pubDate": "2026-11-01",
-          "description": "Listen: https://oliviatremorcontrol.bandcamp.com/album/the-same-place After 27 years, the Olivia Tremor Control are back in the Same Place. Review by Giggens: https://www.youtube.com/user/Giggens More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== THE OLIVIA TREMOR CONTROL - THE SAME PLACE / 2026 / ELEPHANT 6 / '60S PSYCH THROWBACK, SOUND COLLAGE GIGGENS LOVES IT/10 Y'all know this is just his opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/": {
-      "artist": "Twisted Teens",
-      "album": "The Holy Cross Tigers"
-    },
-    "https://pitchfork.com/reviews/albums/yeah-yeah-yeahs-hidden-in-pieces-live-at-the-royal-albert-hall/": {
-      "artist": "Yeah Yeah Yeahs",
-      "album": "Hidden in Pieces: Live at the Royal Albert Hall"
-    },
     "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/": {
       "artist": "untitled (halo)",
       "album": "untitled (halo)"
-    },
-    "https://pitchfork.com/reviews/albums/nomi-this-wolf-may-cry/": {
-      "artist": "nomi.",
-      "album": "this wolf may cry"
-    },
-    "https://pitchfork.com/reviews/albums/gyrofield-great-jobs/": {
-      "artist": "gyrofield",
-      "album": "Great Jobs"
     },
     "https://pitchfork.com/reviews/albums/laila-well-never-be-this-young-again/": {
       "artist": "Laila!",
@@ -2503,6 +2483,22 @@
     "https://pitchfork.com/reviews/albums/pearl-jam-yield/": {
       "artist": "Pearl Jam",
       "album": "Yield"
+    },
+    "https://pitchfork.com/reviews/albums/blackhaine-saints-in-the-wethouse/": {
+      "artist": "Blackhaine",
+      "album": "Saints in the Wethouse"
+    },
+    "https://pitchfork.com/reviews/albums/sam-gendel-advanced-white-trash/": {
+      "artist": "Sam Gendel",
+      "album": "Advanced White Trash"
+    },
+    "https://pitchfork.com/reviews/albums/aesop-rock-blockhead-trouble-mountain/": {
+      "artist": "Aesop Rock / Blockhead",
+      "album": "Trouble Mountain"
+    },
+    "https://pitchfork.com/reviews/albums/or-music-for-empty-stadiums/": {
+      "artist": "OR",
+      "album": "Music for Empty Stadiums"
     }
   }
 }

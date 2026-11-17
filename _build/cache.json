@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-16T21:40:44.094Z",
+    "updatedAt": "2026-11-17T06:46:34.408Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 811,
+      "ms": 691,
       "error": null,
-      "fetchedAt": "2026-11-16T21:40:44.094Z",
-      "lastOkAt": "2026-11-16T21:40:44.094Z",
+      "fetchedAt": "2026-11-17T06:46:34.408Z",
+      "lastOkAt": "2026-11-17T06:46:34.408Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 720,
+      "ms": 662,
       "error": null,
-      "fetchedAt": "2026-11-16T21:40:44.094Z",
-      "lastOkAt": "2026-11-16T21:40:44.094Z",
+      "fetchedAt": "2026-11-17T06:46:34.408Z",
+      "lastOkAt": "2026-11-17T06:46:34.408Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Iceboy Violet – How to Glitch Under The Map",
+          "link": "https://thequietus.com/quietus-reviews/iceboy-violet-how-to-glitch-under-the-map-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/iceboy-how-to-glitch.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "Iceboy Violet How to Glitch Under The Map New album from the Manchester-based producer rides high on raw emotion How To Glitch Under The Map by Iceboy Violet In Jane Schoenbrun’s movies, I Saw The TV Glow and Teenage Sex and Death at Camp Miasma, virtual and real bleed into each other as adults become threaded with their teenage obsessions, in the case of the former a spooky TV series, the latter a horror movie. Artefacts of popular culture become symbiotic with the protagonists’ lives, mirroring who they are, shaping their futures and becoming spaces to understand themselves in and project themselves into. Manchester-based producer and MC Iceboy Violet’s new album How to Glitch Under the Map finds something similar, but in online spaces rather... The post Iceboy Violet – How to Glitch Under The Map appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "The Arrow Storms of Love & Death: Ken Russell’s The Devils",
           "link": "https://thequietus.com/culture/film/ken-russell-the-devils/",
@@ -606,19 +619,6 @@
             "Reissue of the Week"
           ],
           "author": "John Doran"
-        },
-        {
-          "title": "Rizan Said – Ma Waraa Al-Shaabi (ما وراء الشعبي) / Beyond Shaabi",
-          "link": "https://thequietus.com/quietus-reviews/rizan-said/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/riza-said-beyond-shaabi.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "Rizan Said Ma Waraa Al-Shaabi (ما وراء الشعبي) / Beyond Shaabi On his third solo outing, Syrian keyboard king Rizan Said preserves regional musical traditions by driving them forward Ma Waraa Al-Shaabi (ما وراء الشعبي) – Beyond Shaabi by Rizan Said Despite the fact that I have only been to two weddings in my entire life, I have actually been to a Syrian one. Meridian Water, 2024, sometime in the Spring. The food was to die for. Mountains of tabouleh and vats of houmous (“I never eat anything without houmous,” said a panic-stricken man while they changed the vats). But it was the sounds of the evening, the music that sticks in my mind the most. My dear friend, the groom, arrived with noisy... The post Rizan Said – Ma Waraa Al-Shaabi (ما وراء الشعبي) / Beyond Shaabi appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -1136,12 +1136,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 884,
+      "ms": 157,
       "error": null,
-      "fetchedAt": "2026-11-16T21:40:44.094Z",
-      "lastOkAt": "2026-11-16T21:40:44.094Z",
+      "fetchedAt": "2026-11-17T06:46:34.408Z",
+      "lastOkAt": "2026-11-17T06:46:34.408Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Legendary Love",
+          "link": "https://pitchfork.com/reviews/albums/snoh-aalegra-legendary-love/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afb1ec6a9d568336bb37310/master/pass/Snoh%20Aalegra-Legendary%20Love.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "On her most ambitious release yet, the Swedish Iranian R&B singer channels the Minneapolis sound in a set of slinky, decadent compositions about unfulfilled longing.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Vrinda Jagota"
+        },
+        {
+          "title": "No Skill Comedy Mind Reading",
+          "link": "https://pitchfork.com/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afb330d5e0eb4442fcb4119/master/pass/Aaron%20Dilloway%20-%20No%20Skill%20Comedy%20Mind%20Reading.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "A sense of creepy unease permeates the Ohio noise veteran’s latest album, in which funny ha-ha is never far from funny uh-oh.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Matthew Blackwell"
+        },
+        {
+          "title": "history is not woven by innocent hands",
+          "link": "https://pitchfork.com/reviews/albums/cute-history-is-not-woven-by-innocent-hands/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afb25f8e30a1ace7e9fa1fc/master/pass/cute-history%20is%20not%20woven%20by%20innocent%20hands.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "On its first album, the Canadian quartet hones its apocalyptic sludgegaze to reflect our unforgiving world and the psychological turmoil it foments.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Stuart Berman"
+        },
+        {
+          "title": "file_1",
+          "link": "https://pitchfork.com/reviews/albums/nori-file-1/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afb29aaa71db743e65f6c48/master/pass/Nori%20-%20file_1%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "TK",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Anthony Seaman"
+        },
         {
           "title": "Trouble Mountain",
           "link": "https://pitchfork.com/reviews/albums/aesop-rock-blockhead-trouble-mountain/",
@@ -1479,58 +1531,6 @@
             "Reviews / Albums"
           ],
           "author": "Patrick Lyons"
-        },
-        {
-          "title": "The Nightfly",
-          "link": "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aee25d6d19586adfe8e3537/master/pass/Donald%20Fagen%20-%20The%20Nightfly%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-08",
-          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Tonight, we join Steely Dan’s Donald Fagen under cover as an after-hours radio DJ, bringing studio perfection to the music of his adolescent dreams.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Mark Richardson"
-        },
-        {
-          "title": "The Rolling Thunder Revue: The 1976 Live Recordings",
-          "link": "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aedeca0c1e973346d7a4d75/master/pass/Bob%20Dylan%20-%20The%20Rolling%20Thunder%20Review%20.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-07",
-          "description": "For half a century, the spring 1976 leg of the Rolling Thunder Revue was overshadowed by the mayhem of the year before. An electrifying 39-disc box set corrects the record.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Grayson Haver Currin"
-        },
-        {
-          "title": "untitled (halo)",
-          "link": "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aecc0946de58f9ada4bfd2a/master/pass/untitled%20(halo)%20-%20untitled%20(halo)%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "The Los Angeles band’s debut puts an appealing studio gloss on the sullen, ambiguous sound of cloud rock, and the mystery doesn’t go much deeper than that.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sam Goldner"
-        },
-        {
-          "title": "We’ll Never Be This Young Again",
-          "link": "https://pitchfork.com/reviews/albums/laila-well-never-be-this-young-again/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aecd91478d0dfa19820dd27/master/pass/Laila-We%E2%80%99ll%20Never%20Be%20This%20Young%20Again.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "The New York songwriter and producer’s second album meditates on the passage of time, with immersive, lush songs that balance the optimism and anxiety of young adulthood.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Vrinda Jagota"
         }
       ]
     },
@@ -1547,10 +1547,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 301,
+      "ms": 376,
       "error": null,
-      "fetchedAt": "2026-11-16T21:40:44.094Z",
-      "lastOkAt": "2026-11-16T21:40:44.094Z",
+      "fetchedAt": "2026-11-17T06:46:34.408Z",
+      "lastOkAt": "2026-11-17T06:46:34.408Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,10 +2205,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 239,
+      "ms": 190,
       "error": null,
-      "fetchedAt": "2026-11-16T21:40:44.094Z",
-      "lastOkAt": "2026-11-16T21:40:44.094Z",
+      "fetchedAt": "2026-11-17T06:46:34.408Z",
+      "lastOkAt": "2026-11-17T06:46:34.408Z",
       "itemCount": 15,
       "items": [
         {
@@ -2380,22 +2380,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/": {
-      "artist": "untitled (halo)",
-      "album": "untitled (halo)"
-    },
-    "https://pitchfork.com/reviews/albums/laila-well-never-be-this-young-again/": {
-      "artist": "Laila!",
-      "album": "We’ll Never Be This Young Again"
-    },
-    "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/": {
-      "artist": "Bob Dylan",
-      "album": "The Rolling Thunder Revue: The 1976 Live Recordings"
-    },
-    "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/": {
-      "artist": "Donald Fagen",
-      "album": "The Nightfly"
-    },
     "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/": {
       "artist": "Skepta",
       "album": "The Fork and Knife"
@@ -2499,6 +2483,22 @@
     "https://pitchfork.com/reviews/albums/or-music-for-empty-stadiums/": {
       "artist": "OR",
       "album": "Music for Empty Stadiums"
+    },
+    "https://pitchfork.com/reviews/albums/snoh-aalegra-legendary-love/": {
+      "artist": "Snoh Aalegra",
+      "album": "Legendary Love"
+    },
+    "https://pitchfork.com/reviews/albums/nori-file-1/": {
+      "artist": "Nori",
+      "album": "file_1"
+    },
+    "https://pitchfork.com/reviews/albums/cute-history-is-not-woven-by-innocent-hands/": {
+      "artist": "cute",
+      "album": "history is not woven by innocent hands"
+    },
+    "https://pitchfork.com/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/": {
+      "artist": "Aaron Dilloway",
+      "album": "No Skill Comedy Mind Reading"
     }
   }
 }

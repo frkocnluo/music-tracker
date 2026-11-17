@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-17T06:46:34.408Z",
+    "updatedAt": "2026-11-17T20:30:05.771Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 691,
+      "ms": 723,
       "error": null,
-      "fetchedAt": "2026-11-17T06:46:34.408Z",
-      "lastOkAt": "2026-11-17T06:46:34.408Z",
+      "fetchedAt": "2026-11-17T20:30:05.771Z",
+      "lastOkAt": "2026-11-17T20:30:05.771Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 662,
+      "ms": 700,
       "error": null,
-      "fetchedAt": "2026-11-17T06:46:34.408Z",
-      "lastOkAt": "2026-11-17T06:46:34.408Z",
+      "fetchedAt": "2026-11-17T20:30:05.771Z",
+      "lastOkAt": "2026-11-17T20:30:05.771Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "A Man Without a Soul: The The’s Infected at 40",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/the-the-infected-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-the-infected-uk-vinyl-lp-album-record-epc26770-393737_1200x1200_crop_center.jpg-700x700.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "Infected represented many things, says Wesley Doyle, one of them being how the cult artist Matt Johnson convinced a major label to bankroll a film, and what the ultimate cost of this was Imagine the scenario: it’s 1986 and a relatively unknown artist’s manager approaches his record label to finagle enough money to make a film to promote a new album. The sum they have in mind is around £500,000 – the best part of £2 million in today’s money. Eventually, the label capitulates, and the artist is flown around the world with several video directors and crew to make short films to accompany every track on the record. Even today, such an undertaking would only be possible for an artist of... The post A Man Without a Soul: The The’s Infected at 40 appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Feedbacker: Rock Music for November by JR Moores",
+          "link": "https://thequietus.com/quietus-reviews/rock/roger-taylor-kid-rock-rangers-dabda-new-rock-music-review-november-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Clutter-2026-by-Dan-Kendall-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "Before rounding up some new rock releases – including a rancid new offering from \"false redneck\" Kid Rock – JR Moores praises the veteran Queen drummer, Roger Taylor Clutter, photo by Dan Kendall I realise this space would be better used to champion the kind of upcomin’, geetar abusin’, consensus challengin’, taboo bustin’ insurrectionists that would make Lambrini Girls look like Amanda Holden. Nevertheless, here are some thoughts on the white-bearded multimillionaire who wrote ‘Radio Ga Ga’. Frankly I’ve become so beguiled by the recent record from Queen’s drummer, I owe it to our readers to put it on their radar in case they’ve missed it, in all its uninhibited glory.I can’t say I’m au fait with the 77-year-old’s complete oeuvre, either.... The post Feedbacker: Rock Music for November by JR Moores appeared first on The Quietus .",
+          "categories": [
+            "Rock"
+          ],
+          "author": "Patrick Clarke"
+        },
         {
           "title": "Iceboy Violet – How to Glitch Under The Map",
           "link": "https://thequietus.com/quietus-reviews/iceboy-violet-how-to-glitch-under-the-map-review/",
@@ -591,32 +617,6 @@
           "description": "Jim Osman talks to a newly revitalised Factory Floor on the eve of the release of their first album in ten years, One Trip. All portraits: Harry Ward One Trip by Factory Floor What catches Nik Colk Void’s eye is not the dramatic landscape itself but evidence that somebody has been there before her: tape torn from a wall, scratches in a surface, cables worn through years of use. She finds a similar fascination in the photograph that graces the sleeve of One Trip, Factory Floor’s first album in ten years. Taken by their longtime associate Georg Gatsas, it presents the odd image of blocks of ice deposited on a road beside temporary emergency barriers. Something extreme has happened just outside of... The post Into The Risk Area: Factory Floor Interviewed appeared first on The Quietus .",
           "categories": [
             "A Quietus Interview"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "45 Years On: OMD’s Architecture & Morality Remembered",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/omd-architecture-morality-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/OMD-Architecture-and-Morality-album-cover-820.jpg-700x700.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "Orchestral Manoeuvres In The Dark released one of the Quietus' favourite albums in 1981. John Doran reflects on the warmth of Architecture & Morality and talks to Andy McCluskey A lazy but widespread criticism of the English synth pop scene of the early 80s was that it was soulless or lacking in human warmth. While there certainly were acts who came across as detached or alienated (Cabaret Voltaire, The Normal, John Foxx) if anything, the opposite was generally true. There is an almost baroque level of (exquisitely judged) romantic melodrama to Soft Cell's 'Say Hello Wave Goodbye'; despite Gary Numan's dead-eyed automaton image, Tubeway Army's 'Are \"Friends\" Electric?' is quite clearly a very fragile and keenly felt song about heartbreak; and... The post 45 Years On: OMD’s Architecture & Morality Remembered appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Reissue of the Week: Henning Christiansen’s Symphony Natura",
-          "link": "https://thequietus.com/quietus-reviews/reissue-of-the-week/henning-christiansen-symphony-natura-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/a4259900867_10-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "Why Listen to Animals? asks Francis Gooding after immersing himself in some questionable musique concrète Symphony Natura by Henning Christiansen and Lorenzo Mammi \"The zoo\", wrote John Berger in a 1977 essay called 'Why Look At Animals?', \"cannot but disappoint\". The purpose of the visit is to see the animals, to look at them, but the animals always avoid being seen: they are bunched up at the edge of their enclosures, they are lethargic, they are hidden in their sleeping quarters, they are indifferent to the visitor. Berger was writing about the scopic regime of the zoological garden: it is a place where one goes to look at animals, and no matter the real or imagined conservation functions of the modern zoo,... The post Reissue of the Week: Henning Christiansen’s Symphony Natura appeared first on The Quietus .",
-          "categories": [
-            "Reissue of the Week"
           ],
           "author": "John Doran"
         }
@@ -1136,10 +1136,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 157,
+      "ms": 305,
       "error": null,
-      "fetchedAt": "2026-11-17T06:46:34.408Z",
-      "lastOkAt": "2026-11-17T06:46:34.408Z",
+      "fetchedAt": "2026-11-17T20:30:05.771Z",
+      "lastOkAt": "2026-11-17T20:30:05.771Z",
       "itemCount": 30,
       "items": [
         {
@@ -1188,7 +1188,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-17",
-          "description": "TK",
+          "description": "Inspired by the video games and grime music he grew up on, the 24-year-old English rapper applies the hard-hitting flows to songs full of bright synths and heavy emotions.",
           "categories": [
             "Reviews / Albums"
           ],
@@ -1547,12 +1547,28 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 376,
+      "ms": 703,
       "error": null,
-      "fetchedAt": "2026-11-17T06:46:34.408Z",
-      "lastOkAt": "2026-11-17T06:46:34.408Z",
+      "fetchedAt": "2026-11-17T20:30:05.771Z",
+      "lastOkAt": "2026-11-17T20:30:05.771Z",
       "itemCount": 40,
       "items": [
+        {
+          "title": "Album Of The Week: Danz CM The Interdimensional Extraterrestrial Time Travelers Society",
+          "link": "https://stereogum.com/2518002/album-of-the-week-danz-cm-the-interdimensional-extraterrestrial-time-travelers-society/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/09/unnamed-2026-09-26T094705.018.jpg?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "The post Album Of The Week: Danz CM <em>The Interdimensional Extraterrestrial Time Travelers Society</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Computer Magic",
+            "Danz CM"
+          ],
+          "author": "Danielle Chelosky"
+        },
         {
           "title": "Album Of The Week: Krill Secret Language",
           "link": "https://stereogum.com/2517187/album-of-the-week-krill-secret-language/reviews/album-of-the-week/",
@@ -2173,22 +2189,6 @@
             "Mx Lonely"
           ],
           "author": "Abby Jones"
-        },
-        {
-          "title": "Album Of The Week: hemlocke springs the apple tree under the sea",
-          "link": "https://stereogum.com/2488732/album-of-the-week-hemlocke-springs-the-apple-tree-under-the-sea/reviews/album-of-the-week/",
-          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Hemlocke-Springs.jpg?w=564",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-02-10",
-          "description": "The post Album Of The Week: hemlocke springs <em>the apple tree under the sea</em> appeared first on Stereogum .",
-          "categories": [
-            "Album Of The Week",
-            "Reviews",
-            "Burns",
-            "Hemlocke Springs"
-          ],
-          "author": "Margaret Farrell"
         }
       ]
     },
@@ -2205,10 +2205,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 190,
+      "ms": 344,
       "error": null,
-      "fetchedAt": "2026-11-17T06:46:34.408Z",
-      "lastOkAt": "2026-11-17T06:46:34.408Z",
+      "fetchedAt": "2026-11-17T20:30:05.771Z",
+      "lastOkAt": "2026-11-17T20:30:05.771Z",
       "itemCount": 15,
       "items": [
         {

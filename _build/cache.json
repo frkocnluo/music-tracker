@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-17T20:30:05.771Z",
+    "updatedAt": "2026-11-18T06:04:39.947Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 723,
+      "ms": 742,
       "error": null,
-      "fetchedAt": "2026-11-17T20:30:05.771Z",
-      "lastOkAt": "2026-11-17T20:30:05.771Z",
+      "fetchedAt": "2026-11-18T06:04:39.947Z",
+      "lastOkAt": "2026-11-18T06:04:39.947Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 700,
+      "ms": 676,
       "error": null,
-      "fetchedAt": "2026-11-17T20:30:05.771Z",
-      "lastOkAt": "2026-11-17T20:30:05.771Z",
+      "fetchedAt": "2026-11-18T06:04:39.947Z",
+      "lastOkAt": "2026-11-18T06:04:39.947Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Anthony Child – Beginning of the Shadow",
+          "link": "https://thequietus.com/quietus-reviews/anthony-child-beginning-of-the-shadow-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/a-child-beginning-of-the-.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "Anthony Child Beginning of the Shadow The Northamptonshire-born producer, aka Surgeon, purges himself in Maui with a suite of ten ambient explorations Beginning of the Shadow by Anthony Child Transcendence Orchestra, a duo featuring Anthony Child and Dan Bean, played at the Hottest Supernormal Festival Ever™ in 2022. Clad in chunky hooded robes, they took to a Vortex stage doing its best sweat-box-inside-a-greenhouse-inside-a-volcano impression and still managed to entrance a crowd sporting skimpy jorts and sweat dipped vests who could hardly hack the heat. The pair showed a thing or two about patience that day. About withstanding great physical discomfort. Some might even call it suffering for their art. If you’ve dabbled with Transcendence Orchestra before you’ll be well placed to understand Anthony Child’s approach... The post Anthony Child – Beginning of the Shadow appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "A Man Without a Soul: The The’s Infected at 40",
           "link": "https://thequietus.com/opinion-and-essays/anniversary/the-the-infected-review/",
@@ -606,19 +619,6 @@
             "News"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Into The Risk Area: Factory Floor Interviewed",
-          "link": "https://thequietus.com/interviews/factory-floor-interview-2/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-04-at-10.55.41-2-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "Jim Osman talks to a newly revitalised Factory Floor on the eve of the release of their first album in ten years, One Trip. All portraits: Harry Ward One Trip by Factory Floor What catches Nik Colk Void’s eye is not the dramatic landscape itself but evidence that somebody has been there before her: tape torn from a wall, scratches in a surface, cables worn through years of use. She finds a similar fascination in the photograph that graces the sleeve of One Trip, Factory Floor’s first album in ten years. Taken by their longtime associate Georg Gatsas, it presents the odd image of blocks of ice deposited on a road beside temporary emergency barriers. Something extreme has happened just outside of... The post Into The Risk Area: Factory Floor Interviewed appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview"
-          ],
-          "author": "John Doran"
         }
       ]
     },
@@ -1136,12 +1136,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 305,
+      "ms": 716,
       "error": null,
-      "fetchedAt": "2026-11-17T20:30:05.771Z",
-      "lastOkAt": "2026-11-17T20:30:05.771Z",
+      "fetchedAt": "2026-11-18T06:04:39.947Z",
+      "lastOkAt": "2026-11-18T06:04:39.947Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "U, Me & My Ego (Deluxe)",
+          "link": "https://pitchfork.com/reviews/albums/chxrry-u-me-and-my-ego-deluxe/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afc7b2c169506d236d4fd0c/master/pass/Chxrry%20-%20U%20Me%20&amp;%20My%20Ego%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "The Toronto singer caps her breakout year with a deluxe edition of her debut, a potent blend of 2010s R&B glam, sticky synth-pop, and heroic self-hype.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Tatiana Lee Rodriguez"
+        },
+        {
+          "title": "An Exchange of Information",
+          "link": "https://pitchfork.com/reviews/albums/oso-oso-an-exchange-of-information/",
+          "imageUrl": "https://media.pitchfork.com/photos/6a96de8259fd204d41fb1ead/master/pass/Oso-Oso-An-Exchange-of-Information.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "On his sixth album, Jade Lilitri reckons with a crowded mind, a shortened attention span, and the dream of better days ahead in a set of jittery emo and power-pop songs.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Grace Robins-Somerville"
+        },
+        {
+          "title": "Beginningless",
+          "link": "https://pitchfork.com/reviews/anna-butterss-john-raymond-ben-lumsdaine-beginningless/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afc76081d2cc6cf817b3c09/master/pass/Anna%20Butterss,%20John%20Raymond,%20Ben%20Lumsdaine%20-%20Beginningless.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "A group with ties to SML and Jeff Parker’s ETA IVtet puts an atmospheric spin on the classic bass/drums/horn trio format, using subtle electronic detailing to play up the music’s shifting textures.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Rae-Aila Crumble"
+        },
+        {
+          "title": "40 Acres",
+          "link": "https://pitchfork.com/reviews/albums/camden-malik-40-acres/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afc7fb8ab102c59817a9644/master/pass/Camden%20Malik%2040%20Acres.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "The DMV-based rapper spotlights his community and his loose, nonchalant flow on a breezy new project, executive-produced by MIKE and Surf Gang’s Elipropperr.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Oba Awolowo"
+        },
         {
           "title": "Legendary Love",
           "link": "https://pitchfork.com/reviews/albums/snoh-aalegra-legendary-love/",
@@ -1479,58 +1531,6 @@
             "Reviews / Albums"
           ],
           "author": "Philip Sherburne"
-        },
-        {
-          "title": "The Fork and Knife",
-          "link": "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aee20aa78d0dfa19820ee36/master/pass/Skepta%20-%20The%20Fork%20and%20Knife%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "After a slightly creaky start, Skepta’s first album in seven years takes shape as a mature reflection on legacy from an icon of UK grime and a face of modern Britain.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Will Pritchard"
-        },
-        {
-          "title": "O My Beloved",
-          "link": "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aee2440d1ad83d11d557f80/master/pass/Kings%20of%20Leon%20-%20O%20My%20Beloved%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "The band’s 10th album is a shocking and largely impressive reinvention that’s also the loosest they’ve sounded in decades.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Larry Fitzmaurice"
-        },
-        {
-          "title": "Róisín",
-          "link": "https://pitchfork.com/reviews/ciaran-roisin/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aee21e806e89e006e0fae99/master/pass/Ciara%CC%81n%20-%20Ro%CC%81isi%CC%81n%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "The former Bearface of Brockhampton emerges for a solo album of slouchy bedroom pop-soul whose cramped pileup of influences guards a promising sensitivity.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "H.D. Angel"
-        },
-        {
-          "title": "Certain Uncertainties",
-          "link": "https://pitchfork.com/reviews/albums/dream-unending-certain-uncertainties/",
-          "imageUrl": "https://media.pitchfork.com/photos/6adfc8e8baf3c8bb4e224a64/master/pass/3000x3000bb-100%20(7).jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "On its third album, the dream-doom duo continues to tip the scales of its sound towards psychedelia, with a cowboy jazz record dotted with references to its creators’ metal roots.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Patrick Lyons"
         }
       ]
     },
@@ -1547,10 +1547,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 703,
+      "ms": 344,
       "error": null,
-      "fetchedAt": "2026-11-17T20:30:05.771Z",
-      "lastOkAt": "2026-11-17T20:30:05.771Z",
+      "fetchedAt": "2026-11-18T06:04:39.947Z",
+      "lastOkAt": "2026-11-18T06:04:39.947Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,12 +2205,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 344,
+      "ms": 546,
       "error": null,
-      "fetchedAt": "2026-11-17T20:30:05.771Z",
-      "lastOkAt": "2026-11-17T20:30:05.771Z",
+      "fetchedAt": "2026-11-18T06:04:39.947Z",
+      "lastOkAt": "2026-11-18T06:04:39.947Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "2027 Grammy Awards Picks & Predictions!",
+          "link": "https://www.youtube.com/watch?v=p5yChF6yeII",
+          "imageUrl": "https://i1.ytimg.com/vi/p5yChF6yeII/hqdefault.jpg",
+          "embedId": "p5yChF6yeII",
+          "audioSrc": "",
+          "pubDate": "2026-11-17",
+          "description": "Full list of nominations: https://www.grammy.com/awards/69th-annual-grammy-awards-2027/ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Armand Hammer - Snakes & Ladders ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=1kXXkUaN-ek",
@@ -2364,38 +2375,11 @@
           "description": "Listen: https://www.youtube.com/watch?v=Ewf11NeIMIQ There're some great highlights and a lot to appreciate about 'I think I spoke too soon.' More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BABY STEPS, I'M A STAR, AAAHHH!!!, BROKEN CHAIR, SHIVER RACHEL CHINOURIRI - I THINK I SPOKE TOO SOON / 2026 / PARLOPHONE / SYNTHPOP, POP ROCK 7/10 Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "WHAT'S IN MY BAG?!!",
-          "link": "https://www.youtube.com/shorts/1x6nObGXO40",
-          "imageUrl": "https://i2.ytimg.com/vi/1x6nObGXO40/hqdefault.jpg",
-          "embedId": "1x6nObGXO40",
-          "audioSrc": "",
-          "pubDate": "2026-11-01",
-          "description": "#music #cds #recordstore #collection",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/": {
-      "artist": "Skepta",
-      "album": "The Fork and Knife"
-    },
-    "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/": {
-      "artist": "Kings of Leon",
-      "album": "O My Beloved"
-    },
-    "https://pitchfork.com/reviews/albums/dream-unending-certain-uncertainties/": {
-      "artist": "Dream Unending",
-      "album": "Certain Uncertainties"
-    },
-    "https://pitchfork.com/reviews/ciaran-roisin/": {
-      "artist": "Ciarán",
-      "album": "Róisín"
-    },
     "https://pitchfork.com/reviews/albums/boundary-proxima-centauri/": {
       "artist": "Boundary",
       "album": "PROXIMA CENTAURI"
@@ -2499,6 +2483,22 @@
     "https://pitchfork.com/reviews/albums/aaron-dilloway-no-skill-comedy-mind-reading/": {
       "artist": "Aaron Dilloway",
       "album": "No Skill Comedy Mind Reading"
+    },
+    "https://pitchfork.com/reviews/albums/chxrry-u-me-and-my-ego-deluxe/": {
+      "artist": "Chxrry",
+      "album": "U, Me & My Ego (Deluxe)"
+    },
+    "https://pitchfork.com/reviews/anna-butterss-john-raymond-ben-lumsdaine-beginningless/": {
+      "artist": "Anna Butterss / John Raymond / Ben Lumsdaine",
+      "album": "Beginningless"
+    },
+    "https://pitchfork.com/reviews/albums/oso-oso-an-exchange-of-information/": {
+      "artist": "Oso Oso",
+      "album": "An Exchange of Information"
+    },
+    "https://pitchfork.com/reviews/albums/camden-malik-40-acres/": {
+      "artist": "Camden Malik",
+      "album": "40 Acres"
     }
   }
 }

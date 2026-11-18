@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-18T06:04:39.947Z",
+    "updatedAt": "2026-11-18T20:01:35.036Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 742,
+      "ms": 737,
       "error": null,
-      "fetchedAt": "2026-11-18T06:04:39.947Z",
-      "lastOkAt": "2026-11-18T06:04:39.947Z",
+      "fetchedAt": "2026-11-18T20:01:35.036Z",
+      "lastOkAt": "2026-11-18T20:01:35.036Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,55 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 676,
+      "ms": 687,
       "error": null,
-      "fetchedAt": "2026-11-18T06:04:39.947Z",
-      "lastOkAt": "2026-11-18T06:04:39.947Z",
+      "fetchedAt": "2026-11-18T20:01:35.036Z",
+      "lastOkAt": "2026-11-18T20:01:35.036Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Glastonbury Reveals First Acts for 2027 Edition",
+          "link": "https://thequietus.com/news/glastonbury-reveals-first-acts-for-2027-edition/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Glastonbury-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "Massive Attack, Kraftwerk and Cher are among the big names heading to the Somerset farm next summer Glastonbury has revealed the first wave of acts playing its 2027 edition. The festival will be headlined by Billie Eilish, Harry Styles and Sam Fender, while Cher will take the Sunday afternoon 'Legends slot' at the main Pyramid stage. Also high up on the bill are Massive Attack, Kraftwerk, The xx, Little Simz and Ezra Collective. The first lineup announcement is rounded out by the likes of FKA twigs, Robyn, Primal Scream, Underworld, De La Soul, The Avalanches, Dinosaur Jr., underscores, Hot Chip, Mike D, Young Fathers and Thundercat. Next year's Glastonbury marks the first edition of the long-running festival since 2025 after it took a year... The post Glastonbury Reveals First Acts for 2027 Edition appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Cher",
+            "Glastonbury",
+            "Kraftwerk",
+            "Massive Attack"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "The Strange World Of… The New Blockaders",
+          "link": "https://thequietus.com/interviews/strange-world-of/the-new-blockaders-best-music/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/16_h_Cafe-OTO-London_Live-1-2017-Baby-RL-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "Nick Soulsby, author of a new book charting TNB's bizarre 45-year journey, selects ten points of entry into the maze-like discography of a group dedicated to absurdity and the refusal of fixed meaning TNB at Cafe Oto in 2017, by Baby RL At the tail-end of the 70s, artists in the non-academic realm joined illustrious composers of electroacoustic and experimental music in probing where the outer limits of music might lie, and the extent to which its core characteristics could be twisted to unleash new sounds. Magnetic tape and fanzine culture alike inspired a wider web of individuals with no industry-backing, no money, no audience, and no media connections to create, then to share their work with anyone who cared enough to... The post The Strange World Of… The New Blockaders appeared first on The Quietus .",
+          "categories": [
+            "Strange World Of..."
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Brassica Unbound: Serge Gainsbourg’s L’Homme à tête de chou at 50",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/serge-gainsbourg-l-homme-a-tete-de-chou-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/198055-serge-gainsbourg-lhomme-tte-de-chou-700x700.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "In 1976 the dandyish Gainsbourg embraced prog rock on a concept album about a man with a cabbage for a head but, says Jeremy Allen, he was still revered by French punks In 1975, Serge Gainsbourg was caught between a rock and a hard place. His solo career was fading steadily, with albums like Histoire de Melody Nelson and Vu de l'extérieur commercially underperforming in France. His English lover Jane Birkin, meanwhile, was enjoying A-list celebrity status with hit films such as Claude Zidi's La course à l'échalote. This reversal in their celebrity statuses aroused a streak of jealousy in him that would manifest itself in conceptual violence via his next album L'Homme à tête de chou, released the following year.... The post Brassica Unbound: Serge Gainsbourg’s L’Homme à tête de chou at 50 appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
         {
           "title": "Anthony Child – Beginning of the Shadow",
           "link": "https://thequietus.com/quietus-reviews/anthony-child-beginning-of-the-shadow-review/",
@@ -580,45 +623,6 @@
             "A Quietus Interview"
           ],
           "author": "John Doran"
-        },
-        {
-          "title": "Ana Lua Caiano – Devagar Que A Vida É Curta",
-          "link": "https://thequietus.com/quietus-reviews/ana-lua-caiano-devagar-que-a-vida-e-curta-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/ana-lua-caiano-devager.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "Ana Lua Caiano Devagar Que A Vida É Curta Portuguese singer-producer draws on Zeca Afonso and modern digital production techniques to produce a thrilling call to action Devagar Que A Vida É Curta by Ana Lua Caiano Devagar Que A Vida É Curta translates loosely as ‘Go slowly as life is short’. The title track does anything but go slowly, a frantic 43 seconds where Ana Lua Caiano’s assertive, multitracked vocals get in as much information as possible before the proverbial window closes. In Portuguese, she gasps: “Life is beautiful, beautiful, beautiful / Oh life, run slowly… Death is near, move fast…” This second album by the singer and visual artist confronts the process of death and renewal with a vigour, bringing pathos and even... The post Ana Lua Caiano – Devagar Que A Vida É Curta appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "From Langley Park to Mendips: Driving Through the Prefab Sprout Back Catalogue",
-          "link": "https://thequietus.com/culture/books/truly-gifted-kids-prefab-sprout-nige-tassell/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/10681-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-07",
-          "description": "As he was putting the finishing touches to his new book about Prefab Sprout, Truly Gifted Kids, author Nige Tassell drove across Britain listening to their albums from start to finish. This is what he learned It’s last autumn, 12 months back. I’ve just completed my last research trip to north-east England where I’ve been delving deep into the life and times of Prefab Sprout for my book Truly Gifted Kids. Now it’s time to leave County Durham, to head back to the hill country of Somerset, back home to the Mendips. It’ll take the best part of the day. On the passenger seat sits an old shoebox. Inside it are the ten studio albums released to date under the name Prefab... The post From Langley Park to Mendips: Driving Through the Prefab Sprout Back Catalogue appeared first on The Quietus .",
-          "categories": [
-            "Books"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "English Folk Dance and Song Society Changes Name",
-          "link": "https://thequietus.com/news/english-folk-dance-and-song-society-name-change-folk-england/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Cecil-Sharp-House-featuring-old-EFDSS-sign-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "It marks a major shift as the organisation approaches its centenary Cecil Sharp House The English Folk Dance and Song Society (EFDSS) has formally changed its trading name to Folk England, a decision it says aligns with a mission to \"make folk music, song, and dance inclusive for all.\" The organisation was founded in 1932 following the merger of the Folk-Song Society and the English Folk Dance Society. The decision to change its name now represents one of the biggest changes in the organisation's history. Katy Spicer, Chief Executive & Artistic Director of Folk England, said of the decision: “For some years we have recognised that the breadth and ambition of the organisation’s work has far outgrown the confined and outdated previous name and... The post English Folk Dance and Song Society Changes Name appeared first on The Quietus .",
-          "categories": [
-            "News"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -1136,10 +1140,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 716,
+      "ms": 221,
       "error": null,
-      "fetchedAt": "2026-11-18T06:04:39.947Z",
-      "lastOkAt": "2026-11-18T06:04:39.947Z",
+      "fetchedAt": "2026-11-18T20:01:35.036Z",
+      "lastOkAt": "2026-11-18T20:01:35.036Z",
       "itemCount": 30,
       "items": [
         {
@@ -1547,10 +1551,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 344,
+      "ms": 596,
       "error": null,
-      "fetchedAt": "2026-11-18T06:04:39.947Z",
-      "lastOkAt": "2026-11-18T06:04:39.947Z",
+      "fetchedAt": "2026-11-18T20:01:35.036Z",
+      "lastOkAt": "2026-11-18T20:01:35.036Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,10 +2209,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 546,
+      "ms": 340,
       "error": null,
-      "fetchedAt": "2026-11-18T06:04:39.947Z",
-      "lastOkAt": "2026-11-18T06:04:39.947Z",
+      "fetchedAt": "2026-11-18T20:01:35.036Z",
+      "lastOkAt": "2026-11-18T20:01:35.036Z",
       "itemCount": 15,
       "items": [
         {

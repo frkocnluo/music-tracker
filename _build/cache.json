@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-19T06:06:06.363Z",
+    "updatedAt": "2026-11-19T19:59:34.588Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 825,
+      "ms": 860,
       "error": null,
-      "fetchedAt": "2026-11-19T06:06:06.363Z",
-      "lastOkAt": "2026-11-19T06:06:06.363Z",
+      "fetchedAt": "2026-11-19T19:59:34.588Z",
+      "lastOkAt": "2026-11-19T19:59:34.588Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,82 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 689,
+      "ms": 728,
       "error": null,
-      "fetchedAt": "2026-11-19T06:06:06.363Z",
-      "lastOkAt": "2026-11-19T06:06:06.363Z",
+      "fetchedAt": "2026-11-19T19:59:34.588Z",
+      "lastOkAt": "2026-11-19T19:59:34.588Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Kraftwerk Berlin Issues Apology After Hosting Military AI Event",
+          "link": "https://thequietus.com/news/kraftwerk-berlin-issues-apology-after-hosting-military-ai-event/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Kraftwerk-Berlin-Helsing-700x466.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "The Berlin venue's head of sales, Tjabo Reuter, has described it as \"a serious error of judgement\" Kraftwerk Berlin, the venue that hosts Berlin Atonal and houses clubs such as Tresor and OHM within its complex, has apologied after it hosted an event for German defence technology company Helsing last week. The event on 11 November saw Helsing launch Clarity, its new AI-supported military intelligence platform, in Kraftwerk's main Turbine Hall. Helsing has hit the headlines in recent years after Spotify co-founder and former CEO Daniel Ek emerged as a key investor in the business. Kraftwerk Berlin's head of sales, Tjabo Reuter, has now apologised for allowing the space to be used by Helsing for its launch. In a statement, he described it... The post Kraftwerk Berlin Issues Apology After Hosting Military AI Event appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Berlin Atonal",
+            "Kraftwerk Berlin",
+            "Tresor"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Inner Rebellion: Lorenzo Senni Interviewed",
+          "link": "https://thequietus.com/interviews/inner-rebellion-lorenzo-senni-interviewed/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/16_Lorenzo-Senni_All-Ages_Press-Pictures_Jim-C_Nedd_Hires-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Ahead of the release of his latest album for Warp Records, All Ages, the Italian artist discusses the skateboarding and hardcore music culture that inspired him as a teenager, and the act of rebellion he took against himself in making the new LP Photo by Jim C. Nedd With a population of around 1,000 people, Lorenzo Senni’s childhood village of Ronta wasn’t especially a thriving hub for cultural activity when he was growing up. While it wasn’t far from the more active nearby cities of Cesena and Rimini, where he occasionally visited as an impressionable teen, its leisurely way of living made for a generation of young people desperate to find new hobbies and something out of the ordinary. For a 13-year-old Senni... The post Inner Rebellion: Lorenzo Senni Interviewed appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview",
+            "Lorenzo Senni",
+            "Warp Records"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "New River Studio Juan Atkins Tribute on Friday Night",
+          "link": "https://thequietus.com/news/new-river-studio-juan-atkins-tribute-on-friday-night/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/last-angel-2-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "A film screening & three DJ sets have been planned to memorialise the \"incredibly important\" Michigan artist Juan Atkins – techno's 'The Originator' who died at the end of last month – is being memorialised at an event held at New River Studios, Harringay on Friday night. As well as DJ sets from tQ favourites UKAEA, Ruby Quick and Proteus, there will be a screening of the documentary The Last Angel Of History. John Akomfrah and Eddie George's documentary feature is a comment on and narrative thread in Afrofuturism, which, among many other things, encompasses Detroit techno. Organiser / DJ Proteus says: \"[He was] The Originator – Juan Atkins was more than an artist, [he was] an unstoppable force of futurism,... The post New River Studio Juan Atkins Tribute on Friday Night appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Worlds Apart: Noon by Richard Skelton & Lawrence English",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/noon-richard-skelton-lawrence-english-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/IMG_4770-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Two deep listeners, Room 40 records boss English and Lancashire-born composer Skelton, find a still point in the midst of the storm of contemporary history on their new collaborative album credit Richard Skelton & Lawrence English For two people standing on opposite sides of the planet, one’s midday becomes the other’s midnight. This first collaboration between British musician Richard Skelton and Australian composer Lawrence English hinges on the duality of this proposition: Skelton’s name written upside down beneath English’s, both pressed against the album cover’s featureless greyness, while the brightness of the palindrome NOON drowns in the supreme darkness of their music. NOON started gestating during the silence brought on by the Covid pandemic in 2021 and carries within itself a shard of... The post Worlds Apart: Noon by Richard Skelton & Lawrence English appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Organic Intelligence LXII: C64 Game Soundtracks",
+          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Skate-or-die-image-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "In this month’s antidote to the algorithm, Juliet Jacques explores the playful and experimental soundtracks to games on the popular tape-based home computer I spent my first year at the University of Manchester in halls of residence. They put me in with a group of lads who were really into techno, and drum and bass – a challenge to my sensibilities, as I had a tribal allegiance to punk, post-punk and independent music. During our first weeks together, in September 2000, a single came out that instantly became a massive hit but united my flatmates in disgust: ‘Kernkraft 400’ by Zombie Nation. I immediately recognised the hook – “it’s from a Commodore 64 game”, I told them. “I bet it fucking... The post Organic Intelligence LXII: C64 Game Soundtracks appeared first on The Quietus .",
+          "categories": [
+            "Organic Intelligence"
+          ],
+          "author": "Luke Turner"
+        },
         {
           "title": "Maria Teresa Pirrigheddu and Vieri Mura – Rundinas",
           "link": "https://thequietus.com/quietus-reviews/maria-teresa-pirrigheddu-and-vieri-mura-rundinas-review/",
@@ -552,75 +622,6 @@
             "News",
             "Squid",
             "Warp Records"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Kelela and More to Play RALLY 2027",
-          "link": "https://thequietus.com/news/kelela-and-more-to-play-rally-2027/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/@seb.gardner_Rally_Landscape-19-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "The headline set will mark her only London performance of next year Photo by Seb Gardner London festival RALLY has revealed the first wave of acts playing its 2027 edition. Returning to Southwark Park for its fifth edition, next year's event will take in a headline set from Kelela. It will mark her only London performance of 2027, and follows on from her recent UK and European tour in support of 2026 album new avatar. Also confirmed to play are Chanel Beads, ABRA, Fine, RÓIS and Helen Sun. Repping electronic music sounds will be Loidis, playing live, as well as Shanti Celeste, Rhadoo and OK Williams. More acts will be added to the bill in the coming months. Presale registration for 2027 tickets is open... The post Kelela and More to Play RALLY 2027 appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Kelela",
-            "RALLY"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Straight Hedge! Noel Gardner Reviews Punk & HC for November",
-          "link": "https://thequietus.com/quietus-reviews/punk/straight-hedge-punk-hardcore-new-music-review-november-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/834839-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "From charge-the-enemy, knife-down-boot, shoelace-round-head hardcore to some gleaming and nasty Lima death rock, Noel Gardner's guide to the best in punk returns Funeral, photo by Satanist Madness Welcome (back) to what many are calling “the tersest column on the Quietus dot com”, not because of the windbag who writes it but on account of the belligerent barkers the windbag chooses to feature in it. Come lap up short songs of blunt aggression from bands with short names, the better to reflect the terseness in the presentation. Oakland’s Cell Rot have been at it for about a decade and get further away from hardcore generica with each release – while, significantly, never giving the impression they’re becoming bored of being a hardcore band. Their... The post Straight Hedge! Noel Gardner Reviews Punk & HC for November appeared first on The Quietus .",
-          "categories": [
-            "Punk"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Claire Cronin – The Bruise",
-          "link": "https://thequietus.com/quietus-reviews/claire-cronin-the-bruise-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/cronin-bruise.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "Claire Cronin The Bruise The folk horror Sandy Denny sees the horror of it all all too clearly The Bruise by Claire Cronin “Female singer songwriter” is a designation packed full of dated assumptions male singer songwriters have not had to contend with since the 60s. The category not only fails to illuminate, but flattens all difference, forcing artists who have very little in common to seem more similar than they are. Claire Cronin is too touched by the uncanny to succumb to any such kookiness-at-all-costs shoehorning. Which isn’t to say The Bruise doesn’t have points of comparison, it’s just they are not Fiona Apple or Norah Jones, rather a folk horror Sandy Denny that cut her teeth on Twin Peaks and Carrie instead of... The post Claire Cronin – The Bruise appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Dirty Projectors Share New Song, ‘Jumbotron’",
-          "link": "https://thequietus.com/news/dirty-projectors-share-new-song-jumbotron/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Dirty-Projectors-David-Longstreth-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "Its release marks their signing to Indiana label Joyful Noise, and the founding of their own imprint, Well-Tempered Zealot Dirty Projectors have released a new song, called 'Jumbotron'. It comes amid a flurry of activity from the project, which is led by David Longstreth. They've newly signed to Indiana label Joyful Noise, and launched their own imprint, Well-Tempered Zealot. Speaking about 'Jumbotron', Longstreth said: \"I was thinking about the big screen and the small screen. The big tent and the kind of tent you can make in the living room with a couple couch cushions and a blanket or two. Life and entertainment; attention and volume; focus and detail; quality and value. Listen to the song!\" Longstreth is set to take Dirty Projectors out... The post Dirty Projectors Share New Song, ‘Jumbotron’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Dirty Projectors"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Nick Cave Announces Talk and Music Tour of North America",
-          "link": "https://thequietus.com/news/nick-cave-announces-talk-and-music-tour-of-north-america/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Nick-Cave-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "The Australian artist is refreshing the concept for his popular 2019 tour for a new 2027 run next spring Photo by Venetia Scott Nick Cave has announced an extensive tour of North America for 2027. Conversations With Nick Cave will offer up a night of talk and music from the Australian artist, refreshing the concept for a popular tour run that he rolled out across the same continent in 2019. Each show will take in a mixture of unvetted audience questions and intimate piano performances of tracks from across Cave's extensive back catalogue. In a statement, Cave said: \"Years ago, in a peculiar state of mind, I travelled across the US, stepped onto stages in different cities, and fielded questions from the audience. It... The post Nick Cave Announces Talk and Music Tour of North America appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Nick Cave"
           ],
           "author": "Christian Eede"
         }
@@ -1140,10 +1141,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 193,
+      "ms": 141,
       "error": null,
-      "fetchedAt": "2026-11-19T06:06:06.363Z",
-      "lastOkAt": "2026-11-19T06:06:06.363Z",
+      "fetchedAt": "2026-11-19T19:59:34.588Z",
+      "lastOkAt": "2026-11-19T19:59:34.588Z",
       "itemCount": 30,
       "items": [
         {
@@ -1192,7 +1193,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-19",
-          "description": "Combining hyperpop production and Arabic instrumentation, the Los Angeles-based singer’s debut mixtape finds a dramatic and unexpectedly organic expression of feeling.",
+          "description": "Combining hyperpop production and Arabic instrumentation, the Los Angeles-based singer’s debut finds a dramatic and unexpectedly organic expression of feeling.",
           "categories": [
             "Reviews / Albums"
           ],
@@ -1551,10 +1552,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 549,
+      "ms": 601,
       "error": null,
-      "fetchedAt": "2026-11-19T06:06:06.363Z",
-      "lastOkAt": "2026-11-19T06:06:06.363Z",
+      "fetchedAt": "2026-11-19T19:59:34.588Z",
+      "lastOkAt": "2026-11-19T19:59:34.588Z",
       "itemCount": 40,
       "items": [
         {
@@ -2209,10 +2210,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 207,
+      "ms": 299,
       "error": null,
-      "fetchedAt": "2026-11-19T06:06:06.363Z",
-      "lastOkAt": "2026-11-19T06:06:06.363Z",
+      "fetchedAt": "2026-11-19T19:59:34.588Z",
+      "lastOkAt": "2026-11-19T19:59:34.588Z",
       "itemCount": 15,
       "items": [
         {

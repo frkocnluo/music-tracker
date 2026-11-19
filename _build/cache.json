@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-18T20:01:35.036Z",
+    "updatedAt": "2026-11-19T06:06:06.363Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 737,
+      "ms": 825,
       "error": null,
-      "fetchedAt": "2026-11-18T20:01:35.036Z",
-      "lastOkAt": "2026-11-18T20:01:35.036Z",
+      "fetchedAt": "2026-11-19T06:06:06.363Z",
+      "lastOkAt": "2026-11-19T06:06:06.363Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 687,
+      "ms": 689,
       "error": null,
-      "fetchedAt": "2026-11-18T20:01:35.036Z",
-      "lastOkAt": "2026-11-18T20:01:35.036Z",
+      "fetchedAt": "2026-11-19T06:06:06.363Z",
+      "lastOkAt": "2026-11-19T06:06:06.363Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Maria Teresa Pirrigheddu and Vieri Mura – Rundinas",
+          "link": "https://thequietus.com/quietus-reviews/maria-teresa-pirrigheddu-and-vieri-mura-rundinas-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/rundinas.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Maria Teresa Pirrigheddu and Vieri Mura Rundinas An album of Sardinian cantu a chiterra proves softly spoken but full of character Rundinas by Maria Teresa Pirrigheddu & Vieri Mura The path to Rundinas, a collection of songs in the cantu a chiterra style of northern Sardinia, began with a research project. Vieri Mura, an Italian musician, composer and researcher of Sardinian heritage, interviewed Maria Teresa Pirrigheddu, a known singer of cantu a chiterra, as part of an ethnography of Sardinian music. The friendship that followed from these meetings eventually produced Rundinas (‘swallows’, like the birds that return to Sardinia), with lyrics pulled from Pirrigheddu’s favourite traditional songs and poems, set to music by Vieri. Rundinas is a sparsely arranged record. Pirrigheddu sings in Gallurese and Sardinian,... The post Maria Teresa Pirrigheddu and Vieri Mura – Rundinas appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Glastonbury Reveals First Acts for 2027 Edition",
           "link": "https://thequietus.com/news/glastonbury-reveals-first-acts-for-2027-edition/",
@@ -610,19 +623,6 @@
             "Nick Cave"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "A Hymn of Selfishness: Sheherazaad Interviewed",
-          "link": "https://thequietus.com/interviews/sheherazaad-interview/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/sheherazaad_khudgarzi-zayiraray-07957-COLOR-copy-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-09",
-          "description": "Khudgarzi is the debut album of Sheherazaad; the ghostly sound of female resistance in experimental pop and gothic folk. Words: Arusa Qureshi. Portraits: Zayira Ray Khudgarzi by Sheherazaad “There’s this fantastical, romanticised thing of being in grief and being dark and depressed, and then doing your best work,” American composer and theatre artist Sheherazaad tells me. A mere two months ago, she lost her grandmother, who was herself a music producer and, in many ways, the only other woman she knew who shared her intense, sometimes isolating relationship with music. “In my experience historically, it has to pass a little bit,” she continues. “Right now, I can’t even imagine it, but of course, any time we go through these periods, it’s a deepening,... The post A Hymn of Selfishness: Sheherazaad Interviewed appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview"
-          ],
-          "author": "John Doran"
         }
       ]
     },
@@ -1140,12 +1140,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 221,
+      "ms": 193,
       "error": null,
-      "fetchedAt": "2026-11-18T20:01:35.036Z",
-      "lastOkAt": "2026-11-18T20:01:35.036Z",
+      "fetchedAt": "2026-11-19T06:06:06.363Z",
+      "lastOkAt": "2026-11-19T06:06:06.363Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Echo",
+          "link": "https://pitchfork.com/reviews/albums/ecco2k-echo/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afdf4be2ccb5dc77dc106bd/master/pass/Ecco2k%20-%20Echo%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "On his first new album in seven years, Drain Gang’s Ecco2k collects field recordings and cloudgazing synth-rap, venturing through watery textures and fog in search of elusive connection.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Olivier Lafontant"
+        },
+        {
+          "title": "No Human Tongue Can Tell",
+          "link": "https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afdc8c4e2d3dfb07dcd68b9/master/pass/Radie%20Peat%20No%20Human%20Tongue%20Can%20Tell.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Spotlighting her astounding vocals, the solo debut from the Lankum member is a kaleidoscopic set of folk songs that collapses the centuries.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Brad Sanders"
+        },
+        {
+          "title": "7LLVSION",
+          "link": "https://pitchfork.com/reviews/albums/boys-noize-7llvsion/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afdcae3e2d3dfb07dcd6918/master/pass/Boys%20Noize%20-%207LLVSION.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Alex Ridha channels Berlin’s digital hardcore tradition on a pummeling fusion of industrial-strength techno and headbanging riffs, with energy-stoking features from Brutalismus 3000 and Safety Trance.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Cameron Cook"
+        },
+        {
+          "title": "Everyday, Everything Is at Stake",
+          "link": "https://pitchfork.com/reviews/albums/thoom-everyday-everything-is-at-stake/",
+          "imageUrl": "https://media.pitchfork.com/photos/6afdf3c59bf886ff7ea6b1a4/master/pass/Thoom%20-%20Everyday,%20Everything%20Is%20at%20Stake%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Combining hyperpop production and Arabic instrumentation, the Los Angeles-based singer’s debut mixtape finds a dramatic and unexpectedly organic expression of feeling.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Harry Tafoya"
+        },
         {
           "title": "U, Me & My Ego (Deluxe)",
           "link": "https://pitchfork.com/reviews/albums/chxrry-u-me-and-my-ego-deluxe/",
@@ -1483,58 +1535,6 @@
             "Reviews / Albums"
           ],
           "author": "David Glickman"
-        },
-        {
-          "title": "PEACE + WAR",
-          "link": "https://pitchfork.com/reviews/albums/bassvictim-peace-and-war/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ad8c722307e18bf9f5d1583/master/pass/bassvictim-peace-war-album-art.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "The impish, fluorescent collages of beats and electronics on the duo’s new album capture something ineffable yet unfocused.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Olivier Lafontant"
-        },
-        {
-          "title": "Cktriz",
-          "link": "https://pitchfork.com/reviews/albums/corridos-ketamina-cktriz/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af2024f101779a2910f677c/master/pass/Corridos%20Ketamina%20-%20Cktriz.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "The Pomona/Phoenix duo’s latest record meshes corridos tumbados with rap, emo, and slow-burning guitar ballads, balancing unabashed sex talk with candid reflections on fame and identity.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Marcos Sanoja"
-        },
-        {
-          "title": "Texture Songs",
-          "link": "https://pitchfork.com/reviews/albums/chuck-roth-texture-songs/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af20dfd20df5d7ac144d99e/master/pass/Chuck%20Roth%20-%20Texture%20Songs.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "The New York guitarist’s latest album combines bracing extended techniques and dulcet, understated vocals; it’s a dazzlingly inventive fusion of singer-songwriter forms and free-improv energy.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Andy Cush"
-        },
-        {
-          "title": "PROXIMA CENTAURI",
-          "link": "https://pitchfork.com/reviews/albums/boundary-proxima-centauri/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af225a1101779a2910f6d6f/master/pass/Boundary%20Proxima%20Centauri.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "With a heady concept based in the cosmos, the latest record from the Dominican producer builds grand, emotional payoffs from stark arrangements inspired by vintage video games.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Philip Sherburne"
         }
       ]
     },
@@ -1551,10 +1551,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 596,
+      "ms": 549,
       "error": null,
-      "fetchedAt": "2026-11-18T20:01:35.036Z",
-      "lastOkAt": "2026-11-18T20:01:35.036Z",
+      "fetchedAt": "2026-11-19T06:06:06.363Z",
+      "lastOkAt": "2026-11-19T06:06:06.363Z",
       "itemCount": 40,
       "items": [
         {
@@ -2209,12 +2209,34 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 340,
+      "ms": 207,
       "error": null,
-      "fetchedAt": "2026-11-18T20:01:35.036Z",
-      "lastOkAt": "2026-11-18T20:01:35.036Z",
+      "fetchedAt": "2026-11-19T06:06:06.363Z",
+      "lastOkAt": "2026-11-19T06:06:06.363Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "EGREGIOUS GRAMMY SNUBS 😔",
+          "link": "https://www.youtube.com/shorts/9R2ZsRz6VyE",
+          "imageUrl": "https://i2.ytimg.com/vi/9R2ZsRz6VyE/hqdefault.jpg",
+          "embedId": "9R2ZsRz6VyE",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "#music #grammys #grammyawards",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Westside Gunn - Heelmatic ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=kC6YyCppiyY",
+          "imageUrl": "https://i4.ytimg.com/vi/kC6YyCppiyY/hqdefault.jpg",
+          "embedId": "kC6YyCppiyY",
+          "audioSrc": "",
+          "pubDate": "2026-11-18",
+          "description": "Listen: https://youtu.be/4uWSjmk62NM?si=kXq_M2gm9XXSz6kD HEELMATIC brings an enjoyable mix of quality hip hop and kayfabe. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: KOKE SLAM, DON PISTOLA, MARTIN 4SESE, HURT + HEEL, EGYPTIAN CADILLAC, BOTTOM BUNK LEGENDS, THE BASTARD PAC LEAST FAV TRACK: PRICE CHOPPERS WESTSIDE GUNN - HEELMATIC / 2026 / GRISELDA, MASS APPEAL / EAST COAST HIP HOP, HEEL RAP 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "2027 Grammy Awards Picks & Predictions!",
           "link": "https://www.youtube.com/watch?v=p5yChF6yeII",
@@ -2357,49 +2379,11 @@
           "description": "Listen: https://pisstheband.bandcamp.com/album/you-made-me-skin-on-linen One of the best debuts not only of the year, but this decade. More hardcore reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: I WANTED TO BE A SINGER, TIME LOOP AT HOT SLIT, A LITTLE GIRL'S HORSE CRAZE BETRAYS HER, THERE WAS A DOOR, HOW CAN YOU ACT OPPOSITE TO THIS EMOTION?, BLOCKING A SCENE YOU CAN'T REMEMBER, ROTE ZORA. \"RESISTANCE IS POSSIBLE.\" EMMA NO. 6 JUNE 1984 PP. 39-41. PISS - YOU MADE ME / SKIN ON LINEN \\ 2026 \\ SUB POP \\ NOISECORE, POST-ROCK, SPOKEN WORD, SOUND COLLAGE 9/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Queens of the Stone Age - Perfecth ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=KouRFIOyqws",
-          "imageUrl": "https://i4.ytimg.com/vi/KouRFIOyqws/hqdefault.jpg",
-          "embedId": "KouRFIOyqws",
-          "audioSrc": "",
-          "pubDate": "2026-11-03",
-          "description": "Listen: https://qotsa.bandcamp.com/album/perfecth Sadly this is QOTSA's weakest album by a wide margin. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: EASY STREET LEAST FAV TRACK: MONO QUEENS OF THE STONE AGE - PERFECTH / 2026 / MATADOR / ALT ROCK 3/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Rachel Chinouriri - I think I spoke too soon ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=GNr-xuIL6m8",
-          "imageUrl": "https://i4.ytimg.com/vi/GNr-xuIL6m8/hqdefault.jpg",
-          "embedId": "GNr-xuIL6m8",
-          "audioSrc": "",
-          "pubDate": "2026-11-02",
-          "description": "Listen: https://www.youtube.com/watch?v=Ewf11NeIMIQ There're some great highlights and a lot to appreciate about 'I think I spoke too soon.' More pop reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7oqibt_5oDPppWxQ0iaxyyeq =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BABY STEPS, I'M A STAR, AAAHHH!!!, BROKEN CHAIR, SHIVER RACHEL CHINOURIRI - I THINK I SPOKE TOO SOON / 2026 / PARLOPHONE / SYNTHPOP, POP ROCK 7/10 Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/boundary-proxima-centauri/": {
-      "artist": "Boundary",
-      "album": "PROXIMA CENTAURI"
-    },
-    "https://pitchfork.com/reviews/albums/bassvictim-peace-and-war/": {
-      "artist": "Bassvictim",
-      "album": "PEACE + WAR"
-    },
-    "https://pitchfork.com/reviews/albums/corridos-ketamina-cktriz/": {
-      "artist": "Corridos Ketamina",
-      "album": "Cktriz"
-    },
-    "https://pitchfork.com/reviews/albums/chuck-roth-texture-songs/": {
-      "artist": "Chuck Roth",
-      "album": "Texture Songs"
-    },
     "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/": {
       "artist": "Sufjan Stevens",
       "album": "Worst Christmas Ever!"
@@ -2503,6 +2487,22 @@
     "https://pitchfork.com/reviews/albums/camden-malik-40-acres/": {
       "artist": "Camden Malik",
       "album": "40 Acres"
+    },
+    "https://pitchfork.com/reviews/albums/thoom-everyday-everything-is-at-stake/": {
+      "artist": "Thoom",
+      "album": "Everyday, Everything Is at Stake"
+    },
+    "https://pitchfork.com/reviews/albums/radie-peat-no-human-tongue-can-tell/": {
+      "artist": "Radie Peat",
+      "album": "No Human Tongue Can Tell"
+    },
+    "https://pitchfork.com/reviews/albums/boys-noize-7llvsion/": {
+      "artist": "Boys Noize",
+      "album": "7LLVSION"
+    },
+    "https://pitchfork.com/reviews/albums/ecco2k-echo/": {
+      "artist": "Ecco2k",
+      "album": "Echo"
     }
   }
 }

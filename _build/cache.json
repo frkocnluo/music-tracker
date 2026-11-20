@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-19T19:59:34.588Z",
+    "updatedAt": "2026-11-20T05:53:48.556Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 860,
+      "ms": 565,
       "error": null,
-      "fetchedAt": "2026-11-19T19:59:34.588Z",
-      "lastOkAt": "2026-11-19T19:59:34.588Z",
+      "fetchedAt": "2026-11-20T05:53:48.556Z",
+      "lastOkAt": "2026-11-20T05:53:48.556Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,27 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 728,
+      "ms": 590,
       "error": null,
-      "fetchedAt": "2026-11-19T19:59:34.588Z",
-      "lastOkAt": "2026-11-19T19:59:34.588Z",
+      "fetchedAt": "2026-11-20T05:53:48.556Z",
+      "lastOkAt": "2026-11-20T05:53:48.556Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Belle And Sebastian Unveil ‘If You’re Feeling Sinister’ Reissue",
+          "link": "https://thequietus.com/news/belle-and-sebastian-unveil-if-youre-feeling-sinister-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-20-at-00.45.59-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "The updated release comes with a full bonus album of rarities Belle And Sebastian's 1996 album If You're Feeling Sinister is getting a 30th anniversary reissue. The updated release comes with a 13-track bonus album, Lisa Helps The Blind, which comprises unreleased songs, demos and field recordings made by the group between 1995 and 1997. The reissue will be made available digitally in January, and in different vinyl editions in the months after. One of those physical editions is a 1xLP white-vinyl release, which will feature the full original album only and will be released to record stores. The other is a deluxe 2xLP limited-edition vinyl package, which will feature new essays from Belle And Sebastian frontman Stuart Murdoch and author and journalist... The post Belle And Sebastian Unveil ‘If You’re Feeling Sinister’ Reissue appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Belle And Sebastian",
+            "Matador"
+          ],
+          "author": "Christian Eede"
+        },
         {
           "title": "Kraftwerk Berlin Issues Apology After Hosting Military AI Event",
           "link": "https://thequietus.com/news/kraftwerk-berlin-issues-apology-after-hosting-military-ai-event/",
@@ -609,21 +624,6 @@
             "Live Reviews"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Squid Release Live Album, ‘CROWDS’",
-          "link": "https://thequietus.com/news/squid-release-live-album-crowds/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/SQUIDFIRST-19-2-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "It was captured over the course of the band's UK headline tour for 2025 LP Cowards Photo by Caroline Sanfran Squid have released a live album, titled CROWDS. Recorded over the course of their UK headline tour for 2025 LP Cowards, the 11-track album features live renditions of songs from that record, as well as previous albums Bright Green Field and O Monolith. Initially available as a digital-only release, a double-vinyl pressing is set to follow, with fans able to pre-order a copy between now and 4 December. You can reserve a copy here. A handful of test pressings will also be put up for sale to the first fans at the merch stand at the band’s Barbican headline show on 5 December. In... The post Squid Release Live Album, ‘CROWDS’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Squid",
-            "Warp Records"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1141,12 +1141,64 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 141,
+      "ms": 163,
       "error": null,
-      "fetchedAt": "2026-11-19T19:59:34.588Z",
-      "lastOkAt": "2026-11-19T19:59:34.588Z",
+      "fetchedAt": "2026-11-20T05:53:48.556Z",
+      "lastOkAt": "2026-11-20T05:53:48.556Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Live at the Barbican",
+          "link": "https://pitchfork.com/reviews/albums/kim-deal-live-at-the-barbican/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aff37595a61c257bf1fe255/master/pass/Kim%20Deal%20-%20Live%20at%20the%20Barbican.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "Two years after her long-awaited solo debut, the Pixes/Breeders/Amps singer-songwriter returns with an opulent concert album that pushes her abundant personality to the fore.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Ben Cardew"
+        },
+        {
+          "title": "Astro",
+          "link": "https://pitchfork.com/reviews/albums/donato-dozzy-astro/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aff066d49f8edabf6f2aa38/master/pass/Donato%20Dozzy%20-%20Astro.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "The veteran Italian techno producer draws on the sounds of his childhood, transforming vintage anime anthems into a heady electronic odyssey.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Megan Buerger"
+        },
+        {
+          "title": "MO LÉAN",
+          "link": "https://pitchfork.com/reviews/albums/rois-mo-lean/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aff1c8d6a68e8be0716e894/master/pass/ROIS-MO%20L%C3%89AN.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "Rose Connolly’s newly reissued second album explores suppressed Irish mourning customs. In her mix of electronic processing and traditional music, she uncovers a communal, expressive vision of grief.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Emma Madden"
+        },
+        {
+          "title": "Whistler",
+          "link": "https://pitchfork.com/reviews/albums/nickolas-mohanna-whistler/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aff584d3a31102026cc1713/master/pass/Nickolas%20Mohanna%20%20Whistler.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "The New York guitarist and producer fits the anxiety, hope, and frustration of a day into six pieces of sculptural guitar din and beauty.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Grayson Haver Currin"
+        },
         {
           "title": "Echo",
           "link": "https://pitchfork.com/reviews/albums/ecco2k-echo/",
@@ -1484,58 +1536,6 @@
             "Reviews / Albums"
           ],
           "author": "Daniel Bromfield"
-        },
-        {
-          "title": "Worst Christmas Ever!",
-          "link": "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ae8a8893ad14b0f5282e9b6/master/pass/sufjan-worst-christmas-ever-art.JPG",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "In the great tradition of Christmas CD repackagings, Sufjan has plucked an album’s worth of material from his many volumes of holiday fare—plus one new song—for an eccentric yet charming compilation.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Jayson Greene"
-        },
-        {
-          "title": "SWALLOW!",
-          "link": "https://pitchfork.com/reviews/albums/shygirl-swallow/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aa2ae550d473e45f673155a/master/pass/Swallow!%20by%20Shygirl.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "In palpitating trip-hop and wind-tunnel big beat, the producer’s lovestruck second album seeks a softer, more romantic home on the dancefloor.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Walden Green"
-        },
-        {
-          "title": "In Endless Awe & Agony",
-          "link": "https://pitchfork.com/reviews/albums/daine/in-endless-awe-and-agony/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab1765953bdeef50ce58d0e/master/pass/612891028300.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "The Australian singer’s debut cultivates a joyful button-bashing feeling as it toggles between power-, hyper-, and synth-pop.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Aimee Cliff"
-        },
-        {
-          "title": "When You Smiled and Turned Away",
-          "link": "https://pitchfork.com/reviews/albums/the-cats-miaow-when-you-smiled-and-turned-away/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af35d925b5e04c971470712/master/pass/The%20Cat",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "More than 30 years after forming, the Melbourne indie-pop greats issue their full-length debut: a pristine collection that adds newfound wisdom and clarity to their intimate sound.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "David Glickman"
         }
       ]
     },
@@ -1552,10 +1552,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 601,
+      "ms": 514,
       "error": null,
-      "fetchedAt": "2026-11-19T19:59:34.588Z",
-      "lastOkAt": "2026-11-19T19:59:34.588Z",
+      "fetchedAt": "2026-11-20T05:53:48.556Z",
+      "lastOkAt": "2026-11-20T05:53:48.556Z",
       "itemCount": 40,
       "items": [
         {
@@ -2210,12 +2210,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 299,
+      "ms": 254,
       "error": null,
-      "fetchedAt": "2026-11-19T19:59:34.588Z",
-      "lastOkAt": "2026-11-19T19:59:34.588Z",
+      "fetchedAt": "2026-11-20T05:53:48.556Z",
+      "lastOkAt": "2026-11-20T05:53:48.556Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Ecco2k - Echo ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=q5Muse2Oyso",
+          "imageUrl": "https://i2.ytimg.com/vi/q5Muse2Oyso/hqdefault.jpg",
+          "embedId": "q5Muse2Oyso",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Listen: https://ecco2k.bandcamp.com/album/echo Echo is sadly an underwhelming follow-up to E. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: LOVELESS ANIMAL LAWLESS CRIMINAL, ENCORE LEAST FAV TRACK: SWIMMING IN FOUNTAINS ECCO2K - ECHO / 2026 / 9TH. / INDIETRONIC, ART POP, POST-INDUSTRIAL 4/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "EGREGIOUS GRAMMY SNUBS 😔",
           "link": "https://www.youtube.com/shorts/9R2ZsRz6VyE",
@@ -2369,38 +2380,11 @@
           "description": "#music",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "PISS - you made me / skin on linen ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=nAxDHd-r3YQ",
-          "imageUrl": "https://i3.ytimg.com/vi/nAxDHd-r3YQ/hqdefault.jpg",
-          "embedId": "nAxDHd-r3YQ",
-          "audioSrc": "",
-          "pubDate": "2026-11-04",
-          "description": "Listen: https://pisstheband.bandcamp.com/album/you-made-me-skin-on-linen One of the best debuts not only of the year, but this decade. More hardcore reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: I WANTED TO BE A SINGER, TIME LOOP AT HOT SLIT, A LITTLE GIRL'S HORSE CRAZE BETRAYS HER, THERE WAS A DOOR, HOW CAN YOU ACT OPPOSITE TO THIS EMOTION?, BLOCKING A SCENE YOU CAN'T REMEMBER, ROTE ZORA. \"RESISTANCE IS POSSIBLE.\" EMMA NO. 6 JUNE 1984 PP. 39-41. PISS - YOU MADE ME / SKIN ON LINEN \\ 2026 \\ SUB POP \\ NOISECORE, POST-ROCK, SPOKEN WORD, SOUND COLLAGE 9/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/": {
-      "artist": "Sufjan Stevens",
-      "album": "Worst Christmas Ever!"
-    },
-    "https://pitchfork.com/reviews/albums/shygirl-swallow/": {
-      "artist": "Shygirl",
-      "album": "SWALLOW!"
-    },
-    "https://pitchfork.com/reviews/albums/daine/in-endless-awe-and-agony/": {
-      "artist": "daine",
-      "album": "In Endless Awe & Agony"
-    },
-    "https://pitchfork.com/reviews/albums/the-cats-miaow-when-you-smiled-and-turned-away/": {
-      "artist": "The Cat’s Miaow",
-      "album": "When You Smiled and Turned Away"
-    },
     "https://pitchfork.com/reviews/albums/dawuna-loves-arp/": {
       "artist": "Dawuna",
       "album": "Love’s Arp"
@@ -2504,6 +2488,22 @@
     "https://pitchfork.com/reviews/albums/ecco2k-echo/": {
       "artist": "Ecco2k",
       "album": "Echo"
+    },
+    "https://pitchfork.com/reviews/albums/nickolas-mohanna-whistler/": {
+      "artist": "Nickolas Mohanna",
+      "album": "Whistler"
+    },
+    "https://pitchfork.com/reviews/albums/kim-deal-live-at-the-barbican/": {
+      "artist": "Kim Deal",
+      "album": "Live at the Barbican"
+    },
+    "https://pitchfork.com/reviews/albums/rois-mo-lean/": {
+      "artist": "RÓIS",
+      "album": "MO LÉAN"
+    },
+    "https://pitchfork.com/reviews/albums/donato-dozzy-astro/": {
+      "artist": "Donato Dozzy",
+      "album": "Astro"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-20T05:53:48.556Z",
+    "updatedAt": "2026-11-20T19:38:52.083Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 565,
+      "ms": 736,
       "error": null,
-      "fetchedAt": "2026-11-20T05:53:48.556Z",
-      "lastOkAt": "2026-11-20T05:53:48.556Z",
+      "fetchedAt": "2026-11-20T19:38:52.083Z",
+      "lastOkAt": "2026-11-20T19:38:52.083Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,95 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 590,
+      "ms": 649,
       "error": null,
-      "fetchedAt": "2026-11-20T05:53:48.556Z",
-      "lastOkAt": "2026-11-20T05:53:48.556Z",
+      "fetchedAt": "2026-11-20T19:38:52.083Z",
+      "lastOkAt": "2026-11-20T19:38:52.083Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "The The Unveil Live Album, ‘The Ensouled Tour – Live At The Sydney Opera House’",
+          "link": "https://thequietus.com/news/the-the-unveil-live-album-the-ensouled-tour-live-at-the-sydney-opera-house/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-20-at-16.05.43-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "The new release centres around the group's November 2024 concerts at the Sydney Opera House Christie Goodwin The The are releasing a live album, The Ensouled Tour – Live At The Sydney Opera House. The full-length concert recording includes 27 songs arranged in 2 sets, and was captured during the group's November 2024 concerts at the Sydney Opera House. It will be made available in a triple-vinyl edition, as well as in a crystal-clear triple-vinyl limited edition version. There will also be a double CD mediabook, and the full-length film will be released on both DVD and Blu-ray too. The new live album follows on from the 2021 release of The Comeback Special – Live At The Royal Albert Hall. Watch video from The The's... The post The The Unveil Live Album, ‘The Ensouled Tour – Live At The Sydney Opera House’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "The The"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "SQUARE Festival Adds Nadeem Din-Gabisi and More to 2027 Lineup",
+          "link": "https://thequietus.com/news/square-festival-adds-nadeem-din-gabisi-and-more-to-2027-lineup/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-20-at-15.58.53-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "The Portuguese event returns for its third edition in January Nadeem Din-Gabis SQUARE festival has added a second wave of acts to the lineup for its third edition, taking place in January. Returning to its main base of Braga, the Portuguese event will newly take in performances from UK rapper Nadeem Din-Gabisi; Mozambican multi-instrumentalist Cheny Wa Gune; Cape Verde's Leydy Indira; and Unganisha, the duo of Kenyan singer and orutu player Labdi Ommes andNorwegian electronic musician Bernt Isak Wærstad. The latest announcement also includes Dutch bubbling house pioneer and Nyege Nyege Tapes affiliate Shaun D; Mexican singer, songwriter and multi-instrumentalist La Bruja de Texcoco; and New York guitar pop band Diary; among others. SQUARE previously announced performances from Anna Vis, Helviofox, Carme López, CHISARA and... The post SQUARE Festival Adds Nadeem Din-Gabisi and More to 2027 Lineup appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Nadeem Din-Gabisi",
+            "SQUARE"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Church Of Sounds Launches Label, Releases Compilation Featuring Recording of Final Tony Allen Performance",
+          "link": "https://thequietus.com/news/church-of-sounds-launches-label-releases-compilation-featuring-recording-of-final-tony-allen-performance/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Tony-Allen.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "Clapton Hymns, Vol. 1 collects 12 live performance recordings captured at the London event series Photo by Joe Hart Church Of Sounds has launched a record label, and its first release is a compilation made up of live performance recordings captured at the London event series. Taking in 12 tracks, Clapton Hymns, Vol. 1 features recordings by Tortoise's Jeff Parker, Moses Boyd's Exodus and Collocutor, among others. Perhaps the standout, though, is a performance by Tony Allen of 'Never (Lagos Never Gonna Be The Same)', which was captured during the legendary Nigerian artist's final live show just 48 days before his death. Church Of Sound was founded in 2016 by Lex Blondin and Spencer Martin. Focusing largely on jazz and other related sounds, its... The post Church Of Sounds Launches Label, Releases Compilation Featuring Recording of Final Tony Allen Performance appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Church Of Sounds",
+            "Tony Allen"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Reissue of the Week: Hi Scores by Boards of Canada",
+          "link": "https://thequietus.com/quietus-reviews/reissue-of-the-week/boards-of-canada-hi-scores-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/WARPDA367_Packshot_3000-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "BOC’s Hi Scores was the original portal opening up to give us an early glimpse of future possibilities says Gerry Valle Hi Scores by Boards of Canada Like many, I fell in love with Boards of Canada when I first listened to 1998’s Music Has The Right To Children. Even friends who weren’t necessarily into electronica were taken by its surreal cover, its psychedelic wanderings. The haunting synth melodies, processed vocal samples and polite beats felt like the soundtrack to a lost 1970’s science and nature TV program. Dazed and enthralled, I scoured record stores, looking high and low for anything more from this band. Who were they? Did they land on Earth, release one album and then return to their plane of... The post Reissue of the Week: Hi Scores by Boards of Canada appeared first on The Quietus .",
+          "categories": [
+            "Reissue of the Week"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Energy Flowing, Energy Growing: Martin Gore & Cliff Damavandi Interviewed",
+          "link": "https://thequietus.com/interviews/martin-gore-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Martin-Gore-x-Cliff-Damavandi_MGxCD_byTravisShinn_1_1901-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "Our man in San Francisco Ned Raggett hears about joint single 'Cross Whisper', birds as harbinger of the beyond and the problem of long patch cables... Portraits by Travis Shinn Cross Whisper by MG x CD + JL = Martin Gore's experience across nearly half a century of music making, whether in or out of Depeche Mode, covers a lot of ground. But even he didn't guess that his latest release, 'Cross Whisper', a collaborative single with lyricist Cliff Damavandi, would get past a creative roadblock courtesy of Johnnie Lee – his 10-year-old daughter – and her primary school timetable. \"I called Cliff over and said, 'Look, have a listen. I don't think it's really working,'\" Gore says on a joint Zoom call... The post Energy Flowing, Energy Growing: Martin Gore & Cliff Damavandi Interviewed appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Lottie Brazier – On Course But No-One There To Salute You",
+          "link": "https://thequietus.com/quietus-reviews/lottie-brazier-on-course-but-no-one-there-to-salute-you-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/lottie-on-course.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-20",
+          "description": "Lottie Brazier On Course But No-One There To Salute You Partly recorded at the studios of 4AD, the debut album from the Suffolk songwriter is less sunburst and snowblind than wind-battered and rain-sodden On Course but No-one There to Salute You by Lottie Brazier There’s an atmospheric, weather-beaten quality to Lottie Brazier’s On Course But No-One There To Salute You, a debut album that dons a rain mac and steps out gingerly to face the elements. Arriving as it does as the autumn falls away, it feels somehow seasonally appropriate like a new winter coat, making it all the more melancholic and evocative when the clouds are replete with blackness and the rain can be heard tapping away at the roof. That’s certainly true... The post Lottie Brazier – On Course But No-One There To Salute You appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Belle And Sebastian Unveil ‘If You’re Feeling Sinister’ Reissue",
           "link": "https://thequietus.com/news/belle-and-sebastian-unveil-if-youre-feeling-sinister-reissue/",
@@ -542,88 +625,6 @@
             "ELUCID"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Coachella Reveals 2027 Lineup",
-          "link": "https://thequietus.com/news/coachella-reveals-2027-lineup/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Coachella-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "Madonna, SZA and Giorgio Moroder are among the artists playing next year's festival in California Coachella has revealed its full 2027 lineup. The California festival will be headlined by SZA, Dua Lipa and Tame Impala, while Madonna is also listed to play a special set in the Sahara dance music tent, following a 2006 appearance she did there after putting out her album Confessions On A Dance Floor. Next year's set will come after the release this past summer of that album's sequel. Also listed to play Coachella are Giorgio Moroder, Underworld, Four Tet, Weezer, Kelela, Shygirl, Steve Lacy, Social Distortion, Boy Harsher, underscores and Chanel Beads, among many others. Justice are scheduled to debut a new project titled Blinded By The Lights... The post Coachella Reveals 2027 Lineup appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Coachella",
-            "Giorgio Moroder",
-            "Madonna",
-            "SZA"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "It Never Went Away: Radie Peat’s Favourite Albums",
-          "link": "https://thequietus.com/interviews/bakers-dozen/radie-peat-lankum-oxn-interview-favourite-albums/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Radie-Peat-Credit-Dave-Smith--700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "On the verge of her debut solo album, Radie Peat of Lankum and ØXN presents 13 records that have held sway over her life and work, from Nico to Beak > Photo by Dave Smith Radie Peat is rightly known as a generational talent in traditional folk music. With all-conquering Lankum and doomy supergroup ØXN (with Katie Kim, Eleanor Myler and John 'Spud' Murphy) she has proved herself as dazzling an instrumentalist (playing concertina, accordion, harmonium, tin whistle and much more) as she is a singer; her voice never fails to imbue her material with an elemental power. Peat's masterful debut solo album No Human Tongue Can Tell, centred on songs united by themes of female struggle and endurance, only furthers that status.... The post It Never Went Away: Radie Peat’s Favourite Albums appeared first on The Quietus .",
-          "categories": [
-            "Baker's Dozen"
-          ],
-          "author": "Patrick Clarke"
-        },
-        {
-          "title": "Coil – Gold is the Metal (with the Broadest Shoulders)",
-          "link": "https://thequietus.com/quietus-reviews/coil/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/coil-gold-is-the-metal.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "Coil Gold is the Metal (with the Broadest Shoulders) Assembled from the discarded off-cuts from Horse Rotorvator and the group's unused Hellraiser score, Coil's third album proves far more than the sum of its parts Gold Is The Metal (With The Broadest Shoulders) by Coil Alchemy. The protoscientific transmutation of base materials into “noble metals” such as gold is a well documented theory more closely aligned with philosophical and spiritual traditions than tangible science. In Alejandro Jodorowsky’s cult work of psychedelic cinema, The Holy Mountain, the protagonist defecates in a bell jar and inhales the rotting fumes in a bid to turn himself into gold. For Coil’s third album, Peter ‘Sleazy’ Christopherson and Geoff Rushton (AKA John Balance), joined by Stephen Thrower, scratched around on... The post Coil – Gold is the Metal (with the Broadest Shoulders) appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Far Beyond & Non-Existent: Wipers’ Youth Of America Revisited",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/wipers-youth-of-america-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-11-at-07.45.44-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "Wipers would have been huge if they hadn't asked so many questions. John Calvert writes about an essential punk album from 45 years ago On Portland Punk Live At The Earth 10-29-79, a live-on-the-night document of local bands released warts'n'all by Wipers' Greg Sage on his own label, Trap, Sage can be heard introducing his band's 'Same Old Thing'. Overwrought with stage adrenaline and demonstrating the compassion and obsessive conviction that made him a hero to the bullshit-intolerant, the frontman blurts out: “This is about the far beyond and the non-existent and all that and in between, because I don't really know about it but I'm gonna try to explain it...\" In Sage's outburst is contained everything that was the Portlandians'... The post Far Beyond & Non-Existent: Wipers’ Youth Of America Revisited appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "More Eaze – Valley and Structure",
-          "link": "https://thequietus.com/quietus-reviews/more-eaze-valley-and-structure-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/more-eaze-valley-and.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "More Eaze Valley and Structure The latest from Mari Rubio builds complex scaffolding from the simplest of motifs valley and structure by more eaze Over the last few years, I’ve seen More Eaze (aka Mari Rubio) twice. At Rewire in 2022, she performed as -----__, a digital, detail-laden project created in collaboration with Seth Graham. Three years later, at the Supersonic Festival, I saw her with Water Damage. They played a single suite lasting almost fifty minutes. Rubio contributed long, bourdon violin parts, whilst the whole band stubbornly stuck to a motif that might just as easily have lasted ten minutes or several hours. Not much seemed to be happening, but the music kept shifting: the proportions, tension and weight of the sound changed,... The post More Eaze – Valley and Structure appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "International Feel: Highlights from Le Guess Who? 2026",
-          "link": "https://thequietus.com/quietus-reviews/live-reviews/international-feel-highlights-from-le-guess-who-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Bethlehem-by-Maarten-Mooijman-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-10",
-          "description": "Celebrating its 20th year, with a lineup focussed on bypassing arbitrary boundaries, Utrecht's flagship experimental festival forces even the most eclectic listener to go beyond, says Patrick Clarke Bethlehem's Lawrence Sammour, photo by Maarten Mooijman We start Le Guess Who? 2026 with Tortoise, who draw an enormous crowd in the cavernous Ronda space within Utrecht’s TivoliVredenburg complex. They offer a masterful display of how the subtlest shifts can produce the biggest effects, a tiny buzz of synth blooming slowly into something majestic and warm; a small nudge of bass snowballing until it’s an avalanche. Then, a trek up several flights of stairs to the much smaller Pandora, passing More Eaze as they soundcheck in a foyer, where the immensely charismatic Manaus-born musician... The post International Feel: Highlights from Le Guess Who? 2026 appeared first on The Quietus .",
-          "categories": [
-            "Live Reviews"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -1141,10 +1142,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 163,
+      "ms": 233,
       "error": null,
-      "fetchedAt": "2026-11-20T05:53:48.556Z",
-      "lastOkAt": "2026-11-20T05:53:48.556Z",
+      "fetchedAt": "2026-11-20T19:38:52.083Z",
+      "lastOkAt": "2026-11-20T19:38:52.083Z",
       "itemCount": 30,
       "items": [
         {
@@ -1552,10 +1553,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 514,
+      "ms": 565,
       "error": null,
-      "fetchedAt": "2026-11-20T05:53:48.556Z",
-      "lastOkAt": "2026-11-20T05:53:48.556Z",
+      "fetchedAt": "2026-11-20T19:38:52.083Z",
+      "lastOkAt": "2026-11-20T19:38:52.083Z",
       "itemCount": 40,
       "items": [
         {
@@ -2210,10 +2211,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 254,
+      "ms": 524,
       "error": null,
-      "fetchedAt": "2026-11-20T05:53:48.556Z",
-      "lastOkAt": "2026-11-20T05:53:48.556Z",
+      "fetchedAt": "2026-11-20T19:38:52.083Z",
+      "lastOkAt": "2026-11-20T19:38:52.083Z",
       "itemCount": 15,
       "items": [
         {

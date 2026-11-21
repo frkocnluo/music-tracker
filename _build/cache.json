@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-20T19:38:52.083Z",
+    "updatedAt": "2026-11-21T05:48:13.976Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 736,
+      "ms": 495,
       "error": null,
-      "fetchedAt": "2026-11-20T19:38:52.083Z",
-      "lastOkAt": "2026-11-20T19:38:52.083Z",
+      "fetchedAt": "2026-11-21T05:48:13.976Z",
+      "lastOkAt": "2026-11-21T05:48:13.976Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 649,
+      "ms": 499,
       "error": null,
-      "fetchedAt": "2026-11-20T19:38:52.083Z",
-      "lastOkAt": "2026-11-20T19:38:52.083Z",
+      "fetchedAt": "2026-11-21T05:48:13.976Z",
+      "lastOkAt": "2026-11-21T05:48:13.976Z",
       "itemCount": 32,
       "items": [
         {
@@ -1142,12 +1142,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 233,
+      "ms": 115,
       "error": null,
-      "fetchedAt": "2026-11-20T19:38:52.083Z",
-      "lastOkAt": "2026-11-20T19:38:52.083Z",
+      "fetchedAt": "2026-11-21T05:48:13.976Z",
+      "lastOkAt": "2026-11-21T05:48:13.976Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Reveal (25th Anniversary Edition)",
+          "link": "https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aff6684624692a5bce87452/master/pass/R.E.M.%20Reveal%20(25th%20Anniversary%20Edition).jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-21",
+          "description": "The rock band’s sunny synth-pop pivot remains an undersung gem. On a new reissue, it also feels like a touchstone for the sound of indie-pop in the 21st century.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Will Hermes"
+        },
         {
           "title": "Live at the Barbican",
           "link": "https://pitchfork.com/reviews/albums/kim-deal-live-at-the-barbican/",
@@ -1524,19 +1537,6 @@
             "Reviews / Albums"
           ],
           "author": "Alex Robert Ross"
-        },
-        {
-          "title": "Rapid Response EP",
-          "link": "https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af4c3dceb628381272f78c9/master/pass/Sun%20Araw%20Rapid%20Response%20EP.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-12",
-          "description": "A heady new 12\" from the psychedelic artist continues his career-long journey into the dark outer reaches of new age.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Daniel Bromfield"
         }
       ]
     },
@@ -1553,10 +1553,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 565,
+      "ms": 692,
       "error": null,
-      "fetchedAt": "2026-11-20T19:38:52.083Z",
-      "lastOkAt": "2026-11-20T19:38:52.083Z",
+      "fetchedAt": "2026-11-21T05:48:13.976Z",
+      "lastOkAt": "2026-11-21T05:48:13.976Z",
       "itemCount": 40,
       "items": [
         {
@@ -2211,10 +2211,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 524,
+      "ms": 201,
       "error": null,
-      "fetchedAt": "2026-11-20T19:38:52.083Z",
-      "lastOkAt": "2026-11-20T19:38:52.083Z",
+      "fetchedAt": "2026-11-21T05:48:13.976Z",
+      "lastOkAt": "2026-11-21T05:48:13.976Z",
       "itemCount": 15,
       "items": [
         {
@@ -2394,10 +2394,6 @@
       "artist": "2hollis",
       "album": "Pirouette"
     },
-    "https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/": {
-      "artist": "Sun Araw",
-      "album": "Rapid Response EP"
-    },
     "https://pitchfork.com/reviews/albums/grumpy-unfindable-ring/": {
       "artist": "Grumpy",
       "album": "Unfindable Ring"
@@ -2505,6 +2501,10 @@
     "https://pitchfork.com/reviews/albums/donato-dozzy-astro/": {
       "artist": "Donato Dozzy",
       "album": "Astro"
+    },
+    "https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/": {
+      "artist": "R.E.M.",
+      "album": "Reveal (25th Anniversary Edition)"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-21T05:48:13.976Z",
+    "updatedAt": "2026-11-21T18:44:31.679Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 495,
+      "ms": 812,
       "error": null,
-      "fetchedAt": "2026-11-21T05:48:13.976Z",
-      "lastOkAt": "2026-11-21T05:48:13.976Z",
+      "fetchedAt": "2026-11-21T18:44:31.679Z",
+      "lastOkAt": "2026-11-21T18:44:31.679Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 499,
+      "ms": 691,
       "error": null,
-      "fetchedAt": "2026-11-21T05:48:13.976Z",
-      "lastOkAt": "2026-11-21T05:48:13.976Z",
+      "fetchedAt": "2026-11-21T18:44:31.679Z",
+      "lastOkAt": "2026-11-21T18:44:31.679Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Catch of the Day: Boats, Brexit and the Politics of Fish & Chips",
+          "link": "https://thequietus.com/culture/books/catch-of-the-day-boats-brexit-and-the-politics-of-fish-chips-lewis-bassett-the-full-english-extract/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Fish_and_chips-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-21",
+          "description": "In an exclusive extract from his new book, The Full English: The Ways We Eat and Why, chef and sociologist Lewis Bassett looks at how a dish of 'French' style potatoes (actually Belgian) and imported haddock became a potent symbol of the British nation Photo: Andrew Dunn. Creative Commons Attribution-Share Alike 2.0 I met Graham Doswell in Eastbourne about a month before setting sail on the St George. I’m waiting for Graham at the train station when he messages to say he’s outside in a white pickup. This, as it turns out, is not the statement vehicle it is in London but a practical truck with room for a pallet of fish in the back. When I hop in, Graham, who is... The post Catch of the Day: Boats, Brexit and the Politics of Fish & Chips appeared first on The Quietus .",
+          "categories": [
+            "Books"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "A Departure: Joni Mitchell’s Hejira at 50",
+          "link": "https://thequietus.com/opinion-and-essays/anniversary/joni-mitchell-hejira-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Hejira_5b996717_thumbnail_4096-700x700.webp",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-21",
+          "description": "Kat Lister looks at a radical shift in the 'open road' narrative as exemplified in Joni Mitchell's relatively overlooked eighth album In October of this year, a 17-person expedition voyaged 2,500 miles from the coastline of Papua New Guinea, to a remote Pacific lagoon, looking for Amelia Earhart’s lost aircraft. Satellite images some six years earlier had shown what was believed to be a submerged object with a metallic glint in shallow water. And the glint suggested something to the expedition’s leader, Richard Pettigrew, even if that “something” turned out to be illusory. Which it did. \"You know, Amelia herself said, 'Adventure is worthwhile in itself',” he mused with reporters upon his return – after a week in which the... The post A Departure: Joni Mitchell’s Hejira at 50 appeared first on The Quietus .",
+          "categories": [
+            "Anniversary"
+          ],
+          "author": "John Doran"
+        },
         {
           "title": "The The Unveil Live Album, ‘The Ensouled Tour – Live At The Sydney Opera House’",
           "link": "https://thequietus.com/news/the-the-unveil-live-album-the-ensouled-tour-live-at-the-sydney-opera-house/",
@@ -593,38 +619,6 @@
             "Album of the Week"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "Tehran Contemporary Sounds Festival Takes Place in Berlin",
-          "link": "https://thequietus.com/news/tehran-contemporary-sounds-festival-takes-place-in-berlin/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Abdullah-Miniawy-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "The latest edition of the event takes in performances from Abdullah Miniawy, Gnäw and more Abdullah Miniawy Tehran Contemporary Sounds Festival is taking place in Berlin this week. Stretching out across six days, the seventh edition of the event brings together live performances, film screenings, talks and audiovisual presentations. The programming, which largely celebrates work by the Iranian diaspora, is spread across Berlin's Silent Green Kulturquartier venue, while film screenings are taking place at Moviemento Kino. The bulk of the music programming appears across this week, from 13 to 15 November. It will feature performances from Abdullah Miniawy, Gnäw, Ava Rasti and the duo Tehran, among others. Check out the full schedule of events here. Tehran Contemporary Sounds Festival takes place from 10 to... The post Tehran Contemporary Sounds Festival Takes Place in Berlin appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Abdullah Miniawy",
-            "Gnäw",
-            "Tehran Contemporary Sounds Festival"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Armand Hammer Surprise Release New Album, ‘Snakes & Ladders’",
-          "link": "https://thequietus.com/news/armand-hammer-surprise-release-new-album-snakes-ladders/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/unnamed-1-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-11",
-          "description": "It features guest appearances from DJ Haram and $ilkmoney Armand Hammer, the duo of billy woods and ELUCID, have released a surprise new album, Snakes & Ladders. Featuring 16 tracks, it follows on from last year's Mercy LP, and features guest appearances from DJ Haram and $ilkmoney. There is also production from clipping., and frequent collaborators such as Kenny Segal, Preservation, Child Actor and Sebb Bash. The album was written and recorded by Armand Hammer and their collaborators in the winter of 2025 into 2026. Its release comes as the duo round off their tour of North America this week, with the final show scheduled for Sunday (15 November) at New York's Music Hall of Williamsburg. Listen to Snakes & Ladders below. Snakes & Ladders... The post Armand Hammer Surprise Release New Album, ‘Snakes & Ladders’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Armand Hammer",
-            "billy woods",
-            "ELUCID"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1142,10 +1136,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 115,
+      "ms": 206,
       "error": null,
-      "fetchedAt": "2026-11-21T05:48:13.976Z",
-      "lastOkAt": "2026-11-21T05:48:13.976Z",
+      "fetchedAt": "2026-11-21T18:44:31.679Z",
+      "lastOkAt": "2026-11-21T18:44:31.679Z",
       "itemCount": 30,
       "items": [
         {
@@ -1553,10 +1547,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 692,
+      "ms": 791,
       "error": null,
-      "fetchedAt": "2026-11-21T05:48:13.976Z",
-      "lastOkAt": "2026-11-21T05:48:13.976Z",
+      "fetchedAt": "2026-11-21T18:44:31.679Z",
+      "lastOkAt": "2026-11-21T18:44:31.679Z",
       "itemCount": 40,
       "items": [
         {
@@ -2211,10 +2205,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 201,
+      "ms": 319,
       "error": null,
-      "fetchedAt": "2026-11-21T05:48:13.976Z",
-      "lastOkAt": "2026-11-21T05:48:13.976Z",
+      "fetchedAt": "2026-11-21T18:44:31.679Z",
+      "lastOkAt": "2026-11-21T18:44:31.679Z",
       "itemCount": 15,
       "items": [
         {

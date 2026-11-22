@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-22T05:20:04.178Z",
+    "updatedAt": "2026-11-22T19:05:41.054Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 974,
+      "ms": 624,
       "error": null,
-      "fetchedAt": "2026-11-22T05:20:04.178Z",
-      "lastOkAt": "2026-11-22T05:20:04.178Z",
+      "fetchedAt": "2026-11-22T19:05:41.054Z",
+      "lastOkAt": "2026-11-22T19:05:41.054Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 625,
+      "ms": 515,
       "error": null,
-      "fetchedAt": "2026-11-22T05:20:04.178Z",
-      "lastOkAt": "2026-11-22T05:20:04.178Z",
+      "fetchedAt": "2026-11-22T19:05:41.054Z",
+      "lastOkAt": "2026-11-22T19:05:41.054Z",
       "itemCount": 32,
       "items": [
         {
@@ -1136,10 +1136,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 136,
+      "ms": 208,
       "error": null,
-      "fetchedAt": "2026-11-22T05:20:04.178Z",
-      "lastOkAt": "2026-11-22T05:20:04.178Z",
+      "fetchedAt": "2026-11-22T19:05:41.054Z",
+      "lastOkAt": "2026-11-22T19:05:41.054Z",
       "itemCount": 30,
       "items": [
         {
@@ -1547,10 +1547,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 332,
+      "ms": 633,
       "error": null,
-      "fetchedAt": "2026-11-22T05:20:04.178Z",
-      "lastOkAt": "2026-11-22T05:20:04.178Z",
+      "fetchedAt": "2026-11-22T19:05:41.054Z",
+      "lastOkAt": "2026-11-22T19:05:41.054Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,10 +2205,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 179,
+      "ms": 251,
       "error": null,
-      "fetchedAt": "2026-11-22T05:20:04.178Z",
-      "lastOkAt": "2026-11-22T05:20:04.178Z",
+      "fetchedAt": "2026-11-22T19:05:41.054Z",
+      "lastOkAt": "2026-11-22T19:05:41.054Z",
       "itemCount": 15,
       "items": [
         {

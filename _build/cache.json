@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-22T19:05:41.054Z",
+    "updatedAt": "2026-11-23T05:57:32.325Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 624,
+      "ms": 757,
       "error": null,
-      "fetchedAt": "2026-11-22T19:05:41.054Z",
-      "lastOkAt": "2026-11-22T19:05:41.054Z",
+      "fetchedAt": "2026-11-23T05:57:32.325Z",
+      "lastOkAt": "2026-11-23T05:57:32.325Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,10 +177,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 515,
+      "ms": 638,
       "error": null,
-      "fetchedAt": "2026-11-22T19:05:41.054Z",
-      "lastOkAt": "2026-11-22T19:05:41.054Z",
+      "fetchedAt": "2026-11-23T05:57:32.325Z",
+      "lastOkAt": "2026-11-23T05:57:32.325Z",
       "itemCount": 32,
       "items": [
         {
@@ -1136,12 +1136,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 208,
+      "ms": 318,
       "error": null,
-      "fetchedAt": "2026-11-22T19:05:41.054Z",
-      "lastOkAt": "2026-11-22T19:05:41.054Z",
+      "fetchedAt": "2026-11-23T05:57:32.325Z",
+      "lastOkAt": "2026-11-23T05:57:32.325Z",
       "itemCount": 30,
       "items": [
+        {
+          "title": "Thanatos",
+          "link": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/",
+          "imageUrl": "https://media.pitchfork.com/photos/6aff1bf1a9a6e7302a17fdd2/master/pass/218d258c-b21a-4910-88d1-cdf890c692cd.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "Bradford Cox’s first solo album in 15 years is a haunted, autumnal meditation on all forms of decay: bodily, spiritual, political, and sonic.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Andy Cush"
+        },
+        {
+          "title": "Demoed EP",
+          "link": "https://pitchfork.com/reviews/albums/lambchop-demoed-ep/",
+          "imageUrl": "https://media.pitchfork.com/photos/6ae0b6bc01eb9afa5af3bfda/master/pass/demoed.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "MJ Lenderman, Circuit des Yeux, Flock of Dimes, and more lend their voices to stripped-down versions of songs from this year’s Punching the Clown on a new EP that continues the remarkable transformation of Lambchop.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Philip Sherburne"
+        },
+        {
+          "title": "Khudgarzi",
+          "link": "https://pitchfork.com/reviews/albums/sheherazaad-khudgarzi/",
+          "imageUrl": "https://media.pitchfork.com/photos/6b005ab1e17d93d83598572b/master/pass/Sheherazaad%20-%20Khudgarzi.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "The Brooklyn and Delhi-based singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Vrinda Jagota"
+        },
         {
           "title": "Glitter",
           "link": "https://pitchfork.com/reviews/albums/mariah-carey-glitter/",
@@ -1492,45 +1531,6 @@
             "Reviews / Albums"
           ],
           "author": "Larry Fitzmaurice"
-        },
-        {
-          "title": "Unfindable Ring",
-          "link": "https://pitchfork.com/reviews/albums/grumpy-unfindable-ring/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af5fc02b03647bd524e3bf4/master/pass/Grumpy-Unfindable%20Ring.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-13",
-          "description": "The Brooklyn group prizes playfulness over conformity on its latest album, plumbing country, folk, indie rock, art pop, and more for an album of giddy love songs and existential gender trouble.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Cameron Cook"
-        },
-        {
-          "title": "Carnaval De Luz",
-          "link": "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/",
-          "imageUrl": "https://media.pitchfork.com/photos/6ab55679b4d4f67701eb12f2/master/pass/U2-%20Carnaval%20De%20Luz%20.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-12",
-          "description": "With a sense of appreciation for their own longevity, U2 return with their first new album in nearly a decade to ask: What if rock’n’roll is the friends we made along the way?",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Sam Sodomsky"
-        },
-        {
-          "title": "Pirouette",
-          "link": "https://pitchfork.com/reviews/albums/2hollis-pirouette/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af4c94ec1e733ba34a283c6/master/pass/2hollis%20Pirouette.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-12",
-          "description": "The underground star’s new album sands off the EDM-pop sheen, revealing ragged-edged rave beats full of romantic declarations and kitchen-sink experimentation.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Hattie Lindert"
         }
       ]
     },
@@ -1547,10 +1547,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 633,
+      "ms": 911,
       "error": null,
-      "fetchedAt": "2026-11-22T19:05:41.054Z",
-      "lastOkAt": "2026-11-22T19:05:41.054Z",
+      "fetchedAt": "2026-11-23T05:57:32.325Z",
+      "lastOkAt": "2026-11-23T05:57:32.325Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,10 +2205,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 251,
+      "ms": 518,
       "error": null,
-      "fetchedAt": "2026-11-22T19:05:41.054Z",
-      "lastOkAt": "2026-11-22T19:05:41.054Z",
+      "fetchedAt": "2026-11-23T05:57:32.325Z",
+      "lastOkAt": "2026-11-23T05:57:32.325Z",
       "itemCount": 15,
       "items": [
         {
@@ -2380,14 +2380,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/2hollis-pirouette/": {
-      "artist": "2hollis",
-      "album": "Pirouette"
-    },
-    "https://pitchfork.com/reviews/albums/grumpy-unfindable-ring/": {
-      "artist": "Grumpy",
-      "album": "Unfindable Ring"
-    },
     "https://pitchfork.com/reviews/albums/krill-secret-language/": {
       "artist": "Krill",
       "album": "Secret Language"
@@ -2399,10 +2391,6 @@
     "https://pitchfork.com/reviews/albums/wavves-cherry-soda/": {
       "artist": "Wavves",
       "album": "Cherry Soda"
-    },
-    "https://pitchfork.com/reviews/albums/u2-carnaval-de-luz/": {
-      "artist": "U2",
-      "album": "Carnaval De Luz"
     },
     "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/": {
       "artist": "Hiroshi Yoshimura",
@@ -2499,6 +2487,18 @@
     "https://pitchfork.com/reviews/albums/mariah-carey-glitter/": {
       "artist": "Mariah Carey",
       "album": "Glitter"
+    },
+    "https://pitchfork.com/reviews/albums/sheherazaad-khudgarzi/": {
+      "artist": "Sheherazaad",
+      "album": "Khudgarzi"
+    },
+    "https://pitchfork.com/reviews/albums/lambchop-demoed-ep/": {
+      "artist": "Lambchop",
+      "album": "Demoed EP"
+    },
+    "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/": {
+      "artist": "Atlas Sound",
+      "album": "Thanatos"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-23T05:57:32.325Z",
+    "updatedAt": "2026-11-23T23:26:18.355Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 757,
+      "ms": 609,
       "error": null,
-      "fetchedAt": "2026-11-23T05:57:32.325Z",
-      "lastOkAt": "2026-11-23T05:57:32.325Z",
+      "fetchedAt": "2026-11-23T23:26:18.355Z",
+      "lastOkAt": "2026-11-23T23:26:18.355Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,51 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 638,
+      "ms": 653,
       "error": null,
-      "fetchedAt": "2026-11-23T05:57:32.325Z",
-      "lastOkAt": "2026-11-23T05:57:32.325Z",
+      "fetchedAt": "2026-11-23T23:26:18.355Z",
+      "lastOkAt": "2026-11-23T23:26:18.355Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Nikola Balberčáková on New Album and PAF Olomouc Appearance",
+          "link": "https://thequietus.com/news/nikola-balbercakova-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/FOTO-_-Nikola-Balbercakova-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "Irina Shtreis talks to Nikola Balberčáková about her troubling AV piece r/ForeverAlone and the new work she will present in Olomouc this December Social media narratives may not be the easiest material to work with when creating convincing artwork. It can be hard to sift through layers of superfluous information. Genuine personal stories often get tangled up with attempts at creative writing. Despite potential pitfalls, Prague-based Slovakian artist Nikola Balberčáková delved into online forums in order to produce a critically-acclaimed audiovisual work called r/ForeverAlone. The 2024 project drew inspiration from the eponymous digital community on Reddit. The content on the titular subreddit is shared by users struggling with chronic loneliness and the feeling they are unable to build a romantic relationship. With the... The post Nikola Balberčáková on New Album and PAF Olomouc Appearance appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Guest Playlist: Marina Herlop",
+          "link": "https://thequietus.com/subscriber-area/playlists/guest-playlist-marina-herlop/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/03_DJA_DJA_Promo_Small-700x466.png",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "Having delivered one of the most ambitious records of 2026 with last month's Dja Dja, the Catalan composer presents a 20-track playlist of the influences that fed into it, available exclusively for tQ Subscriber Plus tier members Photo by Silvio Deiaco, Danilo Gambara & Christian Kondić Music journalists love to declare the influences that must have gone into a new album, but often the artists themselves are left baffled by such comparisons. We thought, why not go straight to the source? Marina Herlop is a Catalan composer, vocalist and pianist, whose new album Dja Dja was self-released last month. Taking its structure from the archetypal Hero's Journey, the record took shape over three years, with Herlop using a huge cardboard diagram on her studio floor,... The post Guest Playlist: Marina Herlop appeared first on The Quietus .",
+          "categories": [
+            "Playlists"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Robyn Rocket and People You May of Heard Of – Open Doors to Other People’s Worlds",
+          "link": "https://thequietus.com/quietus-reviews/robyn-rocket-and-people-you-may-of-heard-of-open-doors-to-other-peoples-worlds-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/robyn-rocket-open-doors.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "Robyn Rocket and People You May of Heard Of Open Doors to Other People’s Worlds Featuring guests Seb Rochford, Rozi Plain, Daniel Wakeford and Momoko Gill (among others), Open Doors to Other People’s Worlds is an echo-laden psychedelic epic Open Doors To Other People's worlds by Robyn Rocket and People You May Of Heard Of Open Doors to Other People’s Worlds is a wonderful and refreshing record, full of diverse topics and viewpoints. It is blessed with a radiant wisdom rarely encountered. All the listener has to do is pay attention to songs about death on Mount Everest, swimming with seals, and being tolerant to others. The project was initiated by Heart n Soul member, bandleader, composer, activist and player of the “space trumpet”, Robyn... The post Robyn Rocket and People You May of Heard Of – Open Doors to Other People’s Worlds appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Catch of the Day: Boats, Brexit and the Politics of Fish & Chips",
           "link": "https://thequietus.com/culture/books/catch-of-the-day-boats-brexit-and-the-politics-of-fish-chips-lewis-bassett-the-full-english-extract/",
@@ -580,45 +619,6 @@
             "Thrill Jockey"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Spydergum – Spydergum",
-          "link": "https://thequietus.com/quietus-reviews/spydergum-spydergum-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/spydergum.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-12",
-          "description": "Spydergum Spydergum Featuring Concepción Huerta and Luka Aron among others, this large improvising ensemble contains multitudes Spydergum by Spydergum It is sticky and it penetrates the skin. That tingling feeling is tortuously triggering. Attentive listening is what is calling for Spydergum. This is the way the expansive electroacoustic ensemble mark the year with their most anticipated eponymous debut release. Their first record, a fully improvised body of work, is a testimony to the fact that to co-create means to begin to listen deep. Spydergum is an ecosystem of simultaneously communicating sonic bodies, encompassing an ever-morphing sticky web of diverse voices and instruments. The group is currently constituted by twenty-plus well-established international improvisers, producers and songwriters. Born out of informal gatherings during a one-week residency at... The post Spydergum – Spydergum appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "The Low Culture Podcast: The Walker Brothers’ Nite Flights",
-          "link": "https://thequietus.com/subscriber-area/low-culture-podcast/the-low-culture-podcast-the-walker-brothers-nite-flights/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/nite-flights-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-12",
-          "description": "In this month’s pod, John Doran and Luke Turner listen to a pioneering record in which Scott Walker bade farewell to his brothers in song Make it easy on yourself: brew a fine mahogany-toned cup of tea, fetch a virgin packet of garibaldis from the pantry, nudge the thermostat up another degree centigrade and recline on the cushion-festooned couch… you will have no regrets! This month on The Quietus Low Culture Podcast, John and Luke turn their attention to one of their all-time totemic cultural artefacts – something which has been hiding in plain sight all along – the highly unusual 1978 farewell album from the Walker Brothers, Nite Flights. Luke remembers first getting to grips with this inimitable LP in a... The post The Low Culture Podcast: The Walker Brothers’ Nite Flights appeared first on The Quietus .",
-          "categories": [
-            "Low Culture Podcast"
-          ],
-          "author": "Luke Turner"
-        },
-        {
-          "title": "Paint it Black: Saints in The Wethouse by Blackhaine",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/blackhaine-saints-in-the-wethouse-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Blackhaine_credit-Archie-Finch-copy-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-12",
-          "description": "The \"debut album\" by the Preston-born musician, rapper and choreographer establishes Blackhaine as one of the most confident voices in the new Northern Gothic scene developing around Yorkshire and Lancashire Credit: Archie Finch In the film, The King (2019), we see a stubborn Dauphin of France attempting to end the Battle of Agincourt through a duel with King Henry. Heavy rainfall has left the ground entirely sodden, and before a single blow is dealt, the Dauphin is slipping and sliding around the squelchy ground, falling over and over again. He is tragically defenceless and vulnerable as he performs an unchoreographed, increasingly desperate dance of misery before being swiftly slaughtered and left dead in the mud. This painful scene is soundtracked by Nicolas Britell’s... The post Paint it Black: Saints in The Wethouse by Blackhaine appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -1136,11 +1136,11 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 318,
+      "ms": 181,
       "error": null,
-      "fetchedAt": "2026-11-23T05:57:32.325Z",
-      "lastOkAt": "2026-11-23T05:57:32.325Z",
-      "itemCount": 30,
+      "fetchedAt": "2026-11-23T23:26:18.355Z",
+      "lastOkAt": "2026-11-23T23:26:18.355Z",
+      "itemCount": 29,
       "items": [
         {
           "title": "Thanatos",
@@ -1518,19 +1518,6 @@
             "Reviews / Albums"
           ],
           "author": "Marissa Lorusso"
-        },
-        {
-          "title": "Cherry Soda",
-          "link": "https://pitchfork.com/reviews/albums/wavves-cherry-soda/",
-          "imageUrl": "https://media.pitchfork.com/photos/6aa81ca30d8209284f1f5959/master/pass/Wavves-Cherry-Soda.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-13",
-          "description": "Totally normal new Wavves album, why do you ask?",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Larry Fitzmaurice"
         }
       ]
     },
@@ -1547,10 +1534,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 911,
+      "ms": 511,
       "error": null,
-      "fetchedAt": "2026-11-23T05:57:32.325Z",
-      "lastOkAt": "2026-11-23T05:57:32.325Z",
+      "fetchedAt": "2026-11-23T23:26:18.355Z",
+      "lastOkAt": "2026-11-23T23:26:18.355Z",
       "itemCount": 40,
       "items": [
         {
@@ -2205,12 +2192,34 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 518,
+      "ms": 183,
       "error": null,
-      "fetchedAt": "2026-11-23T05:57:32.325Z",
-      "lastOkAt": "2026-11-23T05:57:32.325Z",
+      "fetchedAt": "2026-11-23T23:26:18.355Z",
+      "lastOkAt": "2026-11-23T23:26:18.355Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Odor Eater - But for Who? ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=EhCtDveJFOg",
+          "imageUrl": "https://i2.ytimg.com/vi/EhCtDveJFOg/hqdefault.jpg",
+          "embedId": "EhCtDveJFOg",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "Listen: https://odoreater.bandcamp.com/album/but-for-who A very fun minimal wave throwback. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BOA CONSTRICTOR, BUT FOR WHO?, NIGHTCALLER, HOTWIRED, PINOCCHIO, ISHMAEL ODOR EATER - BUT FOR WHO? / 2026 / FEEL IT / MINIMAL WAVE, SYNTH PUNK, ZOLO 7/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
+        {
+          "title": "Fall Out Boy, IDK & Eminem, Jane Remover, King Gizzard | Weekly Track Roundup: 11/22/26",
+          "link": "https://www.youtube.com/watch?v=_YCjSjoOCQc",
+          "imageUrl": "https://i4.ytimg.com/vi/_YCjSjoOCQc/hqdefault.jpg",
+          "embedId": "_YCjSjoOCQc",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop austen SHOUTOUT RÓIS - MO LÉAN https://roismusicroismusic.bandcamp.com/album/mo-l-an !!!BEST TRACKS THIS WEEK!!! Machine Girl - Psychofiller https://www.youtube.com/watch?v=kPDCWdqju4E Jessie Ware - Middle of the Night https://www.youtube.com/watch?v=WaT-alr-7HY Jane Remover - Misplace ★ https://www.youtube.com/watch?v=Vzz8YNEEg6o Fall Out Boy - Doomsday Generation (Slacker for the Ages) https://www.youtube.com/watch?v=KcAiT134_Es King Gizzard & the Lizard Wizard - Rogue Wave https://www.youtube.com/watch?v=PQtgQTH1JXw Ethel Cain & Robin Carolan - Wynter Waxeth https://www.youtube.com/watch?v=aVUS9O9HOpM Julien Baker - Hound https://www.youtube.com/watch?v=rueZuJ2n2JE Gabriel Jacoby - be alright https://www.youtube.com/watch?v=L4Y-AntRE_w Phoebe Bridgers - Anything (Adrianne Lenker Cover) https://www.youtube.com/watch?v=KMbKCoRhAZ4 Bonobo - Memory Signal https://www.youtube.com/watch?v=efLx7KeGnWA …meh… Touché Amoré - (I Can’t Get out of) My Own Way https://www.youtube.com/watch?v=uvkGWu9fv5c Slauson Malone 1 - IDKW2TU ft. CASHWAN https://www.youtube.com/watch?v=RW6AeerfL2c Panchiko - Day One ft. billy woods & Cotillon https://www.youtube.com/watch?v=EQDMA5Qjf6I beabadoobee - No Punctuation https://www.youtube.com/watch?v=2ItROBO5AQs Racing Mount Pleasant - Great Destroyer https://www.youtube.com/watch?v=894KA2GLy38 Conway the Machine - Sarah! https://www.youtube.com/watch?v=bVl6qk_nvvQ Laufey & Peanuts - Have Yourself a Merry Little Christmas https://www.youtube.com/watch?v=Gxf0DWE5lxc yeule - Lovepill https://www.youtube.com/watch?v=Kh-6gKXQXy8 Fall Out Boy - ACES https://www.youtube.com/watch?v=YNtgQdfvhag IDK, Eminem, J Dilla - WELCOME https://www.youtube.com/watch?v=zT104EktdOc !!!WORST TRACKS THIS WEEK!!! Hozier & Jessie Buckley - Fairytale of New York (The Pogues Cover) https://www.youtube.com/watch?v=jJ-4V2lQ4AY Dirty Projectors - Jumbotron https://www.youtube.com/watch?v=aSwf7IaQPCc =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Ecco2k - Echo ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=q5Muse2Oyso",
@@ -2353,28 +2362,6 @@
           "description": "Listen: https://www.youtube.com/watch?v=gyv7buFhdvk Michael's most beautiful and moving album so far. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: CALIFORNIA, JUST ANOTHER MOMENT, LOVE IN MY HEART, ACROSS THE SKY, STARS, MOVE IN MY DIRECTION, SING LEAST FAV TRACK: YOU SENT ME FLYING MICHAEL KIWANUKA - FUDGE / 2026 / POLYDOR / PROG SOUL, SINGER-SONGWRITER 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "brakence - marroW ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=IHAqnk-D6NY",
-          "imageUrl": "https://i2.ytimg.com/vi/IHAqnk-D6NY/hqdefault.jpg",
-          "embedId": "IHAqnk-D6NY",
-          "audioSrc": "",
-          "pubDate": "2026-11-05",
-          "description": "Listen: https://www.youtube.com/watch?v=adAuew652Dw brakence returns with an even more abrasive album than hypochondriac. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen (i just disagree lol) =================================== BRAKENCE - MARROW / 2026 / COLUMBIA / EXPERIMENTAL R&B, EMO RAP, GLITCH POP 2/10 austen loves the album tho: https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "BEST MUSIC FOR FALL 🍂🍁",
-          "link": "https://www.youtube.com/shorts/084FsEIb0K0",
-          "imageUrl": "https://i1.ytimg.com/vi/084FsEIb0K0/hqdefault.jpg",
-          "embedId": "084FsEIb0K0",
-          "audioSrc": "",
-          "pubDate": "2026-11-04",
-          "description": "#music",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
@@ -2387,10 +2374,6 @@
     "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/": {
       "artist": "Armand Hammer",
       "album": "Snakes & Ladders"
-    },
-    "https://pitchfork.com/reviews/albums/wavves-cherry-soda/": {
-      "artist": "Wavves",
-      "album": "Cherry Soda"
     },
     "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/": {
       "artist": "Hiroshi Yoshimura",

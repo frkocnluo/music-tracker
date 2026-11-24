@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-24T08:37:22.938Z",
+    "updatedAt": "2026-11-24T21:57:36.714Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 760,
+      "ms": 490,
       "error": null,
-      "fetchedAt": "2026-11-24T08:37:22.938Z",
-      "lastOkAt": "2026-11-24T08:37:22.938Z",
+      "fetchedAt": "2026-11-24T21:57:36.714Z",
+      "lastOkAt": "2026-11-24T21:57:36.714Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,73 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 714,
+      "ms": 654,
       "error": null,
-      "fetchedAt": "2026-11-24T08:37:22.938Z",
-      "lastOkAt": "2026-11-24T08:37:22.938Z",
+      "fetchedAt": "2026-11-24T21:57:36.714Z",
+      "lastOkAt": "2026-11-24T21:57:36.714Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Rafael Toral Details New Album, ‘Long Ways’",
+          "link": "https://thequietus.com/news/rafael-toral-details-new-album-long-ways/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/unnamed-3-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-24",
+          "description": "It's out on Drag City in February Photo by Vera Marmelo Rafael Toral will start 2027 with the release of a new album, titled Long Ways. Made up of three extended pieces, the album breaks free from the orchestral arrangements of 2025 album Traveling Light and 2024's Spectral Evolution, according to a press release. It was largely built from a process of improvisation. Commenting on the album, Toral said: \"Long Ways is a development forward from the previous two albums, but condensing everything into playing guitar. It’s all about sound, or better, the stillness of presence. The music itself here is less important than the sound of playing. What I’m after is an abstraction, the sound of music.\" Listen to an excerpt from the album below. Drag... The post Rafael Toral Details New Album, ‘Long Ways’ appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Drag City",
+            "Rafael Toral"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "TIDAL to Delete and Ban Fully AI-Generated Music",
+          "link": "https://thequietus.com/news/tidal-to-delete-and-ban-fully-ai-generated-music/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Tidal-700x382.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-24",
+          "description": "Over the past 90 days, 43% of all tracks distributed to the platform have been detected as wholly AI-generated, the streaming service revealed TIDAL has confirmed plans to delete and ban music that has been fully created using artificial intellignece tools. From 9 December, any wholly AI-generated track will be rejected and removed from the platform, while all songs that have already been uploaded and identified as entirely produced using AI will also be deleted from the streaming service. Announcing the change, TIDAL revealed that 43% of all tracks distributed to the platform have been detected as wholly AI-generated over the last 90 days. These tracks have been labelled as such in order to make listeners aware, and they've also been excluded from... The post TIDAL to Delete and Ban Fully AI-Generated Music appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Artificial Intelligence",
+            "TIDAL"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Supersonic Reveals First Acts Playing 2027 Lineup",
+          "link": "https://thequietus.com/news/supersonic-reveals-first-acts-playing-2027-lineup/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/ShuddertoThink_bySethOlenick_9-990000079e04513c-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-24",
+          "description": "Shudder To Think and La Tène are among those lined up to play the Birmingham event next year Shudder To Think, photo by Seth Olenick Supersonic has shared the first lineup announcement for its 2027 edition next spring. Veteran Washington D.C. punk and post-hardcore band Shudder To Think, who've newly reformed, will head up the lineup, while French-Swiss tQ favourites La Tène are also lined up to play the Birmingham festival. The lineup announcement also takes in experimental black metal group Genital Shame; hardcore duo Iron Lung; noise rock trio Rhododendron; hardcore band Nekra; Rocket Recordings affiliates Pharaoh Overlord; Jerusalem In My Heart's Radwan Ghazi Moumneh performing with French multi-instrumentalist Frédéric D. Oberland; and Thee Silver Mt. Zion's Jessica Moss. Next year's Supersonic will be a... The post Supersonic Reveals First Acts Playing 2027 Lineup appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "La Tène",
+            "Shudder To Think",
+            "Supersonic"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Posthumous D’Angelo Song Released on Grand Theft Auto VI Soundtrack",
+          "link": "https://thequietus.com/news/posthumous-dangelo-song-released-on-grand-theft-auto-vi-soundtrack/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-24-at-15.51.33-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-24",
+          "description": "The late artist approved use of the song in the long-anticipated game before his death last year A previously unreleased song by D'Angelo has been released as a standalone single after it appeared in the soundtrack for the much-anticipated new game Grand Theft Auto VI. 'Kamikazi' features among the list of tracks that can be heard on the Gilles Peterson-hosted Worldwide FM within the game. \"Michael approved this track in its current form in November of 2024 to be released as part of Grand Theft Auto VI,” the late artist's brother, Luther Archer Jr, said in a statement. \"He was a tremendous admirer of Rockstar Games and a past collaborator of theirs. He was enthusiastic (to say the least) to have this... The post Posthumous D’Angelo Song Released on Grand Theft Auto VI Soundtrack appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "D'Angelo",
+            "Grand Theft Auto VI"
+          ],
+          "author": "Christian Eede"
+        },
         {
           "title": "Rockfort! French Music for November, Reviewed by David McKenna",
           "link": "https://thequietus.com/quietus-reviews/quietus-international/best-new-french-music-review-saravah-elizabeth-vogler-omerta-ino-casablanca/",
@@ -203,11 +264,26 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-24",
-          "description": "Philip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn guitarist explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Philip Golub has emerged as a major figure straddling the worlds of jazz, experimental and contemporary practice, in part, by refusing to compartmentalise his various interests within sacrosanct projects. Earlier this year he released Partisan Ship (Berthold), a wild album that reinforced his contributions to an evolving jazz trend incorporating microtonality or different tuning systems, as every track was composed using a different tuning. Yet Golub set those experiments within pithy themes and buoyant grooves,... The post Philip Golub – Loop 8/9 appeared first on The Quietus .",
+          "description": "Philip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn composer explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Philip Golub has emerged as a major figure straddling the worlds of jazz, experimental and contemporary practice, in part, by refusing to compartmentalise his various interests within sacrosanct projects. Earlier this year he released Partisan Ship (Berthold), a wild album that reinforced his contributions to an evolving jazz trend incorporating microtonality or different tuning systems, as every track was composed using a different tuning. Yet Golub set those experiments within pithy themes and buoyant grooves,... The post Philip Golub – Loop 8/9 appeared first on The Quietus .",
           "categories": [
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Overmono Share Five Tracks Made for Grand Theft Auto VI Soundtrack",
+          "link": "https://thequietus.com/news/overmono-share-five-tracks-made-for-grand-theft-auto-vi-soundtrack/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Overmono-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "The UK duo shared score duties with Justice for the much-anticipated game Overmono have shared five original tracks that they made for the widely anticipated new game Grand Theft Auto VI. Last week, it emerged that the UK duo had provided the additional score for the game, with Justice handling the bulk of the original soundtrack. Overmono were behind the pause music composition, which has become an early favourite of those playing the game, while they also made songs for other challenges and parts of the map. The duo's previously released songs 'Even Angels Ghost' and 'Good Lies' also feature on one of the game's radio stations, the PinkPantheress and The Dare-hosted Stockyard FM. Their five songs for the Grand Theft Auto VI... The post Overmono Share Five Tracks Made for Grand Theft Auto VI Soundtrack appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Grand Theft Auto VI",
+            "Overmono"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Nikola Balberčáková on New Album and PAF Olomouc Appearance",
@@ -295,7 +371,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-20",
-          "description": "The Portuguese event returns for its third edition in January Nadeem Din-Gabis SQUARE festival has added a second wave of acts to the lineup for its third edition, taking place in January. Returning to its main base of Braga, the Portuguese event will newly take in performances from UK rapper Nadeem Din-Gabisi; Mozambican multi-instrumentalist Cheny Wa Gune; Cape Verde's Leydy Indira; and Unganisha, the duo of Kenyan singer and orutu player Labdi Ommes andNorwegian electronic musician Bernt Isak Wærstad. The latest announcement also includes Dutch bubbling house pioneer and Nyege Nyege Tapes affiliate Shaun D; Mexican singer, songwriter and multi-instrumentalist La Bruja de Texcoco; and New York guitar pop band Diary; among others. SQUARE previously announced performances from Anna Vis, Helviofox, Carme López, CHISARA and... The post SQUARE Festival Adds Nadeem Din-Gabisi and More to 2027 Lineup appeared first on The Quietus .",
+          "description": "The Portuguese event returns for its second edition in January Nadeem Din-Gabis SQUARE festival has added a second wave of acts to the lineup for its second edition, taking place in January. Returning to its main base of Braga, the Portuguese event will newly take in performances from UK rapper Nadeem Din-Gabisi; Mozambican multi-instrumentalist Cheny Wa Gune; Cape Verde's Leydy Indira; and Unganisha, the duo of Kenyan singer and orutu player Labdi Ommes andNorwegian electronic musician Bernt Isak Wærstad. The latest announcement also includes Dutch bubbling house pioneer and Nyege Nyege Tapes affiliate Shaun D; Mexican singer, songwriter and multi-instrumentalist La Bruja de Texcoco; and New York guitar pop band Diary; among others. SQUARE previously announced performances from Anna Vis, Helviofox, Carme López, CHISARA and... The post SQUARE Festival Adds Nadeem Din-Gabisi and More to 2027 Lineup appeared first on The Quietus .",
           "categories": [
             "News",
             "Nadeem Din-Gabisi",
@@ -417,19 +493,6 @@
           "author": "John Doran"
         },
         {
-          "title": "Organic Intelligence LXII: C64 Game Soundtracks",
-          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Skate-or-die-image-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "In this month’s antidote to the algorithm, Juliet Jacques explores the playful and experimental soundtracks to games on the popular tape-based home computer I spent my first year at the University of Manchester in halls of residence. They put me in with a group of lads who were really into techno, and drum and bass – a challenge to my sensibilities, as I had a tribal allegiance to punk, post-punk and independent music. During our first weeks together, in September 2000, a single came out that instantly became a massive hit but united my flatmates in disgust: ‘Kernkraft 400’ by Zombie Nation. I immediately recognised the hook – “it’s from a Commodore 64 game”, I told them. “I bet it fucking... The post Organic Intelligence LXII: C64 Game Soundtracks appeared first on The Quietus .",
-          "categories": [
-            "Organic Intelligence"
-          ],
-          "author": "Luke Turner"
-        },
-        {
           "title": "Worlds Apart: Noon by Richard Skelton & Lawrence English",
           "link": "https://thequietus.com/quietus-reviews/album-of-the-week/noon-richard-skelton-lawrence-english-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/IMG_4770-700x466.jpg",
@@ -441,6 +504,19 @@
             "Album of the Week"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Organic Intelligence LXII: C64 Game Soundtracks",
+          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Skate-or-die-image-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "In this month’s antidote to the algorithm, Juliet Jacques explores the playful and experimental soundtracks to games on the popular tape-based home computer I spent my first year at the University of Manchester in halls of residence. They put me in with a group of lads who were really into techno, and drum and bass – a challenge to my sensibilities, as I had a tribal allegiance to punk, post-punk and independent music. During our first weeks together, in September 2000, a single came out that instantly became a massive hit but united my flatmates in disgust: ‘Kernkraft 400’ by Zombie Nation. I immediately recognised the hook – “it’s from a Commodore 64 game”, I told them. “I bet it fucking... The post Organic Intelligence LXII: C64 Game Soundtracks appeared first on The Quietus .",
+          "categories": [
+            "Organic Intelligence"
+          ],
+          "author": "Luke Turner"
         },
         {
           "title": "Maria Teresa Pirrigheddu and Vieri Mura – Rundinas",
@@ -549,74 +625,6 @@
             "Reviews"
           ],
           "author": "Robert Barry"
-        },
-        {
-          "title": "The Arrow Storms of Love & Death: Ken Russell’s The Devils",
-          "link": "https://thequietus.com/culture/film/ken-russell-the-devils/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Ken-Russells-The-Devils_012_16x9_Courtesy-Warner-Bros.-Clockwork-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-16",
-          "description": "Darran Anderson considers a 'masterpiece' and what it tells us about contemporary power, corruption and lies One sign of a true writer is that there is no event so grim that they cannot convert it into material. In the ruthlessly competitive, sometimes deadly environment of Elizabethan theatre, the playwright Thomas Dekker came in for much derision, though he had moments of inspiration. (If he’s remembered today, it’s for inspiring The Beatles’ ‘Golden Slumbers’ on the Abbey Road medley.) When the Black Death revisited London and the playhouses were shut down, Dekker turned his hand to writing plague pamphlets to survive. They remain valuable records of a cursed time, when social order collapsed and the fleeing elites betrayed the capital, “In this... The post The Arrow Storms of Love & Death: Ken Russell’s The Devils appeared first on The Quietus .",
-          "categories": [
-            "Film"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "The Body & Cel Genesis – Whole Wide World",
-          "link": "https://thequietus.com/quietus-reviews/the-body-cel-genesis-whole-wide-world-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-body-whole-wide-world.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-16",
-          "description": "The Body & Cel Genesis Whole Wide World The Body's latest collaborative album pairs the duo with Oakland experimental band Cel Genesis for a record of ethereal production and drum'n'bass tendencies Whole Wide World by The Body & Cel Genesis Part metal, part experimental, Whole Wide World is the collaborative work of sludge/metal duo The Body and hardcore gabber group Cel Genesis. Over the years, The Body have been no stranger to expanding their world with avant-garde collaborations, having released the climactic Ascending a Mountain of Heavy Light with Full of Hell in 2017 and Was I Good Enough? with Intensive Care last year, among others. An album two years in the making, Whole Wide World comes only a year after The Body's last offering... The post The Body & Cel Genesis – Whole Wide World appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "The Sadness of Things: The Life And Art Of Ryuichi Sakamoto",
-          "link": "https://thequietus.com/culture/art/the-sadness-of-things-the-life-and-art-of-ryuichi-sakamoto/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/ryuichi-sakamoto_xl-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-14",
-          "description": "The English publication of Ryuichi Sakamoto's memoir, Music Sets you Free, coincides with an exhition at Hamburger Bahnhof in Berlin. Together, they prove a fitting testament to one of the great musical minds of the twentieth century Portrait of Ryuichi Sakamoto © 2020 KAB Inc. , Photo: Neo Sora Ryuichi Sakamoto’s first memoir, Music Sets You Free, sees four banal words recalling the old John Miles hit from 1976, that cheesy overblown pop tune (you know the one) with its line about music being his first love and last. “Music of the future, music of the past”. Trite for sure, but simultaneously – annoyingly – honest and true. Sakamoto likewise was never afraid of romantic cliché. The book underlines his passions and... The post The Sadness of Things: The Life And Art Of Ryuichi Sakamoto appeared first on The Quietus .",
-          "categories": [
-            "Art"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "UK Cultural Organisations Call on Andy Burnham to Address EU Touring Issues",
-          "link": "https://thequietus.com/news/uk-cultural-organisations-call-on-andy-burnham-to-address-eu-touring-issues/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/EU-Touring-Issues-Live-Performance-Shot-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-13",
-          "description": "Artists have faced visa issues, increased transportation costs and more since the UK's exit from the European Union Over 300 live music and cultural organisations have signed an open letter calling on Prime Minister Andy Burnham to address continued issues that UK artists face when touring countries in the European Union (EU). Artists, performers and other cultural figures have faced \"major barriers\" to touring in the area since the UK left the EU in January 2020, according to the letter. These include issues surrounding visas, and increased costs in transporting instruments and other equipment, as well as various other logistical problems. The letter was put together and submitted to Burnham by the Cultural Exchange Coalition (CEC), a coalition that represents organisations such as UK... The post UK Cultural Organisations Call on Andy Burnham to Address EU Touring Issues appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Cultural Exchange Coalition",
-            "UK government",
-            "UK Music"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "The Strange World of… Suzanne Ciani",
-          "link": "https://thequietus.com/interviews/strange-world-of/suzanne-ciani-best-music/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/RBMA_Montreal_DanWilton_HighRes-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-13",
-          "description": "In her eightieth year, during her first ever trip to Scotland to close Sonica festival in Glasgow, electronic music pioneer Suzanne Ciani looks back on her career with Claire Sawers. Main portrait: Dan Wilton From her early days studying classical composition, to her game-changing friendship with the electronic instrument designer Don Buchla, Suzanne Ciani was always interested in world building. Her ability to create vast, echoing dreamscapes or equally impactful sonic miniatures has gained her huge respect and a broad, multi-generational fanbase; one that didn’t exist at the outset, as the technologies she used were initially only known to a handful. Ciani persevered with her progressive approach through the 1970s and 80s, strategically funding her creative projects with lucrative corporate work, which... The post The Strange World of… Suzanne Ciani appeared first on The Quietus .",
-          "categories": [
-            "Strange World Of..."
-          ],
-          "author": "John Doran"
         }
       ]
     },
@@ -1134,10 +1142,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 180,
+      "ms": 122,
       "error": null,
-      "fetchedAt": "2026-11-24T08:37:22.938Z",
-      "lastOkAt": "2026-11-24T08:37:22.938Z",
+      "fetchedAt": "2026-11-24T21:57:36.714Z",
+      "lastOkAt": "2026-11-24T21:57:36.714Z",
       "itemCount": 29,
       "items": [
         {
@@ -1532,12 +1540,31 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 481,
+      "ms": 346,
       "error": null,
-      "fetchedAt": "2026-11-24T08:37:22.938Z",
-      "lastOkAt": "2026-11-24T08:37:22.938Z",
+      "fetchedAt": "2026-11-24T21:57:36.714Z",
+      "lastOkAt": "2026-11-24T21:57:36.714Z",
       "itemCount": 40,
       "items": [
+        {
+          "title": "Album Of The Week: Star’s Revenge Star’s Revenge II",
+          "link": "https://stereogum.com/2520760/album-of-the-week-stars-revenge-stars-revenge-ii/reviews/album-of-the-week/",
+          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/unnamed-2026-11-23T204142.202.png?w=564",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-24",
+          "description": "The post Album Of The Week: Star’s Revenge <em>Star’s Revenge II</em> appeared first on Stereogum .",
+          "categories": [
+            "Album Of The Week",
+            "Reviews",
+            "Emily Green",
+            "Geese",
+            "Olive Faber",
+            "Star's Revenge",
+            "Sunflower Bean"
+          ],
+          "author": "Chris DeVille"
+        },
         {
           "title": "Album Of The Week: Danz CM The Interdimensional Extraterrestrial Time Travelers Society",
           "link": "https://stereogum.com/2518002/album-of-the-week-danz-cm-the-interdimensional-extraterrestrial-time-travelers-society/reviews/album-of-the-week/",
@@ -2159,21 +2186,6 @@
             "deathcrash"
           ],
           "author": "Abby Jones"
-        },
-        {
-          "title": "Album Of The Week: Mx Lonely All Monsters",
-          "link": "https://stereogum.com/2489529/album-of-the-week-mx-lonely-all-monsters/reviews/album-of-the-week/",
-          "imageUrl": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/02/Mx-Lonely-All-Monsters.jpg?w=564",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-02-18",
-          "description": "The post Album Of The Week: Mx Lonely <em>All Monsters</em> appeared first on Stereogum .",
-          "categories": [
-            "Album Of The Week",
-            "Reviews",
-            "Mx Lonely"
-          ],
-          "author": "Abby Jones"
         }
       ]
     },
@@ -2190,10 +2202,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 268,
+      "ms": 201,
       "error": null,
-      "fetchedAt": "2026-11-24T08:37:22.938Z",
-      "lastOkAt": "2026-11-24T08:37:22.938Z",
+      "fetchedAt": "2026-11-24T21:57:36.714Z",
+      "lastOkAt": "2026-11-24T21:57:36.714Z",
       "itemCount": 15,
       "items": [
         {

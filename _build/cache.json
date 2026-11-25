@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-24T21:57:36.714Z",
+    "updatedAt": "2026-11-25T07:11:59.843Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 490,
+      "ms": 826,
       "error": null,
-      "fetchedAt": "2026-11-24T21:57:36.714Z",
-      "lastOkAt": "2026-11-24T21:57:36.714Z",
+      "fetchedAt": "2026-11-25T07:11:59.843Z",
+      "lastOkAt": "2026-11-25T07:11:59.843Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 654,
+      "ms": 617,
       "error": null,
-      "fetchedAt": "2026-11-24T21:57:36.714Z",
-      "lastOkAt": "2026-11-24T21:57:36.714Z",
+      "fetchedAt": "2026-11-25T07:11:59.843Z",
+      "lastOkAt": "2026-11-25T07:11:59.843Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Wilder Maker – Smoking The Bunny",
+          "link": "https://thequietus.com/quietus-reviews/wilder-maker-smoking-the-bunny-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/wilder-maker-smoking-the-bunny.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-25",
+          "description": "Wilder Maker Smoking The Bunny Partly improvised and partly crooned, the latest from the Brooklyn quartet matches sonic texture to narrative detail Smoking the Bunny by Wilder Maker The last we heard from the reinvigorated Brooklyn outfit Wilder Maker, on their compelling 2025 LP, These Streets Still Warm Like Beds, the Gabe Birnbaum-led quartet left listeners with an unsettling image: “The sea is stronger than the swimmer”. A reminder of how small and vulnerable we can be; the game of life can defeat the player. With that sophisticated turn, Wilder Maker not only reinvented their sound but launched the first chapter in a trilogy of improvisation-based albums following a wayward figure moseying their way through desolate streets and despairing thoughts on mortality. A little over... The post Wilder Maker – Smoking The Bunny appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Rafael Toral Details New Album, ‘Long Ways’",
           "link": "https://thequietus.com/news/rafael-toral-details-new-album-long-ways/",
@@ -493,19 +506,6 @@
           "author": "John Doran"
         },
         {
-          "title": "Worlds Apart: Noon by Richard Skelton & Lawrence English",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/noon-richard-skelton-lawrence-english-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/IMG_4770-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "Two deep listeners, Room 40 records boss English and Lancashire-born composer Skelton, find a still point in the midst of the storm of contemporary history on their new collaborative album credit Richard Skelton & Lawrence English For two people standing on opposite sides of the planet, one’s midday becomes the other’s midnight. This first collaboration between British musician Richard Skelton and Australian composer Lawrence English hinges on the duality of this proposition: Skelton’s name written upside down beneath English’s, both pressed against the album cover’s featureless greyness, while the brightness of the palindrome NOON drowns in the supreme darkness of their music. NOON started gestating during the silence brought on by the Covid pandemic in 2021 and carries within itself a shard of... The post Worlds Apart: Noon by Richard Skelton & Lawrence English appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
-        },
-        {
           "title": "Organic Intelligence LXII: C64 Game Soundtracks",
           "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/Skate-or-die-image-700x466.jpeg",
@@ -517,6 +517,19 @@
             "Organic Intelligence"
           ],
           "author": "Luke Turner"
+        },
+        {
+          "title": "Worlds Apart: Noon by Richard Skelton & Lawrence English",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/noon-richard-skelton-lawrence-english-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/IMG_4770-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "Two deep listeners, Room 40 records boss English and Lancashire-born composer Skelton, find a still point in the midst of the storm of contemporary history on their new collaborative album credit Richard Skelton & Lawrence English For two people standing on opposite sides of the planet, one’s midday becomes the other’s midnight. This first collaboration between British musician Richard Skelton and Australian composer Lawrence English hinges on the duality of this proposition: Skelton’s name written upside down beneath English’s, both pressed against the album cover’s featureless greyness, while the brightness of the palindrome NOON drowns in the supreme darkness of their music. NOON started gestating during the silence brought on by the Covid pandemic in 2021 and carries within itself a shard of... The post Worlds Apart: Noon by Richard Skelton & Lawrence English appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
         },
         {
           "title": "Maria Teresa Pirrigheddu and Vieri Mura – Rundinas",
@@ -612,19 +625,6 @@
             "Rock"
           ],
           "author": "Patrick Clarke"
-        },
-        {
-          "title": "Iceboy Violet – How to Glitch Under The Map",
-          "link": "https://thequietus.com/quietus-reviews/iceboy-violet-how-to-glitch-under-the-map-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/iceboy-how-to-glitch.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-17",
-          "description": "Iceboy Violet How to Glitch Under The Map New album from the Manchester-based producer rides high on raw emotion How To Glitch Under The Map by Iceboy Violet In Jane Schoenbrun’s movies, I Saw The TV Glow and Teenage Sex and Death at Camp Miasma, virtual and real bleed into each other as adults become threaded with their teenage obsessions, in the case of the former a spooky TV series, the latter a horror movie. Artefacts of popular culture become symbiotic with the protagonists’ lives, mirroring who they are, shaping their futures and becoming spaces to understand themselves in and project themselves into. Manchester-based producer and MC Iceboy Violet’s new album How to Glitch Under the Map finds something similar, but in online spaces rather... The post Iceboy Violet – How to Glitch Under The Map appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
         }
       ]
     },
@@ -1142,12 +1142,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 122,
+      "ms": 200,
       "error": null,
-      "fetchedAt": "2026-11-24T21:57:36.714Z",
-      "lastOkAt": "2026-11-24T21:57:36.714Z",
+      "fetchedAt": "2026-11-25T07:11:59.843Z",
+      "lastOkAt": "2026-11-25T07:11:59.843Z",
       "itemCount": 29,
       "items": [
+        {
+          "title": "Collected Rips 2004-2024",
+          "link": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/",
+          "imageUrl": "https://media.pitchfork.com/photos/6b04561aa18d23966dba0f50/master/pass/Weird%20Baile%20-%20Collected%20Rips%202004-2024.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-25",
+          "description": "Colombia’s TraTraTrax label gathers unreleased tracks from a shadowy internet collective that’s been making mischief on the fringes of the Brazilian funk scene for more than two decades.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Amanda Cavalcanti"
+        },
         {
           "title": "Fly 1111",
           "link": "https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/",
@@ -1511,19 +1524,6 @@
             "Reviews / Albums"
           ],
           "author": "Grayson Haver Currin"
-        },
-        {
-          "title": "Quiet Forest",
-          "link": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/master/pass/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-14",
-          "description": "Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Shy Clara Thompson"
         }
       ]
     },
@@ -1540,10 +1540,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 346,
+      "ms": 495,
       "error": null,
-      "fetchedAt": "2026-11-24T21:57:36.714Z",
-      "lastOkAt": "2026-11-24T21:57:36.714Z",
+      "fetchedAt": "2026-11-25T07:11:59.843Z",
+      "lastOkAt": "2026-11-25T07:11:59.843Z",
       "itemCount": 40,
       "items": [
         {
@@ -2202,12 +2202,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 201,
+      "ms": 343,
       "error": null,
-      "fetchedAt": "2026-11-24T21:57:36.714Z",
-      "lastOkAt": "2026-11-24T21:57:36.714Z",
+      "fetchedAt": "2026-11-25T07:11:59.843Z",
+      "lastOkAt": "2026-11-25T07:11:59.843Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Aesop Rock x Blockhead - Trouble Mountain ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=emw8gR_5HPA",
+          "imageUrl": "https://i2.ytimg.com/vi/emw8gR_5HPA/hqdefault.jpg",
+          "embedId": "emw8gR_5HPA",
+          "audioSrc": "",
+          "pubDate": "2026-11-24",
+          "description": "Listen: https://aesoprock.bandcamp.com/album/trouble-mountain One of Aesop Rock's most immediately enjoyable albums. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: COYOTE SUMMER, CHURCH KEY, EASTER, HOUND SELECTOR, TROUBLE TROUBLE, MOM ONE, ONE THING, ANTS, NO INTERVIEWS, EAT AND GROW, EWOK, BUFFERING LEAST FAV TRACK: THE BAG AESOP ROCK & BLOCKHEAD - TROUBLE MOUNTAIN / 2026 / RHYMESAYERS ENTERTAINMENT / ABSTRACT HIP HOP, BOOM BAP 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Odor Eater - But for Who? ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=EhCtDveJFOg",
@@ -2361,26 +2372,11 @@
           "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Meiv - No Future Pt. 1 & 2 ft. Armand Hammer https://www.youtube.com/watch?v=TZGM3uRMfuU Justice - Pusher ft. Gesaffelstein https://www.youtube.com/watch?v=Ip_Kc3EQiOI The Flaming Lips - God Will Control The Werewolves https://www.youtube.com/watch?v=AIEU9qKbwQA CHVRCHES - Overthinker https://www.youtube.com/watch?v=1MOlCPAF5qk Boys Noize & Brutalismus 3000 - Nächstenliebe https://www.youtube.com/watch?v=u2KCYAYZvpA Slayyyter - hey boyyy https://www.youtube.com/watch?v=CY_mohRjzqM Olivia Rodrigo - take me home (4 Christmas) https://www.youtube.com/watch?v=uXymCnWk9LI Pixies - Punk Loop https://www.youtube.com/watch?v=dFw2NWZ9M0Q test plan - Signal https://www.youtube.com/watch?v=5l3FOrFcTHo Yaeji - ddr https://www.youtube.com/watch?v=kz0q5m0381k Psychedelic Porn Crumpets - Beam Me Up Then! https://www.youtube.com/watch?v=nFf9iu7IdJA SWAVAY - 2MUCH ft. Kai Ca$h https://www.youtube.com/watch?v=u_1zez7Ez_4 Fire-Toolz - Clustered Around My Opening! https://www.youtube.com/watch?v=_uqc0sBbPTo …meh… The Chats - Off It https://www.youtube.com/watch?v=wTNQgiglQEM Conway the Machine - Diggwutumsayn! https://www.youtube.com/watch?v=I8MrZ0TNvqg Cage the Elephant - Make It Easy https://www.youtube.com/watch?v=g8ARJgfVYJM Everything Everything - Poison Pop https://www.youtube.com/watch?v=p4owhYtVIE0 Charlotte Adigéry & Bolis Pupul - From Healer to Dealer https://www.youtube.com/watch?v=rHndTsCSXdc Ecco2k - Sky Burial https://www.youtube.com/watch?v=Cdi2BECVxBk Liars - Beat Creep Some Eyes https://www.youtube.com/watch?v=DCrP13rw0aI !!!WORST TRACKS THIS WEEK!!! Anamanaguchi - Sucker Punch https://www.youtube.com/watch?v=cwzwQuBUEIo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Michael Kiwanuka - FUDGE ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=CfeYy7IBx0Q",
-          "imageUrl": "https://i4.ytimg.com/vi/CfeYy7IBx0Q/hqdefault.jpg",
-          "embedId": "CfeYy7IBx0Q",
-          "audioSrc": "",
-          "pubDate": "2026-11-06",
-          "description": "Listen: https://www.youtube.com/watch?v=gyv7buFhdvk Michael's most beautiful and moving album so far. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: CALIFORNIA, JUST ANOTHER MOMENT, LOVE IN MY HEART, ACROSS THE SKY, STARS, MOVE IN MY DIRECTION, SING LEAST FAV TRACK: YOU SENT ME FLYING MICHAEL KIWANUKA - FUDGE / 2026 / POLYDOR / PROG SOUL, SINGER-SONGWRITER 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }
       ]
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/": {
-      "artist": "Hiroshi Yoshimura",
-      "album": "Quiet Forest"
-    },
     "https://pitchfork.com/reviews/albums/pearl-jam-yield/": {
       "artist": "Pearl Jam",
       "album": "Yield"
@@ -2492,6 +2488,10 @@
     "https://pitchfork.com/reviews/albums/font-american-bully-xl/": {
       "artist": "Font",
       "album": "American Bully XL"
+    },
+    "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/": {
+      "artist": "Weird Baile",
+      "album": "Collected Rips 2004-2024"
     }
   }
 }

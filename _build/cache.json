@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-25T07:11:59.843Z",
+    "updatedAt": "2026-11-25T21:07:22.303Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 826,
+      "ms": 575,
       "error": null,
-      "fetchedAt": "2026-11-25T07:11:59.843Z",
-      "lastOkAt": "2026-11-25T07:11:59.843Z",
+      "fetchedAt": "2026-11-25T21:07:22.303Z",
+      "lastOkAt": "2026-11-25T21:07:22.303Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,83 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 617,
+      "ms": 629,
       "error": null,
-      "fetchedAt": "2026-11-25T07:11:59.843Z",
-      "lastOkAt": "2026-11-25T07:11:59.843Z",
+      "fetchedAt": "2026-11-25T21:07:22.303Z",
+      "lastOkAt": "2026-11-25T21:07:22.303Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Rewire Details First Acts Playing 2027 Edition",
+          "link": "https://thequietus.com/news/rewire-details-first-acts-playing-2027-edition/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/97-Oneohtrix-Point-Never-REWIRE2026-10-04-2026-©-Parcifal-Werkman-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-25",
+          "description": "Diamanda Galás, ML Buch Ensemble, Tim Hecker and more will play the Dutch festival next spring Photo by Parcifal Werkman Rewire has revealed the first wave of acts playing its 2027 edition. Returning to The Hague for a 16th year next April, the festival will take in a headline set from Diamanda Galás, while ML Buch Ensemble will present the world premiere of new music at the event. Tim Hecker is also set to return to the festival to present an audiovisual show of new material with stage design from artist Vincent de Belleval, and Bendik Giske will link with visual artist and lighting designer Theresa Baumgartner for another set themed heavily around new music. Rewire will also take in Netherlands-exclusive performances from L'Rain,... The post Rewire Details First Acts Playing 2027 Edition appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Diamanda Galás",
+            "ML Buch",
+            "Rewire",
+            "Tim Hecker"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Huge Wings Trying To Fly: Aleksandra Słyż Interviewed",
+          "link": "https://thequietus.com/interviews/aleksandra-slyz-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Ola_Slyz_0073-0115-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-25",
+          "description": "Ahead of a performance of Ruiny/ Ruins as part of Unsound London, the Polish sound artist speaks to Claire Sawers about the fragility of memory and the use of old tech. Portraits: Thomas Zanon-Larcher I Carry the Strength by Aleksandra Słyż “My surname is pronounced ‘swish’,” explains composer Aleksandra Słyż. Ok, I was way off. “In Polish that means hearing,” she tells me. This is a perfect name for a sound artist who describes herself as ‘primarily concerned with the timbral relationships between acoustic and synthetic sounds and the exploration of microtonal tuning systems’. Słyż is wearing a black polo neck, sat in front of rows of electronic equipment. She’s chatting on Zoom, located midway between Berlin and Warsaw, in her home town,... The post Huge Wings Trying To Fly: Aleksandra Słyż Interviewed appeared first on The Quietus .",
+          "categories": [
+            "A Quietus Interview"
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Nick Cave & The Bad Seeds Share Previously Unseen Live Footage from 1986",
+          "link": "https://thequietus.com/news/nick-cave-the-bad-seeds-share-previously-unseen-live-footage-from-1986/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-25-at-17.03.24-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-25",
+          "description": "The unveiling of the video marks 40 years since the release of Your Funeral... My Trial Nick Cave & The Bad Seeds have shared previously unseen live footage from a performance they did at Manchester's International II in 1986. The archival video was captured on VHS while Cave and band were touring their 1986 albums Your Funeral... My Trial and Kicking Against The Pricks, and have been newly shared to mark 40 years since the release of the two records. The live lineup at the time featured Cave, Mick Harvey, Blixa Bargeld, Thomas Wydler, Kid Congo Powers and Roland Wolf. In addition to releasing the live footage, Cave and band have released a collection of merchandise to mark the 40th anniversary of Your... The post Nick Cave & The Bad Seeds Share Previously Unseen Live Footage from 1986 appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Nick Cave",
+            "Nick Cave & The Bad Seeds"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Deaf Jams: George Clarke of Deafheaven’s Favourite Songs",
+          "link": "https://thequietus.com/interviews/bakers-dozen/deaf-jams-george-clarke-of-deafheavens-favourite-songs/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/DeafheavenMoca-8-1-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-25",
+          "description": "Following the release of a scorching new EP, the Deafheaven vocalist takes Dan Franklin through his favourite 13 songs, from a longstanding love of hip hop to Nina Simone's most metal moment Photo by Liam Stewart When I speak to George Clarke, frontman of Deafheaven, he is in the sanctum of his car. Still recovering from a lurgy picked up on the road as main support to Mastodon on their North American tour, with friends Alcest opening, his voice starts to wear out as we make our way through his Baker’s Dozen list. Deafheaven’s music continues to take them to interesting new places, and the music itself still surprises. Not least last month's surprise-released EP At Work In The Fields Of The Bomb,... The post Deaf Jams: George Clarke of Deafheaven’s Favourite Songs appeared first on The Quietus .",
+          "categories": [
+            "Baker's Dozen"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Kogumaza – You Found Yourself Where You Found Yourself",
+          "link": "https://thequietus.com/quietus-reviews/kogumaza-you-found-yourself-where-you-found-yourself-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/kogumazu-you-found.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-25",
+          "description": "Kogumaza You Found Yourself Where You Found Yourself Formed in Nottingham in 2009, the drone and ambient rock trio’s first album since 2019’s Fugues is a gorgeous exploration of mantric repetition that hits the ear like a welcome draft of cool but invigorating air You Found Yourself Where You Found Yourself by Kogumaza Despite sharing a family tree with the likes of Rattle, Hey Colossus, Bob Tilton, Wolves Of Greece, Haress and Grey Hairs, Kogumaza always trod their own path. Bands often don’t love the labels that critics stick them with, but ‘post-rock’ is disliked more than most. At their worst, post-rock bands can seem formulaic and lacking in emotion. Kogumaza adroitly avoid falling into either of those traps. Split 7” singles with Bardo... The post Kogumaza – You Found Yourself Where You Found Yourself appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Wilder Maker – Smoking The Bunny",
           "link": "https://thequietus.com/quietus-reviews/wilder-maker-smoking-the-bunny-review/",
@@ -227,13 +298,13 @@
           "author": "Christian Eede"
         },
         {
-          "title": "Supersonic Reveals First Acts Playing 2027 Lineup",
+          "title": "Supersonic Reveals First Acts Playing 2027 Edition",
           "link": "https://thequietus.com/news/supersonic-reveals-first-acts-playing-2027-lineup/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/ShuddertoThink_bySethOlenick_9-990000079e04513c-700x466.jpg",
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-24",
-          "description": "Shudder To Think and La Tène are among those lined up to play the Birmingham event next year Shudder To Think, photo by Seth Olenick Supersonic has shared the first lineup announcement for its 2027 edition next spring. Veteran Washington D.C. punk and post-hardcore band Shudder To Think, who've newly reformed, will head up the lineup, while French-Swiss tQ favourites La Tène are also lined up to play the Birmingham festival. The lineup announcement also takes in experimental black metal group Genital Shame; hardcore duo Iron Lung; noise rock trio Rhododendron; hardcore band Nekra; Rocket Recordings affiliates Pharaoh Overlord; Jerusalem In My Heart's Radwan Ghazi Moumneh performing with French multi-instrumentalist Frédéric D. Oberland; and Thee Silver Mt. Zion's Jessica Moss. Next year's Supersonic will be a... The post Supersonic Reveals First Acts Playing 2027 Lineup appeared first on The Quietus .",
+          "description": "Shudder To Think and La Tène are among those lined up to play the Birmingham event next year Shudder To Think, photo by Seth Olenick Supersonic has shared the first lineup announcement for its 2027 edition next spring. Veteran Washington D.C. punk and post-hardcore band Shudder To Think, who've newly reformed, will head up the lineup, while French-Swiss tQ favourites La Tène are also lined up to play the Birmingham festival. The lineup announcement also takes in experimental black metal group Genital Shame; hardcore duo Iron Lung; noise rock trio Rhododendron; hardcore band Nekra; Rocket Recordings affiliates Pharaoh Overlord; Jerusalem In My Heart's Radwan Ghazi Moumneh performing with French multi-instrumentalist Frédéric D. Oberland; and Thee Silver Mt. Zion's Jessica Moss. Next year's Supersonic will be a... The post Supersonic Reveals First Acts Playing 2027 Edition appeared first on The Quietus .",
           "categories": [
             "News",
             "La Tène",
@@ -271,13 +342,13 @@
           "author": "John Doran"
         },
         {
-          "title": "Philip Golub – Loop 8/9",
+          "title": "Phillip Golub – Loop 8/9",
           "link": "https://thequietus.com/quietus-reviews/philip-golub-loop-8-9-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/olub-loop-89.avif",
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-24",
-          "description": "Philip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn composer explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Philip Golub has emerged as a major figure straddling the worlds of jazz, experimental and contemporary practice, in part, by refusing to compartmentalise his various interests within sacrosanct projects. Earlier this year he released Partisan Ship (Berthold), a wild album that reinforced his contributions to an evolving jazz trend incorporating microtonality or different tuning systems, as every track was composed using a different tuning. Yet Golub set those experiments within pithy themes and buoyant grooves,... The post Philip Golub – Loop 8/9 appeared first on The Quietus .",
+          "description": "Phillip Golub Loop 8/9 Stripping music back to a bare minimum, the Brooklyn composer explores the tiny transformations that take place when human hands repeat the same musical activity again and again and again Loop 8/9 by Phillip Golub Over the last few years Brooklyn keyboardist, composer and bandleader Phillip Golub has emerged as a major figure straddling the worlds of jazz, experimental and contemporary practice, in part, by refusing to compartmentalise his various interests within sacrosanct projects. Earlier this year he released Partisan Ship (Berthold), a wild album that reinforced his contributions to an evolving jazz trend incorporating microtonality or different tuning systems, as every track was composed using a different tuning. Yet Golub set those experiments within pithy themes and buoyant grooves,... The post Phillip Golub – Loop 8/9 appeared first on The Quietus .",
           "categories": [
             "Reviews"
           ],
@@ -506,19 +577,6 @@
           "author": "John Doran"
         },
         {
-          "title": "Organic Intelligence LXII: C64 Game Soundtracks",
-          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Skate-or-die-image-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "In this month’s antidote to the algorithm, Juliet Jacques explores the playful and experimental soundtracks to games on the popular tape-based home computer I spent my first year at the University of Manchester in halls of residence. They put me in with a group of lads who were really into techno, and drum and bass – a challenge to my sensibilities, as I had a tribal allegiance to punk, post-punk and independent music. During our first weeks together, in September 2000, a single came out that instantly became a massive hit but united my flatmates in disgust: ‘Kernkraft 400’ by Zombie Nation. I immediately recognised the hook – “it’s from a Commodore 64 game”, I told them. “I bet it fucking... The post Organic Intelligence LXII: C64 Game Soundtracks appeared first on The Quietus .",
-          "categories": [
-            "Organic Intelligence"
-          ],
-          "author": "Luke Turner"
-        },
-        {
           "title": "Worlds Apart: Noon by Richard Skelton & Lawrence English",
           "link": "https://thequietus.com/quietus-reviews/album-of-the-week/noon-richard-skelton-lawrence-english-review/",
           "imageUrl": "https://thequietus.com/app/uploads/2026/11/IMG_4770-700x466.jpg",
@@ -530,6 +588,19 @@
             "Album of the Week"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Organic Intelligence LXII: C64 Game Soundtracks",
+          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Skate-or-die-image-700x466.jpeg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-19",
+          "description": "In this month’s antidote to the algorithm, Juliet Jacques explores the playful and experimental soundtracks to games on the popular tape-based home computer I spent my first year at the University of Manchester in halls of residence. They put me in with a group of lads who were really into techno, and drum and bass – a challenge to my sensibilities, as I had a tribal allegiance to punk, post-punk and independent music. During our first weeks together, in September 2000, a single came out that instantly became a massive hit but united my flatmates in disgust: ‘Kernkraft 400’ by Zombie Nation. I immediately recognised the hook – “it’s from a Commodore 64 game”, I told them. “I bet it fucking... The post Organic Intelligence LXII: C64 Game Soundtracks appeared first on The Quietus .",
+          "categories": [
+            "Organic Intelligence"
+          ],
+          "author": "Luke Turner"
         },
         {
           "title": "Maria Teresa Pirrigheddu and Vieri Mura – Rundinas",
@@ -560,71 +631,6 @@
             "Massive Attack"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "The Strange World Of… The New Blockaders",
-          "link": "https://thequietus.com/interviews/strange-world-of/the-new-blockaders-best-music/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/16_h_Cafe-OTO-London_Live-1-2017-Baby-RL-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-18",
-          "description": "Nick Soulsby, author of a new book charting TNB's bizarre 45-year journey, selects ten points of entry into the maze-like discography of a group dedicated to absurdity and the refusal of fixed meaning TNB at Cafe Oto in 2017, by Baby RL At the tail-end of the 70s, artists in the non-academic realm joined illustrious composers of electroacoustic and experimental music in probing where the outer limits of music might lie, and the extent to which its core characteristics could be twisted to unleash new sounds. Magnetic tape and fanzine culture alike inspired a wider web of individuals with no industry-backing, no money, no audience, and no media connections to create, then to share their work with anyone who cared enough to... The post The Strange World Of… The New Blockaders appeared first on The Quietus .",
-          "categories": [
-            "Strange World Of..."
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Brassica Unbound: Serge Gainsbourg’s L’Homme à tête de chou at 50",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/serge-gainsbourg-l-homme-a-tete-de-chou-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/198055-serge-gainsbourg-lhomme-tte-de-chou-700x700.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-18",
-          "description": "In 1976 the dandyish Gainsbourg embraced prog rock on a concept album about a man with a cabbage for a head but, says Jeremy Allen, he was still revered by French punks In 1975, Serge Gainsbourg was caught between a rock and a hard place. His solo career was fading steadily, with albums like Histoire de Melody Nelson and Vu de l'extérieur commercially underperforming in France. His English lover Jane Birkin, meanwhile, was enjoying A-list celebrity status with hit films such as Claude Zidi's La course à l'échalote. This reversal in their celebrity statuses aroused a streak of jealousy in him that would manifest itself in conceptual violence via his next album L'Homme à tête de chou, released the following year.... The post Brassica Unbound: Serge Gainsbourg’s L’Homme à tête de chou at 50 appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Anthony Child – Beginning of the Shadow",
-          "link": "https://thequietus.com/quietus-reviews/anthony-child-beginning-of-the-shadow-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/a-child-beginning-of-the-.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-18",
-          "description": "Anthony Child Beginning of the Shadow The Northamptonshire-born producer, aka Surgeon, purges himself in Maui with a suite of ten ambient explorations Beginning of the Shadow by Anthony Child Transcendence Orchestra, a duo featuring Anthony Child and Dan Bean, played at the Hottest Supernormal Festival Ever™ in 2022. Clad in chunky hooded robes, they took to a Vortex stage doing its best sweat-box-inside-a-greenhouse-inside-a-volcano impression and still managed to entrance a crowd sporting skimpy jorts and sweat dipped vests who could hardly hack the heat. The pair showed a thing or two about patience that day. About withstanding great physical discomfort. Some might even call it suffering for their art. If you’ve dabbled with Transcendence Orchestra before you’ll be well placed to understand Anthony Child’s approach... The post Anthony Child – Beginning of the Shadow appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "A Man Without a Soul: The The’s Infected at 40",
-          "link": "https://thequietus.com/opinion-and-essays/anniversary/the-the-infected-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/the-the-infected-uk-vinyl-lp-album-record-epc26770-393737_1200x1200_crop_center.jpg-700x700.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-17",
-          "description": "Infected represented many things, says Wesley Doyle, one of them being how the cult artist Matt Johnson convinced a major label to bankroll a film, and what the ultimate cost of this was Imagine the scenario: it’s 1986 and a relatively unknown artist’s manager approaches his record label to finagle enough money to make a film to promote a new album. The sum they have in mind is around £500,000 – the best part of £2 million in today’s money. Eventually, the label capitulates, and the artist is flown around the world with several video directors and crew to make short films to accompany every track on the record. Even today, such an undertaking would only be possible for an artist of... The post A Man Without a Soul: The The’s Infected at 40 appeared first on The Quietus .",
-          "categories": [
-            "Anniversary"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Feedbacker: Rock Music for November by JR Moores",
-          "link": "https://thequietus.com/quietus-reviews/rock/roger-taylor-kid-rock-rangers-dabda-new-rock-music-review-november-2026/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Clutter-2026-by-Dan-Kendall-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-17",
-          "description": "Before rounding up some new rock releases – including a rancid new offering from \"false redneck\" Kid Rock – JR Moores praises the veteran Queen drummer, Roger Taylor Clutter, photo by Dan Kendall I realise this space would be better used to champion the kind of upcomin’, geetar abusin’, consensus challengin’, taboo bustin’ insurrectionists that would make Lambrini Girls look like Amanda Holden. Nevertheless, here are some thoughts on the white-bearded multimillionaire who wrote ‘Radio Ga Ga’. Frankly I’ve become so beguiled by the recent record from Queen’s drummer, I owe it to our readers to put it on their radar in case they’ve missed it, in all its uninhibited glory.I can’t say I’m au fait with the 77-year-old’s complete oeuvre, either.... The post Feedbacker: Rock Music for November by JR Moores appeared first on The Quietus .",
-          "categories": [
-            "Rock"
-          ],
-          "author": "Patrick Clarke"
         }
       ]
     },
@@ -1142,10 +1148,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 200,
+      "ms": 169,
       "error": null,
-      "fetchedAt": "2026-11-25T07:11:59.843Z",
-      "lastOkAt": "2026-11-25T07:11:59.843Z",
+      "fetchedAt": "2026-11-25T21:07:22.303Z",
+      "lastOkAt": "2026-11-25T21:07:22.303Z",
       "itemCount": 29,
       "items": [
         {
@@ -1220,7 +1226,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-23",
-          "description": "The Brooklyn and Delhi-based singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means.",
+          "description": "The singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means.",
           "categories": [
             "Reviews / Albums"
           ],
@@ -1540,10 +1546,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 495,
+      "ms": 614,
       "error": null,
-      "fetchedAt": "2026-11-25T07:11:59.843Z",
-      "lastOkAt": "2026-11-25T07:11:59.843Z",
+      "fetchedAt": "2026-11-25T21:07:22.303Z",
+      "lastOkAt": "2026-11-25T21:07:22.303Z",
       "itemCount": 40,
       "items": [
         {
@@ -2202,10 +2208,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 343,
+      "ms": 175,
       "error": null,
-      "fetchedAt": "2026-11-25T07:11:59.843Z",
-      "lastOkAt": "2026-11-25T07:11:59.843Z",
+      "fetchedAt": "2026-11-25T21:07:22.303Z",
+      "lastOkAt": "2026-11-25T21:07:22.303Z",
       "itemCount": 15,
       "items": [
         {

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-25T21:07:22.303Z",
+    "updatedAt": "2026-11-26T07:00:23.514Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 575,
+      "ms": 540,
       "error": null,
-      "fetchedAt": "2026-11-25T21:07:22.303Z",
-      "lastOkAt": "2026-11-25T21:07:22.303Z",
+      "fetchedAt": "2026-11-26T07:00:23.514Z",
+      "lastOkAt": "2026-11-26T07:00:23.514Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 629,
+      "ms": 631,
       "error": null,
-      "fetchedAt": "2026-11-25T21:07:22.303Z",
-      "lastOkAt": "2026-11-25T21:07:22.303Z",
+      "fetchedAt": "2026-11-26T07:00:23.514Z",
+      "lastOkAt": "2026-11-26T07:00:23.514Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Wired for Sound: One Trip by Factory Floor",
+          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/factory-floor-one-trip-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Factory-Floor-press-shot-by-Harry-Ward-wide-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-26",
+          "description": "Better than ever before, the latest album by the British electronic trio captures the thrill and spontaneity of their live sets Last month, I exchanged emails with Nik Colk Void about a piece for this website on the enduring influence of Daphne Oram, during which Void wrote eloquently about the importance of live settings for her work with sound. “Continuing to insist that new musical languages can be invented through direct, imaginative engagement with sound [is] something I often experience in a live context,” she wrote. “The room and the audience become part of my decision-making process, influencing how a composition develops.” This mutually exploratory approach has defined the work of Void’s long-running electronic group Factory Floor since their formation in the... The post Wired for Sound: One Trip by Factory Floor appeared first on The Quietus .",
+          "categories": [
+            "Album of the Week"
+          ],
+          "author": "Robert Barry"
+        },
+        {
+          "title": "Elijah Minnelli – Spitting Feathers",
+          "link": "https://thequietus.com/quietus-reviews/elijah-minnelli-spitting-feathers-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/elijah-minelli-spitting.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-26",
+          "description": "Elijah Minnelli Spitting Feathers More stories from fictional Breadminster by the UK-based digital riddim stylist Spitting Feathers by Elijah Minnelli The last track on Elijah Minnelli’s new album is called ‘Contested Estuary’, a Stockholm-syndrome-inducing track, vaguely based on the old Appalachian ballad, ‘Vandy’. Setting the scene with the hypnotic tones of a singing bowl, Minnelli intones a song about a loyal woman who awaits her husband’s return from war, rejecting the advances of a wealthy suitor in the meantime. As the narrative unfolds, the beat and sinister double bass unravel, accompanied by the sounds of crackling wood that conjure up the bow test in the latest Christopher Nolan film.​Eventually, Minelli shifts focus from the addressee (Vandy) to the suitor. The husky vocals creep under... The post Elijah Minnelli – Spitting Feathers appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Rewire Details First Acts Playing 2027 Edition",
           "link": "https://thequietus.com/news/rewire-details-first-acts-playing-2027-edition/",
@@ -266,6 +292,21 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "New Book on Burial to be Published",
+          "link": "https://thequietus.com/news/new-book-on-burial-to-be-published/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-26-at-01.44.14-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-24",
+          "description": "Burial – Leaving The 20th Century is written by tQ contributor David Stubbs A new book is set to explore the work and influence of Burial. Written by tQ contributor David Stubbs, Burial – Leaving The 20th Century is the latest instalment in publishing house Deeper Into Movies' series of cultural essays. Across 18 pages, the writer explores Burial's place in British music history through the lens of rave culture, hauntology and urban isolation. The synopsis for Burial – Leaving The 20th Century reads: \"Moving between Burial’s records and the work of his late friend Mark Fisher, Stubbs considers hauntology, cultural memory and electronic music’s peculiar relationship with decay and unrealised futures. Along the way, he traces a lineage through jungle, dub and... The post New Book on Burial to be Published appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Burial",
+            "David Stubbs"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "Rafael Toral Details New Album, ‘Long Ways’",
@@ -370,13 +411,29 @@
           "author": "Christian Eede"
         },
         {
-          "title": "Nikola Balberčáková on New Album and PAF Olomouc Appearance",
-          "link": "https://thequietus.com/news/nikola-balbercakova-interview/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/FOTO-_-Nikola-Balbercakova-700x466.jpg",
+          "title": "Portishead Remove Music from Streaming Services in Israel",
+          "link": "https://thequietus.com/news/portishead-remove-music-from-streaming-services-in-israel/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/portishead-700x466.webp",
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-23",
-          "description": "Irina Shtreis talks to Nikola Balberčáková about her troubling AV piece r/ForeverAlone and the new work she will present in Olomouc this December Social media narratives may not be the easiest material to work with when creating convincing artwork. It can be hard to sift through layers of superfluous information. Genuine personal stories often get tangled up with attempts at creative writing. Despite potential pitfalls, Prague-based Slovakian artist Nikola Balberčáková delved into online forums in order to produce a critically-acclaimed audiovisual work called r/ForeverAlone. The 2024 project drew inspiration from the eponymous digital community on Reddit. The content on the titular subreddit is shared by users struggling with chronic loneliness and the feeling they are unable to build a romantic relationship. With the... The post Nikola Balberčáková on New Album and PAF Olomouc Appearance appeared first on The Quietus .",
+          "description": "They're seemingly the latest band to join the No Music For Genocide campaign Portishead's back catalogue has been made unavailable on streaming platforms in Israel. The band's three studio albums – Dummy, Portishead and Third – and other material can no longer be streamed in the country on Spotify, Apple Music or the band's official YouTube channel, Israeli newspaper Haaretz reported. Some of the tracks are still available in the country via compilations, while Beth Gibbons' solo work and Geoff Barrow's music with Beak>> continues to be up for streaming. Portishead haven't publicly commented on the removal of their music from streaming in Israel, but it seems they're the latest act to join the No Music For Genocide campaign, which encourages artists to... The post Portishead Remove Music from Streaming Services in Israel appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "No Music For Genocide",
+            "Palestine",
+            "Portishead"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Nikola Balberčáková Discusses New Album and Upcoming PAF Olomouc Appearance",
+          "link": "https://thequietus.com/news/nikola-balbercakova-interview/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-26-at-01.45.05-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-23",
+          "description": "Irina Shtreis talks to Nikola Balberčáková about her troubling AV piece r/ForeverAlone and the new work she will present in Olomouc this December Social media narratives may not be the easiest material to work with when creating convincing artwork. It can be hard to sift through layers of superfluous information. Genuine personal stories often get tangled up with attempts at creative writing. Despite potential pitfalls, Prague-based Slovakian artist Nikola Balberčáková delved into online forums in order to produce a critically-acclaimed audiovisual work called r/ForeverAlone. The 2024 project drew inspiration from the eponymous digital community on Reddit. The content on the titular subreddit is shared by users struggling with chronic loneliness and the feeling they are unable to build a romantic relationship. With the camera... The post Nikola Balberčáková Discusses New Album and Upcoming PAF Olomouc Appearance appeared first on The Quietus .",
           "categories": [
             "News"
           ],
@@ -575,62 +632,6 @@
             "News"
           ],
           "author": "John Doran"
-        },
-        {
-          "title": "Worlds Apart: Noon by Richard Skelton & Lawrence English",
-          "link": "https://thequietus.com/quietus-reviews/album-of-the-week/noon-richard-skelton-lawrence-english-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/IMG_4770-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "Two deep listeners, Room 40 records boss English and Lancashire-born composer Skelton, find a still point in the midst of the storm of contemporary history on their new collaborative album credit Richard Skelton & Lawrence English For two people standing on opposite sides of the planet, one’s midday becomes the other’s midnight. This first collaboration between British musician Richard Skelton and Australian composer Lawrence English hinges on the duality of this proposition: Skelton’s name written upside down beneath English’s, both pressed against the album cover’s featureless greyness, while the brightness of the palindrome NOON drowns in the supreme darkness of their music. NOON started gestating during the silence brought on by the Covid pandemic in 2021 and carries within itself a shard of... The post Worlds Apart: Noon by Richard Skelton & Lawrence English appeared first on The Quietus .",
-          "categories": [
-            "Album of the Week"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Organic Intelligence LXII: C64 Game Soundtracks",
-          "link": "https://thequietus.com/subscriber-area/organic-intelligence/organic-intelligence-lxii-c64-game-soundtracks/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Skate-or-die-image-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "In this month’s antidote to the algorithm, Juliet Jacques explores the playful and experimental soundtracks to games on the popular tape-based home computer I spent my first year at the University of Manchester in halls of residence. They put me in with a group of lads who were really into techno, and drum and bass – a challenge to my sensibilities, as I had a tribal allegiance to punk, post-punk and independent music. During our first weeks together, in September 2000, a single came out that instantly became a massive hit but united my flatmates in disgust: ‘Kernkraft 400’ by Zombie Nation. I immediately recognised the hook – “it’s from a Commodore 64 game”, I told them. “I bet it fucking... The post Organic Intelligence LXII: C64 Game Soundtracks appeared first on The Quietus .",
-          "categories": [
-            "Organic Intelligence"
-          ],
-          "author": "Luke Turner"
-        },
-        {
-          "title": "Maria Teresa Pirrigheddu and Vieri Mura – Rundinas",
-          "link": "https://thequietus.com/quietus-reviews/maria-teresa-pirrigheddu-and-vieri-mura-rundinas-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/rundinas.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "Maria Teresa Pirrigheddu and Vieri Mura Rundinas An album of Sardinian cantu a chiterra proves softly spoken but full of character Rundinas by Maria Teresa Pirrigheddu & Vieri Mura The path to Rundinas, a collection of songs in the cantu a chiterra style of northern Sardinia, began with a research project. Vieri Mura, an Italian musician, composer and researcher of Sardinian heritage, interviewed Maria Teresa Pirrigheddu, a known singer of cantu a chiterra, as part of an ethnography of Sardinian music. The friendship that followed from these meetings eventually produced Rundinas (‘swallows’, like the birds that return to Sardinia), with lyrics pulled from Pirrigheddu’s favourite traditional songs and poems, set to music by Vieri. Rundinas is a sparsely arranged record. Pirrigheddu sings in Gallurese and Sardinian,... The post Maria Teresa Pirrigheddu and Vieri Mura – Rundinas appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Glastonbury Reveals First Acts for 2027 Edition",
-          "link": "https://thequietus.com/news/glastonbury-reveals-first-acts-for-2027-edition/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Glastonbury-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-18",
-          "description": "Massive Attack, Kraftwerk and Cher are among the big names heading to the Somerset farm next summer Glastonbury has revealed the first wave of acts playing its 2027 edition. The festival will be headlined by Billie Eilish, Harry Styles and Sam Fender, while Cher will take the Sunday afternoon 'Legends slot' at the main Pyramid stage. Also high up on the bill are Massive Attack, Kraftwerk, The xx, Little Simz and Ezra Collective. The first lineup announcement is rounded out by the likes of FKA twigs, Robyn, Primal Scream, Underworld, De La Soul, The Avalanches, Dinosaur Jr., underscores, Hot Chip, Mike D, Young Fathers and Thundercat. Next year's Glastonbury marks the first edition of the long-running festival since 2025 after it took a year... The post Glastonbury Reveals First Acts for 2027 Edition appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Cher",
-            "Glastonbury",
-            "Kraftwerk",
-            "Massive Attack"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1148,10 +1149,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 169,
+      "ms": 68,
       "error": null,
-      "fetchedAt": "2026-11-25T21:07:22.303Z",
-      "lastOkAt": "2026-11-25T21:07:22.303Z",
+      "fetchedAt": "2026-11-26T07:00:23.514Z",
+      "lastOkAt": "2026-11-26T07:00:23.514Z",
       "itemCount": 29,
       "items": [
         {
@@ -1546,10 +1547,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 614,
+      "ms": 331,
       "error": null,
-      "fetchedAt": "2026-11-25T21:07:22.303Z",
-      "lastOkAt": "2026-11-25T21:07:22.303Z",
+      "fetchedAt": "2026-11-26T07:00:23.514Z",
+      "lastOkAt": "2026-11-26T07:00:23.514Z",
       "itemCount": 40,
       "items": [
         {
@@ -2208,12 +2209,23 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 175,
+      "ms": 73,
       "error": null,
-      "fetchedAt": "2026-11-25T21:07:22.303Z",
-      "lastOkAt": "2026-11-25T21:07:22.303Z",
+      "fetchedAt": "2026-11-26T07:00:23.514Z",
+      "lastOkAt": "2026-11-26T07:00:23.514Z",
       "itemCount": 15,
       "items": [
+        {
+          "title": "Conway the Machine - OTIS ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=_UwAwTU2LYM",
+          "imageUrl": "https://i4.ytimg.com/vi/_UwAwTU2LYM/hqdefault.jpg",
+          "embedId": "_UwAwTU2LYM",
+          "audioSrc": "",
+          "pubDate": "2026-11-26",
+          "description": "Listen: https://www.youtube.com/watch?v=bVl6qk_nvvQ OTIS is just an alright album from Conway. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TRICKNOLOGY!, LUPITA!, GOD IS A JEALOUS GOD!, COBRA!, ALMIGH!, CLOSE MY EYES! LEAST FAV TRACK: GREASE PAINT! CONWAY THE MACHINE - OTIS / 2026 / ROC NATION / EAST COAST HIP HOP 6/10 Y'all know this is just my opinion, right?",
+          "categories": [],
+          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
+        },
         {
           "title": "Aesop Rock x Blockhead - Trouble Mountain ALBUM REVIEW",
           "link": "https://www.youtube.com/watch?v=emw8gR_5HPA",
@@ -2365,17 +2377,6 @@
           "audioSrc": "",
           "pubDate": "2026-11-10",
           "description": "Listen: https://wolvesinthethroneroom.bandcamp.com/album/estuary-north-america-edition Wolves' best since Celestial Lineage. More metal reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orAG2zKtoJKnTt_bAnLwTXo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: KNIGHTS OF TIAMAT; FORETOLD IN REFLECTIONS; THE ORCA CLIFFS; WRETCHED SPIRITS, LAND OF LIGHT LEAST FAV TRACK: GHOSTS AMONG THE OBELISKS WOLVES IN THE THRONE ROOM - ESTUARY / 2026 / CENTURY MEDIA, RELAPSE / ATMOSPHERIC BLACK METAL 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-          "categories": [],
-          "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
-        },
-        {
-          "title": "Olivia Rodrigo, Slayyyter, The Flaming Lips, Justice | Weekly Track Roundup: 11/8/26",
-          "link": "https://www.youtube.com/watch?v=xuI1f9CMNB8",
-          "imageUrl": "https://i1.ytimg.com/vi/xuI1f9CMNB8/hqdefault.jpg",
-          "embedId": "xuI1f9CMNB8",
-          "audioSrc": "",
-          "pubDate": "2026-11-08",
-          "description": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! Meiv - No Future Pt. 1 & 2 ft. Armand Hammer https://www.youtube.com/watch?v=TZGM3uRMfuU Justice - Pusher ft. Gesaffelstein https://www.youtube.com/watch?v=Ip_Kc3EQiOI The Flaming Lips - God Will Control The Werewolves https://www.youtube.com/watch?v=AIEU9qKbwQA CHVRCHES - Overthinker https://www.youtube.com/watch?v=1MOlCPAF5qk Boys Noize & Brutalismus 3000 - Nächstenliebe https://www.youtube.com/watch?v=u2KCYAYZvpA Slayyyter - hey boyyy https://www.youtube.com/watch?v=CY_mohRjzqM Olivia Rodrigo - take me home (4 Christmas) https://www.youtube.com/watch?v=uXymCnWk9LI Pixies - Punk Loop https://www.youtube.com/watch?v=dFw2NWZ9M0Q test plan - Signal https://www.youtube.com/watch?v=5l3FOrFcTHo Yaeji - ddr https://www.youtube.com/watch?v=kz0q5m0381k Psychedelic Porn Crumpets - Beam Me Up Then! https://www.youtube.com/watch?v=nFf9iu7IdJA SWAVAY - 2MUCH ft. Kai Ca$h https://www.youtube.com/watch?v=u_1zez7Ez_4 Fire-Toolz - Clustered Around My Opening! https://www.youtube.com/watch?v=_uqc0sBbPTo …meh… The Chats - Off It https://www.youtube.com/watch?v=wTNQgiglQEM Conway the Machine - Diggwutumsayn! https://www.youtube.com/watch?v=I8MrZ0TNvqg Cage the Elephant - Make It Easy https://www.youtube.com/watch?v=g8ARJgfVYJM Everything Everything - Poison Pop https://www.youtube.com/watch?v=p4owhYtVIE0 Charlotte Adigéry & Bolis Pupul - From Healer to Dealer https://www.youtube.com/watch?v=rHndTsCSXdc Ecco2k - Sky Burial https://www.youtube.com/watch?v=Cdi2BECVxBk Liars - Beat Creep Some Eyes https://www.youtube.com/watch?v=DCrP13rw0aI !!!WORST TRACKS THIS WEEK!!! Anamanaguchi - Sucker Punch https://www.youtube.com/watch?v=cwzwQuBUEIo =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop =================================== Y'all know this is just my opinion, right?",
           "categories": [],
           "author": "theneedledrop https://www.youtube.com/channel/UCt7fwAhXDy3oNFTAzF2o8Pw"
         }

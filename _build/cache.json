@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-26T07:00:23.514Z",
+    "updatedAt": "2026-11-26T20:58:21.137Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 540,
+      "ms": 680,
       "error": null,
-      "fetchedAt": "2026-11-26T07:00:23.514Z",
-      "lastOkAt": "2026-11-26T07:00:23.514Z",
+      "fetchedAt": "2026-11-26T20:58:21.137Z",
+      "lastOkAt": "2026-11-26T20:58:21.137Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,38 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 631,
+      "ms": 849,
       "error": null,
-      "fetchedAt": "2026-11-26T07:00:23.514Z",
-      "lastOkAt": "2026-11-26T07:00:23.514Z",
+      "fetchedAt": "2026-11-26T20:58:21.137Z",
+      "lastOkAt": "2026-11-26T20:58:21.137Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "“If the People Are Out on the Street, Then the Street Is Where We Have to Be” – The Portuguese Musicians Taking on a Housing Crisis",
+          "link": "https://thequietus.com/quietus-reviews/quietus-international/portuguese-housing-protest-music-casa-para-viver-scuru-fitchadu-maria-reis/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/MariaReis_AndreVelezCruz-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-26",
+          "description": "With Portugal's intensifying housing crisis sparking major protests and encampments – and police brutality – the country’s music scene has become intertwined with the movement. April Clare Welsh speaks to some of the musicians at its centre and rounds up six key tracks Maria Reis performs for Portuguese protesters, photo by André Velez Cruz For over six weeks, protesters across Portugal have been demonstrating against an intensifying housing and affordability crisis, with rents in Lisbon – currently Europe’s least affordable capital for residents – up by 94% and house prices up by 186% since 2015. Currently, nearly 13% of the Portuguese population lives in overcrowded households, and there is a shortage of social housing, which accounts for only around 2% of Portugal’s... The post “If the People Are Out on the Street, Then the Street Is Where We Have to Be” – The Portuguese Musicians Taking on a Housing Crisis appeared first on The Quietus .",
+          "categories": [
+            "The Quietus International"
+          ],
+          "author": "Patrick Clarke"
+        },
+        {
+          "title": "Low Culture Essay: Michael Smith on the Platonic Solids",
+          "link": "https://thequietus.com/subscriber-area/low-culture-essay/low-culture-essay-michael-smith-on-the-platonic-solids/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Pacioli_Divina_1-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-26",
+          "description": "In a warp away from the usual album, book or film, this month author Michael Smith peers into the dodecahedron of his mind to consider the geometry of the cosmos, time, and reality itself Dodecahedron, Leonardo da Vinci, c.1509 Leonardo da Vinci drew the dodecahedron above as an illustration for Da Divina Proportione, a mathematical treatise written by his pal, the Franciscan friar and geometrician Luca Pacioli. The book had a deep influence on the development of the Italian Renaissance when it was published in Venice in 1509, diffusing what was a very learned and esoteric subject matter into the fields of painting, sculpture, architecture and music. Leonardo drew loads of geometric illustrations for the book, but for some reason, this is... The post Low Culture Essay: Michael Smith on the Platonic Solids appeared first on The Quietus .",
+          "categories": [
+            "Low Culture Essay"
+          ],
+          "author": "Luke Turner"
+        },
         {
           "title": "Wired for Sound: One Trip by Factory Floor",
           "link": "https://thequietus.com/quietus-reviews/album-of-the-week/factory-floor-one-trip-review/",
@@ -604,34 +630,6 @@
             "Tresor"
           ],
           "author": "Christian Eede"
-        },
-        {
-          "title": "Inner Rebellion: Lorenzo Senni Interviewed",
-          "link": "https://thequietus.com/interviews/inner-rebellion-lorenzo-senni-interviewed/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/16_Lorenzo-Senni_All-Ages_Press-Pictures_Jim-C_Nedd_Hires-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "Ahead of the release of his latest album for Warp Records, All Ages, the Italian artist discusses the skateboarding and hardcore music culture that inspired him as a teenager, and the act of rebellion he took against himself in making the new LP Photo by Jim C. Nedd With a population of around 1,000 people, Lorenzo Senni’s childhood village of Ronta wasn’t especially a thriving hub for cultural activity when he was growing up. While it wasn’t far from the more active nearby cities of Cesena and Rimini, where he occasionally visited as an impressionable teen, its leisurely way of living made for a generation of young people desperate to find new hobbies and something out of the ordinary. For a 13-year-old Senni... The post Inner Rebellion: Lorenzo Senni Interviewed appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview",
-            "Lorenzo Senni",
-            "Warp Records"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "New River Studio Juan Atkins Tribute on Friday Night",
-          "link": "https://thequietus.com/news/new-river-studio-juan-atkins-tribute-on-friday-night/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/last-angel-2-700x466.jpeg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "A film screening & three DJ sets have been planned to memorialise the \"incredibly important\" Michigan artist Juan Atkins – techno's 'The Originator' who died at the end of last month – is being memorialised at an event held at New River Studios, Harringay on Friday night. As well as DJ sets from tQ favourites UKAEA, Ruby Quick and Proteus, there will be a screening of the documentary The Last Angel Of History. John Akomfrah and Eddie George's documentary feature is a comment on and narrative thread in Afrofuturism, which, among many other things, encompasses Detroit techno. Organiser / DJ Proteus says: \"[He was] The Originator – Juan Atkins was more than an artist, [he was] an unstoppable force of futurism,... The post New River Studio Juan Atkins Tribute on Friday Night appeared first on The Quietus .",
-          "categories": [
-            "News"
-          ],
-          "author": "John Doran"
         }
       ]
     },
@@ -1149,10 +1147,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 68,
+      "ms": 227,
       "error": null,
-      "fetchedAt": "2026-11-26T07:00:23.514Z",
-      "lastOkAt": "2026-11-26T07:00:23.514Z",
+      "fetchedAt": "2026-11-26T20:58:21.137Z",
+      "lastOkAt": "2026-11-26T20:58:21.137Z",
       "itemCount": 29,
       "items": [
         {
@@ -1547,10 +1545,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 331,
+      "ms": 728,
       "error": null,
-      "fetchedAt": "2026-11-26T07:00:23.514Z",
-      "lastOkAt": "2026-11-26T07:00:23.514Z",
+      "fetchedAt": "2026-11-26T20:58:21.137Z",
+      "lastOkAt": "2026-11-26T20:58:21.137Z",
       "itemCount": 40,
       "items": [
         {
@@ -2209,10 +2207,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 73,
+      "ms": 309,
       "error": null,
-      "fetchedAt": "2026-11-26T07:00:23.514Z",
-      "lastOkAt": "2026-11-26T07:00:23.514Z",
+      "fetchedAt": "2026-11-26T20:58:21.137Z",
+      "lastOkAt": "2026-11-26T20:58:21.137Z",
       "itemCount": 15,
       "items": [
         {

@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-27T06:56:16.600Z",
+    "updatedAt": "2026-11-27T20:43:22.979Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 620,
+      "ms": 738,
       "error": null,
-      "fetchedAt": "2026-11-27T06:56:16.600Z",
-      "lastOkAt": "2026-11-27T06:56:16.600Z",
+      "fetchedAt": "2026-11-27T20:43:22.979Z",
+      "lastOkAt": "2026-11-27T20:43:22.979Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,68 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 560,
+      "ms": 636,
       "error": null,
-      "fetchedAt": "2026-11-27T06:56:16.600Z",
-      "lastOkAt": "2026-11-27T06:56:16.600Z",
+      "fetchedAt": "2026-11-27T20:43:22.979Z",
+      "lastOkAt": "2026-11-27T20:43:22.979Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Jean-Claude Vannier has Died, Aged 83",
+          "link": "https://thequietus.com/news/jean-claude-vannier-has-died-aged-83/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/JCV_1320142471-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-27",
+          "description": "The French composer was famed for his work on Serge Gainsbourg's Histoire de Melody Nelson Jean-Claude Vannier, the widely respected French composer and arranger whose work lit up Serge Gainsbourg's 1971 concept album Histoire de Melody Nelson, has died at the age of 83. He passed away in Paris earlier today (27 November), Libération reports. \"Jean-Claude Vannier was a singular, unclassifiable, profoundly independent artist whose creativity and audacity transcended generations ,\" said Virginie Vannier, one of his daughters, in a message sent to AFP. Vannier's daughter's tribute continued: \"His work has inspired international artists such as Beck and Mike Patton, and his compositions have been sampled by artists like Eminem and Massive Attack, testifying to the modernity and timeless appeal of his work.\" Born... The post Jean-Claude Vannier has Died, Aged 83 appeared first on The Quietus .",
+          "categories": [
+            "News"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "Outer Waves Announces First Acts Playing 2027 Edition",
+          "link": "https://thequietus.com/news/outer-waves-announces-first-acts-playing-2027-edition/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/The-Ex_live-photo-c-Maarten-Mooijman-scaled-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-27",
+          "description": "Merzbow, The Ex and more will play the Liverpool event next May The Ex, photo by Maarten Mooijman Outer Waves has shared the first wave of acts playing its 2027 edition. The festival returns to Liverpool for its third edition next May, and will take over the venues Invisible Wind Factory, Make. and Quarry. The lineup will be headed up by Merzbow and The Ex. Also confirmed to play are Nihiloxica, Sex Swing, Poor Creature, Palestinian Sound Archive, Penelope Trappes, Ancient Grains, Those Holy, Cowtown, The Aleph and All Maudra. More names will be added to the bill in the coming months. Outer Waves will take place from 15 to 16 May 2027. Find more information here. ... The post Outer Waves Announces First Acts Playing 2027 Edition appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Merzbow",
+            "Nihiloxica",
+            "OUTER WAVES",
+            "The Ex"
+          ],
+          "author": "Christian Eede"
+        },
+        {
+          "title": "The Strange World Of… H.P. Lovecraft Film Adaptations",
+          "link": "https://thequietus.com/interviews/strange-world-of/h-p-lovecraft-best-films/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/from-beyond-1-1-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-27",
+          "description": "Mat Colegate uses an unutterable, indescribable, cosmically horrific dialectic to suss out why so many great films have come out of such problematic source material How to solve a problem like Howard Phillips Lovecraft? As an author he is maybe second only to Tolkien in the extraordinary reach of his influence on pop culture, with a legacy that encompasses literary prizes, beanie toys and band names, not to mention a reputation as one of the foundational architects of the weird fiction genre. He was a tormented but highly imaginative writer whose best work often displays a prophetic edge; he was the cultural figure aside from Shakespeare with the most recognisable silhouette; and, as even the casually acquainted with his stories... The post The Strange World Of… H.P. Lovecraft Film Adaptations appeared first on The Quietus .",
+          "categories": [
+            "Strange World Of..."
+          ],
+          "author": "John Doran"
+        },
+        {
+          "title": "Music of the Month: The Best Albums and Tracks of November 2026",
+          "link": "https://thequietus.com/tq-charts/music-of-the-month/music-of-the-month-the-best-albums-and-tracks-of-november-2026/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Untitled-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-27",
+          "description": "tQ's staffers round up everything that's excellent from the last few weeks in music Although End Of Year list season is very nearly upon us, November has been such a sterling month for new music that we couldn't resist one more of our monthly round-ups. Below you'll find everything we've loved, from riotous Brazilian funk to avant-garde space trumpet. Everything featured below, as well as all the other knockout music we’ve covered at tQ this month, will be compiled into an hours-long playlist exclusive to our subscribers. In addition, subscribers can enjoy exclusive music from some of the world’s most forward-thinking artists, regular deep-dive essays, a monthly podcast, specially-curated ‘Organic Intelligence’ guides to under-the-radar international sub-genres, and much more bonus material besides. To... The post Music of the Month: The Best Albums and Tracks of November 2026 appeared first on The Quietus .",
+          "categories": [
+            "Music of the Month"
+          ],
+          "author": "Patrick Clarke"
+        },
         {
           "title": "Laura Cannell – Winter Rites",
           "link": "https://thequietus.com/quietus-reviews/laura-cannell-winter-rites-review/",
@@ -195,6 +251,21 @@
             "Reviews"
           ],
           "author": "Robert Barry"
+        },
+        {
+          "title": "Main’s ‘Motion Pool’ Set for Vinyl Reissue",
+          "link": "https://thequietus.com/news/mains-motion-pool-set-for-vinyl-reissue/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-27-at-15.38.11-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-26",
+          "description": "The duo's 1994 debut album has been remastered and will be newly released with three extra tracks Photo by Tom Sheehan Main's 1994 debut album Motion Pool is being reissued. The record, which followed an initial series of EPs from Robert Hampson and Scott Dowson's project, has been remastered for the updated edition, which will also take in three additional tracks from the era of the original album's production. It will be a double-vinyl release. Blending Hampson and Dowson's history with post-rock and drone music as part of Loop, Motion Pool saw the duo push their sound further into the ambient and abstract territory that they sought to explore more deeply together as Main. Speaking about the album in a new statement, Hampson said: \"That... The post Main’s ‘Motion Pool’ Set for Vinyl Reissue appeared first on The Quietus .",
+          "categories": [
+            "News",
+            "Main",
+            "World Of Echo"
+          ],
+          "author": "Christian Eede"
         },
         {
           "title": "“If the People Are Out on the Street, Then the Street Is Where We Have to Be” – The Portuguese Musicians Taking on a Housing Crisis",
@@ -556,75 +627,6 @@
             "News",
             "Nadeem Din-Gabisi",
             "SQUARE"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Church Of Sounds Launches Label, Releases Compilation Featuring Recording of Final Tony Allen Performance",
-          "link": "https://thequietus.com/news/church-of-sounds-launches-label-releases-compilation-featuring-recording-of-final-tony-allen-performance/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Tony-Allen.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-20",
-          "description": "Clapton Hymns, Vol. 1 collects 12 live performance recordings captured at the London event series Photo by Joe Hart Church Of Sounds has launched a record label, and its first release is a compilation made up of live performance recordings captured at the London event series. Taking in 12 tracks, Clapton Hymns, Vol. 1 features recordings by Tortoise's Jeff Parker, Moses Boyd's Exodus and Collocutor, among others. Perhaps the standout, though, is a performance by Tony Allen of 'Never (Lagos Never Gonna Be The Same)', which was captured during the legendary Nigerian artist's final live show just 48 days before his death. Church Of Sound was founded in 2016 by Lex Blondin and Spencer Martin. Focusing largely on jazz and other related sounds, its... The post Church Of Sounds Launches Label, Releases Compilation Featuring Recording of Final Tony Allen Performance appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Church Of Sounds",
-            "Tony Allen"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Reissue of the Week: Hi Scores by Boards of Canada",
-          "link": "https://thequietus.com/quietus-reviews/reissue-of-the-week/boards-of-canada-hi-scores-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/WARPDA367_Packshot_3000-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-20",
-          "description": "BOC’s Hi Scores was the original portal opening up to give us an early glimpse of future possibilities says Gerry Valle Hi Scores by Boards of Canada Like many, I fell in love with Boards of Canada when I first listened to 1998’s Music Has The Right To Children. Even friends who weren’t necessarily into electronica were taken by its surreal cover, its psychedelic wanderings. The haunting synth melodies, processed vocal samples and polite beats felt like the soundtrack to a lost 1970’s science and nature TV program. Dazed and enthralled, I scoured record stores, looking high and low for anything more from this band. Who were they? Did they land on Earth, release one album and then return to their plane of... The post Reissue of the Week: Hi Scores by Boards of Canada appeared first on The Quietus .",
-          "categories": [
-            "Reissue of the Week"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Energy Flowing, Energy Growing: Martin Gore & Cliff Damavandi Interviewed",
-          "link": "https://thequietus.com/interviews/martin-gore-interview/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Martin-Gore-x-Cliff-Damavandi_MGxCD_byTravisShinn_1_1901-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-20",
-          "description": "Our man in San Francisco Ned Raggett hears about joint single 'Cross Whisper', birds as harbinger of the beyond and the problem of long patch cables... Portraits by Travis Shinn Cross Whisper by MG x CD + JL = Martin Gore's experience across nearly half a century of music making, whether in or out of Depeche Mode, covers a lot of ground. But even he didn't guess that his latest release, 'Cross Whisper', a collaborative single with lyricist Cliff Damavandi, would get past a creative roadblock courtesy of Johnnie Lee – his 10-year-old daughter – and her primary school timetable. \"I called Cliff over and said, 'Look, have a listen. I don't think it's really working,'\" Gore says on a joint Zoom call... The post Energy Flowing, Energy Growing: Martin Gore & Cliff Damavandi Interviewed appeared first on The Quietus .",
-          "categories": [
-            "A Quietus Interview"
-          ],
-          "author": "John Doran"
-        },
-        {
-          "title": "Lottie Brazier – On Course But No-One There To Salute You",
-          "link": "https://thequietus.com/quietus-reviews/lottie-brazier-on-course-but-no-one-there-to-salute-you-review/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/lottie-on-course.avif",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-20",
-          "description": "Lottie Brazier On Course But No-One There To Salute You Partly recorded at the studios of 4AD, the debut album from the Suffolk songwriter is less sunburst and snowblind than wind-battered and rain-sodden On Course but No-one There to Salute You by Lottie Brazier There’s an atmospheric, weather-beaten quality to Lottie Brazier’s On Course But No-One There To Salute You, a debut album that dons a rain mac and steps out gingerly to face the elements. Arriving as it does as the autumn falls away, it feels somehow seasonally appropriate like a new winter coat, making it all the more melancholic and evocative when the clouds are replete with blackness and the rain can be heard tapping away at the roof. That’s certainly true... The post Lottie Brazier – On Course But No-One There To Salute You appeared first on The Quietus .",
-          "categories": [
-            "Reviews"
-          ],
-          "author": "Robert Barry"
-        },
-        {
-          "title": "Belle And Sebastian Unveil ‘If You’re Feeling Sinister’ Reissue",
-          "link": "https://thequietus.com/news/belle-and-sebastian-unveil-if-youre-feeling-sinister-reissue/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-20-at-00.45.59-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "The updated release comes with a full bonus album of rarities Belle And Sebastian's 1996 album If You're Feeling Sinister is getting a 30th anniversary reissue. The updated release comes with a 13-track bonus album, Lisa Helps The Blind, which comprises unreleased songs, demos and field recordings made by the group between 1995 and 1997. The reissue will be made available digitally in January, and in different vinyl editions in the months after. One of those physical editions is a 1xLP white-vinyl release, which will feature the full original album only and will be released to record stores. The other is a deluxe 2xLP limited-edition vinyl package, which will feature new essays from Belle And Sebastian frontman Stuart Murdoch and author and journalist... The post Belle And Sebastian Unveil ‘If You’re Feeling Sinister’ Reissue appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Belle And Sebastian",
-            "Matador"
           ],
           "author": "Christian Eede"
         }
@@ -1144,10 +1146,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 153,
+      "ms": 894,
       "error": null,
-      "fetchedAt": "2026-11-27T06:56:16.600Z",
-      "lastOkAt": "2026-11-27T06:56:16.600Z",
+      "fetchedAt": "2026-11-27T20:43:22.979Z",
+      "lastOkAt": "2026-11-27T20:43:22.979Z",
       "itemCount": 29,
       "items": [
         {
@@ -1157,7 +1159,7 @@
           "embedId": "",
           "audioSrc": "",
           "pubDate": "2026-11-27",
-          "description": "TK",
+          "description": "On her first release under her own name, Liz Harris immerses us in the the ambient side of Grouper with two long-form instrumental compositions.",
           "categories": [
             "Reviews / Albums"
           ],
@@ -1542,10 +1544,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 527,
+      "ms": 905,
       "error": null,
-      "fetchedAt": "2026-11-27T06:56:16.600Z",
-      "lastOkAt": "2026-11-27T06:56:16.600Z",
+      "fetchedAt": "2026-11-27T20:43:22.979Z",
+      "lastOkAt": "2026-11-27T20:43:22.979Z",
       "itemCount": 40,
       "items": [
         {
@@ -2204,10 +2206,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 186,
+      "ms": 1277,
       "error": null,
-      "fetchedAt": "2026-11-27T06:56:16.600Z",
-      "lastOkAt": "2026-11-27T06:56:16.600Z",
+      "fetchedAt": "2026-11-27T20:43:22.979Z",
+      "lastOkAt": "2026-11-27T20:43:22.979Z",
       "itemCount": 15,
       "items": [
         {

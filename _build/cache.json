@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-26T20:58:21.137Z",
+    "updatedAt": "2026-11-27T06:56:16.600Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 680,
+      "ms": 620,
       "error": null,
-      "fetchedAt": "2026-11-26T20:58:21.137Z",
-      "lastOkAt": "2026-11-26T20:58:21.137Z",
+      "fetchedAt": "2026-11-27T06:56:16.600Z",
+      "lastOkAt": "2026-11-27T06:56:16.600Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 849,
+      "ms": 560,
       "error": null,
-      "fetchedAt": "2026-11-26T20:58:21.137Z",
-      "lastOkAt": "2026-11-26T20:58:21.137Z",
+      "fetchedAt": "2026-11-27T06:56:16.600Z",
+      "lastOkAt": "2026-11-27T06:56:16.600Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Laura Cannell – Winter Rites",
+          "link": "https://thequietus.com/quietus-reviews/laura-cannell-winter-rites-review/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/laura-canell-winter-rites.avif",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-27",
+          "description": "Laura Cannell Winter Rites Recorded at the Octagon Unitarian Chapel in Norwich, the English composer and improviser welcomes in the season of Advent WINTER RITES by Laura Cannell Although we do not often think to question it, the church organ is a strange concept. Uniquely, it is tied to its location, more like a building than an instrument. While the organ triggers sound, the resonance of its building is what shapes it. The acoustics of every church or chapel are different, and every organ is therefore a unique instrument with a signature sound generated belonging to just one place. The place specificity of the church organ, and its responsiveness to conditions, was recently explored by Michael Cloud Duguay on his Kingdom Come, Kingdom... The post Laura Cannell – Winter Rites appeared first on The Quietus .",
+          "categories": [
+            "Reviews"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "“If the People Are Out on the Street, Then the Street Is Where We Have to Be” – The Portuguese Musicians Taking on a Housing Crisis",
           "link": "https://thequietus.com/quietus-reviews/quietus-international/portuguese-housing-protest-music-casa-para-viver-scuru-fitchadu-maria-reis/",
@@ -612,22 +625,6 @@
             "News",
             "Belle And Sebastian",
             "Matador"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "Kraftwerk Berlin Issues Apology After Hosting Military AI Event",
-          "link": "https://thequietus.com/news/kraftwerk-berlin-issues-apology-after-hosting-military-ai-event/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Kraftwerk-Berlin-Helsing-700x466.webp",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-19",
-          "description": "The Berlin venue's head of sales, Tjabo Reuter, has described it as \"a serious error of judgement\" Kraftwerk Berlin, the venue that hosts Berlin Atonal and houses clubs such as Tresor and OHM within its complex, has apologied after it hosted an event for German defence technology company Helsing last week. The event on 11 November saw Helsing launch Clarity, its new AI-supported military intelligence platform, in Kraftwerk's main Turbine Hall. Helsing has hit the headlines in recent years after Spotify co-founder and former CEO Daniel Ek emerged as a key investor in the business. Kraftwerk Berlin's head of sales, Tjabo Reuter, has now apologised for allowing the space to be used by Helsing for its launch. In a statement, he described it... The post Kraftwerk Berlin Issues Apology After Hosting Military AI Event appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Berlin Atonal",
-            "Kraftwerk Berlin",
-            "Tresor"
           ],
           "author": "Christian Eede"
         }
@@ -1147,12 +1144,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 227,
+      "ms": 153,
       "error": null,
-      "fetchedAt": "2026-11-26T20:58:21.137Z",
-      "lastOkAt": "2026-11-26T20:58:21.137Z",
+      "fetchedAt": "2026-11-27T06:56:16.600Z",
+      "lastOkAt": "2026-11-27T06:56:16.600Z",
       "itemCount": 29,
       "items": [
+        {
+          "title": "Music for Two Films About Water",
+          "link": "https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/",
+          "imageUrl": "https://media.pitchfork.com/photos/6b04abcdef0d5f3b21696f7c/master/pass/Liz%20Harris%20-%20Music%20for%20Two%20Films%20About%20Water%20album%20art.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-27",
+          "description": "TK",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Daniel Bromfield"
+        },
         {
           "title": "Collected Rips 2004-2024",
           "link": "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/",
@@ -1516,19 +1526,6 @@
             "Reviews / Albums"
           ],
           "author": "Hugh Morris"
-        },
-        {
-          "title": "Yield",
-          "link": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/master/pass/Pearl%20Jam%20-%20Yield%20album%20art.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-15",
-          "description": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Grayson Haver Currin"
         }
       ]
     },
@@ -1545,10 +1542,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 728,
+      "ms": 527,
       "error": null,
-      "fetchedAt": "2026-11-26T20:58:21.137Z",
-      "lastOkAt": "2026-11-26T20:58:21.137Z",
+      "fetchedAt": "2026-11-27T06:56:16.600Z",
+      "lastOkAt": "2026-11-27T06:56:16.600Z",
       "itemCount": 40,
       "items": [
         {
@@ -2207,10 +2204,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 309,
+      "ms": 186,
       "error": null,
-      "fetchedAt": "2026-11-26T20:58:21.137Z",
-      "lastOkAt": "2026-11-26T20:58:21.137Z",
+      "fetchedAt": "2026-11-27T06:56:16.600Z",
+      "lastOkAt": "2026-11-27T06:56:16.600Z",
       "itemCount": 15,
       "items": [
         {
@@ -2382,10 +2379,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/pearl-jam-yield/": {
-      "artist": "Pearl Jam",
-      "album": "Yield"
-    },
     "https://pitchfork.com/reviews/albums/blackhaine-saints-in-the-wethouse/": {
       "artist": "Blackhaine",
       "album": "Saints in the Wethouse"
@@ -2497,6 +2490,10 @@
     "https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/": {
       "artist": "Weird Baile",
       "album": "Collected Rips 2004-2024"
+    },
+    "https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/": {
+      "artist": "Liz Harris",
+      "album": "Music for Two Films About Water"
     }
   }
 }

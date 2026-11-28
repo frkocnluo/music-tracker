@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-28T06:30:00.846Z",
+    "updatedAt": "2026-11-28T19:35:47.192Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 4,
+    "okSources": 5,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 765,
+      "ms": 924,
       "error": null,
-      "fetchedAt": "2026-11-28T06:30:00.846Z",
-      "lastOkAt": "2026-11-28T06:30:00.846Z",
+      "fetchedAt": "2026-11-28T19:35:47.192Z",
+      "lastOkAt": "2026-11-28T19:35:47.192Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 631,
+      "ms": 656,
       "error": null,
-      "fetchedAt": "2026-11-28T06:30:00.846Z",
-      "lastOkAt": "2026-11-28T06:30:00.846Z",
+      "fetchedAt": "2026-11-28T19:35:47.192Z",
+      "lastOkAt": "2026-11-28T19:35:47.192Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Remembering Jean-Claude Vannier",
+          "link": "https://thequietus.com/news/remember-them/jean-claude-vannier-obituary/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/JCV-and-VBD_137-645A2905-copyright-Leo-Alestro-700x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-28",
+          "description": "Serge Gainsbourg biographer Jeremy Allen looks back at the life and times of an inspired French composer. Main portrait by Léo Alestro, with thanks to Ipecac I was lucky enough to meet Jean-Claude Vannier, the French composer who died on Friday 27 November aged 83, on two separate occasions. The first time was at his apartment in the 3eme arrondissement of Paris, which was reached via the creakiest of paternoster lifts before entering into what was, by Parisian standards, a spacious room. Among its contents, everything seemed secondary to the white grand piano. It was 2011 and I was interviewing the preternaturally gifted musician and arranger for The Stool Pigeon, and while that’s 15 years ago now, I can still remember... The post Remembering Jean-Claude Vannier appeared first on The Quietus .",
+          "categories": [
+            "Remember Them…"
+          ],
+          "author": "John Doran"
+        },
         {
           "title": "Paperback Writers: Why Do Rock Stars Make Terrible Novelists?",
           "link": "https://thequietus.com/culture/books/paperback-writers-why-do-rock-stars-make-terrible-novelists-essay/",
@@ -613,20 +626,6 @@
             "Anniversary"
           ],
           "author": "John Doran"
-        },
-        {
-          "title": "The The Unveil Live Album, ‘The Ensouled Tour – Live At The Sydney Opera House’",
-          "link": "https://thequietus.com/news/the-the-unveil-live-album-the-ensouled-tour-live-at-the-sydney-opera-house/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-20-at-16.05.43-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-20",
-          "description": "The new release centres around the group's November 2024 concerts at the Sydney Opera House Christie Goodwin The The are releasing a live album, The Ensouled Tour – Live At The Sydney Opera House. The full-length concert recording includes 27 songs arranged in 2 sets, and was captured during the group's November 2024 concerts at the Sydney Opera House. It will be made available in a triple-vinyl edition, as well as in a crystal-clear triple-vinyl limited edition version. There will also be a double CD mediabook, and the full-length film will be released on both DVD and Blu-ray too. The new live album follows on from the 2021 release of The Comeback Special – Live At The Royal Albert Hall. Watch video from The The's... The post The The Unveil Live Album, ‘The Ensouled Tour – Live At The Sydney Opera House’ appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "The The"
-          ],
-          "author": "Christian Eede"
         }
       ]
     },
@@ -1144,10 +1143,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 217,
+      "ms": 517,
       "error": null,
-      "fetchedAt": "2026-11-28T06:30:00.846Z",
-      "lastOkAt": "2026-11-28T06:30:00.846Z",
+      "fetchedAt": "2026-11-28T19:35:47.192Z",
+      "lastOkAt": "2026-11-28T19:35:47.192Z",
       "itemCount": 29,
       "items": [
         {
@@ -1542,10 +1541,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 368,
+      "ms": 665,
       "error": null,
-      "fetchedAt": "2026-11-28T06:30:00.846Z",
-      "lastOkAt": "2026-11-28T06:30:00.846Z",
+      "fetchedAt": "2026-11-28T19:35:47.192Z",
+      "lastOkAt": "2026-11-28T19:35:47.192Z",
       "itemCount": 40,
       "items": [
         {
@@ -2200,13 +2199,14 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": false,
-      "status": "http-503",
-      "httpStatus": 503,
-      "attempts": 4,
-      "error": "HTTP 503",
-      "fetchedAt": "2026-11-27T20:43:22.979Z",
-      "lastOkAt": "2026-11-27T20:43:22.979Z",
+      "ok": true,
+      "status": "ok",
+      "httpStatus": 200,
+      "attempts": 1,
+      "ms": 253,
+      "error": null,
+      "fetchedAt": "2026-11-28T19:35:47.192Z",
+      "lastOkAt": "2026-11-28T19:35:47.192Z",
       "itemCount": 15,
       "items": [
         {

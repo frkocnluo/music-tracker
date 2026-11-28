@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 2,
-    "updatedAt": "2026-11-27T20:43:22.979Z",
+    "updatedAt": "2026-11-28T06:30:00.846Z",
     "policy": {
       "timeoutMs": 20000,
       "retries": 3,
@@ -11,7 +11,7 @@
       "enrichLimit": 40,
       "enrichConcurrency": 5
     },
-    "okSources": 5,
+    "okSources": 4,
     "totalSources": 6
   },
   "sources": [
@@ -28,10 +28,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 738,
+      "ms": 765,
       "error": null,
-      "fetchedAt": "2026-11-27T20:43:22.979Z",
-      "lastOkAt": "2026-11-27T20:43:22.979Z",
+      "fetchedAt": "2026-11-28T06:30:00.846Z",
+      "lastOkAt": "2026-11-28T06:30:00.846Z",
       "itemCount": 10,
       "items": [
         {
@@ -177,12 +177,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 636,
+      "ms": 631,
       "error": null,
-      "fetchedAt": "2026-11-27T20:43:22.979Z",
-      "lastOkAt": "2026-11-27T20:43:22.979Z",
+      "fetchedAt": "2026-11-28T06:30:00.846Z",
+      "lastOkAt": "2026-11-28T06:30:00.846Z",
       "itemCount": 32,
       "items": [
+        {
+          "title": "Paperback Writers: Why Do Rock Stars Make Terrible Novelists?",
+          "link": "https://thequietus.com/culture/books/paperback-writers-why-do-rock-stars-make-terrible-novelists-essay/",
+          "imageUrl": "https://thequietus.com/app/uploads/2026/11/books-with-Darnielle-Vlautin-640x466.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-28",
+          "description": "The Go-Betweens' Robert Forster has a novel out – it joins a wretched parade of books by pop musicians hellbent on parlaying their fame in the publishing world Earlier this year, Robert Forster, ex-Go-Between and respected elder-statesman of indie rock, did something only a handful of his peers have had the nerve – or foolhardiness – to do before. He put his reputation on the line, flung all caution to the wind and went and published a novel. In doing so he joined a coterie of A-listers who, at some point in their careers, decided to apply their considerable talents as songwriters to longform prose fiction: a not-too-shabby crew that includes the likes of Bob Dylan, Gil Scott-Heron, Robert Calvert, Nick Cave,... The post Paperback Writers: Why Do Rock Stars Make Terrible Novelists? appeared first on The Quietus .",
+          "categories": [
+            "Books"
+          ],
+          "author": "Robert Barry"
+        },
         {
           "title": "Jean-Claude Vannier has Died, Aged 83",
           "link": "https://thequietus.com/news/jean-claude-vannier-has-died-aged-83/",
@@ -612,21 +625,6 @@
           "categories": [
             "News",
             "The The"
-          ],
-          "author": "Christian Eede"
-        },
-        {
-          "title": "SQUARE Festival Adds Nadeem Din-Gabisi and More to 2027 Lineup",
-          "link": "https://thequietus.com/news/square-festival-adds-nadeem-din-gabisi-and-more-to-2027-lineup/",
-          "imageUrl": "https://thequietus.com/app/uploads/2026/11/Screenshot-2026-11-20-at-15.58.53-700x466.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-20",
-          "description": "The Portuguese event returns for its second edition in January Nadeem Din-Gabis SQUARE festival has added a second wave of acts to the lineup for its second edition, taking place in January. Returning to its main base of Braga, the Portuguese event will newly take in performances from UK rapper Nadeem Din-Gabisi; Mozambican multi-instrumentalist Cheny Wa Gune; Cape Verde's Leydy Indira; and Unganisha, the duo of Kenyan singer and orutu player Labdi Ommes andNorwegian electronic musician Bernt Isak Wærstad. The latest announcement also includes Dutch bubbling house pioneer and Nyege Nyege Tapes affiliate Shaun D; Mexican singer, songwriter and multi-instrumentalist La Bruja de Texcoco; and New York guitar pop band Diary; among others. SQUARE previously announced performances from Anna Vis, Helviofox, Carme López, CHISARA and... The post SQUARE Festival Adds Nadeem Din-Gabisi and More to 2027 Lineup appeared first on The Quietus .",
-          "categories": [
-            "News",
-            "Nadeem Din-Gabisi",
-            "SQUARE"
           ],
           "author": "Christian Eede"
         }
@@ -1146,12 +1144,25 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 894,
+      "ms": 217,
       "error": null,
-      "fetchedAt": "2026-11-27T20:43:22.979Z",
-      "lastOkAt": "2026-11-27T20:43:22.979Z",
+      "fetchedAt": "2026-11-28T06:30:00.846Z",
+      "lastOkAt": "2026-11-28T06:30:00.846Z",
       "itemCount": 29,
       "items": [
+        {
+          "title": "La Ola Nocturna: Experimental Songs & Deviant Pop From the Spanish ’80s",
+          "link": "https://pitchfork.com/reviews/albums/various-artists-la-ola-nocturna-experimental-songs-and-deviant-pop-from-the-spanish-80s/",
+          "imageUrl": "https://media.pitchfork.com/photos/6b04602d03ced2e43b60b771/master/pass/La%20Ola%20Nocturna.jpg",
+          "embedId": "",
+          "audioSrc": "",
+          "pubDate": "2026-11-28",
+          "description": "The third in a series dedicated to the Spanish pop vanguard of the 1980s captures a moment when Franco’s dictatorship gave way to an explosion of youthful creativity across post-punk, new wave, and more.",
+          "categories": [
+            "Reviews / Albums"
+          ],
+          "author": "Will Hermes"
+        },
         {
           "title": "Music for Two Films About Water",
           "link": "https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/",
@@ -1515,19 +1526,6 @@
             "Reviews / Albums"
           ],
           "author": "Linnie Greene"
-        },
-        {
-          "title": "Saints in the Wethouse",
-          "link": "https://pitchfork.com/reviews/albums/blackhaine-saints-in-the-wethouse/",
-          "imageUrl": "https://media.pitchfork.com/photos/6af72a073b980032c8f00453/master/pass/Blackhaine%20-%20Saints%20in%20the%20Wethous.jpg",
-          "embedId": "",
-          "audioSrc": "",
-          "pubDate": "2026-11-16",
-          "description": "The Lancashire rapper’s debut album is a noise-rap juggernaut of overwhelming bass and anguished bloodletting, the fullest expression yet of his theatrical sensibility.",
-          "categories": [
-            "Reviews / Albums"
-          ],
-          "author": "Hugh Morris"
         }
       ]
     },
@@ -1544,10 +1542,10 @@
       "status": "ok",
       "httpStatus": 200,
       "attempts": 1,
-      "ms": 905,
+      "ms": 368,
       "error": null,
-      "fetchedAt": "2026-11-27T20:43:22.979Z",
-      "lastOkAt": "2026-11-27T20:43:22.979Z",
+      "fetchedAt": "2026-11-28T06:30:00.846Z",
+      "lastOkAt": "2026-11-28T06:30:00.846Z",
       "itemCount": 40,
       "items": [
         {
@@ -2202,12 +2200,11 @@
       "description": "全球最具影响力个人乐评人，Weekly Track Roundup 与 Loved 评级",
       "homeUrl": "https://www.youtube.com/c/theneedledrop",
       "curatedOnly": false,
-      "ok": true,
-      "status": "ok",
-      "httpStatus": 200,
-      "attempts": 1,
-      "ms": 1277,
-      "error": null,
+      "ok": false,
+      "status": "http-503",
+      "httpStatus": 503,
+      "attempts": 4,
+      "error": "HTTP 503",
       "fetchedAt": "2026-11-27T20:43:22.979Z",
       "lastOkAt": "2026-11-27T20:43:22.979Z",
       "itemCount": 15,
@@ -2381,10 +2378,6 @@
     }
   ],
   "enrichment": {
-    "https://pitchfork.com/reviews/albums/blackhaine-saints-in-the-wethouse/": {
-      "artist": "Blackhaine",
-      "album": "Saints in the Wethouse"
-    },
     "https://pitchfork.com/reviews/albums/sam-gendel-advanced-white-trash/": {
       "artist": "Sam Gendel",
       "album": "Advanced White Trash"
@@ -2496,6 +2489,10 @@
     "https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/": {
       "artist": "Liz Harris",
       "album": "Music for Two Films About Water"
+    },
+    "https://pitchfork.com/reviews/albums/various-artists-la-ola-nocturna-experimental-songs-and-deviant-pop-from-the-spanish-80s/": {
+      "artist": "Various Artists",
+      "album": "La Ola Nocturna: Experimental Songs & Deviant Pop From the Spanish ’80s"
     }
   }
 }
